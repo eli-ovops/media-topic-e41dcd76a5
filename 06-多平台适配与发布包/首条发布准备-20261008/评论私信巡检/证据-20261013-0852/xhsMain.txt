@@ -1,0 +1,27 @@
+- heading "没人脉、没资源，普通人怎么抓住AI机会？" [level=1]
+- text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+- link "#ai":
+- link "#人工智能":
+- link "#孙宇晨":
+- link "#邵艾伦":
+- link "#孙学":
+- link "#薄肌":
+- generic: 猜你想搜
+- generic: 邵艾伦孙哥访谈完整版
+- generic: 3天前 浙江
+- generic: 共 1 条评论
+- link:
+- link "Eli AI FDE":
+- generic: 作者
+- generic: 完整访谈视频 可私我
+- generic: 3天前浙江
+- generic: 赞
+- generic: 回复
+- generic: "- THE END -"
+- paragraph
+- generic: 说点什么...
+- generic: "4"
+- generic: "1"
+- generic: "1"
+- button "发送" [disabled]
+- button "取消"

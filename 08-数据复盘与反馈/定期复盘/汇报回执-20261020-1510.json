@@ -1,0 +1,11 @@
+{
+  "date":"2026-10-20",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "artifact":"/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261020-1510.md",
+  "artifact_sha256":"6603a523ea181525268f06f847922f36bfa67f54f8d3318b9221e59b5e688d57",
+  "report_send_status":"TOOL_ACCEPTED",
+  "raw_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "pmo_received":"UNKNOWN","pmo_acceptance":"UNKNOWN",
+  "verification":"sum_delta_verified=true；1367/+48，全部已读部分12636/+53",
+  "temporary_files":[],"cleanup":"无清理项"
+}

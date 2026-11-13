@@ -1,0 +1,3 @@
+- banner
+- main:
+  - progressbar "加载中":

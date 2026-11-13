@@ -1,0 +1,28 @@
+{
+  "content_id": "ai-contrarian-20261019",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-20T17:45:18.808793+08:00",
+  "decision": "ACCEPT_LIMITED_OWNER_NATIVE_FIELD_RECORD",
+  "owner_report_received": true,
+  "report": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261020-1744.md",
+    "sha256": "5ad968efe30c0fd261e8e83774cf3bf04ab0089059c224871061d85e464272ee"
+  },
+  "data": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261020-1744.json",
+    "sha256": "5571f76618889a0da9c3396768703e3e20929c26802fe1de83c7e23f3e7a99bf"
+  },
+  "review": "PMO读取报告及逐平台原生字段记录、作品链接、读取范围和私信去重；未重开各站或冒充直接浏览器核验。核7站最新作品播放相加1412，X查看及微博阅读/LI曝光未混入播放；其余作品仅3站，不称全覆盖。",
+  "latest_video_views_partial_sum": 1412,
+  "latest_video_views_coverage": 7,
+  "display": "只展示逐平台累计播放/赞/藏/评，无增长列",
+  "dm": "可访问近期列表无新增待办；TikTok求资料沿用户已回复去重，小红书/视频号等缺口保留",
+  "limits": [
+    "非全平台/全私信覆盖",
+    "本人与观众评论未完全拆分",
+    "平台间计量差异、本人访问可能计数",
+    "不据一条完播率推断动效因果"
+  ],
+  "new_production_or_publication_authorized": false,
+  "no_automation_mutation": true
+}

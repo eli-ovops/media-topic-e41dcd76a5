@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "scope": "用户明确询问首条发布BGM及音量，本轮只读响度测量",
+  "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+  "source_sha256_from_stage04_delivery": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779",
+  "method": "existing FFmpeg 6.0; full audio decode, loudnorm=I=-16:TP=-1.5:LRA=7:print_format=json, null sink; no saved audio/video or overwrite",
+  "tool_receipt": "exec_command chunk_id 1a1a41, exit_code 0",
+  "raw_loudnorm": {
+    "input_i": "-20.96",
+    "input_tp": "-5.04",
+    "input_lra": "4.30",
+    "input_thresh": "-31.37",
+    "output_i": "-16.20",
+    "output_tp": "-1.50",
+    "output_lra": "4.10",
+    "output_thresh": "-26.57",
+    "normalization_type": "dynamic",
+    "target_offset": "0.20"
+  },
+  "interpretation": "当前v7输入整段响度-20.96 LUFS、true peak -5.04 dBTP、LRA 4.30 LU。output字段是过滤器对null sink处理的分析结果，不是现有成片已调整的参数。建议制作时最终混音目标约-16 LUFS、TP不高于-1.5 dBTP，人声始终优先；达到目标可能需轻限峰，不能直接加5dB后声称无峰值变化。",
+  "bgm_in_current_project": "当前index的音轨为narration、三次tap及reveal-sfx，未有BGM轨；机器声学测量不代表直接听过音轨或确认音乐风格",
+  "proposed_music_level": "音乐说话段比人声低约18—24dB作为起点，按实际音轨响度与手机听审调整；5—8%编辑器值只作起点，非跨软件统一标准",
+  "media_changed": false,
+  "final_mix_verified": false
+}

@@ -1,0 +1,948 @@
+{
+  "scope": "/Volumes/EXTERNAL/自媒体/流程协作",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04制作交付PMO验收-v7.json",
+      "bytes": 1376,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/workflow_gate.py",
+      "bytes": 8408,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/首条v7既有输入接入审查.json",
+      "bytes": 2956,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05内部修复PMO验收-v7.json",
+      "bytes": 1484,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/接收验收.json",
+      "bytes": 4703,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+      "bytes": 8104,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json",
+      "bytes": 14649,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json",
+      "bytes": 14764,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/验证门禁.py",
+      "bytes": 4964,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/接收回执.json",
+      "bytes": 6288,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/岗位任务单.md",
+      "bytes": 3678,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/接收回执.md",
+      "bytes": 3059,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/首条修订任务-v7.md",
+      "bytes": 3533,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/首条v7交付.json",
+      "bytes": 50608,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/首条v7交付.md",
+      "bytes": 2901,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/接收回执.json",
+      "bytes": 7101,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/岗位任务单.md",
+      "bytes": 3732,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/接收回执.md",
+      "bytes": 3132,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/接收回执.json",
+      "bytes": 5701,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/岗位任务单.md",
+      "bytes": 3694,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/接收回执.md",
+      "bytes": 2747,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/接收回执.json",
+      "bytes": 8448,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/岗位任务单.md",
+      "bytes": 3627,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/接收回执.md",
+      "bytes": 3267,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/02-脚本与分镜/接收回执.json",
+      "bytes": 8661,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/02-脚本与分镜/岗位任务单.md",
+      "bytes": 3502,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/02-脚本与分镜/接收回执.md",
+      "bytes": 5213,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/__pycache__/workflow_gate.cpython-312.pyc",
+      "bytes": 14492,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/结果.json",
+      "bytes": 2388,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/state.fixture.json",
+      "bytes": 5752,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/review.fixture.json",
+      "bytes": 45,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/registry.fixture.json",
+      "bytes": 380,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+      "bytes": 27,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/07-发布执行与回执/接收回执.json",
+      "bytes": 5985,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/07-发布执行与回执/岗位任务单.md",
+      "bytes": 4254,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/07-发布执行与回执/接收回执.md",
+      "bytes": 3121,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/接收回执.json",
+      "bytes": 4347,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/岗位任务单.md",
+      "bytes": 3595,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/接收回执.md",
+      "bytes": 2432,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/接收回执.json",
+      "bytes": 6775,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/岗位任务单.md",
+      "bytes": 3783,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/首条v7独立质检.md",
+      "bytes": 6659,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/接收回执.md",
+      "bytes": 3759,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/首条v7独立质检.json",
+      "bytes": 5970,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/首条v7问题单.md",
+      "bytes": 1375,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/01-0-asset-records.json",
+      "bytes": 43159,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/index-v6.html.txt",
+      "bytes": 24759,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/02-0-高性价比人生指南-参照声画表.md",
+      "bytes": 8042,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/02-1-captions-bilingual-v3.json",
+      "bytes": 5648,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/03-1-README.md",
+      "bytes": 3793,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/01-1-BRIEF.md",
+      "bytes": 4510,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/03-0-高性价比人生指南-素材编排.md",
+      "bytes": 3122,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/independent-metrics.json",
+      "bytes": 1606,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n954-t31.800.jpg",
+      "bytes": 177634,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n953-t31.767.jpg",
+      "bytes": 203731,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-all13-contact.jpg",
+      "bytes": 419034,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n957-t31.900.jpg",
+      "bytes": 183081,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/supplement-manifest.json",
+      "bytes": 4117,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n955-t31.833.jpg",
+      "bytes": 172761,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n962-t32.067.jpg",
+      "bytes": 199700,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n958-t31.933.jpg",
+      "bytes": 192424,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n961-t32.033.jpg",
+      "bytes": 199727,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n959-t31.967.jpg",
+      "bytes": 203542,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n956-t31.867.jpg",
+      "bytes": 170961,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n960-t32.000.jpg",
+      "bytes": 204311,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n965-t32.167.jpg",
+      "bytes": 205298,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n963-t32.100.jpg",
+      "bytes": 199768,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-n964-t32.133.jpg",
+      "bytes": 202108,
+      "source": "本轮会话流程/接收/顺序门禁/首条质检",
+      "purpose": "流程执行、原始证据或恢复交接",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单.json",
+      "bytes": 17912,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/任务单.md",
+      "bytes": 5752,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO音量测量.json",
+      "bytes": 1658,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/文件记录.json",
+      "bytes": 2630,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案.md",
+      "bytes": 10803,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布方案.md",
+      "bytes": 7491,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO草稿验收.json",
+      "bytes": 2099,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/来源核对.md",
+      "bytes": 4772,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案-v2.md",
+      "bytes": 14545,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单-v2.json",
+      "bytes": 27608,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/音乐与标题修订-v2.md",
+      "bytes": 8295,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/来源核对-v2.md",
+      "bytes": 5556,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/文件记录-v2.json",
+      "bytes": 3335,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO草稿验收-v2.json",
+      "bytes": 2333,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/任务修订-v2.md",
+      "bytes": 3983,
+      "source": "2026-10-08 first-video draft and v2 correction",
+      "purpose": "user confirmation, retained source/measurement or PMO review",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器待发编辑任务-v3.md",
+      "bytes": 5559,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器待发编辑-v3.json",
+      "bytes": 21228,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器待发编辑-v3.md",
+      "bytes": 5591,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO浏览器草稿验收-v3.json",
+      "bytes": 2931,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-双比例封面标题完整.jpg",
+      "bytes": 145487,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/YouTube-私享草稿.jpg",
+      "bytes": 106726,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/微博-封面裁剪待完善.jpg",
+      "bytes": 66149,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-非公开草稿已保存.jpg",
+      "bytes": 58573,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/Facebook-当前页面.jpg",
+      "bytes": 84889,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/X-当前页面.jpg",
+      "bytes": 159832,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/国内抖音-当前页面.jpg",
+      "bytes": 19835,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/LinkedIn-当前页面.jpg",
+      "bytes": 93412,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-封面上传受阻.jpg",
+      "bytes": 102535,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/微博-分类声明封面已填待发布.jpg",
+      "bytes": 84906,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/TikTok-当前页面.jpg",
+      "bytes": 22777,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/Instagram-当前页面.jpg",
+      "bytes": 9860,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-已保存草稿重新打开.jpg",
+      "bytes": 110845,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/小红书-文案已填媒体处理中.jpg",
+      "bytes": 113949,
+      "source": "本条v3真实平台草稿准备及PMO原件/截图审查",
+      "purpose": "保留实际待发编辑证据和恢复入口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案修订任务-v4.md",
+      "bytes": 3182,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案-v4.md",
+      "bytes": 7280,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单-v4.json",
+      "bytes": 26399,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.md",
+      "bytes": 14223,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.json",
+      "bytes": 48531,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO无链接文案验收-v4.json",
+      "bytes": 6691,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/Facebook-最新首页无媒体编辑器.jpg",
+      "bytes": 81839,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/LinkedIn-恢复编辑器无链接稿.jpg",
+      "bytes": 142673,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/国内抖音-最新阻断页.jpg",
+      "bytes": 19845,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/TikTok-最新阻断页.jpg",
+      "bytes": 20921,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/小红书-无链接文案实际编辑页.jpg",
+      "bytes": 112249,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/B站-无链接草稿保存后回读.jpg",
+      "bytes": 106298,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/YouTube-无链接私享草稿已保存.jpg",
+      "bytes": 123889,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/微博-无链接文案实际编辑页.jpg",
+      "bytes": 83082,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/LinkedIn-最新阻断页.jpg",
+      "bytes": 94842,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v4/X-无链接文案媒体错误保留.jpg",
+      "bytes": 156106,
+      "source": "2026-10-08用户全平台文案无链接修订及待发送状态核验",
+      "purpose": "当前文案/实际编辑证据/PMO验收与恢复",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/PMO首条发布复盘接收-20261008.md",
+      "bytes": 2550,
+      "source": "PMO核06原件与用户消息",
+      "purpose": "发布事实接收、经验固化、证据缺口",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/AI内容30账号研究任务-20261008.md",
+      "bytes": 6013,
+      "source": "当前用户明确研究派单",
+      "purpose": "30账号研究与减错完播改进任务",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01研究PMO验收-20261009.md",
+      "bytes": 3433,
+      "source": "PMO原件及计数抽核",
+      "purpose": "30账号阶段验收及补正",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/发布时间补齐任务-20261009.md",
+      "bytes": 2713,
+      "source": "用户日期补齐要求",
+      "purpose": "冻结范围及限定补正",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/发布时间补齐范围-20261009.json",
+      "bytes": 6496,
+      "source": "用户日期补齐要求",
+      "purpose": "冻结范围及限定补正",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/指定5账号近两月研究任务-20261009.md",
+      "bytes": 4523,
+      "source": "用户提供5短链的研究要求",
+      "purpose": "固定两月范围及顺序执行",
+      "retain": true
+    }
+  ],
+  "temporary_helpers": [
+    {
+      "path": "/tmp/create_content_workflow.py",
+      "bytes": 13619,
+      "sha256": "03ff3c2764b701862abb2633a3d021e2cb77437e46e02225033e9a815654cb39",
+      "purpose": "本轮一次性初始化与默认Python解析异常诊断原件；只读保留，不得复跑覆盖当前登记/状态",
+      "retain": true
+    }
+  ],
+  "protected_changes": [
+    "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+    "/Volumes/EXTERNAL/自媒体/README.md",
+    "/Volumes/EXTERNAL/自媒体/内容生产流程.md",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/production-files.json"
+  ],
+  "new_generated_media": "05必要13帧/框区域联系图2.8MiB；04两轮制作另记其交付文件记录",
+  "cleanup": "回执、首轮对照、坐标、失败日志、测试fixture均仍用于审查/恢复，全部保留，未删除用户文件/旧版/其他项目。",
+  "production_role_success": "8唯一Owner身份与实质接收已通过；当前05内部修复通过待用户终审；未发布、未安装后台调度。",
+  "core_document_update": {
+    "date": "2026-10-08",
+    "purpose": "canonical fact sources, restart handoff, current vs historical versions, human-confirmed account login",
+    "modified_files": [
+      "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+      "/Volumes/EXTERNAL/自媒体/README.md",
+      "/Volumes/EXTERNAL/自媒体/内容生产流程.md",
+      "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+      "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json"
+    ],
+    "new_files": [],
+    "business_state_changed": false,
+    "threads_woken": false,
+    "cleanup": "none"
+  },
+  "latest_publishing_preparation": {
+    "date": "2026-10-08",
+    "formal_stage": "05",
+    "draft_platforms": 11,
+    "bgm_added": false,
+    "final_sender": "human user",
+    "media_modified": false,
+    "published": false,
+    "new_files": 8,
+    "cleanup": "none; drafts/evidence retained",
+    "revision": 2,
+    "music_selection": "pending platform-native current tracks",
+    "new_douyin_id": "25296649142",
+    "new_files_total": 15,
+    "browser_editor_task": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器待发编辑任务-v3.md",
+    "browser_revision": 3,
+    "browser_status": "COPY_REVISED_PLATFORM_READINESS_PARTIAL",
+    "browser_receipt": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.json",
+    "browser_pmo_review": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO无链接文案验收-v4.json",
+    "music_selected": 0,
+    "ready_to_send_platforms": 0,
+    "public_copy_revision": 4,
+    "public_copy_links_allowed": false,
+    "current_manifest": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单-v4.json",
+    "results": {
+      "local_no_link_copy": 11,
+      "page_modified": 6,
+      "page_verified": 6,
+      "saved_and_readback": 2,
+      "ready_to_send": 0,
+      "operable_pending": 3,
+      "blocked": 8,
+      "publications": 0
+    }
+  },
+  "latest_post_publication_review": {
+    "date": "2026-10-08",
+    "status": "USER_CONFIRMED_PUBLISHED_ALL_11",
+    "human_source_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+    "human_source_turn_id": "01a11bf4-044b-76b3-83e6-f3689c077faf",
+    "user_confirmed_platforms": 11,
+    "owner_located_platforms": 10,
+    "video_account_evidence": "USER_CONFIRMATION_ONLY_SITE_SAFETY_BLOCK",
+    "owner_snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/首条发布复盘-20261008/结果快照.json",
+    "pmo_review": "/Volumes/EXTERNAL/自媒体/流程协作/PMO首条发布复盘接收-20261008.md",
+    "youtube_audience_issue": "OWNER_REPORTED_PENDING_PRIMARY_EVIDENCE",
+    "ai_publish_allowed": false,
+    "formal_gate_note": "Retain historical stage records; no retroactive PASS or automatic stage08 dispatch."
+  }
+}

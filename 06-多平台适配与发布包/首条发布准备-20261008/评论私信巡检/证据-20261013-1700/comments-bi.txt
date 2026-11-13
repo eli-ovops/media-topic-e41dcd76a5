@@ -1,0 +1,50 @@
+- banner:
+  - link "首页":
+
+    - generic: 首页
+  - link "番剧":
+
+    - generic: 番剧
+  - link "直播":
+
+    - generic: 直播
+  - link "游戏中心":
+
+    - generic: 游戏中心
+  - link "会员购":
+
+    - generic: 会员购
+  - link "漫画":
+
+    - generic: 漫画
+  - link "赛事":
+
+    - generic: 赛事
+  - link "下载客户端":
+
+    - generic: 下载客户端
+  - textbox "预测市场polymarket老沙·昨天更新"
+  - link:
+
+  - link "大会员":
+
+    - generic: 大会员
+  - link "消息":
+
+    - generic: 消息
+  - link "14 动态":
+
+    - generic: "14"
+    - generic: 动态
+  - link "收藏":
+
+    - generic: 收藏
+  - link "历史":
+
+    - generic: 历史
+  - link "创作中心":
+
+    - generic: 创作中心
+  - link "投稿":
+
+    - generic: 投稿

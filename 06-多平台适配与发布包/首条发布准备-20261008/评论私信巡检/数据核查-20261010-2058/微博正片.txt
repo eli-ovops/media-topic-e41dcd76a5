@@ -1,0 +1,278 @@
+- navigation:
+  - link "Weibo":
+    - /url: /
+  - link "首页":
+    - /url: /
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+    - /url: /hot
+    - generic "推荐":
+  - link "视频":
+    - /url: /tv
+    - generic "视频":
+  - link "消息":
+    - /url: /at/weibo
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+    - /url: /u/7720929036
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+    - /url: //game.weibo.com/?topnav=1&mod=logo&wvr=6
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "首页" [level=2]
+- link " 全部关注":
+  - /url: /
+  - link " 全部关注":
+    - generic: 
+    - generic: 全部关注
+- link " 最新微博":
+  - /url: /mygroups?gid=110007720929036
+  - link " 最新微博":
+    - generic: 
+    - generic: 最新微博
+- link " 特别关注":
+  - /url: /mygroups?gid=4700118928064650
+  - link " 特别关注":
+    - generic: 
+    - generic: 特别关注
+- link " 好友圈":
+  - /url: /mygroups?gid=100097720929036
+  - link " 好友圈":
+    - generic: 
+    - generic: 好友圈
+- heading "自定义分组" [level=3]
+- button "管理":
+  - generic: 管理
+- link " 名人明星":
+  - /url: /mygroups?gid=4700118928064652
+  - link " 名人明星":
+    - generic: 
+    - generic: 名人明星
+- link " 同事":
+  - /url: /mygroups?gid=4700118928064653
+  - link " 同事":
+    - generic: 
+    - generic: 同事
+- link " 同学":
+  - /url: /mygroups?gid=4700118928064654
+  - link " 同学":
+    - generic: 
+    - generic: 同学
+- link " 悄悄关注":
+  - /url: /mygroups?gid=100057720929036
+  - link " 悄悄关注":
+    - generic: 
+    - generic: 悄悄关注
+- main:
+  - generic: 
+  - generic: 返回
+  - heading [level=2]
+  - generic: Eli-AI
+  - article:
+    - generic: 公开
+    - generic "更多": 
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "26-10-9 19:13":
+      - /url: https://weibo.com/7720929036/RlTDsgzMz
+    - generic "发布于 浙江"
+    - generic "来自 微博视频号"
+    - generic: "17"
+    - generic: 阅读
+    - generic: 推广
+    - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+    - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#孙宇晨#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%AD%99%E5%AE%87%E6%99%A8%23
+    - link "#邵艾伦#":
+      - /url: //s.weibo.com/weibo?q=%23%E9%82%B5%E8%89%BE%E4%BC%A6%23
+    - link "#孙学#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%A6%23
+    - link "#薄肌理论#":
+      - /url: //s.weibo.com/weibo?q=%23%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA%23
+    - link "http://t.cn/AXlLsXV9Eli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5352164852432942
+      - img "http://t.cn/AXlLsXV9"
+      - text: Eli-AI的微博视频
+    - region "视频播放器":
+      - button "播放视频":
+        - text: 
+        - generic: 播放视频
+      - text:      
+      - generic: 内容为转载
+    - generic: 04:32
+    - generic "0,1,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: "1"
+      - button "赞":
+        - text: 赞
+      - generic: 
+      - generic: 分享这条博文
+  - textbox "发布你的评论"
+  - generic: 
+  - generic "表情": 
+  - generic "图片": 
+  - checkbox "同时转发"
+  - generic: 同时转发
+  - button "评论" [disabled]:
+    - generic: 评论
+  - generic: 按热度
+  - generic: 按时间
+  - link:
+    - /url: /u/7720929036
+  - link "Eli-AI":
+    - /url: /u/7720929036
+  - link:
+    - /url: https://weibo.com/u/7720929036
+  - text: :完整访谈视频 可私我
+  - generic: 26-10-9 19:51 来自 浙江
+  - generic "删除": 
+  - generic "转发": 
+  - generic "评论": 
+  - button "赞":
+  - generic: 已加载全部评论
+  - link:
+    - /url: /u/7720929036
+  - generic: Eli-AI
+  - link "28 关注":
+    - /url: /u/page/follow/7720929036
+    - generic: "28"
+    - generic: 关注
+  - link "1 粉丝":
+    - /url: /u/page/follow/7720929036?relate=fans
+    - generic: "1"
+    - generic: 粉丝
+  - link "3 微博":
+    - /url: /u/7720929036?tabtype=feed
+    - generic: "3"
+    - generic: 微博
+  - generic "简介": 
+  - generic: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 · 🛰️：EliAIFDE 备注来意，共同交流
+  - generic "基本信息": 
+  - generic: 男1993-01-01浙江
+  - link "查看个人主页 ":
+    - /url: /u/7720929036
+    - generic: 查看个人主页
+    - generic: 
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 李连杰谈小女儿患抑郁症 403408":
+    - /url: //s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%B0%8F%E5%A5%B3%E5%84%BF%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&topic_ad=&t=547
+    - generic: "1"
+    - generic "李连杰谈小女儿患抑郁症"
+    - generic: "403408"
+  - link "2 高露儿子9岁近照 59490":
+    - /url: //s.weibo.com/weibo?q=%23%E9%AB%98%E9%9C%B2%E5%84%BF%E5%AD%909%E5%B2%81%E8%BF%91%E7%85%A7%23&topic_ad=&t=547
+    - generic: "2"
+    - generic "高露儿子9岁近照"
+    - generic: "59490"
+  - link "3 肖战现身天舞工作室 57336":
+    - /url: //s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%B0%E8%BA%AB%E5%A4%A9%E8%88%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&topic_ad=&t=547
+    - generic: "3"
+    - generic "肖战现身天舞工作室"
+    - generic: "57336"
+  - link "迪丽热巴阿道夫品牌全球代言人":
+    - /url: //s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%98%BF%E9%81%93%E5%A4%AB%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA%23&topic_ad=&t=547
+    - generic "迪丽热巴阿道夫品牌全球代言人"
+  - link "4 懂车帝 尊界V800 81903":
+    - /url: //s.weibo.com/weibo?q=%E6%87%82%E8%BD%A6%E5%B8%9D%20%E5%B0%8A%E7%95%8CV800&topic_ad=&t=547
+    - generic: "4"
+    - generic "懂车帝 尊界V800"
+    - generic: "81903"
+  - link "5 31岁男子练背一年换了张脸 128689":
+    - /url: //s.weibo.com/weibo?q=%2331%E5%B2%81%E7%94%B7%E5%AD%90%E7%BB%83%E8%83%8C%E4%B8%80%E5%B9%B4%E6%8D%A2%E4%BA%86%E5%BC%A0%E8%84%B8%23&topic_ad=&t=547
+    - generic: "5"
+    - generic "31岁男子练背一年换了张脸"
+    - generic: "128689"
+  - link "6 熊艺文今晚语音直播 51818":
+    - /url: //s.weibo.com/weibo?q=%E7%86%8A%E8%89%BA%E6%96%87%E4%BB%8A%E6%99%9A%E8%AF%AD%E9%9F%B3%E7%9B%B4%E6%92%AD&topic_ad=&t=547
+    - generic: "6"
+    - generic "熊艺文今晚语音直播"
+    - generic: "51818"
+  - link "刘学义用微博智搜解读林锦岐":
+    - /url: //s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E7%94%A8%E5%BE%AE%E5%8D%9A%E6%99%BA%E6%90%9C%E8%A7%A3%E8%AF%BB%E6%9E%97%E9%94%A6%E5%B2%90%23&topic_ad=&t=547
+    - generic "刘学义用微博智搜解读林锦岐"
+  - link "7 沐言被爸爸设计的发型丑哭了 69663":
+    - /url: //s.weibo.com/weibo?q=%23%E6%B2%90%E8%A8%80%E8%A2%AB%E7%88%B8%E7%88%B8%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%8F%91%E5%9E%8B%E4%B8%91%E5%93%AD%E4%BA%86%23&topic_ad=&t=547
+    - generic: "7"
+    - generic "沐言被爸爸设计的发型丑哭了"
+    - generic: "69663"
+  - link "8 年轻人对奔驰宝马祛魅了 211169":
+    - /url: //s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E7%A5%9B%E9%AD%85%E4%BA%86&topic_ad=&t=547
+    - generic: "8"
+    - generic "年轻人对奔驰宝马祛魅了"
+    - generic: "211169"
+  - link "9 黄磊二女儿和黄磊一模一样 17:57登顶":
+    - /url: //s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%92%8C%E9%BB%84%E7%A3%8A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&topic_ad=&t=547
+    - generic: "9"
+    - generic "黄磊二女儿和黄磊一模一样"
+    - generic: 17:57登顶
+  - link "10 内娱的神之八秒 最近霸榜":
+    - /url: //s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%9A%84%E7%A5%9E%E4%B9%8B%E5%85%AB%E7%A7%92&topic_ad=&t=547
+    - generic: "10"
+    - generic "内娱的神之八秒"
+    - generic: 最近霸榜
+  - link "查看完整热搜榜单 ":
+    - /url: /hot/mine
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+    - /url: https://kefu.weibo.com/?cs_source=2
+  - link "自助服务中心":
+    - /url: https://kefu.weibo.com/selfservice?bottomnav=1&wvr=6
+  - link "常见问题":
+    - /url: https://kefu.weibo.com/allfaq?bottomnav=1&wvr=6
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+    - /url: https://marketing.hd.weibo.com/?fr=C003001_P001
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+    - /url: https://open.weibo.com/?bottomnav=1&wvr=6
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+    - /url: https://service.account.weibo.com/?bottomnav=1&wvr=6
+  - link "舞弊举报":
+    - /url: https://weibo.com/aj/static/report.html?_wv=6
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+    - /url: http://ir.weibo.com/
+  - generic: 客户端下载
+  - link "微博招聘":
+    - /url: https://career.sina.com.cn/?bottomnav=1&wvr=6
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+    - /url: https://privacy.weibo.com
+  - link "微博数据AI大模型开放合作声明":
+    - /url: https://weibo.com/pagemesh/static/weibo-data-ai-cooperation-statement.html
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+    - /url: https://weibo.com/aj/static/business_license.html
+- text: 
+- generic: 
+- text:   

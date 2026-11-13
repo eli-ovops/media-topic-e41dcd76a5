@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-08",
+  "current_public_copy_version": "v5",
+  "publications_by_agent": 0,
+  "bilibili_publication": {
+    "status": "USER_REPORTED_PUBLISHED",
+    "verification": "用户本会话告知已手动发送，未访问或修改公开作品"
+  },
+  "platforms": [
+    {
+      "platform": "小红书",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": true,
+      "page_verified": true,
+      "draft_saved": false,
+      "actual_final_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n\n租房、换工作、学技能，不知道先查什么？\n\n这份《高性价比人生指南》，可以按自己的问题翻对应章节。\n\n我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。\n\n先存目录，需要时再翻。想要整理好的文档，评论「指南」。\n\n\n\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具",
+      "public_url_scan": [],
+      "removed_terms_scan": [],
+      "page_url": "https://creator.xiaohongshu.com/publish/publish?from=homepage&target=video&openFilePicker=true",
+      "tags": [
+        "GitHub",
+        "高性价比人生指南",
+        "免费资源",
+        "资料分享",
+        "自我提升",
+        "AI工具"
+      ],
+      "other_blockers": "视频持续上传中0%；封面未就绪，发布入口不可用",
+      "screenshot_path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v5/小红书-简洁正文6标签.jpg"
+    },
+    {
+      "platform": "B站",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": false,
+      "page_verified": false,
+      "draft_saved": false,
+      "reason": "用户已手动发送，不改公开作品"
+    },
+    {
+      "platform": "国内抖音",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": false,
+      "page_verified": false,
+      "draft_saved": false,
+      "reason": "原受阻平台，本轮只备本地文案，不重试旧阻断"
+    },
+    {
+      "platform": "微信视频号",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": false,
+      "page_verified": false,
+      "draft_saved": false,
+      "reason": "原受阻平台，本轮只备本地文案，不重试旧阻断"
+    },
+    {
+      "platform": "YouTube",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": true,
+      "page_verified": true,
+      "draft_saved": true,
+      "actual_final_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n租房、换工作、学技能，先找对应章节，再看成本、收益和来源。\n这条59秒视频带你认识《高性价比人生指南》。想要整理好的文档，可以评论「指南」。\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\n",
+      "public_url_scan": [],
+      "removed_terms_scan": [],
+      "page_url": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw",
+      "tags": [
+        "GitHub",
+        "高性价比人生指南",
+        "免费资源",
+        "资料分享",
+        "自我提升",
+        "AI工具"
+      ],
+      "other_blockers": "发送准备仍受观众必填和自定义封面电话验证阻断，未改这两项",
+      "screenshot_path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v5/YouTube-简洁正文6标签.jpg"
+    },
+    {
+      "platform": "LinkedIn",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": true,
+      "page_verified": true,
+      "draft_saved": false,
+      "actual_final_body": "关注AI工具，也别错过GitHub这份《高性价比人生指南》\n\n\n\n\n关注AI实用工具，也别错过这样的GitHub免费资料。\n\nGitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n\n换工作、租房、学技能，先查什么资料？\n\n《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。\n\n对我来说，这类资料的价值，是让查阅有入口。\n\n想要整理好的文档，评论「指南」。\n\n\n\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具",
+      "public_url_scan": [],
+      "removed_terms_scan": [],
+      "page_url": "https://www.linkedin.com/sharing/compose",
+      "tags": [
+        "GitHub",
+        "高性价比人生指南",
+        "免费资源",
+        "资料分享",
+        "自我提升",
+        "AI工具"
+      ],
+      "other_blockers": "视频尚未上传；旧媒体编辑器Loading阻断未重试，不得发送纯文字替代视频",
+      "screenshot_path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v5/LinkedIn-简洁正文6标签.jpg"
+    },
+    {
+      "platform": "X",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": true,
+      "page_verified": true,
+      "draft_saved": false,
+      "actual_final_body": "GitHub这份《高性价比人生指南》，值得先存\n\n租房、工作、学技能，按问题翻《高性价比人生指南》。\n评论「指南」领取整理文档。\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具",
+      "public_url_scan": [],
+      "removed_terms_scan": [],
+      "page_url": "https://x.com/compose/post",
+      "tags": [
+        "GitHub",
+        "高性价比人生指南",
+        "免费资源",
+        "资料分享",
+        "自我提升",
+        "AI工具"
+      ],
+      "other_blockers": "媒体出错；保存草稿出现正在上传且草稿附件可能丢失警告，Escape取消，未完成保存",
+      "screenshot_path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v5/X-简洁正文6标签.jpg"
+    },
+    {
+      "platform": "微博",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": true,
+      "page_verified": true,
+      "draft_saved": false,
+      "actual_final_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。\n这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。\n想要整理好的文档，评论「指南」。\n\n#GitHub# #高性价比人生指南# #免费资源# #资料分享# #自我提升# #AI工具#",
+      "public_url_scan": [],
+      "removed_terms_scan": [],
+      "page_url": "https://weibo.com/upload/channel",
+      "tags": [
+        "GitHub",
+        "高性价比人生指南",
+        "免费资源",
+        "资料分享",
+        "自我提升",
+        "AI工具"
+      ],
+      "other_blockers": "热门BGM未设置；仅编辑页保留，未确认草稿保存",
+      "screenshot_path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v5/微博-简洁正文6标签.jpg"
+    },
+    {
+      "platform": "TikTok",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": false,
+      "page_verified": false,
+      "draft_saved": false,
+      "reason": "原受阻平台，本轮只备本地文案，不重试旧阻断"
+    },
+    {
+      "platform": "Instagram",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": false,
+      "page_verified": false,
+      "draft_saved": false,
+      "reason": "原受阻平台，本轮只备本地文案，不重试旧阻断"
+    },
+    {
+      "platform": "Facebook",
+      "local_copy_complete": true,
+      "local_public_scan": [],
+      "page_modified": false,
+      "page_verified": false,
+      "draft_saved": false,
+      "reason": "原受阻平台，本轮只备本地文案，不重试旧阻断"
+    }
+  ],
+  "totals": {
+    "local": 11,
+    "pages_modified": 5,
+    "pages_verified": 5,
+    "saved_private": 1,
+    "published_by_agent": 0
+  }
+}

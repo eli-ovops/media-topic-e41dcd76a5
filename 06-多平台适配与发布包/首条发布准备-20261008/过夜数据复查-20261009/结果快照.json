@@ -1,0 +1,165 @@
+{
+  "snapshot_at": "2026-10-09 08:57:09",
+  "platforms": [
+    {
+      "platform": "国内抖音",
+      "checked_at": "2026-10-09 08:59:25",
+      "source_url": "https://creator.douyin.com/creator-micro/content/manage?enter_from=publish",
+      "views": 627,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 2,
+      "new_followers": 0,
+      "completion_rate": "0.66%",
+      "two_second_exit_rate": "48.97%",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/国内抖音.jpg"
+    },
+    {
+      "platform": "小红书",
+      "checked_at": "2026-10-09 08:59:25",
+      "source_url": "https://creator.xiaohongshu.com/new/note-manager",
+      "views": 55,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/小红书.jpg"
+    },
+    {
+      "platform": "TikTok",
+      "checked_at": "2026-10-09 08:59:25",
+      "source_url": "https://www.tiktok.com/tiktokstudio",
+      "views": 91,
+      "likes": 0,
+      "comments": 0,
+      "scope": "最近发布内容单条卡，不使用过去7天账号24观看总览",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/TikTok.jpg"
+    },
+    {
+      "platform": "YouTube",
+      "checked_at": "2026-10-09 08:59:25",
+      "source_url": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos/short?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D",
+      "views": 0,
+      "comments": 0,
+      "comments_disabled": true,
+      "notifications_disabled": true,
+      "issue": "评论与通知仍停用；本轮未修改观众设置",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/YouTube.jpg"
+    },
+    {
+      "platform": "X",
+      "checked_at": "2026-10-09 08:59:25",
+      "source_url": "https://x.com/cczij1112/status/2108190823007539236",
+      "post_views": 15,
+      "likes": 0,
+      "comments": 0,
+      "reposts": 0,
+      "saves": 0,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/X.jpg"
+    },
+    {
+      "platform": "微博",
+      "checked_at": "2026-10-09 08:59:25",
+      "source_url": "https://weibo.com/7720929036/RlL0WwIyR",
+      "reads": 92,
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "reposts": 0,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/微博.jpg"
+    },
+    {
+      "platform": "B站",
+      "checked_at": "2026-10-09 08:59:56",
+      "source_url": "https://www.bilibili.com/video/BV1mgH96DEyt/?vd_source=8d2265a9a983c3fda794a605099169b7",
+      "views": 8,
+      "danmaku": 0,
+      "likes": null,
+      "comments": null,
+      "scope": "只记录BV1mgH96DEyt自身；忽略自动连播到其他UP主的数据",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/B站.jpg"
+    },
+    {
+      "platform": "Instagram",
+      "checked_at": "2026-10-09 08:59:56",
+      "source_url": "https://www.instagram.com/insights/media/4003437343335152413/",
+      "views": null,
+      "reached": null,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "note": "浏览量和观看人数仍显示--",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/Instagram.jpg"
+    },
+    {
+      "platform": "Facebook",
+      "checked_at": "2026-10-09 09:00:18",
+      "source_url": "https://www.facebook.com/profile.php?id=61594512757125",
+      "views": null,
+      "likes": null,
+      "comments": null,
+      "note": "公开作品仍可见，主页未展示单条播放/互动数值",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/Facebook.jpg"
+    },
+    {
+      "platform": "LinkedIn",
+      "checked_at": "2026-10-09 09:01:05",
+      "source_url": "https://www.linkedin.com/analytics/post-summary/urn:li:activity:7513959413427179522/",
+      "impressions": 14,
+      "reached": 10,
+      "likes": 0,
+      "comments": 0,
+      "reposts": 0,
+      "saves": 0,
+      "sends": 0,
+      "new_followers": 1,
+      "profile_visitors": 0,
+      "scope": "后台明确显示Followers gained from this post 1",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/LinkedIn.jpg"
+    },
+    {
+      "platform": "微信视频号",
+      "views": 214,
+      "likes": 0,
+      "comments": 0,
+      "note": "214为最近视频卡累计播放；34为账号昨日新增播放；两种时间口径分开记录。截图左心形0、评论0、转发1、右拇指0。",
+      "checked_at": "2026-10-09 09:01:05",
+      "shares": 1,
+      "recommendations": 0,
+      "source": "用户2026-10-09本会话提供截图，未通过网站工具读取",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/过夜数据复查-20261009/证据/微信视频号-用户提供.png",
+      "published_at": "2026-10-08 22:25",
+      "account_name": "Eli-FDE",
+      "account_video_count": 1,
+      "yesterday_new_views": 34,
+      "yesterday_new_likes": 0,
+      "yesterday_new_comments": 0,
+      "yesterday_net_followers": 0,
+      "capture_time": "UNKNOWN"
+    }
+  ],
+  "snapshot_end": "2026-10-09 09:01:05",
+  "baseline_file": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/首条发布复盘-20261008/结果快照.json",
+  "user_platform_change": {
+    "date": "2026-10-09",
+    "source": "用户本会话：Instagram Facebook 暂时取消吧。不做了",
+    "paused": [
+      "Instagram",
+      "Facebook"
+    ],
+    "remaining": [
+      "小红书",
+      "B站",
+      "国内抖音",
+      "微信视频号",
+      "YouTube",
+      "LinkedIn",
+      "X",
+      "微博",
+      "TikTok"
+    ],
+    "scope": "暂停后续运营；未删除账号、作品或历史证据；不修改PMO共享登记。"
+  }
+}

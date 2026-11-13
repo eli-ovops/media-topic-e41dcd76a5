@@ -1,0 +1,59 @@
+{
+  "status": "DRAFT_SUBMITTED_FOR_PMO_REVIEW",
+  "task_type": "USER_REQUESTED_DRAFT_PREPARATION",
+  "date": "2026-10-08 Asia/Shanghai",
+  "created_by_06": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布方案.md",
+      "bytes": 7491,
+      "sha256": "209e1be2409ac9713091eaa4c77d2fdb9e132647b2f03a99dc3d34f85cca89fc",
+      "purpose": "保留作用户及PMO草稿审查",
+      "source": "06获授权本地草稿准备",
+      "created_by_06": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案.md",
+      "bytes": 10803,
+      "sha256": "dd3222e80ffbc985616e46ec146a0764e55ce585b233d307f4739e85e1ae10d6",
+      "purpose": "保留作用户及PMO草稿审查",
+      "source": "06获授权本地草稿准备",
+      "created_by_06": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单.json",
+      "bytes": 17912,
+      "sha256": "4a67bb9b467928ab2ef7b9a1b4d16d8d8d9ded5698accf2dba7ab1aa0044c277",
+      "purpose": "保留作用户及PMO草稿审查",
+      "source": "06获授权本地草稿准备",
+      "created_by_06": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/来源核对.md",
+      "bytes": 4772,
+      "sha256": "d010efe359bb57d1aed3be62157677f5f91b2916dc73d51eaed6f4a0e88951ca",
+      "purpose": "保留作用户及PMO草稿审查",
+      "source": "06获授权本地草稿准备",
+      "created_by_06": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/文件记录.json",
+      "purpose": "保留交付清单；自身SHA不循环写入"
+    }
+  ],
+  "read_only_pmo_evidence": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO音量测量.json",
+  "temporary_files": [],
+  "cleanup": "无清理项",
+  "media_modified": false,
+  "shared_state_modified": false,
+  "published": false,
+  "validation": {
+    "platform_count": 11,
+    "unique_platform_count": 11,
+    "all_have_title_body_tags_form_cover_resource": true,
+    "x_title_body_tags_raw_characters": 236,
+    "measurement_uses_pmo_input": true,
+    "formal_06_not_released": true,
+    "final_sender": "用户本人"
+  },
+  "boundary": "草稿哈希仅标识本次交付，媒体SHA取原件，不代表最终发布冻结；正式流程停05，用户确认后本人发布。"
+}

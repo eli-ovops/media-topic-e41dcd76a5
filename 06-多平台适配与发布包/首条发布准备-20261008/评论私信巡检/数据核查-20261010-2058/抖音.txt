@@ -1,0 +1,140 @@
+- complementary:
+  - button "作品发布":
+    - generic: 作品发布
+  - menu:
+    - menuitem "首页":
+      - generic: 首页
+    - menuitem "内容管理":
+      - generic: 内容管理
+    - menuitem "数据中心":
+      - generic: 数据中心
+    - menuitem "收入变现":
+      - generic: 收入变现
+    - menuitem "创作服务":
+      - generic: 创作服务
+- navigation "智能创作":
+  - button "首页":
+    - text: 首页
+  - button "AI分身": AI分身
+  - button "随变": 随变
+  - button "世界书": 世界书
+  - button "AI工坊": AI工坊
+- generic: 内容管理
+- button "作品 (4)"
+- button "作品合集"
+- combobox:
+  - generic: 审核状态
+- combobox:
+  - generic: 体裁
+- combobox "Choose date":
+  - button "发布日期":
+    - generic: 发布日期
+    - img "chevron_down":
+- combobox "selected":
+  - generic: 最新发布
+- textbox "搜索作品"
+- button "导出数据":
+  - generic: 导出数据
+- generic: 00:15
+- generic: "把AI用起来｜我是Eli 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。 #AI #人工智能 #AI工具 #Agent #FDE"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月10日 20:35
+- generic: 已发布
+- generic: 播放
+- generic: "2"
+- generic: 点赞
+- generic: "0"
+- generic: 评论
+- generic: "0"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "0"
+- generic: 完播率
+- generic: 0%
+- generic: 2秒跳出率
+- generic: 100%
+- generic: 吸粉量
+- generic: "0"
+- generic: 04:33
+- generic: "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月09日 19:35
+- generic: 已发布
+- generic: 播放
+- generic: "770"
+- generic: 点赞
+- generic: "26"
+- generic: 评论
+- generic: "0"
+- generic: 分享
+- generic: "6"
+- generic: 收藏
+- generic: "9"
+- generic: 弹幕
+- generic: "0"
+- generic: 封面点击率
+- generic: 100%
+- generic: 平均播放占比
+- generic: 11.22%
+- generic: 吸粉量
+- generic: "3"
+- generic: 1张
+- generic: "看完了艾伦和孙哥的访谈。完整版稍后发出来#薄肌 #孙学 #孙宇晨 #邵艾伦alan"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月09日 15:11
+- generic: 已发布
+- generic: 播放
+- generic: "1830"
+- generic: 点赞
+- generic: "16"
+- generic: 评论
+- generic: "3"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "3"
+- generic: 划走率
+- generic: 31.66%
+- generic: 文案展开率
+- generic: 2.44%
+- generic: 平均浏览图片数
+- generic: "1"
+- generic: 吸粉量
+- generic: "0"
+- generic: 01:00
+- generic: "GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月08日 21:35
+- generic: 已发布
+- generic: 播放
+- generic: "654"
+- generic: 点赞
+- generic: "10"
+- generic: 评论
+- generic: "0"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "2"
+- generic: 完播率
+- generic: 0.79%
+- generic: 2秒跳出率
+- generic: 49.77%
+- generic: 吸粉量
+- generic: "0"
+- generic: 没有更多作品
+- iframe
+- iframe [active]

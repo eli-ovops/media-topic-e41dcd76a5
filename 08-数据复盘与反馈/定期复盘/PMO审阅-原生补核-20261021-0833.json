@@ -1,0 +1,36 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-21T08:33:48.104434+08:00",
+  "decision": "ACCEPT_LIMITED_OWNER_NATIVE_ANALYTICS_RECORD",
+  "owner_report_actually_received": true,
+  "report": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/补核报告-20261021-0833.md",
+    "sha256": "5071423cc4bd8994ffedfadbc756cab2e06c286c0b751673190a7a5e65fa813a"
+  },
+  "data": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/原生数据补核-20261021-0833.json",
+    "sha256": "802551ef49fdc54c31012616c025897df89cd7302cbde1c072a0a0281826ec73"
+  },
+  "review": "已读准确作品分析入口与原生字段记录，核7站播放合计及6字段补核；PMO未重开平台或独立查看截图，不冒充浏览器直接复核。",
+  "known_video_sum": 552,
+  "numeric_video_coverage": 7,
+  "resolved_fields_count": 6,
+  "x_video_first_numeric_baseline": 4,
+  "x_video_count_not_post_impressions": true,
+  "bilibili_comment_count_not_danmaku": true,
+  "weibo_individual_like_field_not_split_aggregate": true,
+  "tiktok_explicit_saved_count": true,
+  "remaining_unknown": [
+    "微博本作品收藏",
+    "视频号数据"
+  ],
+  "youtube_excluded_this_issue": true,
+  "dm_rechecked": false,
+  "prior_douyin_request_resolution_current": "UNKNOWN_NOT_RECHECKED_THIS_DATA_ONLY_ROUND",
+  "prior_tiktok_request": "USER_CONFIRMED_REPLIED_DO_NOT_REVIVE",
+  "native_field_method_source": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/原生数据补核-20261021-0833.json",
+  "new_publication_reply_or_production_authorized": false,
+  "disk_cleanup_remains_paused": true,
+  "automation_mutation": false
+}

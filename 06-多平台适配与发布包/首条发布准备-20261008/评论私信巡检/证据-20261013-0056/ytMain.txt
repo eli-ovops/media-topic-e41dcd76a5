@@ -1,0 +1,68 @@
+- generic: 频道内容
+- banner:
+  - button "收起菜单":
+  - link "YouTube Studio 信息中心":
+    - /url: /channel/UCqJaVQRO3FrxD5spt1GG7Iw
+    - img "YouTube Studio 信息中心"
+  - button "跳过导航":
+    - generic: 跳过导航
+  - button "搜索":
+  - button "帮助":
+  - button "通知":
+  - button "问问 Studio":
+    - generic: 问问 Studio
+  - button "创建":
+    - generic: 创建
+  - generic "账号":
+    - button "Account"
+- navigation:
+  - img "Eli-AI"
+  - generic: 我的频道
+  - generic: Eli-AI
+  - menu:
+    - menuitem "信息中心":
+      - generic: 信息中心
+    - menuitem "内容":
+      - generic: 内容
+    - menuitem "数据分析":
+      - generic: 数据分析
+    - menuitem "社区":
+      - generic: 社区
+    - menuitem "字幕":
+      - generic: 字幕
+    - menuitem "内容检测":
+      - generic: 内容检测
+    - menuitem "创收":
+      - generic: 创收
+    - menuitem "自定义":
+      - generic: 自定义
+    - menuitem "音频库":
+      - generic: 音频库
+  - separator
+  - list:
+    - button "设置":
+      - generic: 设置
+    - button "发送反馈":
+      - generic: 发送反馈
+- main:
+  - heading "频道内容" [level=1]
+  - tablist:
+    - tab "视频" [active] [selected]:
+      - generic: 视频
+    - tab "Shorts":
+      - generic: Shorts
+    - tab "直播":
+      - generic: 直播
+    - tab "帖子":
+      - generic: 帖子
+    - tab "播放列表":
+      - generic: 播放列表
+    - tab "播客":
+      - generic: 播客
+    - tab "推流":
+      - generic: 推流
+    - tab "联合创作":
+      - generic: 联合创作
+  - paragraph: 糟糕，出了点问题。
+  - button "重试":
+    - generic: 重试

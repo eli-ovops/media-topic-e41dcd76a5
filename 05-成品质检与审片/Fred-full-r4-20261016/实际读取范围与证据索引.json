@@ -1,0 +1,632 @@
+{
+  "owner": "05",
+  "date": "2026-10-16",
+  "videoSha256IndependentlyVerified": "8193aa2af58b708e998b54d5b996eed81a5bf46ef03b204b4ce19375c19c8d34",
+  "method": "Actual image tools viewing this turn; upstream viewed flags discarded",
+  "contactsActuallyViewed": [
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/seam-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/seam-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-05.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-06.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-07.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-08.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-09.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-10.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/review-contact/motion-11.jpg"
+  ],
+  "pagesRepresented": [
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/seam-01-3133.jpg",
+      "frames": [
+        3128,
+        3129,
+        3130,
+        3131,
+        3132,
+        3133,
+        3134,
+        3135,
+        3136,
+        3137,
+        3138
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/seam-02-3317.jpg",
+      "frames": [
+        3312,
+        3313,
+        3314,
+        3315,
+        3316,
+        3317,
+        3318,
+        3319,
+        3320,
+        3321,
+        3322
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/seam-03-4313.jpg",
+      "frames": [
+        4308,
+        4309,
+        4310,
+        4311,
+        4312,
+        4313,
+        4314,
+        4315,
+        4316,
+        4317,
+        4318
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/seam-04-4474.jpg",
+      "frames": [
+        4469,
+        4470,
+        4471,
+        4472,
+        4473,
+        4474,
+        4475,
+        4476,
+        4477,
+        4478,
+        4479
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/seam-05-5089.jpg",
+      "frames": [
+        5084,
+        5085,
+        5086,
+        5087,
+        5088,
+        5089,
+        5090,
+        5091,
+        5092,
+        5093,
+        5094
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/seam-06-5304.jpg",
+      "frames": [
+        5299,
+        5300,
+        5301,
+        5302,
+        5303,
+        5304,
+        5305,
+        5306,
+        5307,
+        5308,
+        5309
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-01.jpg",
+      "frames": [
+        0,
+        3133,
+        3134,
+        3135
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-02.jpg",
+      "frames": [
+        3136,
+        3137,
+        3138,
+        3139
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-03.jpg",
+      "frames": [
+        3140,
+        3141,
+        3142,
+        3143
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-04.jpg",
+      "frames": [
+        3144,
+        3145,
+        3146,
+        3147
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-05.jpg",
+      "frames": [
+        3148,
+        3149,
+        3150,
+        3160
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-06.jpg",
+      "frames": [
+        4325,
+        4327,
+        4329,
+        4331
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-07.jpg",
+      "frames": [
+        4333,
+        4335,
+        4337,
+        4339
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-08.jpg",
+      "frames": [
+        4341,
+        4343,
+        4345,
+        4347
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-09.jpg",
+      "frames": [
+        4349,
+        4350,
+        5112,
+        5113
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-10.jpg",
+      "frames": [
+        5114,
+        5115,
+        5116,
+        5117
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-11.jpg",
+      "frames": [
+        5118,
+        5119,
+        5120,
+        5121
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-12.jpg",
+      "frames": [
+        5122,
+        5123,
+        5124,
+        5125
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-13.jpg",
+      "frames": [
+        5126,
+        5127,
+        5128,
+        5129
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-14.jpg",
+      "frames": [
+        5130,
+        5131,
+        5132,
+        5133
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-15.jpg",
+      "frames": [
+        5134,
+        5135,
+        5136,
+        5137
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-16.jpg",
+      "frames": [
+        5138,
+        5139,
+        5140,
+        5141
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-17.jpg",
+      "frames": [
+        5142,
+        5143,
+        5144,
+        5145
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-18.jpg",
+      "frames": [
+        5146,
+        5147,
+        5148,
+        5149
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-19.jpg",
+      "frames": [
+        5150,
+        7274,
+        7275,
+        7276
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-20.jpg",
+      "frames": [
+        7277,
+        7278,
+        7279,
+        7280
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/motion-21.jpg",
+      "frames": [
+        7281,
+        7894
+      ]
+    }
+  ],
+  "nativeComparisonsActuallyViewed": [
+    {
+      "frame": 3133,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-3133.png",
+      "roi": [
+        1000,
+        450,
+        2120,
+        730
+      ]
+    },
+    {
+      "frame": 3140,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-3140.png",
+      "roi": [
+        1000,
+        450,
+        2120,
+        730
+      ]
+    },
+    {
+      "frame": 3160,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-3160.png",
+      "roi": [
+        1000,
+        450,
+        2120,
+        730
+      ]
+    },
+    {
+      "frame": 4326,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-4326.png",
+      "roi": [
+        1150,
+        450,
+        1410,
+        730
+      ]
+    },
+    {
+      "frame": 4350,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-4350.png",
+      "roi": [
+        1150,
+        450,
+        1410,
+        730
+      ]
+    },
+    {
+      "frame": 5120,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-5120.png",
+      "roi": [
+        1080,
+        440,
+        1480,
+        720
+      ]
+    },
+    {
+      "frame": 5143,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-5143.png",
+      "roi": [
+        1080,
+        440,
+        1480,
+        720
+      ]
+    },
+    {
+      "frame": 7278,
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r4/final-native-comparison-7278.png",
+      "roi": [
+        950,
+        1250,
+        1620,
+        1410
+      ]
+    }
+  ],
+  "uniqueFramesActuallyViewed": [
+    0,
+    3128,
+    3129,
+    3130,
+    3131,
+    3132,
+    3133,
+    3134,
+    3135,
+    3136,
+    3137,
+    3138,
+    3139,
+    3140,
+    3141,
+    3142,
+    3143,
+    3144,
+    3145,
+    3146,
+    3147,
+    3148,
+    3149,
+    3150,
+    3160,
+    3312,
+    3313,
+    3314,
+    3315,
+    3316,
+    3317,
+    3318,
+    3319,
+    3320,
+    3321,
+    3322,
+    4308,
+    4309,
+    4310,
+    4311,
+    4312,
+    4313,
+    4314,
+    4315,
+    4316,
+    4317,
+    4318,
+    4325,
+    4326,
+    4327,
+    4329,
+    4331,
+    4333,
+    4335,
+    4337,
+    4339,
+    4341,
+    4343,
+    4345,
+    4347,
+    4349,
+    4350,
+    4469,
+    4470,
+    4471,
+    4472,
+    4473,
+    4474,
+    4475,
+    4476,
+    4477,
+    4478,
+    4479,
+    5084,
+    5085,
+    5086,
+    5087,
+    5088,
+    5089,
+    5090,
+    5091,
+    5092,
+    5093,
+    5094,
+    5112,
+    5113,
+    5114,
+    5115,
+    5116,
+    5117,
+    5118,
+    5119,
+    5120,
+    5121,
+    5122,
+    5123,
+    5124,
+    5125,
+    5126,
+    5127,
+    5128,
+    5129,
+    5130,
+    5131,
+    5132,
+    5133,
+    5134,
+    5135,
+    5136,
+    5137,
+    5138,
+    5139,
+    5140,
+    5141,
+    5142,
+    5143,
+    5144,
+    5145,
+    5146,
+    5147,
+    5148,
+    5149,
+    5150,
+    5299,
+    5300,
+    5301,
+    5302,
+    5303,
+    5304,
+    5305,
+    5306,
+    5307,
+    5308,
+    5309,
+    7274,
+    7275,
+    7276,
+    7277,
+    7278,
+    7279,
+    7280,
+    7281,
+    7894
+  ],
+  "uniqueCount": 143,
+  "notViewedThisRoundCount": 7752,
+  "notViewedThisRoundRangesInclusive": [
+    [
+      1,
+      3127
+    ],
+    [
+      3151,
+      3159
+    ],
+    [
+      3161,
+      3311
+    ],
+    [
+      3323,
+      4307
+    ],
+    [
+      4319,
+      4324
+    ],
+    [
+      4328,
+      4328
+    ],
+    [
+      4330,
+      4330
+    ],
+    [
+      4332,
+      4332
+    ],
+    [
+      4334,
+      4334
+    ],
+    [
+      4336,
+      4336
+    ],
+    [
+      4338,
+      4338
+    ],
+    [
+      4340,
+      4340
+    ],
+    [
+      4342,
+      4342
+    ],
+    [
+      4344,
+      4344
+    ],
+    [
+      4346,
+      4346
+    ],
+    [
+      4348,
+      4348
+    ],
+    [
+      4351,
+      4468
+    ],
+    [
+      4480,
+      5083
+    ],
+    [
+      5095,
+      5111
+    ],
+    [
+      5151,
+      5298
+    ],
+    [
+      5310,
+      7273
+    ],
+    [
+      7282,
+      7893
+    ]
+  ],
+  "continuousNormalSpeedReview": false,
+  "audiblyReviewed": false,
+  "visual99Established": false,
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "actualSpeed": "UNKNOWN",
+  "scope": "r4 targeted review only; r3 earlier full-film sampling kept separate, not relabelled as r4 viewing"
+}

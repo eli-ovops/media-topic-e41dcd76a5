@@ -1,0 +1,26 @@
+radio "All" [checked]
+      - radio "Jobs"
+      - radio "My posts"
+      - radio "Mentions"
+    - article "Unread notification.":
+      - figure:
+      - link "masao miki":
+        - /url: /in/masaomiki
+        - img "masao miki"
+      - link "Unread notification. You may know masao miki. Add to your network. AIに仕事を丸ごと任せる実験を記録中｜ADZUKI Trading 代表｜航空業界26年｜経営者・事業オーナー":
+        - /url: /in/masaomiki?isRecommended=true
+        - paragraph: Unread notification.
+        - text: You may know
+        - strong: masao miki
+        - text: . Add to your network.
+        - generic: AIに仕事を丸ごと任せる実験を記録中｜ADZUKI Trading 代表｜航空業界26年｜経営者・事業オーナー
+      - paragraph: 1h
+      - button "Settings menu":
+    - article "Notification":
+      - link "View Deby Choirur Rochiim’s profile.":
+        - /url: /in/debyco
+        - img "Deby Choirur Rochiim"
+      - 'link "Suggested for you: \"I have no technical ability and I know nothing.\" Every vibe coder explaining their stack. 😂 The funny part is that half of it is right. When AI writes the code, taste matters more than ever: → Knowing what good looks like → Knowing what to cut → Knowing when the output is lying to you That last one is where it falls apart. Taste without the ability to check the work is just confidence. The best builders I know have both. They let AI do the typing and still read every line that matters. Is taste enough to ship with AI, or do you still need to know how it works?"':
+        - /url: /feed/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512490889999527936&highlightedUpdateType=CONTENT_YOU_MAYBE_INTERESTED_IN&origin=INAPP&showCommentBox=true&highlightedUpdateTrackingId=0SaWc6%2FGQvu78sKWR%2B79%2FQ%3D%3D
+        - strong: "Suggested for you:"
+        - text: "\"I have no technical ability and I know nothing.\" Every vibe coder explaining their stack. 😂 The funny part is that half of it is right. When AI writes the code, t

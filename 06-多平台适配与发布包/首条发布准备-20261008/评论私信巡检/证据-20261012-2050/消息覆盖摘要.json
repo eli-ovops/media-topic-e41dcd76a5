@@ -1,0 +1,83 @@
+{
+  "coverage": {
+    "小红书": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Original native notification/profile now readable without CAPTCHA; actual account11520431136; three project likes/comments verified; recent DM old baseline unchanged"
+    },
+    "B站": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "国内抖音": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "YouTube": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Published-unreplied and held-for-review explicitly empty; no native DM feature"
+    },
+    "LinkedIn": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Focused old welcome only without load error, Other explicit No messages yet; notifications read"
+    },
+    "X": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Intro exact44 views read, main and guide disconnected after allowed retry/reload; chat old list/requests containers partial; notifications error after one reload"
+    },
+    "微博": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "TikTok": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Native DM list recovered and read; only Oct9 accepted notices/old items; comments only Sept14 old non-project item"
+    },
+    "微信视频号": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "reason": "existing explicit site-safety rejection, not visited",
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN"
+    }
+  },
+  "notes": [
+    "Native UI only, no sends/safety bypass; metric8/9 partial, WX B002 not visited.",
+    "Latest video481(+3),main1024(+4),guide836(+0),total2341(+7). Like9/comments4 same comparable values; no new-baseline inflation.",
+    "Recent DM lists6/9 XHS Bili Douyin WB LI TK read; new project inbound0 in observed lists. Requests/all pending remainUNKNOWN.",
+    "LI Focused normal old welcome, Other explicitNo messages yet recovered. TK original Studio ERR_ABORTED blank; normal same-tab navigation recovered, native DM/activities readable.",
+    "X intro44(+1) only; main/guide unreachable and current totalUNKNOWN, prior16:47 total160 historical only. Old chat partial and requests/other blank without full empty confirmation.",
+    "XHS three project comments0/1author-first/0,likes1/3/1; no audience project replies. DY two old handled Friday requests unchanged.",
+    "YT published-unreplied and held-review explicitly no comments. WB badge7 systemnews same12:39, not user-message count.",
+    "All reply/pending totalsUNKNOWN, author first at least1 XHS confirmed."
+  ]
+}

@@ -1,0 +1,108 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "消息" [level=2]
+- link " @我的":
+
+  - link " @我的":
+    - generic: 
+    - generic: "@我的"
+- link " 评论":
+
+  - link " 评论":
+    - generic: 
+    - generic: 评论
+- link " 赞":
+
+  - link " 赞":
+    - generic: 
+    - generic: 赞
+- link " 私信 7":
+
+  - link " 私信 7":
+    - generic: 
+    - generic: 私信
+    - generic: "7"
+- link " 群通知":
+
+  - link " 群通知":
+    - generic: 
+    - generic: 群通知
+- main:
+  - generic: 收到的评论
+  - generic: 关注人的评论
+  - generic: 发出的评论
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

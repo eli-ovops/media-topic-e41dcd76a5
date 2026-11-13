@@ -1,0 +1,31 @@
+- heading "把AI用起来｜我是Eli" [level=1]
+- text: 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。
+- link "#ai":
+  - /url: /search_result?keyword=ai&type=54&source=web_note_detail_r10
+- link "#人工智能":
+  - /url: /search_result?keyword=%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD&type=54&source=web_note_detail_r10
+- link "#AI工具":
+  - /url: /search_result?keyword=AI%25E5%25B7%25A5%25E5%2585%25B7&type=54&source=web_note_detail_r10
+- link "#AI实用技巧howto":
+  - /url: /search_result?keyword=AI%25E5%25AE%259E%25E7%2594%25A8%25E6%258A%2580%25E5%25B7%25A7howto&type=54&source=web_note_detail_r10
+- link "#Agent":
+  - /url: /search_result?keyword=Agent&type=54&source=web_note_detail_r10
+- link "#FDE":
+  - /url: /search_result?keyword=FDE&type=54&source=web_note_detail_r10
+- generic: 猜你想搜
+- generic: 我是eli的ai作品介绍
+- generic: 昨天 19:29 浙江
+- generic: 作者声明：含ai生成内容
+- paragraph: 这是一片荒地点击评论
+- paragraph
+- generic: 说点什么...
+- generic: "1"
+- generic: 收藏
+- generic: 评论
+- button "发送" [disabled]
+- button "取消"
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe

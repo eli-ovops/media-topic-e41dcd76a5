@@ -1,0 +1,56 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/AGENTS.md",
+    "sha256": "85c0eeea3b78d60d4cdd47f31d7f9b3ee00ab8e22a43e8f46d4b8f03612f8cff",
+    "bytes": 29987
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/README.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/README.md",
+    "sha256": "2560accd547b62041149461b82ee685410fb4d67f709a9ef5702f1ebc23cacb1",
+    "bytes": 33025
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/视频动效风格与验收规范.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/视频动效风格与验收规范.md",
+    "sha256": "3105b1a4a0b45492fdec1554f6d71ccf0b08ece122673d0ac4eb252aa3c5793e",
+    "bytes": 30945
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/协作README.md",
+    "sha256": "2b6e65dd226493c21406aedead62e17c9baea9a827fded11928ee5c95cf1c0b0",
+    "bytes": 15774
+  },
+  {
+    "path": "/Users/USER/.codex/skill-repos/FredTalk/skills/fred-remotion-output/SKILL.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/fred-main-SKILL.md",
+    "sha256": "e7db8c5bdaaca62e7477308d8673a46d4b000b93577f9655d4cff5d8b983e503",
+    "bytes": 24025
+  },
+  {
+    "path": "/Users/USER/.codex/skill-repos/FredTalk/skills/fred-remotion-output/references/eli-production-method.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/Eli固定制作方法.md",
+    "sha256": "aff5def41402178ca31a0630cde832870dcad69f18b9997b81d0ef87bf5352e4",
+    "bytes": 10509
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/.agents/skills/eli-media-workflow/SKILL.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/workflow-SKILL.md",
+    "sha256": "5a67cc271f3bbcff3f3082782e9d96539e7c4d7290cf63324d4b409aab0901a9",
+    "bytes": 6016
+  },
+  {
+    "path": "/Users/USER/.codex/skill-repos/FredTalk/skills/fred-remotion-output/templates/production-execution-brief.md",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/制作执行摘要.md",
+    "sha256": "2a1a2cfec179eba4c2cfba0656e012cad439c3e5bf28eeb579c33b7bd84a488c",
+    "bytes": 5107
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/资产库/视频制作总览/build_catalog.py",
+    "backup": "/Volumes/EXTERNAL/自媒体/流程协作/规则改写-20261021/改写前/catalog-builder.py",
+    "sha256": "71ac3db5f60c8d5af44929cab21fc52fa34b53407a98a44517218c1c2dc3cf25",
+    "bytes": 16859
+  }
+]

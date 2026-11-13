@@ -1,0 +1,45 @@
+- button "打开创作助手":
+- generic: 创作服务平台
+- generic: Eli AI FDE
+- main:
+  - generic: 发布笔记
+  - generic: 首页
+  - generic: 笔记管理
+  - generic: Builder hub
+  - generic: 小工具
+  - generic: Red Skill
+  - generic: 数据看板
+  - generic: 活动中心
+  - generic: 笔记灵感
+  - generic: 创作学院
+  - generic: 创作百科
+  - generic: 收起侧边栏
+  - generic: 全部 15
+  - generic: 已发布
+  - generic: 审核中
+  - generic: 未通过
+  - textbox "搜索已发布的笔记"
+  - generic: 00:15
+  - generic: 把AI用起来｜我是Eli
+  - generic: 2026-10-10 19:29
+  - generic: "30"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: "1"
+  - generic: 04:32
+  - generic: 没人脉、没资源，普通人怎么抓住AI机会？
+  - generic: 2026-10-09 19:10
+  - generic: "279"
+  - generic: "1"
+  - generic: "1"
+  - generic: "1"
+  - generic: "2"
+  - generic: 00:59
+  - generic: GitHub高性价比人生指南
+  - generic: 2026-10-08 21:54
+  - generic: "99"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"

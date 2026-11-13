@@ -1,0 +1,26 @@
+{
+  "at": "2026-10-21T17:49:46.774426+08:00",
+  "status": "ACCEPTED_08_SOURCE_ATTRIBUTED_SNAPSHOT_WITH_LIMITS",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-21 17:41—17:45 Asia/Shanghai",
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261021-1745.md",
+  "report_sha256": "528ab7159e63815596e5b10511b1394e0d58dcd12c14cf4da14ee9deb9c0a5de",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261021-1745.json",
+  "snapshot_sha256": "c26445f917ccc92fa99a8851dc367f28878b1bbc0623df363adcd07467e634c3",
+  "owner_report_received": true,
+  "original_turn_reviewed": "08 thread01a11a95-ef09-7da2-9846-c8157050e112 turn01a15dd6-1f52-7f02-87c3-08c5ddd79b5d",
+  "evidence_checks": [
+    "Original report and JSON hashes match received report",
+    "7 numeric video-view rows sum486; post impressions22 excluded",
+    "New DeepInfer baseline separated from previous AI-funnel data",
+    "B站 native zero with data-processing caveat retained",
+    "DM求 not treated as known request or new-in-window; no reply authorized",
+    "Actual native browser collection tool calls completed, existing security/coverage gaps retained"
+  ],
+  "limits": [
+    "read_thread exposes browser calls/status but not raw MCP AX/image result bodies; exact metrics are 08 native-observation records, not independently recollected by PMO",
+    "No new platform visits, no direct replies, no posting, no asset cleanup",
+    "Video号 data unobserved and LinkedIn unpublished; target-all-publication completion not inferred"
+  ],
+  "next": "Present latest five-column cumulative table and necessary DM/coverage note; next scheduled sampling remains existing schedule, no immediate refresh loop"
+}

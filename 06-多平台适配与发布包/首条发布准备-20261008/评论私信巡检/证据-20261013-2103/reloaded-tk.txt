@@ -1,0 +1,21 @@
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- link:
+
+- region "Notifications"
+- button:
+- generic: 作品 19
+- generic: 草稿 0
+- text: 出错了
+- text: 请重试。
+- button "重试":
+  - generic: 重试

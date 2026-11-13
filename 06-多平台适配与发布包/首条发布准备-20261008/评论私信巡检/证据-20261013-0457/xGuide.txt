@@ -1,0 +1,10 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "聊天":
+- banner
+- main:
+  - generic: 似乎你的连接已断开。我们将继续重试。
+  - progressbar "加载中":

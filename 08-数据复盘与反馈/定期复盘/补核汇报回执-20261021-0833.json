@@ -1,0 +1,14 @@
+{
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool":"mcp__codex_app__send_message_to_thread",
+  "tool_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "send_status":"TOOL_ACCEPTED",
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "snapshot":"原生数据补核-20261021-0833.json",
+  "report":"补核报告-20261021-0833.md",
+  "snapshot_sha256":"802551ef49fdc54c31012616c025897df89cd7302cbde1c072a0a0281826ec73",
+  "report_sha256":"5071423cc4bd8994ffedfadbc756cab2e06c286c0b751673190a7a5e65fa813a",
+  "verification":"JSON、7站552与6项补核通过",
+  "note":"未查询PMO收取状态，不轮询。临时标签本轮结束关闭，交付物保留。"
+}

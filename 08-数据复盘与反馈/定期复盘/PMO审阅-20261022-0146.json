@@ -1,0 +1,26 @@
+{
+  "at": "2026-10-22T01:49:02.627190+08:00",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-22 01:41—01:46 Asia/Shanghai",
+  "status": "ACCEPTED_SOURCE_ATTRIBUTED_WITH_LIMITS",
+  "owner_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+  "owner_tool_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261022-0146.md",
+  "report_sha256": "b777b5b9be59920b7106545fe34998e4425c7a221bd9ecb41c64ea14d0894770",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261022-0146.json",
+  "snapshot_sha256": "15f84d8d8c4e15f9eebc7fb0183ef8406dbf2b23820f8beff8f68b612a12fe75",
+  "pmo_checks": [
+    "Both reported artifact SHA independently matched",
+    "7 numeric video counters total813; nonunique total only",
+    "X post impressions25 excluded from video sum",
+    "YouTube backend7/public3 retained as separate counters; table uses backend",
+    "Bilibili updated0020, snapshot difference not precise occurrence window",
+    "Previous replied business requests deduplicated; delivery of requested files not inferred",
+    "WX/LI/IG/FB and inaccessible requests limits retained"
+  ],
+  "evidence_limit": "PMO reviewed08 supplied report and structured native-page observations; did not recollect account counters or independently inspect private message UI this round. Source-attributed results, not full inbox or follower coverage.",
+  "new_confirmed_unanswered_business_requests": 0,
+  "business_request_scope": "Only08 covered recent accessible lists",
+  "production_task_changes": false,
+  "publication_or_cleanup_authority_changes": false
+}

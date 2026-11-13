@@ -1,0 +1,8 @@
+- region "Toast message":
+  - heading "0 notifications total" [level=2]
+  - alert
+- region
+- heading "Something went wrong" [level=2]
+- paragraph: Refresh the page
+- button "Try again":
+  - generic: Try again

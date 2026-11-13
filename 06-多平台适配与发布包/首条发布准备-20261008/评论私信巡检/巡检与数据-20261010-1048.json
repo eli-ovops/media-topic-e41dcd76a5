@@ -1,0 +1,364 @@
+{
+  "automation_id": "9",
+  "trigger": "2026-10-10T02:36:36.776Z",
+  "observed_window": "2026-10-10 10:37—10:48 Asia/Shanghai",
+  "ended_at": "2026-10-10T10:50:27+08:00",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "scope": "three_content_variants_separate",
+  "external_messages_sent": false,
+  "paused_platforms": [
+    "Instagram",
+    "Facebook"
+  ],
+  "contents": [
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "访谈正片",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6ac8cbbe0000000013018128",
+          "video_views": "UNKNOWN_NOT_SEPARATELY_LABELED",
+          "post_browse": 245,
+          "likes": 1,
+          "comments": 1,
+          "author_replies": 0,
+          "author_self_first_comments": 1,
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮creator本人Eli AI FDE笔记管理：眼睛245、评论1、爱心1、收藏1、分享2；www本人ID11520431136及详情共1条作者首评/THE END",
+          "notes": "creator入口本轮实际恢复可读，无AI登录或修改权限；恢复原因UNKNOWN。笔记浏览先单列，未取得独立视频播放标签。"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1dFp86PEYP/",
+          "video_views": 12,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN_DETAIL_UNREAD",
+          "attributed_followers": 0,
+          "delta_video_views": 1,
+          "source": "本轮刷新既有本人正片数据页核心大屏，播放12赞0评论1涨粉0，趋势更新至10月10日10:14",
+          "notes": "9:24旧缓存11在刷新后变12，取最后实际读到12。"
+        },
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/video/7694630238197665050",
+          "video_views": 681,
+          "likes": 23,
+          "comments": "UNKNOWN_CURRENT_DETAIL_SERVICE_ERROR",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN_BACKEND_LOAD_FAILED",
+          "delta_video_views": 0,
+          "source": "本轮本人www self明示新号25296649142及该正片卡681；正片匹配标题时23赞8收藏5分享",
+          "last_known": {
+            "comments_public": 1,
+            "comments_backend": 0,
+            "attributed_followers": 2,
+            "at": "2026-10-10 10:16"
+          },
+          "notes": "creator manage普通网络错误一次reload仍加载；公开正片评论服务异常一次reload后播放器自动到其他推荐内容，未将3175等他人数据写入本作品，不再读取无关推荐。"
+        },
+        {
+          "platform": "微信视频号",
+          "url": "https://channels.weixin.qq.com/platform",
+          "video_views": "UNKNOWN_CURRENT_UNCOVERED_SITE_SAFETY",
+          "likes": "UNKNOWN_CURRENT",
+          "comments": "UNKNOWN_CURRENT",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮未读取或绕过B002；人类10:20提供上一条截图与私信本人已回复",
+          "last_known": {
+            "video_views": 520,
+            "likes": 0,
+            "comments": 0,
+            "shares": 4,
+            "recommendations": 3,
+            "received_at": "2026-10-10T10:20:41+08:00",
+            "capture_time": "UNKNOWN",
+            "dm_count": 1,
+            "dm_status": "REPLIED_BY_USER"
+          },
+          "notes": "旧值单列不纳入本轮实测。"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=GksDGFRpmGI",
+          "video_views": 17,
+          "likes": "UNKNOWN_NOT_OBSERVED",
+          "comments": 0,
+          "author_replies": 0,
+          "attributed_followers": "UNKNOWN",
+          "delta_video_views": 0,
+          "source": "本人频道UCqJaVQRO3FrxD5spt1GG7Iw内容正片17观看0评论；本轮社区已发布未回复/待审核明确找不到评论。",
+          "notes": "初次新tab ERR_ABORTED；同IAB绑定空页正常原生goto后内容可读。Shorts普通错误一次reload后恢复指南4观看。"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/",
+          "video_views": 4,
+          "post_impressions": 12,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN_CURRENT_DETAIL_NOT_EXPANDED",
+          "attributed_followers": 0,
+          "delta_video_views": 1,
+          "delta_post_impressions": 2,
+          "source": "本轮初次正片Post analytics本人ELi Chao/eli-chao-548a7a43b：Video views4，Impressions12，Comments1，Reactions0，Followers gained0",
+          "notes": "通知中该帖另一显示14曝光，与分析12差异保留；再次原生goto分析超时后仅Export壳，未覆盖本轮先前已实读12/4，不用通知数字替换统计口径。"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/cczij1112/status/2108521984112185808",
+          "video_views": "UNKNOWN_NOT_SEPARATELY_SHOWN",
+          "post_views": 45,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": 0,
+          "attributed_followers": "UNKNOWN",
+          "delta_post_views": 0,
+          "source": "本轮精确本人帖子标题和账号菜单@cczij1112，45查看0回复0喜欢",
+          "notes": "普通聊天/i/chat一次reload仍Loading，本轮私信/请求未覆盖，不再用09:57可读记录当本轮可读。"
+        },
+        {
+          "platform": "微博",
+          "url": "https://weibo.com/7720929036/RlTDsgzMz",
+          "video_views": "UNKNOWN_NOT_SEPARATELY_SHOWN",
+          "post_reads": 15,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": 0,
+          "attributed_followers": "UNKNOWN",
+          "delta_post_reads": 0,
+          "source": "本轮原生本人UID7720929036正片15阅读，转評赞0/1/0，已加载全部评论仅作者首评；评论收件箱暂无内容"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694631263205870868",
+          "video_views": 74,
+          "likes": 0,
+          "comments_backend": 0,
+          "author_replies": "UNKNOWN_CURRENT_DETAIL_UNREAD",
+          "attributed_followers": "UNKNOWN",
+          "delta_video_views": 0,
+          "source": "本轮Studio内容本人视频链接@elimakesapps正片74观看0赞0评论；native主页链接本人handle，活动评论分类仅9-14旧评论",
+          "last_known": {
+            "visible_self_first_comments": 1,
+            "at": "2026-10-10 10:16"
+          },
+          "notes": "后台0与上轮实际首评1差异未解释，不据此声称首评消失或全部观众评论为0。"
+        }
+      ],
+      "fresh_lower_bounds": {
+        "video_views": 788,
+        "likes": 24,
+        "comments": 4,
+        "attributed_followers": 0,
+        "author_replies_excluding_self_first_comments": 0
+      },
+      "coverage": {
+        "video_views": "5/9",
+        "likes": "7/9",
+        "comments_count": "7/9",
+        "attributed_followers": "2/9",
+        "author_replies": "4/9"
+      },
+      "last_known_combination": {
+        "video_views": 1308,
+        "includes_old_video_channel": 520,
+        "not_current_total": true
+      },
+      "comparable_changes": {
+        "video_views_delta": 2,
+        "platforms": [
+          "B站",
+          "国内抖音",
+          "YouTube",
+          "LinkedIn",
+          "TikTok"
+        ],
+        "note": "B站+1、LinkedIn+1，其余3站不变。小红书245浏览首次取得，不算新增245。"
+      }
+    },
+    {
+      "content_id": "first-video-life-guide-visual-fix-v7",
+      "variant": "人生指南",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6ac7a0a3000000001b02ddd6",
+          "video_views": "UNKNOWN_NOT_SEPARATELY_LABELED",
+          "post_browse": 99,
+          "likes": 0,
+          "comments": 0,
+          "source": "本轮本人creator笔记管理指南00:59眼睛99，评论/爱心/收藏/分享0"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1mgH96DEyt/",
+          "video_views": 15,
+          "likes": 0,
+          "comments": 0,
+          "attributed_followers": 0,
+          "source": "本轮本人该指南核心大屏，播放15赞0评论0涨粉0；趋势更新至10月9日20:38"
+        },
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/video/7694290083091926287",
+          "video_views": 653,
+          "likes": "UNKNOWN_CURRENT",
+          "comments": "UNKNOWN_CURRENT",
+          "attributed_followers": "UNKNOWN_CURRENT",
+          "source": "本轮本人www self作品列表指南眼睛653；后台网络错误，互动不能用10:16旧值作实测",
+          "last_known": {
+            "likes": 10,
+            "comments_backend": 0,
+            "attributed_followers": 0,
+            "at": "2026-10-10 10:16"
+          }
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN_CURRENT",
+          "likes": "UNKNOWN_CURRENT",
+          "comments": "UNKNOWN_CURRENT",
+          "source": "本轮明确安全拒绝未访问",
+          "last_known": {
+            "video_views": 214,
+            "likes": 0,
+            "comments": 0,
+            "at": "此前用户截图，采集时间UNKNOWN"
+          }
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/shorts/Yx4IuJe1eSs",
+          "video_views": 4,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "source": "本轮本人Shorts列表该指南4观看0评论，明确已停用评论功能和通知功能；未改设置"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513959413427179522/",
+          "video_views": "UNKNOWN_NO_VIDEO_VIEW_METRIC",
+          "post_impressions": 24,
+          "likes": 0,
+          "comments": 0,
+          "attributed_followers": 1,
+          "source": "本轮本人该Post analytics24曝光0反应0评论，Followers gained from this post1"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/cczij1112/status/2108190823007539236",
+          "video_views": "UNKNOWN_NOT_SEPARATELY_SHOWN",
+          "post_views": 24,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": 0,
+          "source": "本轮本人指南帖子24查看0回复0喜欢"
+        },
+        {
+          "platform": "微博",
+          "url": "https://weibo.com/7720929036/RlL0WwIyR",
+          "video_views": 11,
+          "post_reads": 124,
+          "likes": 0,
+          "comments": 0,
+          "source": "本轮本人原生指南帖子124阅读，视频明确11次观看，转评赞0/0/0"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694304622604717330",
+          "video_views": 138,
+          "likes": 2,
+          "comments_backend": 0,
+          "source": "本轮Studio本人该00:59指南138观看2赞0评论"
+        }
+      ],
+      "fresh_lower_bounds": {
+        "video_views": 821,
+        "likes": 2,
+        "comments": 0,
+        "attributed_followers": 1
+      },
+      "coverage": {
+        "video_views": "5/9",
+        "likes": "6/9",
+        "comments": "7/9",
+        "attributed_followers": "2/9"
+      },
+      "delta": "UNKNOWN_FIRST_THREE_CONTENT_BASELINE"
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "抖音图文预告",
+      "platforms": [
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/note/7694562191479593466",
+          "post_browse": 1805,
+          "video_views": "NOT_APPLICABLE_IMAGE_POST",
+          "likes": "UNKNOWN_CURRENT",
+          "comments": "UNKNOWN_CURRENT",
+          "source": "本轮本人www self一张图文作品卡眼睛1805",
+          "last_known": {
+            "post_browse": 1798,
+            "likes": 16,
+            "comments_backend": 3,
+            "at": "2026-10-10 10:16"
+          }
+        }
+      ],
+      "delta_post_browse": 7,
+      "delta_note": "前后计数来自同作品不同原生面板，保存对比但未证明全部口径一致，不算视频播放"
+    }
+  ],
+  "counting_policy": "小红书笔记管理眼睛指标本轮仅确认笔记浏览，先单列；X帖子查看/微博阅读/LinkedIn曝光始终单列，未确认的视频播放UNKNOWN。喜欢与视频号推荐分开。各总计是平台次数下限，不是去重人数。旧截图只作最后已知。",
+  "monitor": {
+    "some_message_coverage": "8/9 including X exact target post only",
+    "dm_lists_read": "6/9:小红书/B站/国内抖音/LinkedIn/微博/TikTok",
+    "unknown_dm": [
+      "X本轮Loading",
+      "微信视频号安全拒绝",
+      "YouTube未观察原生DM入口"
+    ],
+    "separate_requests": "UNKNOWN多数站未观察独立请求入口；X本輪请求未读",
+    "new_incoming_dm_confirmed": 1,
+    "new_urgent_reply_required": 0,
+    "new_comment_to_reply_not_observed_in_read_scope": true,
+    "old_pending_baseline_count": 1,
+    "old_pending_baseline_source": "小红书9/18合作，上轮09:57确认未回复，本轮未重复展开"
+  },
+  "new_messages": [
+    {
+      "key": "xhs:5eaee4ee0000000001003e74:2026-10-10T10:25:shared-note",
+      "platform": "小红书",
+      "type": "私信",
+      "sender": "坨坨大王",
+      "time_display": "今天10:25",
+      "summary": "分享笔记居然……合理了；截图确认左侧收到，未见后续本人回复",
+      "url": "https://www.xiaohongshu.com/chat/5eaee4ee0000000001003e74",
+      "priority": "LOW",
+      "status": "OPTIONAL_REPLY_NO_URGENT_REQUEST",
+      "suggested_reply": "收到，我看看。",
+      "new_since_previous_run": true,
+      "notify_in_periodic_report": true,
+      "do_not_realert_if_unchanged": true
+    }
+  ],
+  "blockers": [
+    "微信视频号B002未读取/未绕过",
+    "X消息正常reload一次仍Loading",
+    "抖音creator网络错误一次reload未恢复；正片评论服务错误，刷新后连播到无关推荐，未取无关计数",
+    "LinkedIn顶层Messaging定位no_matches，但实际iframe原生链接正常可读Focused/Other；晚段返回分析超时仅壳，不反复重试"
+  ],
+  "recovered": [
+    "小红书creator数据列表本轮可读，恢复原因UNKNOWN，AI未登录/改权限",
+    "YouTube普通新页导航错误同IAB原生goto恢复，Shorts普通错误一次reload恢复",
+    "TikTok business-suite原生iframe最近消息列表本轮实际可读，活动评论亦可读"
+  ],
+  "artifacts": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/评论私信巡检/巡检与数据-20261010-1048.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/评论私信巡检/巡检与数据-20261010-1048.md"
+  ]
+}

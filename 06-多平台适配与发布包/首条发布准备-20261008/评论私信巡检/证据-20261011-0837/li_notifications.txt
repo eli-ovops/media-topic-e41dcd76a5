@@ -1,0 +1,54 @@
+- main:
+    - radiogroup:
+      - radio "All" [checked]
+      - radio "Jobs"
+      - radio "My posts"
+      - radio "Mentions"
+    - article "Unread notification.":
+      - figure:
+      - link "View Deby Choirur Rochiim’s profile.":
+        - /url: /in/debyco
+        - img "Deby Choirur Rochiim"
+      - 'link "Unread notification. Suggested for you: \"I have no technical ability and I know nothing.\" Every vibe coder explaining their stack. 😂 The funny part is that half of it is right. When AI writes the code, taste matters more than ever: → Knowing what good looks like → Knowing what to cut → Knowing when the output is lying to you That last one is where it falls apart. Taste without the ability to check the work is just confidence. The best builders I know have both. They let AI do the typing and still read every line that matters. Is taste enough to ship with AI, or do you still need to know how it works?"':
+        - /url: /feed/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512490889999527936&highlightedUpdateType=CONTENT_YOU_MAYBE_INTERESTED_IN&origin=INAPP&showCommentBox=true&highlightedUpdateTrackingId=UooSkzf1Q5O5gS8Zfz7ZUg%3D%3D
+        - paragraph: Unread notification.
+        - strong: "Suggested for you:"
+        - text: "\"I have no technical ability and I know nothing.\" Every vibe coder explaining their stack. 😂 The funny part is that half of it is right. When AI writes the code, taste matters more than ever: → Knowing what good looks like → Knowing what to cut → Knowing when the output is lying to you That last one is where it falls apart. Taste without the ability to check the work is just confidence. The best builders I know have both. They let AI do the typing and still read every line that matters. Is taste enough to ship with AI, or do you still need to know how it works?"
+      - paragraph: 4m
+      - button "Settings menu":
+    - article "Unread notification.":
+      - figure:
+      - link "Unread notification. Your post has reached 15 impressions so far. View more analytics.":
+        - /url: /analytics/post-summary/urn:li:activity:7514664851835854848
+        - paragraph: Unread notification.
+        - text: Your post has reached
+        - strong: 15 impressions
+        - text: so far. View more analytics.
+      - link:
+        - generic: "把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE"
+      - paragraph: 2h
+      - button "Settings menu":
+    - article "Notification":
+      - link "Your post has reached 25 impressions so far. View more analytics.":
+        - /url: /analytics/post-summary/urn:li:activity:7514287448282058753
+        - text: Your post has reached
+        - strong: 25 impressions
+        - text: so far. View more analytics.
+      - link:
+        - generic: "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 #薄肌理论"
+      - generic: 1 comment
+      - paragraph: 13h
+      - button "Settings menu":
+    - article "Notification":
+      - link "A conversation could land you your next role. Here's how.":
+        - /url: /feed/news/9439130
+        - generic: A conversation could land you your next role. Here's how.
+        - generic: A conversation could land you your next role. Here's how.
+      - paragraph: 22h
+      - button "Settings menu":
+    - article "Notification":
+      - link "View HARUTO SAKAI’s profile.":
+        - /url: /in/haruto%2Dlink0408
+        - img "HARUTO SAKAI"
+      - link:
+        - /url: /feed/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512466560188583936&highlightedUpdateType=CONTENT_YOU_MAYBE_INTERESTED_IN&origin=INAPP&showCommentBox=true&highlightedU

@@ -1,0 +1,221 @@
+{
+  "scope": "latest_interview_only",
+  "content_id": "sun-shao-interview-20261009",
+  "title": "没人脉、没资源，普通人怎么抓住AI机会？",
+  "observed_window": "其他8站：2026-10-10 10:12—10:16 Asia/Shanghai；视频号截图提供：10:20，截图实际采集时间UNKNOWN",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "automation_id": "9",
+  "report_every_four_hours": true,
+  "previous_comparable_snapshot": "UNKNOWN_FIRST_STATISTICS_BASELINE",
+  "message_check_not_repeated": true,
+  "message_check_reference": "用户检查-20261010-0958.md",
+  "platforms": [
+    {
+      "platform": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ac8cbbe0000000013018128",
+      "video_views": "UNKNOWN",
+      "post_views": "UNKNOWN",
+      "likes": 1,
+      "comments": 1,
+      "author_replies_excluding_self_first_comment": 0,
+      "visible_self_first_comments": 1,
+      "attributed_new_followers": "UNKNOWN",
+      "source": "当前本人主页及原生笔记详情，共1条评论与THE END",
+      "gap": "creator后台跳登录；www本人主页仍登录并可读。没有登录新账号或读取凭据。"
+    },
+    {
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1dFp86PEYP/",
+      "analytics_url": "https://member.bilibili.com/platform/upload-manager/article/data/BV1dFp86PEYP",
+      "video_views": 11,
+      "post_views": "NOT_APPLICABLE",
+      "likes": 0,
+      "comments": 1,
+      "author_replies_excluding_self_first_comment": "UNKNOWN",
+      "visible_self_first_comments": "UNKNOWN_CURRENT_DETAIL_NOT_LOADED",
+      "attributed_new_followers": 0,
+      "source": "本人作品分析核心数据；趋势图注明更新至10月10日9:24",
+      "gap": "公开页初读10播放，后台读11，取后台；公开评论持续加载，正常刷新一次后仍未读到明细。"
+    },
+    {
+      "platform": "国内抖音",
+      "url": "https://www.douyin.com/video/7694630238197665050",
+      "analytics_url": "https://creator.douyin.com/creator-micro/content/manage",
+      "video_views": 681,
+      "post_views": "NOT_APPLICABLE",
+      "likes": 23,
+      "comments_backend": 0,
+      "comments_public_detail": 1,
+      "comments_confirmed_visible_lower_bound": 1,
+      "author_replies_excluding_self_first_comment": 0,
+      "visible_self_first_comments": 1,
+      "attributed_new_followers": 2,
+      "source": "核本人新号25296649142及作品管理该4:33作品，公开详情1条自评和暂时没有更多评论",
+      "gap": "后台评论0而公开详情1；原因UNKNOWN，不推算平台是否排除自评。",
+      "additional_metrics": {
+        "shares": 5,
+        "favorites": 8,
+        "average_play_fraction": "11.84%"
+      }
+    },
+    {
+      "platform": "微信视频号",
+      "url": "https://channels.weixin.qq.com/platform",
+      "video_views": 520,
+      "post_views": "UNKNOWN",
+      "likes": 0,
+      "comments": 0,
+      "author_replies_excluding_self_first_comment": "UNKNOWN",
+      "attributed_new_followers": "UNKNOWN",
+      "source": "用户本轮提供截图，说明为视频号数据；实际查看附件像素，正片文案及2026-10-09 19:30发布行",
+      "gap": "人类提供的单条数据，非AI后台读取或全部消息覆盖；B002安全拒绝仍保留。",
+      "shares": 4,
+      "recommendations": 3,
+      "metric_labels": "截图眼睛520、爱心0、评论0、分享4、拇指3；喜欢与推荐分列",
+      "screenshot": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-5d784f39-280a-4b7c-be48-e1f79fb3f139.png",
+      "capture_time": "UNKNOWN",
+      "dm_user_report": {
+        "count": 1,
+        "reply_status": "REPLIED_BY_USER",
+        "source": "用户本轮先称还有一个私信，随后答我已经回复了",
+        "sender": "UNKNOWN",
+        "message_time": "UNKNOWN",
+        "content": "UNKNOWN_NOT_READ",
+        "needs_reply": false,
+        "new_since_previous": "UNKNOWN",
+        "notify_again": false
+      }
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=GksDGFRpmGI",
+      "analytics_url": "https://studio.youtube.com/video/GksDGFRpmGI/analytics/tab-overview/period-default",
+      "video_views": 17,
+      "post_views": "NOT_APPLICABLE",
+      "likes": "UNKNOWN_NO_COUNT_OBSERVED",
+      "comments": 0,
+      "author_replies_excluding_self_first_comment": 0,
+      "visible_self_first_comments": 0,
+      "attributed_new_followers": "UNKNOWN_DASH",
+      "source": "本人频道内容该条17观看0评论；单视频分析普通错误正常刷新一次后17观看恢复；互动仅赞比例0.0%，不推算点赞数。"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/",
+      "analytics_url": "https://www.linkedin.com/analytics/post-summary/urn:li:activity:7514287448282058753/",
+      "video_views": 3,
+      "post_impressions": 10,
+      "likes": 0,
+      "comments": 1,
+      "author_replies_excluding_self_first_comment": 0,
+      "visible_self_first_comments": 1,
+      "attributed_new_followers": 0,
+      "source": "本人Post analytics明确Video views3、Impressions10、Reactions0、Comments1、Followers gained0；详情1条作者首评"
+    },
+    {
+      "platform": "X",
+      "url": "https://x.com/cczij1112/status/2108521984112185808",
+      "video_views": "UNKNOWN_NOT_SEPARATELY_SHOWN",
+      "post_views": 45,
+      "likes": 0,
+      "comments": 0,
+      "author_replies_excluding_self_first_comment": 0,
+      "visible_self_first_comments": 0,
+      "attributed_new_followers": "UNKNOWN",
+      "source": "本人账号菜单@cczij1112及精确帖子45查看、0回复、0喜欢，45不归为视频播放。"
+    },
+    {
+      "platform": "微博",
+      "url": "https://weibo.com/7720929036/RlTDsgzMz",
+      "video_views": "UNKNOWN_NOT_SEPARATELY_SHOWN",
+      "post_reads": 15,
+      "likes": 0,
+      "comments": 1,
+      "author_replies_excluding_self_first_comment": 0,
+      "visible_self_first_comments": 1,
+      "attributed_new_followers": "UNKNOWN",
+      "source": "本人UID7720929036帖子15阅读，转评赞0/1/0，已加载全部评论仅作者首评。"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@elimakesapps/video/7694631263205870868",
+      "analytics_url": "https://www.tiktok.com/tiktokstudio/content",
+      "video_views": 74,
+      "post_views": "NOT_APPLICABLE",
+      "likes": 0,
+      "comments_backend": 0,
+      "comments_confirmed_visible_lower_bound": 1,
+      "author_replies_excluding_self_first_comment": "UNKNOWN_DETAIL_NOT_READ",
+      "visible_self_first_comments": 1,
+      "attributed_new_followers": "UNKNOWN",
+      "source": "Studio本人/@elimakesapps作品管理该4:32作品74观看0赞0评论；Studio首页最新评论实际可见本人完整访谈视频可私我",
+      "gap": "公开详情空壳刷新一次仍不可读，正常Studio可读；后台0与首页实际自评1不一致，原因UNKNOWN。"
+    }
+  ],
+  "lower_bounds": {
+    "video_views": 1306,
+    "likes": 24,
+    "attributed_new_followers": 2,
+    "comments_including_confirmed_self_comments": 6,
+    "author_replies_excluding_self_first_comments": 0
+  },
+  "totals_coverage": {
+    "video_views": "6/9",
+    "likes": "8/9",
+    "attributed_new_followers": "3/9",
+    "comment_count_or_visible_lower_bound": "9/9 count or visible floor",
+    "reply_count_excluding_self_first_comments": "6/9",
+    "some_analytics": "8/9 browser + 1/9 human screenshot"
+  },
+  "non_video_metrics": {
+    "X_post_views": 45,
+    "Weibo_reads": 15,
+    "LinkedIn_impressions": 10
+  },
+  "cautions": [
+    "不同口径浏览/阅读/曝光不与视频播放混加",
+    "下限并非完整总数或去重人数",
+    "当前本次仅访谈正片；人生指南与图文预告单列后续作品基线",
+    "平台后台同步延迟或自评计数口径原因均UNKNOWN",
+    "未发送回复、评论或私信，未发布或修改任何作品",
+    "当前私信巡检结果沿用09:57，非本次全量消息复核",
+    "视频号补录与其他8站不是同一时刻实时总数；520新增可读覆盖不是本视频相较前次新增520观看",
+    "视频号1条私信本人确认已经回复，内容未读，不能推导无其他未读消息。"
+  ],
+  "extra_current_observations_not_in_latest_video_total": [
+    {
+      "platform": "国内抖音",
+      "content": "人生指南",
+      "url": "UNKNOWN_CURRENT_LIST_HAS_TITLE_NO_POST_URL_EXTRACTED",
+      "video_views": 653,
+      "likes": 10,
+      "comments_backend": 0,
+      "attributed_new_followers": 0,
+      "source": "本轮作品管理同页"
+    },
+    {
+      "platform": "国内抖音",
+      "content": "访谈图文预告",
+      "url": "https://www.douyin.com/note/7694562191479593466",
+      "image_post_platform_play_label": 1798,
+      "likes": 16,
+      "comments_backend": 3,
+      "attributed_new_followers": 0,
+      "source": "本轮作品管理1张图文；不算视频播放"
+    },
+    {
+      "platform": "TikTok",
+      "content": "人生指南",
+      "url": "https://www.tiktok.com/@elimakesapps/video/7694304622604717330",
+      "video_views": 138,
+      "likes": 2,
+      "comments_backend": 0,
+      "source": "本轮作品管理同页"
+    }
+  ],
+  "artifacts": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/评论私信巡检/数据补录-视频号-20261010-1021.json"
+  ],
+  "supplement_received_at": "2026-10-10T10:20:41+08:00",
+  "previous_snapshot": "数据基线-20261010-1017.json"
+}

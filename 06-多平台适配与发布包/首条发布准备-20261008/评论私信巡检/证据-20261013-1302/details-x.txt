@@ -1,0 +1,52 @@
+- button "Grok":
+- button "聊天":
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+
+  - navigation "主要":
+    - link "主页":
+
+      - generic: 主页
+    - link "搜索和发现":
+
+      - generic: 探索
+    - link "提醒（6 条未读 提醒）":
+
+      - generic "6 条未读项目":
+        - generic: "6"
+      - generic: 通知
+    - link "私信":
+
+      - generic: 聊天
+    - link "呼叫":
+
+      - generic: 呼叫
+    - link "Grok":
+
+      - generic "undefined 条未读项目"
+      - generic: Grok
+    - link "历史":
+
+      - generic: 历史
+    - link "Premium":
+
+      - generic: Premium
+    - link "个人资料":
+
+      - generic: 个人资料
+    - button "更多菜单项":
+      - generic: 更多
+  - link "发帖":
+
+    - generic: 发帖
+  - button "账号菜单":
+    - generic "Eli-AI":
+      - img "Eli-AI"
+    - generic: Eli-AI
+    - generic: "@cczij1112"
+- main:
+  - generic "主页时间线":
+    - button "返回":
+    - heading "帖子" [level=2]
+    - progressbar "加载中":

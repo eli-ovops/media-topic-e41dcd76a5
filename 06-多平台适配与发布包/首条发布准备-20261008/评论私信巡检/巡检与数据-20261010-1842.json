@@ -1,0 +1,463 @@
+{
+  "automation_id": "9",
+  "trigger": "2026-10-10T10:38:39.655Z",
+  "observed_window": "2026-10-10 18:39—18:42 Asia/Shanghai",
+  "ended_at": "2026-10-10T18:42:58+08:00",
+  "status": "PARTIAL_PRIORITY_TASK_CONFLICT",
+  "reason": "PMO同Owner两次明确要求安全停止旧巡检，优先用户已确认形象短片eli-brand-intro-20261010待发准备；不是全部9站巡检完成，不改自动化配置",
+  "contents": [
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "访谈正片",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6ac8cbbe0000000013018128",
+          "video_views": "UNKNOWN",
+          "likes": 1,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮creator Eli AI FDE本人笔记管理明确标题：正片眼睛268/评论1/心1；指南眼睛99/0/0；仅笔记浏览，私信未查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": "UNKNOWN",
+              "post_browse": 258,
+              "likes": 1,
+              "comments": 1,
+              "author_replies": "UNKNOWN",
+              "attributed_followers": "UNKNOWN"
+            }
+          },
+          "post_browse": 268,
+          "delta_post_browse": 10
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1dFp86PEYP/",
+          "video_views": 121,
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮刷新本人既有正片分析，匹配作品标题和BV1dFp86PEYP，播放分析总播放121。尚未重读核心点赞/评论/归因关注。",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": 12,
+              "likes": 0,
+              "comments": 1,
+              "author_replies": "UNKNOWN",
+              "attributed_followers": 0
+            }
+          },
+          "delta_video_views": 109
+        },
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/video/7694630238197665050",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮creator入口仍加载，收到优先任务请求后未继续刷新或读数据",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": 741,
+              "likes": 25,
+              "comments_backend": 0,
+              "author_replies": "UNKNOWN",
+              "attributed_followers": 3
+            }
+          }
+        },
+        {
+          "platform": "微信视频号",
+          "url": "https://channels.weixin.qq.com/platform",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "B002安全拒绝未访问；旧520/214非本轮实测",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": "UNKNOWN",
+              "likes": "UNKNOWN",
+              "comments": "UNKNOWN",
+              "author_replies": "UNKNOWN",
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=GksDGFRpmGI",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": 18,
+              "likes": "UNKNOWN",
+              "comments": 0,
+              "author_replies": 0,
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": 4,
+              "post_impressions": 14,
+              "likes": 0,
+              "comments": 1,
+              "author_replies": "UNKNOWN",
+              "attributed_followers": 0
+            }
+          }
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/cczij1112/status/2108521984112185808",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": "UNKNOWN",
+              "post_views": "UNKNOWN",
+              "likes": "UNKNOWN",
+              "comments": "UNKNOWN",
+              "author_replies": "UNKNOWN",
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "微博",
+          "url": "https://weibo.com/7720929036/RlTDsgzMz",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": "UNKNOWN",
+              "post_reads": 15,
+              "likes": 0,
+              "comments": 1,
+              "author_replies": 0,
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694631263205870868",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮Studio新页ERR_ABORTED后收到优先任务请求，未再恢复/未读取",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": 77,
+              "likes": 0,
+              "comments_backend": 0,
+              "author_replies": "UNKNOWN",
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "content_id": "first-video-life-guide-visual-fix-v7",
+      "variant": "人生指南",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6ac7a0a3000000001b02ddd6",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮creator Eli AI FDE本人笔记管理明确标题：正片眼睛268/评论1/心1；指南眼睛99/0/0；仅笔记浏览，私信未查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": "UNKNOWN",
+              "post_browse": 99,
+              "likes": 0,
+              "comments": 0,
+              "attributed_followers": "UNKNOWN"
+            }
+          },
+          "post_browse": 99,
+          "delta_post_browse": 0
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1mgH96DEyt/",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": 15,
+              "likes": 0,
+              "comments": 0,
+              "attributed_followers": 0
+            }
+          }
+        },
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/video/7694290083091926287",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮creator入口仍加载，收到优先任务请求后未继续刷新或读数据",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": 653,
+              "likes": 10,
+              "comments_backend": 0,
+              "attributed_followers": 0
+            }
+          }
+        },
+        {
+          "platform": "微信视频号",
+          "url": null,
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "B002安全拒绝未访问；旧520/214非本轮实测",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": "UNKNOWN",
+              "likes": "UNKNOWN",
+              "comments": "UNKNOWN",
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/shorts/Yx4IuJe1eSs",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": 0,
+              "video_views": 4,
+              "likes": "UNKNOWN",
+              "comments": 0,
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513959413427179522/",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": "UNKNOWN",
+              "post_impressions": 25,
+              "likes": 0,
+              "comments": 0,
+              "attributed_followers": 1
+            }
+          }
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/cczij1112/status/2108190823007539236",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": "UNKNOWN",
+              "post_views": "UNKNOWN",
+              "likes": "UNKNOWN",
+              "comments": "UNKNOWN",
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "微博",
+          "url": "https://weibo.com/7720929036/RlL0WwIyR",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮因PMO新形象片优先准备请求暂停巡检，此站未完成复查",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": 0,
+              "video_views": 12,
+              "post_reads": 126,
+              "likes": 0,
+              "comments": 0,
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694304622604717330",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮Studio新页ERR_ABORTED后收到优先任务请求，未再恢复/未读取",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "author_replies": "UNKNOWN",
+              "video_views": 138,
+              "likes": 2,
+              "comments_backend": 0,
+              "attributed_followers": "UNKNOWN"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "抖音图文预告",
+      "platforms": [
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/note/7694562191479593466",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "source": "本轮creator入口仍加载，收到优先任务请求后未继续刷新或读数据",
+          "last_known": {
+            "snapshot": "巡检与数据-20261010-1447.json",
+            "observed_window": "2026-10-10 14:37—14:46 Asia/Shanghai",
+            "metrics": {
+              "video_views": "NOT_APPLICABLE_IMAGE_POST",
+              "post_browse": 1823,
+              "likes": 16,
+              "comments_backend": 3,
+              "attributed_followers": 0,
+              "author_replies": "UNKNOWN"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "monitor": {
+    "new_dm": "UNKNOWN_NOT_CHECKED_THIS_RUN",
+    "new_comments": "UNKNOWN_NOT_CHECKED_THIS_RUN",
+    "dm_lists_read": "0/9",
+    "unread_platforms": "9/9近期消息本轮未读",
+    "old_pending": "小红书1旧合作仅历史基线；视频号1私信已回为人类旧确认"
+  },
+  "fresh_lower_bounds": {
+    "main_video_views": 121,
+    "main_video_coverage": "1/9",
+    "main_likes": 1,
+    "main_likes_coverage": "1/9",
+    "main_comments": 1,
+    "main_comments_coverage": "1/9",
+    "main_attributed_followers": "UNKNOWN",
+    "main_author_replies": "UNKNOWN",
+    "guide_video_views": "UNKNOWN",
+    "guide_likes": 0,
+    "guide_comments": 0,
+    "guide_coverage": "小红书1/9笔记浏览/互动，视频未核"
+  },
+  "external_messages_sent": false
+}

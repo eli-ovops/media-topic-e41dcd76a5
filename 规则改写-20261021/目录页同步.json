@@ -1,0 +1,65 @@
+{
+  "old_pid": 26708,
+  "new_pid": 43722,
+  "command_verified": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python serve.py",
+  "cwd_verified": "/Volumes/EXTERNAL/自媒体/资产库/视频制作总览",
+  "same_url": "http://127.0.0.1:59814/",
+  "reason": "Reload exact allowlist after authorized existing Skill/document changes to prevent stale409 links",
+  "catalog_stats": {
+    "records": 358,
+    "fred_preview_records": 333,
+    "fred_preview_unique_ids": 331,
+    "fred_current_catalog_records": 316,
+    "fred_current_matched_ids": 311,
+    "fred_catalog_extra_records": 5,
+    "archived_only_ids": 20,
+    "sy_mechanisms": 20,
+    "sy_source_variants": 40,
+    "local_preview_files": 333,
+    "call_cards": 333,
+    "records_with_source": 358,
+    "skill_entries": 33,
+    "skill_locations": 63,
+    "skill_unique_files": 58,
+    "missing_references": 0,
+    "hash_mismatches": 0,
+    "current_catalog_with_installed_sources": 211,
+    "current_catalog_using_archive_sources": 105
+  },
+  "changed_entry_checks": [
+    {
+      "skill": "fred-remotion-output",
+      "entry": "/Users/USER/.codex/skills/fred-remotion-output/SKILL.md",
+      "status": 200,
+      "sha256_match": true,
+      "marker": "ELI-PRODUCTION-20261021-v3"
+    },
+    {
+      "skill": "fred-remotion-output",
+      "entry": "/Volumes/EXTERNAL/自媒体/.agents/skills/fred-remotion-output/SKILL.md",
+      "status": 200,
+      "sha256_match": true,
+      "marker": "ELI-PRODUCTION-20261021-v3"
+    },
+    {
+      "skill": "eli-media-workflow",
+      "entry": "/Users/USER/.codex/skills/eli-media-workflow/SKILL.md",
+      "status": 200,
+      "sha256_match": true,
+      "marker": "CODEX-MEDIA-20261021-v2"
+    },
+    {
+      "skill": "eli-media-workflow",
+      "entry": "/Volumes/EXTERNAL/自媒体/.agents/skills/eli-media-workflow/SKILL.md",
+      "status": 200,
+      "sha256_match": true,
+      "marker": "CODEX-MEDIA-20261021-v2"
+    },
+    {
+      "guide": "固定制作方法",
+      "status": 200,
+      "marker": "ELI-PRODUCTION-20261021-v3"
+    }
+  ],
+  "original_rule_read_receipt_unchanged": true
+}

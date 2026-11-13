@@ -1,0 +1,165 @@
+- region "Toast message":
+  - heading "0 notifications total" [level=2]
+  - alert
+- region
+- button "Skip to search":
+  - generic: Skip to search
+- button "Skip to main content":
+  - generic: Skip to main content
+- button "Keyboard shortcuts":
+  - generic: Keyboard shortcuts
+- button "Close jump menu":
+  - generic: Close jump menu
+- banner "Global Navigation":
+  - link "LinkedIn":
+
+    - img "LinkedIn":
+  - combobox "Search"
+  - navigation "Primary Navigation":
+    - list:
+      - link "new feed updates notifications Home":
+
+        - generic: new feed updates notifications
+        - generic "Home"
+      - link "2 new network updates notifications Network":
+
+        - generic: "2"
+        - generic: 2 new network updates notifications
+        - generic "Network"
+      - link "Jobs":
+
+        - generic "Jobs"
+      - link "Messaging":
+
+        - generic "Messaging"
+      - link "Notifications":
+
+        - generic "Notifications"
+      - button "ELi Chao Me":
+        - img "ELi Chao"
+        - text: Me
+      - button "For Business":
+        - generic "For Business":
+          - text: For Business
+      - link "Try Premium for ¥0":
+
+        - generic: Try Premium for ¥0
+- main:
+  - heading "Messaging" [level=1]
+  - generic: Search messages
+  - searchbox "Search messages"
+  - button "See more messaging options":
+  - button "Compose a new message":
+    - generic: Compose a new message
+  - button "Focused" [expanded]:
+    - text: Focused
+  - list:
+    - button "Focused"
+    - button "Other"
+    - button "Archived"
+    - button "Spam"
+  - radiogroup:
+    - button "Jobs"
+    - button "Unread"
+    - button "Connections"
+    - button "InMail"
+    - button "Starred"
+  - link "Jump to active conversation details":
+
+    - generic: Jump to active conversation details
+  - heading "Conversation List" [level=2]
+  - generic: Attention screen reader users, messaging items continuously update. Please use the tab and shift + tab keys instead of your up and down arrow keys to navigate between messaging items.
+  - list "Conversation List":
+    - img "The LinkedIn Team"
+    - checkbox "Select conversation with The LinkedIn Team"
+    - generic "Select conversation with The LinkedIn Team"
+    - heading "The LinkedIn Team" [level=3]:
+      - generic: The LinkedIn Team
+    - time: Oct 5
+    - generic: Oct 5
+    - paragraph:
+      - generic: via LinkedIn
+      - text: • Welcome to LinkedIn! 3 important tips to get you started.
+    - img "Star conversation"
+    - generic: . Active conversation
+    - generic: . Press return to go to conversation details
+    - button "Open the options list in your conversation with The LinkedIn Team and ELi Chao":
+      - generic: Open the options list in your conversation with The LinkedIn Team and ELi Chao
+  - term:
+    - heading "The LinkedIn Team" [level=2]
+  - definition: Product Team at LinkedIn
+  - button "Open the options list in your conversation with The LinkedIn Team and ELi Chao":
+    - generic: Open the options list in your conversation with The LinkedIn Team and ELi Chao
+  - button "Star conversation":
+  - list:
+    - time: Oct 5
+    - generic: The LinkedIn Team sent the following messages at 12:35 AM
+    - generic: View The LinkedIn’s profile
+    - img "The LinkedIn Team"
+    - generic: The LinkedIn Team
+    - time: • 12:35 AM
+    - heading "Welcome to LinkedIn! 3 important tips to get you started." [level=3]
+    - paragraph:
+      - text: Hi Eli,
+      - text: "Welcome to LinkedIn! I work with the LinkedIn team to help new members get started. Here’s 3 ways to get the most out of LinkedIn:"
+      - text: ✏️
+      - link "Add your education or work experience":
+
+      - text: ": Adding this will help connect you with relevant people and jobs on LinkedIn."
+      - text: 💼
+      - link "Looking for a new job":
+
+      - text: "? Update your job preferences to find jobs that match your interests."
+      - text: 🧠
+      - link "Want to stay updated with your network":
+
+      - text: "? Connect with alumni, coworkers, and other people you know to see their professional updates."
+      - text: Need more help?
+      - link "Try searching a question on LinkedIn Help":
+
+      - text: Whitney from The LinkedIn Team
+  - status:
+    - generic: Replies are not enabled for this message
+- complementary:
+  - iframe:
+    - link "Advertise on LinkedIn":
+
+      - img "Advertise on LinkedIn"
+  - generic "LinkedIn Footer Content":
+    - list:
+      - link "About":
+
+        - generic: About
+      - link "Accessibility":
+
+        - generic: Accessibility
+      - link "Help Center":
+
+        - generic: Help Center
+      - button "Privacy & Terms":
+        - text: Privacy & Terms
+      - link "Ad Choices":
+
+        - generic: Ad Choices
+      - link "Advertising":
+
+        - generic: Advertising
+      - button "Business Services":
+        - text: Business Services
+      - button "Get the LinkedIn app"
+      - button "More options": More
+    - img "LinkedIn":
+    - text: LinkedIn Corporation © 2026
+- complementary:
+  - img "ELi Chao"
+  - generic: Status is online
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: Messaging
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+  - button "Open messenger dropdown menu":
+    - img "Open messenger dropdown menu"
+  - button "Compose message":
+    - generic: Compose message
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+- complementary "AI-powered assistant to get help with your career, jobs etc"

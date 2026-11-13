@@ -1,0 +1,48 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-21T01:41:18.234755+08:00",
+  "decision": "ACCEPT_LIMITED_OWNER_NATIVE_FIELD_RECORD",
+  "owner_report_actually_received": true,
+  "report": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261021-0138.md",
+    "sha256": "5d0053f24bb2a1c3b182185a0627d74219ef4938edc8472d8d54fcefface503d"
+  },
+  "data": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261021-0138.json",
+    "sha256": "b6c2a578aa949068db8829310d3542aa1ff5f09410701c0a1b70e10e1f1d6662"
+  },
+  "review": "PMO已读Owner逐平台字段、作品标识、覆盖边界和私信去重，并核合计；本轮未重开各站，不冒充独立原生页面复核。",
+  "latest_video_views_partial_sum": 447,
+  "numeric_video_coverage": 6,
+  "checks": {
+    "latest_arithmetic": true,
+    "older_work_same_three_sums": true,
+    "excluded_post_views_reads_impressions": true,
+    "unknown_not_zero": true,
+    "youtube_issue_excluded_not_pending": true,
+    "video_account_data_not_read": true,
+    "owner_own_comments_not_new_audience_signal": true,
+    "dm_mar_sexpress_already_handled_not_new_pending": true
+  },
+  "display": "平台｜播放｜点赞｜收藏｜评论，仅累计；不展示增量或增长列",
+  "limits": [
+    "六站播放合计非全平台总量",
+    "私信和关注覆盖不完整",
+    "来源为Owner本轮原生字段记录，PMO未逐站复访",
+    "不据312次播放或单条跳出率归因动效"
+  ],
+  "automation_observation": {
+    "id": "9",
+    "config_status": "ACTIVE",
+    "config_updated_at": 1792480357811,
+    "target_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+    "config_sha256": "4ac12e913287c95a8a5dd8d142d2a5af0c583f6d25a898bb04bdb8c6a8311d28",
+    "prompt_declares_user_authorized_20261020": true,
+    "current_observation_not_a_new_approval_or_resume": true,
+    "config_mutated": false,
+    "other_automations_not_checked": true
+  },
+  "new_production_or_publication_authorized": false,
+  "disk_cleanup_remains_paused": true
+}

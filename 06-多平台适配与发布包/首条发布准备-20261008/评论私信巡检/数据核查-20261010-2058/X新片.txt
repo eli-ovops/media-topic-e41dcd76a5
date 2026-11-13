@@ -1,0 +1,174 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "聊天":
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "主要":
+    - link "主页":
+      - /url: /home
+      - generic: 主页
+    - link "搜索和发现":
+      - /url: /explore
+      - generic: 探索
+    - link "通知":
+      - /url: /notifications
+      - generic: 通知
+    - link "私信":
+      - /url: /i/chat
+      - generic: 聊天
+    - link "呼叫":
+      - /url: /i/calls
+      - generic: 呼叫
+    - link "Grok":
+      - /url: /i/grok
+      - generic "undefined 条未读项目"
+      - generic: Grok
+    - link "历史":
+      - /url: /i/history
+      - generic: 历史
+    - link "创作者工作室":
+      - /url: /i/jf/creators/studio
+      - generic: 创作者工作室
+    - link "Premium":
+      - /url: /i/premium_sign_up
+      - generic: Premium
+    - link "个人资料":
+      - /url: /cczij1112
+      - generic: 个人资料
+    - button "更多菜单项":
+      - generic: 更多
+  - link "发帖":
+    - /url: /compose/post
+    - generic: 发帖
+  - button "账号菜单":
+    - generic "Eli-AI":
+      - img "Eli-AI"
+    - generic: Eli-AI
+    - generic: "@cczij1112"
+- main:
+  - generic "主页时间线":
+    - button "返回":
+    - heading "帖子" [level=2]
+    - status:
+      - button:
+        - generic: 查看新帖子
+    - region "对话":
+      - heading "对话" [level=1]
+      - generic "时间线：对话":
+        - 'article "Eli-AI @cczij1112 把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE 嵌入式视频 播放 视频. 时长为 15秒钟 0:15"':
+          - link [active]:
+            - /url: /cczij1112
+          - link "Eli-AI":
+            - /url: /cczij1112
+            - generic: Eli-AI
+          - link "@cczij1112":
+            - /url: /cczij1112
+            - generic: "@cczij1112"
+          - button "Grok 操作":
+          - button "更多":
+          - text: 把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。
+          - link "#AI":
+            - /url: /hashtag/AI?src=hashtag_click
+          - link "#人工智能":
+            - /url: /hashtag/人工智能?src=hashtag_click
+          - link "#AI工具":
+            - /url: /hashtag/AI工具?src=hashtag_click
+          - link "#AI實用技巧":
+            - /url: /hashtag/AI實用技巧?src=hashtag_click
+          - link "#Agent":
+            - /url: /hashtag/Agent?src=hashtag_click
+          - link "#FDE":
+            - /url: /hashtag/FDE?src=hashtag_click
+          - generic "嵌入式视频"
+          - button "播放 视频. 时长为 15秒钟"
+          - progressbar:
+          - generic: 0:15
+          - link "下午8:51 · 2026年10月10日":
+            - /url: /cczij1112/status/2108903205312905231
+            - time: 下午8:51 · 2026年10月10日
+          - generic: ·
+          - link "1 查看":
+            - /url: /cczij1112/status/2108903205312905231/analytics
+            - generic: "1"
+            - generic: 查看
+          - group "1 次观看":
+            - button "0 回复。回复":
+            - button "0 次转帖。转帖":
+            - button "0 喜欢次数。喜欢":
+            - button "0 书签。加入书签":
+            - button "分享帖子":
+        - link "Eli-AI":
+          - /url: /cczij1112
+          - generic "Eli-AI":
+            - img "Eli-AI"
+        - generic: 发布你的回复
+        - textbox "帖子文本"
+        - button "回复" [disabled]:
+          - generic: 回复
+  - generic "当前趋势":
+    - search "搜索":
+      - combobox "查询词条"
+    - complementary "相关用户":
+      - heading "相关用户" [level=2]:
+        - generic: 相关用户
+      - list:
+        - link:
+          - /url: /cczij1112
+        - link "Eli-AI":
+          - /url: /cczij1112
+          - generic: Eli-AI
+        - link "@cczij1112":
+          - /url: /cczij1112
+          - generic: "@cczij1112"
+        - generic: AI｜Agent｜FDE 实用方法 · 真实案例 · 踩坑分享
+    - region "当前趋势":
+      - heading "当前趋势" [level=1]
+      - generic "时间线：当前趋势":
+        - heading "有什么新鲜事" [level=2]:
+          - generic: 有什么新鲜事
+        - link "めのため、未来のため Zoffと目の愛護デー！タップをしてみると・・・？ Promoted by Zoff_INFO 更多":
+          - generic: めのため、未来のため
+          - generic: Zoffと目の愛護デー！タップをしてみると・・・？
+          - generic: Promoted by Zoff_INFO
+          - button "更多":
+        - 'link "流行音乐 趋势 #オールスター感謝祭2026秋 更多"':
+          - generic: 流行音乐 趋势
+          - generic: "#オールスター感謝祭2026秋"
+          - button "更多":
+        - link "日本 的趋势 カラフィオーリ 更多":
+          - generic: 日本 的趋势
+          - generic: カラフィオーリ
+          - button "更多":
+        - link "日本 的趋势 アーセナル 更多":
+          - generic: 日本 的趋势
+          - generic: アーセナル
+          - button "更多":
+        - link "显示更多":
+          - /url: /explore/tabs/for-you
+          - generic: 显示更多
+    - navigation "页脚":
+      - link "条款":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "隐私":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookie":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "辅助功能":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "广告信息":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "更多":
+        - text: 更多
+      - generic: © 2026 X Corp.

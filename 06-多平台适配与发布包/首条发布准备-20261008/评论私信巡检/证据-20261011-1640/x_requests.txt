@@ -1,0 +1,21 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner
+- main:
+  - generic "主页时间线":
+    - button "返回":
+    - generic: 私信请求
+    - button "其它":
+      - generic: 其它
+    - generic: 无私信请求
+    - generic: 你暂无来自自己社交圈账号的私信请求
+    - generic: 开始对话
+    - generic: 从现有对话中选择，或者开始新的对话。
+    - button "新聊天":
+      - generic: 新聊天
+    - region "Notifications alt+T"
+- region "Notifications alt+T"

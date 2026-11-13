@@ -1,0 +1,53 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+
+- button "Grok":
+- button "聊天":
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner
+- main:
+  - generic "主页时间线":
+    - heading "通知" [level=2]
+    - link "设置":
+
+    - navigation "通知时间线":
+      - button "上一个" [disabled]:
+      - tablist:
+        - tab "全部" [selected]:
+          - generic: 全部
+        - tab "提及":
+          - generic: 提及
+      - button "下一步" [disabled]:
+    - status:
+      - button:
+        - generic: 查看新帖子
+    - generic: 出错了。请尝试重新加载。
+    - button "重试":
+      - generic: 重试
+  - generic "当前趋势":
+    - search "搜索":
+      - combobox "查询词条"
+    - generic: 出错了。请尝试重新加载。
+    - button "重试":
+      - generic: 重试
+    - navigation "页脚":
+      - link "条款":
+
+      - generic: ·
+      - link "隐私":
+
+      - generic: ·
+      - link "Cookie":
+
+      - generic: ·
+      - link "辅助功能":
+
+      - generic: ·
+      - link "广告信息":
+
+      - generic: ·
+      - button "更多":
+        - text: 更多
+      - generic: © 2026 X Corp.

@@ -1,0 +1,73 @@
+{
+  "final_html_sha256": "28667f94526b7a106cfc6b98c377649203a03b8c911c954c55bc1ed0c941fe57",
+  "source_dimensions": {
+    "cost-excerpt.jpg": [
+      654,
+      244
+    ],
+    "toc-excerpt.jpg": [
+      234,
+      434
+    ],
+    "source-excerpt.jpg": [
+      654,
+      120
+    ],
+    "github-excerpt.jpg": [
+      844,
+      224
+    ],
+    "chapter-excerpt.jpg": [
+      660,
+      590
+    ]
+  },
+  "border_pixel_measurements": {
+    "957": {
+      "seconds": 31.9,
+      "detected_green_border_bbox": null,
+      "method": "RGB tolerance 24, expected perimeter search; approximate JPEG pixels, no OCR"
+    },
+    "966": {
+      "seconds": 32.2,
+      "detected_green_border_bbox": [
+        129,
+        316,
+        767,
+        426
+      ],
+      "method": "RGB tolerance 24, expected perimeter search; approximate JPEG pixels, no OCR"
+    },
+    "975": {
+      "seconds": 32.5,
+      "detected_green_border_bbox": [
+        129,
+        316,
+        767,
+        426
+      ],
+      "method": "RGB tolerance 24, expected perimeter search; approximate JPEG pixels, no OCR"
+    },
+    "1000": {
+      "seconds": 33.333333333333336,
+      "detected_green_border_bbox": [
+        130,
+        316,
+        766,
+        425
+      ],
+      "method": "RGB tolerance 24, expected perimeter search; approximate JPEG pixels, no OCR"
+    },
+    "1005": {
+      "seconds": 33.5,
+      "detected_green_border_bbox": [
+        518,
+        309,
+        519,
+        309
+      ],
+      "method": "RGB tolerance 24, expected perimeter search; approximate JPEG pixels, no OCR"
+    }
+  },
+  "new_media_bytes": 2934080
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-08 Asia/Shanghai",
+  "version": "v6-retry",
+  "published_user_report": [
+    "B站",
+    "YouTube",
+    "微博"
+  ],
+  "publications_by_agent": 0,
+  "platforms": [
+    {
+      "platform": "B站",
+      "status": "已发",
+      "reason": "用户告知已手动发送；本轮未修改",
+      "publications_by_agent": 0
+    },
+    {
+      "platform": "YouTube",
+      "status": "已发",
+      "reason": "用户告知已手动发送；本轮未修改",
+      "publications_by_agent": 0
+    },
+    {
+      "platform": "微博",
+      "status": "已发",
+      "reason": "用户告知已手动发送；本轮未修改",
+      "publications_by_agent": 0
+    },
+    {
+      "platform": "国内抖音",
+      "status": "未发，暂存稿已保存",
+      "reason": "刷新重传后有预览；横竖双封面、标题、正文及6标签保存后重开保留。原声；平台音乐功能仅关联信息，作品检测人数过多。",
+      "publications_by_agent": 0,
+      "tab_id": "3",
+      "url": "https://creator.douyin.com/creator-micro/content/post/video?enter_from=draft",
+      "page_observation": "- complementary:\n  - button \"作品发布\":\n    - generic: 作品发布\n  - menu:\n    - menuitem \"首页\":\n      - generic: 首页\n    - menuitem \"内容管理\":\n      - generic: 内容管理\n    - menuitem \"收入变现\":\n      - generic: 收入变现\n    - menuitem \"创作服务\":\n      - generic: 创作服务\n- navigation \"智能创作\":\n  - button \"首页\":\n    - text: 首页\n  - button \"AI分身\": AI分身\n  - button \"随变\": 随变\n  - button \"世界书\": 世界书\n  - button \"AI工坊\": AI工坊\n- generic: 基础信息\n- generic: 作品描述\n- textbox \"填写作品标题，为作品获得更多流量\": GitHub这份《高性价比人生指南》，先存目录\n- generic: 23/30\n- generic: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。\n- generic: \"#GitHub\"\n- generic: \"#高性价比人生指南\"\n- generic: \"#免费资源\"\n- generic: \"#资料分享\"\n- generic: \"#自我提升\"\n- generic: \"#AI工具\"\n- generic: \"#添加话题\"\n- generic: \"@好友\"\n- generic: 135 / 1000\n- generic: 推荐\n- generic: \"#新媒体运营\"\n- generic: \"#rap\"\n- generic: \"#闲鱼\"\n- generic: \"#英语语法\"\n- generic: \"#聊电商\"\n- generic: \"#签证\"\n- generic: \"+14\"\n- generic: 官方活动\n- generic: 我的长长长假\n- generic: 热度：2.9k\n- generic: 寡门门主脱单卡池\n- generic: 热度：283\n- generic: 秦昊Jeff邀你定格光阴的模样\n- generic: 热度：386\n- generic: 设置封面\n- generic: 竖封面3:4\n- generic: 横封面4:3\n- generic: 封面效果检测通过\n- generic: Ai智能推荐封面生成中...\n- generic: 生成中\n- generic: 好封面会吸引更多人浏览作品优质封面示例\n- generic: 添加合集\n- generic: 合集\n- generic: 请选择合集\n- generic: 自主声明\n- generic: 请选择自主声明\n- generic: 扩展信息\n- text: \"* * *\"\n- generic: 添加标签\n- generic: 位置\n- generic: 输入地理位置\n- generic: 关联热点\n- generic: 点击输入热点词\n- generic: 发布设置\n- generic: 谁可以看\n- checkbox \"公开\" [checked]\n- generic: 公开\n- checkbox \"好友可见\"\n- generic: 好友可见\n- checkbox \"仅自己可见\"\n- generic: 仅自己可见\n- generic: 保存权限\n- checkbox \"允许\" [checked]\n- generic: 允许\n- checkbox \"不允许\"\n- generic: 不允许\n- generic: 发布时间\n- checkbox \"立即发布\" [checked]\n- generic: 立即发布\n- checkbox \"定时发布\"\n- generic: 定时发布\n- generic: 快速填写\n- button \"发布\"\n- button \"暂存离开\"\n- generic: 点击发布后，如作品还在上传中，请勿关闭页面，等待上传发布完成。\n- text: 预览视频\n- generic: 预览封面/标题\n- slider\n- generic: \"@Eli-Ai\"\n- generic: \"GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n- generic: 展开\n- generic: Eli-Ai创作的原声 - @Eli-Ai Eli-Ai创作的原声 - @Eli-Ai Eli-Ai创作的原声 - @Eli-Ai\n- generic: Eli-Ai创作的原声 - @Eli-Ai Eli-Ai创作的原声 - @Eli-Ai Eli-Ai创作的原声 - @Eli-Ai\n- generic: 添加音乐\n- button:\n- generic: 重新上传\n- paragraph:\n  - generic: 发文助手\n- paragraph:\n  - text: 快速检测\n- generic: 作品检测失败\n- paragraph: 抱歉，当前检测人数过多，请稍后再试\n- generic: 封面检测通过\n- generic: 暂未发现封面低质问题\n- paragraph: 重新检测\n- paragraph:",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/国内抖音-重试最终页面.jpg"
+    },
+    {
+      "platform": "小红书",
+      "status": "未发，上传受阻",
+      "reason": "重传后停10%；标题正文6标签已填。封面上传选择器两次超时，未设置；未存稿。",
+      "publications_by_agent": 0,
+      "tab_id": "4",
+      "url": "https://creator.xiaohongshu.com/publish/publish?from=homepage&target=video&openFilePicker=true",
+      "page_observation": "- button \"打开创作助手\":\n- generic: 创作服务平台\n- generic: Eli AI FDE\n- main:\n  - generic: 发布笔记\n  - generic: 首页\n  - generic: 笔记管理\n  - generic: Builder hub\n  - generic: 小工具\n  - generic: Red Skill\n  - generic: 数据看板\n  - generic: 活动中心\n  - generic: 笔记灵感\n  - generic: 创作学院\n  - generic: 创作百科\n  - generic: 收起侧边栏\n  - generic: 视频文件\n  - text: 取消上传\n  - button \"Choose File\"\n  - generic: 人生指南-视觉修订-定框淡入-中英双语-v7.mp4\n  - generic: 上传中 10%\n  - generic: 当前速度：2.74MB/s\n  - generic: 剩余时间：25s\n  - generic: 设置封面\n  - generic: PK封面\n  - checkbox\n  - generic: 默认截取第一帧作为封面，优质的封面会吸引更多人浏览笔记\n  - generic: 优质封面示例\n  - generic: 设置封面\n  - generic: 遇到问题?\n  - generic: 智能推荐封面生成中，请稍等\n  - img \"loading\"\n  - img \"loading\"\n  - img \"loading\"\n  - textbox \"填写标题会有更多赞哦\": GitHub高性价比人生指南\n  - generic: 智能标题\n  - textbox:\n    - paragraph: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n    - paragraph: 租房、换工作、学技能，不知道先查什么？\n    - paragraph: 这份《高性价比人生指南》，可以按自己的问题翻对应章节。\n    - paragraph: 我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。\n    - paragraph: 先存目录，需要时再翻。想要整理好的文档，评论「指南」。\n    - paragraph\n    - paragraph: \"#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n  - generic: \"#生活美学\"\n  - generic: \"#日常文案\"\n  - generic: \"#人生的意义\"\n  - generic: \"#每天都有值得记录的瞬间\"\n  - text: 更多\n  - button \"话题\":\n    - text: 话题\n  - button:\n  - button \"用户\":\n    - text: 用户\n  - button \"表情\":\n    - text: 表情\n  - text: \"189\"\n  - generic: /1000\n  - generic: 内容设置\n  - generic: 收起\n  - generic: 添加章节\n  - generic: 清晰的视频结构能提升观看体验，有助于完播率\n  - text: 添加章节\n  - generic: 加入合集\n  - generic: 汇集系列视频，有利于连续性观看\n  - text: 创建合集\n  - generic: 原创声明\n  - checkbox\n  - generic: 添加内容类型声明\n  - generic: 添加组件\n  - textbox\n  - generic: 添加地点\n  - textbox\n  - generic: 选择群聊\n  - generic: 引用笔记\n  - generic: 添加投票\n  - textbox\n  - generic: 添加小工具\n  - generic: 标记地点或标记朋友\n  - generic: 添加路线\n  - generic: 关联活动\n  - button \"更多\":\n    - text: 更多\n  - button \"Pick你的每周时刻 08-04 至 12-31\":\n    - generic: Pick你的每周时刻\n    - generic: 08-04 至 12-31\n  - button \"关联\"\n  - button \"我的造飞机日记 10-01 至 10-21\":\n    - generic: 我的造飞机日记\n    - generic: 10-01 至 10-21\n  - button \"关联\"\n  - generic: 更多设置\n  - generic: 收起\n  - generic: 公开可见\n  - generic: 定时发布\n  - checkbox\n  - generic: 笔记预览\n  - generic: 封面预览\n  - text: /\n  - img \"头像\"\n  - generic: Eli AI FDE\n  - generic: 关注\n  - generic: \"GitHub高性价比人生指南 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，不知道先查什么？ 这份《高性价比人生指南》，可以按自己的问题翻对应章节。 我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。 先存目录，需要时再翻。想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n  - generic: 展开\n  - text: / /",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/小红书-重试最终页面.jpg"
+    },
+    {
+      "platform": "LinkedIn",
+      "status": "未发，页面已备好",
+      "reason": "刷新恢复并传入v7及v6封面；文案6标签已填，Post启用未点击。原声，无BGM。",
+      "publications_by_agent": 0,
+      "tab_id": "7",
+      "url": "https://www.linkedin.com/sharing/compose",
+      "page_observation": "- dialog \"Ad Options\":\n  - button \"Dismiss\":\n  - figure\n  - button \"ELi Chao\":\n    - generic \"ELi Chao\":\n      - paragraph: ELi Chao\n  - button \"Post to Anyone\":\n    - generic \"Post to Anyone\":\n      - paragraph: Post to Anyone\n  - 'button \"Comments: Anyone\"':\n    - 'generic \"Comments: Anyone\"':\n      - paragraph: \"Comments: Anyone\"\n  - button \"Add collaborators\":\n    - generic \"Add collaborators\":\n      - paragraph: Add collaborators\n  - status\n  - textbox [active]:\n    - paragraph: 关注AI工具，也别错过GitHub这份《高性价比人生指南》\n    - paragraph\n    - paragraph: 关注AI实用工具，也别错过这样的GitHub免费资料。\n    - paragraph: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n    - paragraph: 换工作、租房、学技能，先查什么资料？\n    - paragraph: 《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。\n    - paragraph: 对我来说，这类资料的价值，是让查阅有入口。\n    - paragraph: 想要整理好的文档，评论「指南」。\n    - paragraph\n    - paragraph: \"#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n  - button \"Play video\":\n  - button \"Edit\":\n  - button \"Close\":\n  - button \"Show Emoji Picker\":\n  - link \"Scheduled\":\n    - /url: https://www.linkedin.com/sharing/compose\n  - button \"Post\":\n    - generic: Post\n  - heading \"0 notifications\" [level=2]\n",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/LinkedIn-重试最终页面.jpg"
+    },
+    {
+      "platform": "X",
+      "status": "未发，媒体错误",
+      "reason": "刷新并移除失败附件后重传，仍出错。无独立标题栏，只有帖子文本首行；视频编辑页只有字幕/内容警告。",
+      "publications_by_agent": 0,
+      "tab_id": "8",
+      "url": "https://x.com/compose/post",
+      "page_observation": "- heading \"要查看键盘快捷键，按下问号 查看键盘快捷键\" [level=2]:\n  - generic: 要查看键盘快捷键，按下问号\n  - link \"查看键盘快捷键\":\n    - /url: /i/keyboard_shortcuts\n- button \"Grok\":\n- button \"聊天\":\n- dialog:\n  - dialog:\n    - progressbar\n    - button \"关闭\":\n    - button \"草稿\":\n      - generic: 草稿\n    - generic \"Eli-AI\":\n      - img \"Eli-AI\"\n    - textbox \"帖子文本\" [active]\n    - group \"媒体\":\n      - button \"编辑媒体\":\n        - generic: 编辑\n      - button \"移除媒体\":\n    - link \"圈人\":\n      - /url: /compose/post/tags\n      - text: 圈人\n    - button \"上传字幕 文件 (.srt)\":\n      - text: 上传字幕 文件 (.srt)\n    - status:\n      - generic: \"人生指南-视觉修订-定框淡入-中英双语-v7.mp4: 出错了\"\n    - button \"所有人可以回复\":\n      - generic: 所有人可以回复\n    - navigation:\n      - button \"上一个\" [disabled]:\n      - tablist:\n        - button \"添加媒体\":\n        - button \"Choose File\"\n        - button \"添加一个 GIF\":\n        - button \"生成图片\":\n        - button \"添加投票\" [disabled]:\n        - button \"添加表情符号\":\n        - button \"预排期帖子\":\n        - button \"标记位置\" [disabled]:\n        - button \"内容披露\":\n      - button \"下一步\" [disabled]:\n    - progressbar:\n    - button \"添加帖子\":\n    - button \"发帖\":\n      - generic: 发帖\n",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/X-重试最终页面.jpg"
+    },
+    {
+      "platform": "TikTok",
+      "status": "未发，上传和输入受阻",
+      "reason": "入口恢复，传入v7但停28.44%。正文替换发生重复，刷新与原生/语义输入仍未纠正，不得当作待发；需本人清空后用v5稿重贴。封面未完成。",
+      "publications_by_agent": 0,
+      "tab_id": "10",
+      "url": "https://www.tiktok.com/tiktokstudio/upload?from=creator_center&tab=video",
+      "page_observation": "- button:\n- button:\n- button:\n- button:\n- button:\n- button:\n- button:\n- button:\n- button:\n- button:\n- button:\n- link:\n  - /url: https://www.tiktok.com\n- region \"Notifications\"\n- button:\n- generic: 人生指南-视觉修订-定框淡入-中英双语-v7.mp4\n- generic: 1080P\n- generic: 23.05MB/81.04MB\n- generic: 时长：1m0s\n- generic: 还剩 0 秒\n- button \"取消\":\n  - generic: 取消\n- generic: 28.44%\n- generic: 详细信息\n- generic: 视频描述\n- combobox [active]:\n  - generic: GitHub这份《高性价比人生指南》，怎么用？ GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。 想要整理好的文档，评论「指南」。\n  - generic: \"#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工GitHub这份《高性价比人生指南》，怎么用？ GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具GitHub这份《高性价比人生指南》，怎么用？ GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升\"\n  - generic: \"#ai工具推薦\"\n  - generic: \"#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n- button \"话题标签\":\n  - generic: 话题标签\n- button \"@提及\":\n  - generic: 提及\n- generic: 528/4000\n- text: 封面\n- generic: 编辑封面\n- text: 位置\n- combobox:\n  - textbox \"搜索位置\"\n- button [disabled]:\n- list:\n  - generic: 东京城市景观\n  - generic: Shibuya Tokyo\n  - generic: New York City Center\n  - generic: 非公開\n  - generic: Tokyo\n  - generic: 六本木\n  - generic: Los Angeles Angels\n  - generic: United Inn & Suites Hotel\n  - generic: Ikebukuro\n  - generic: Omote-Sando\n- button:\n- generic: 设置\n- generic: 何时发布\n- radio \"现在\" [checked]\n- generic: 现在\n- radio \"预约发布\"\n- generic: 预约发布\n- generic: 谁可以看\n- combobox:\n  - generic: 所有人\n- generic: 高清上传\n- switch [checked] [disabled]\n- generic: 使用 Web Studio 发布时默认为高清\n- generic: 显示更多\n- generic: 检查\n- generic: 文件上传后才可开始检查。\n- generic: 音乐版权检查\n- switch [checked]\n- generic: 我们将检查你的视频是否包含未经授权使用的音乐，此类音乐可能会导致视频静音。\n- generic: 内容快速检查\n- switch [checked]\n- generic: 我们将检查你的内容是否符合【推荐】页展示资格。\n- generic: 首页推荐\n- generic: 主页\n- generic: 网页端\n- button:\n- img \"bottom nav bar\"\n- generic: 播放\n- generic: 00:00:00 / 00:01:00\n- generic: 静音\n- generic: 展开视图\n- img \"status bar\"\n- img \"home nav bar\"\n- img \"interaction\"\n- generic: Eli-AI\n- generic: \"GitHub这份《高性价比人生指南》，怎么用？ GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工GitHub这份《高性价比人生指南》，怎么用？ GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具GitHub这份《高性价比人生指南》，怎么用？ GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #ai工具推薦#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n- paragraph: 原声 - Eli-AI\n- paragraph: 原声 - Eli-AI\n- button \"编辑\":\n  - text: 编辑\n- button \"音乐\":\n  - text: 音乐\n- button \"文字\":\n  - text: 文字\n- button \"发布\" [disabled]:\n  - generic: 发布\n- button \"保存草稿\" [disabled]:\n  - generic: 保存草稿\n- button \"放弃\":\n  - generic: 放弃",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/TikTok-重试最终页面.jpg"
+    },
+    {
+      "platform": "Instagram",
+      "status": "未发，页面已备好",
+      "reason": "eliaifde已核，v7已传入，9:16比例、v6自定义封面、正文6标签已填。停在分享按钮前，原声，无BGM。",
+      "publications_by_agent": 0,
+      "tab_id": "16",
+      "url": "https://www.instagram.com/",
+      "page_observation": "- dialog \"创建新帖子\":\n  - heading \"新 Reels\" [level=1]\n  - button \"返回\":\n    - img \"返回\"\n  - button \"分享\"\n  - button \"播放\"\n  - button \"控制\"\n  - button \"标记 标记用户\":\n    - button \"标记 标记用户\":\n      - img \"标记\"\n      - generic: 标记用户\n  - link \"eliaifde的头像\":\n    - img \"eliaifde的头像\"\n  - generic: eliaifde\n  - textbox \"添加配文...\" [active]:\n    - paragraph:\n      - text: GitHub《高性价比人生指南》：先存目录\n      - text: 关注AI实用工具，也别错过这样的GitHub免费资料。\n      - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n      - text: 租房、换工作、学技能，需要时再找资料往往很乱。\n      - text: 这次分享《高性价比人生指南》：先存目录，遇到问题翻章节，再看成本、收益与来源。\n      - text: 想要整理好的文档，评论「指南」。\n      - text: \"#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具\"\n  - button \"表情\":\n    - img \"表情\"\n  - button \"211/2200\":\n    - generic: 211/2200\n  - button \"#ai工具 4.6万帖子\":\n    - generic: \"#ai工具\"\n    - generic: 4.6万\n    - text: 帖子\n  - button \"#ai工具帮助老板提升业绩30 419帖子\":\n    - generic: \"#ai工具帮助老板提升业绩30\"\n    - generic: \"419\"\n    - text: 帖子\n  - button \"#ai工具推荐 173帖子\":\n    - generic: \"#ai工具推荐\"\n    - generic: \"173\"\n    - text: 帖子\n  - button \"#ai工具應用 1707帖子\":\n    - generic: \"#ai工具應用\"\n    - generic: \"1707\"\n    - text: 帖子\n  - button \"#ai工具推薦 915帖子\":\n    - generic: \"#ai工具推薦\"\n    - generic: \"915\"\n    - text: 帖子\n  - separator\n  - textbox \"添加地点\"\n  - img \"添加地点\"\n  - textbox \"添加合作者\"\n  - img \"添加合作者\"\n  - generic: 添加 AI 标签\n  - switch\n  - text: 使用 AI 制作的逼真照片和视频必须添加这个标签。用户会在你的内容中看到它。\n  - link \"详细了解\":\n    - /url: https://help.instagram.com/761121959519495\n  - generic: 定时发布内容\n  - switch\n  - separator\n  - button \"辅助功能 “向下箭头”图标\":\n    - generic: 辅助功能\n    - img \"“向下箭头”图标\"\n  - separator\n  - button \"高级设置 “向下箭头”图标\":\n    - generic: 高级设置\n    - img \"“向下箭头”图标\"\n  - separator\n  - generic: 你的 Reels 将分享到粉丝的动态中，用户还可以到你的主页中查看它们。此外，你的 Reels 还可能会展示到 Reels 选项卡等位置，供所有人查看。",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/Instagram-重试最终页面.jpg"
+    },
+    {
+      "platform": "Facebook",
+      "status": "未发，刷新仍加载",
+      "reason": "刷新后持续Facebook启动画面，媒体编辑器不可用。",
+      "publications_by_agent": 0,
+      "tab_id": "12",
+      "url": "https://www.facebook.com/",
+      "page_observation": "",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v6/Facebook-重试最终页面.jpg"
+    },
+    {
+      "platform": "微信视频号",
+      "status": "未发，安全阻断",
+      "reason": "既有明确浏览器安全拒绝；本轮不操作、不换通道。用户保留tab15不作为本Owner可操作证据。",
+      "publications_by_agent": 0
+    }
+  ],
+  "douyin_music_evidence": "视频作品发布时，「添加音乐」仅影响作品底部音乐信息显示，不影响作品声音。已看原生推荐/用量，无选择曲目，无BGM混音。",
+  "douyin_saved_and_reopened": true,
+  "x_title_attribute": "NO_SEPARATE_TITLE_FIELD_OBSERVED_REGULAR_VIDEO_POST",
+  "whole_video_audio_review": "NOT_COMPLETED",
+  "updated_at": "2026-10-08T13:30:18.296Z"
+}

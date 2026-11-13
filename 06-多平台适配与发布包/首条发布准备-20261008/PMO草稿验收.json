@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-08",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "owner_turn_id": "01a11b48-6a83-7402-97bd-99a45c4b46fd",
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "decision": "PASS_DRAFT_DOCUMENTS_ONLY",
+  "scope": "用户明确要求提前准备11平台发布文案和配乐/混音方案；不是正式06阶段PASS或发布版本冻结",
+  "evidence_read": [
+    "发布方案.md全文",
+    "平台文案.md全文：11平台各自标题/正文/标签/形式/封面/资源入口",
+    "来源核对.md全文",
+    "发布清单.json结构、平台集合与核心事实字段",
+    "文件记录.json及4份交付文件SHA实际匹配",
+    "本条34段实际台词、现有音轨安排、04元数据和音频原件",
+    "Scott Buckley Machina原曲页许可与署名要求",
+    "X官方计数文档与本条无emoji短帖离线计数：含标题/正文/标签约259加权字符，小于280；未在客户端提交验证"
+  ],
+  "confirmed": {
+    "platform_count": 11,
+    "title_contains_original_book_name": true,
+    "no_invented_personal_results": true,
+    "resource_original_author_and_license_preserved": true,
+    "bgm_license_candidate_verified": true,
+    "measured_v7_lufs": -20.96,
+    "measured_v7_true_peak_dbtp": -5.04,
+    "draft_sha_verified": true,
+    "final_sender": "用户本人",
+    "publication_or_upload_executed": false
+  },
+  "pending_for_final_release": [
+    "用户确认标题/文案方案；最近爆火作为用户指定待核候选，非已核热度结论",
+    "BGM仅候选，尚未试听、下载、截取或混入；如选用，再由04出新混音版和05复核",
+    "用户对最终同版本成片全片审看",
+    "逐平台实际预览的封面裁切/字幕/链接与身份核对；当前文本为可复制草稿，不冒称11平台入口都已验",
+    "用户本人执行最终发送；07只指导和核回执"
+  ],
+  "formal_stage": "05",
+  "formal_06_stage_pass": false,
+  "automation_installed": false,
+  "model_effort_speed_actual": "UNKNOWN"
+}

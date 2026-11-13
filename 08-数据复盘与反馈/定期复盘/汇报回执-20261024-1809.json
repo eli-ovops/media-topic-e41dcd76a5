@@ -1,0 +1,16 @@
+{
+  "sent_at": "2026-10-24 18:10 Asia/Shanghai",
+  "target": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool_status": "TOOL_ACCEPTED",
+  "PMO_received": "UNKNOWN",
+  "PMO_acceptance": "UNKNOWN",
+  "receipt": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

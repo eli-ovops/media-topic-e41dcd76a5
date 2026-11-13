@@ -1,0 +1,253 @@
+- heading "0 notifications" [level=2]
+- generic "Skip navigation menu":
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Skip to sidebar":
+    - generic: Skip to sidebar
+  - button "Skip to primary content":
+    - generic: Skip to primary content
+  - button "Skip to aside":
+    - generic: Skip to aside
+  - button "Skip to footer":
+    - generic: Skip to footer
+  - button "Close jump menu":
+- banner:
+  - button "LinkedIn":
+    - img "LinkedIn"
+  - status
+  - search:
+    - textbox "Search"
+  - figure
+  - navigation:
+    - list:
+      - button "Home, 1 new notification":
+        - generic: Home
+      - link "Network, 1 new notification":
+        - /url: https://www.linkedin.com/mynetwork
+        - generic: "1"
+        - generic: Network
+      - link "Jobs, 0 new notifications":
+        - /url: https://www.linkedin.com/jobs/
+        - generic: Jobs
+      - link "Messaging, 0 new notifications":
+        - /url: https://www.linkedin.com/messaging/
+        - generic: Messaging
+      - link "Notifications, 2 new notifications":
+        - /url: https://www.linkedin.com/notifications/
+        - generic: "2"
+        - generic: Notifications
+      - button "Me":
+        - figure
+        - text: Me
+  - navigation:
+    - list:
+      - button "For Business":
+        - text: For Business
+  - button "Try Premium for ¥0":
+    - paragraph: Try Premium for ¥0
+- main:
+  - complementary "Sidebar":
+    - figure
+    - figure
+    - paragraph: ELi Chao
+    - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+    - paragraph: Followers
+    - link "1":
+      - /url: https://www.linkedin.com/mynetwork/network-manager/people-follow/followers/
+      - paragraph: "1"
+  - region "Primary content":
+    - heading "All activity" [level=2]
+    - navigation:
+      - list:
+        - link "Posts":
+          - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/all/
+          - generic: Posts
+        - link "Comments":
+          - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/comments/
+          - generic: Comments
+        - link "Videos":
+          - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/videos/
+          - generic: Videos
+    - list:
+      - heading "Feed post" [level=2]:
+        - generic: Feed post
+      - link:
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - figure:
+          - img "View ELi Chao’s profile"
+      - link "ELi Chao You":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - generic "ELi Chao You":
+          - paragraph: ELi Chao
+          - paragraph: • You
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: 11h
+      - link "ELi Chao You":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - generic "ELi Chao You"
+      - button "Open control menu for post by ELi Chao":
+      - paragraph:
+        - text: 把AI用起來｜我是Eli
+        - text: 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。
+        - 'link "View hashtag: #ai"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai&origin=HASH_TAG_FROM_FEED
+          - strong: "#AI"
+        - 'link "View hashtag: #人工智能"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&origin=HASH_TAG_FROM_FEED
+          - strong: "#人工智能"
+        - 'link "View hashtag: #ai工具"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai%E5%B7%A5%E5%85%B7&origin=HASH_TAG_FROM_FEED
+          - strong: "#AI工具"
+        - 'link "View hashtag: #ai實用技巧"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai%E5%AF%A6%E7%94%A8%E6%8A%80%E5%B7%A7&origin=HASH_TAG_FROM_FEED
+          - strong: "#AI實用技巧"
+        - 'link "View hashtag: #agent"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23agent&origin=HASH_TAG_FROM_FEED
+          - strong: "#Agent"
+        - 'link "View hashtag: #fde"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23fde&origin=HASH_TAG_FROM_FEED
+          - strong: "#FDE"
+      - button "Show translation":
+        - generic: Show translation
+      - 'button "Reaction button state: no reaction"':
+      - button "Open reactions menu":
+      - button "Comment":
+      - button "Repost":
+      - link "Send":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/all/
+      - link "View analytics":
+        - /url: https://www.linkedin.com/analytics/post-summary/urn:li:activity:7514664851835854848/
+        - generic "View analytics":
+          - generic "Content analytics":
+            - img "Analytics Icon"
+            - paragraph: 12 impressions
+          - paragraph:
+            - generic: View analytics
+            - text: View analytics
+      - heading "Feed post" [level=2]:
+        - generic: Feed post
+      - link:
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - figure:
+          - img "View ELi Chao’s profile"
+      - link "ELi Chao You":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - generic "ELi Chao You":
+          - paragraph: ELi Chao
+          - paragraph: • You
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: 1d
+      - link "ELi Chao You":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - generic "ELi Chao You"
+      - button "Open control menu for post by ELi Chao":
+      - paragraph:
+        - text: 没人脉、没资源，普通人怎么抓住AI机会？
+        - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+        - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+        - 'link "View hashtag: #ai"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai&origin=HASH_TAG_FROM_FEED
+          - strong: "#AI"
+        - 'link "View hashtag: #人工智能"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&origin=HASH_TAG_FROM_FEED
+          - strong: "#人工智能"
+        - 'link "View hashtag: #孙宇晨"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%AD%99%E5%AE%87%E6%99%A8&origin=HASH_TAG_FROM_FEED
+          - strong: "#孙宇晨"
+        - 'link "View hashtag: #邵艾伦"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E9%82%B5%E8%89%BE%E4%BC%A6&origin=HASH_TAG_FROM_FEED
+          - strong: "#邵艾伦"
+        - 'link "View hashtag: #孙学"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%AD%99%E5%AD%A6&origin=HASH_TAG_FROM_FEED
+          - strong: "#孙学"
+        - 'link "View hashtag: #薄肌理论"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA&origin=HASH_TAG_FROM_FEED
+          - strong: "#薄肌理论"
+        - button:
+          - generic: … more
+      - button "Show translation":
+        - generic: Show translation
+      - region "Video Player":              
+      - link "Play video":
+        - /url: https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/
+      - 'button "Reaction button state: no reaction"':
+      - button "Open reactions menu":
+      - button "Comment":
+        - generic: "1"
+      - button "Repost":
+      - link "Send":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/all/
+      - link "View analytics":
+        - /url: https://www.linkedin.com/analytics/post-summary/urn:li:activity:7514287448282058753/
+        - generic "View analytics":
+          - generic "Content analytics":
+            - img "Analytics Icon"
+            - paragraph: 23 impressions
+          - paragraph:
+            - generic: View analytics
+            - text: View analytics
+      - heading "Feed post" [level=2]:
+        - generic: Feed post
+      - link:
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - figure:
+          - img "View ELi Chao’s profile"
+      - link "ELi Chao You":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - generic "ELi Chao You":
+          - paragraph: ELi Chao
+          - paragraph: • You
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: 2d
+      - link "ELi Chao You":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+        - generic "ELi Chao You"
+      - button "Open control menu for post by ELi Chao":
+      - paragraph:
+        - text: 关注AI工具，也别错过GitHub这份《高性价比人生指南》
+        - text: 关注AI实用工具，也别错过这样的GitHub免费资料。
+        - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。
+        - text: 换工作、租房、学技能，先查什么资料？
+        - text: 《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。
+        - text: 对我来说，这类资料的价值，是让查阅有入口。
+        - text: 想要整理好的文档，评论「指南」。
+        - 'link "View hashtag: #github"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23github&origin=HASH_TAG_FROM_FEED
+          - strong: "#GitHub"
+        - 'link "View hashtag: #高性价比人生指南"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E4%BA%BA%E7%94%9F%E6%8C%87%E5%8D%97&origin=HASH_TAG_FROM_FEED
+          - strong: "#高性价比人生指南"
+        - 'link "View hashtag: #免费资源"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90&origin=HASH_TAG_FROM_FEED
+          - strong: "#免费资源"
+        - 'link "View hashtag: #资料分享"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB&origin=HASH_TAG_FROM_FEED
+          - strong: "#资料分享"
+        - 'link "View hashtag: #自我提升"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87&origin=HASH_TAG_FROM_FEED
+          - strong: "#自我提升"
+        - 'link "View hashtag: #ai工具"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai%E5%B7%A5%E5%85%B7&origin=HASH_TAG_FROM_FEED
+          - strong: "#AI工具"
+        - button:
+          - generic: … more
+      - button "Show translation":
+        - generic: Show translation
+      - 'button "Reaction button state: no reaction"':
+      - button "Open reactions menu":
+      - button "Comment":
+      - button "Repost":
+      - link "Send":
+        - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/all/
+      - link "View analytics":
+        - /url: https://www.linkedin.com/analytics/post-summary/urn:li:activity:7513959413427179522/
+        - generic "View analytics":
+          - generic "Content analytics":
+            - img "Analytics Icon"
+            - paragraph: 31 impressions
+          - paragraph:
+            - generic: View analytics
+            - text: View analytics
+      - button "See new posts":
+        - generic: See new posts
+  

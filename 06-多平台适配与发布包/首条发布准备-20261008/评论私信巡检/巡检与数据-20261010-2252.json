@@ -1,0 +1,516 @@
+{
+  "automation_id": "9",
+  "trigger": "HEARTBEAT_9",
+  "status": "PARTIAL_8_PLATFORM_DATA_6_DM_LISTS",
+  "observed_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+  "contents": [
+    {
+      "content_id": "eli-brand-intro-20261010",
+      "variant": "形象短片",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "video_views": "UNKNOWN",
+          "likes": 1,
+          "comments": 0,
+          "author_replies": 0,
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_browse": "UNKNOWN",
+          "url": "https://www.xiaohongshu.com/explore/6aca21a5000000001301a362"
+        },
+        {
+          "platform": "B站",
+          "video_views": 1,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.bilibili.com/video/BV1KApg6hEEG/"
+        },
+        {
+          "platform": "国内抖音",
+          "video_views": 30,
+          "likes": 1,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.douyin.com/video/7695016865814400297"
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes"
+        },
+        {
+          "platform": "YouTube",
+          "video_views": 1,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.youtube.com/shorts/V6fjEeK9k7Q"
+        },
+        {
+          "platform": "LinkedIn",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_impressions": 6,
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514664851835854848/"
+        },
+        {
+          "platform": "X",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": 0,
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_views": 7,
+          "url": "https://x.com/cczij1112/status/2108903205312905231"
+        },
+        {
+          "platform": "微博",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_reads": 3,
+          "url": "https://weibo.com/7720929036/Rm3b55rSw"
+        },
+        {
+          "platform": "TikTok",
+          "video_views": 31,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7695017220467952904"
+        }
+      ]
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "访谈正片",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "video_views": "UNKNOWN",
+          "likes": 2,
+          "comments": 1,
+          "author_replies": 0,
+          "author_top_level_comments": 1,
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_browse": "UNKNOWN",
+          "audience_comments": 0,
+          "url": "https://www.xiaohongshu.com/explore/6ac8cbbe0000000013018128"
+        },
+        {
+          "platform": "B站",
+          "video_views": 121,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": 1,
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.bilibili.com/video/BV1dFp86PEYP/"
+        },
+        {
+          "platform": "国内抖音",
+          "video_views": 771,
+          "likes": 26,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 3,
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "comments_backend": 0,
+          "url": "https://www.douyin.com/video/7694630238197665050"
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes"
+        },
+        {
+          "platform": "YouTube",
+          "video_views": 22,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.youtube.com/watch?v=GksDGFRpmGI"
+        },
+        {
+          "platform": "LinkedIn",
+          "video_views": 5,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": 1,
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_impressions": 21,
+          "audience_comments": "UNKNOWN",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/"
+        },
+        {
+          "platform": "X",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": 0,
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_views": 64,
+          "url": "https://x.com/cczij1112/status/2108521984112185808"
+        },
+        {
+          "platform": "微博",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_reads": 18,
+          "audience_comments": "UNKNOWN",
+          "url": "https://weibo.com/7720929036/RlTDsgzMz"
+        },
+        {
+          "platform": "TikTok",
+          "video_views": 80,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "comments_backend": "UNKNOWN",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694631263205870868"
+        }
+      ]
+    },
+    {
+      "content_id": "first-video-life-guide-visual-fix-v7",
+      "variant": "人生指南",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "video_views": "UNKNOWN",
+          "likes": 1,
+          "comments": 0,
+          "author_replies": 0,
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_browse": "UNKNOWN",
+          "url": "https://www.xiaohongshu.com/explore/6ac7a0a3000000001b02ddd6"
+        },
+        {
+          "platform": "B站",
+          "video_views": 15,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.bilibili.com/video/BV1mgH96DEyt/"
+        },
+        {
+          "platform": "国内抖音",
+          "video_views": 657,
+          "likes": 10,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "comments_backend": "UNKNOWN",
+          "url": "https://www.douyin.com/video/7694290083091926287"
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes"
+        },
+        {
+          "platform": "YouTube",
+          "video_views": 4,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "url": "https://www.youtube.com/shorts/Yx4IuJe1eSs"
+        },
+        {
+          "platform": "LinkedIn",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 1,
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_impressions": 29,
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513959413427179522/"
+        },
+        {
+          "platform": "X",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": 0,
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_views": 25,
+          "url": "https://x.com/cczij1112/status/2108190823007539236"
+        },
+        {
+          "platform": "微博",
+          "video_views": 14,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "post_reads": 132,
+          "url": "https://weibo.com/7720929036/RlL0WwIyR"
+        },
+        {
+          "platform": "TikTok",
+          "video_views": 138,
+          "likes": 2,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai",
+          "source": "Current native UI; see evidence and coverage notes",
+          "comments_backend": "UNKNOWN",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694304622604717330"
+        }
+      ]
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "抖音图文预告",
+      "platforms": [
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/note/7694562191479593466",
+          "video_views": "UNKNOWN",
+          "post_browse": 1832,
+          "likes": 16,
+          "comments": 3,
+          "comments_backend": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "attributed_followers": 0,
+          "source": "Image browse only, not video views",
+          "statistics_window": "2026-10-10 22:42—22:52 Asia/Shanghai"
+        }
+      ]
+    }
+  ],
+  "monitor": {
+    "coverage": [
+      {
+        "platform": "小红书",
+        "identity": "VERIFIED",
+        "comments": "三项目评论详情：0/1本人/0，通知只有旧项",
+        "dm": "列表最新13:21与已核基线相同，无新收到",
+        "requests": "UNKNOWN",
+        "notes": "creator需本人短信登录；www本人11520431136仍可读"
+      },
+      {
+        "platform": "B站",
+        "identity": "VERIFIED",
+        "comments": "回复收件箱仍2025-12-28旧项；本人creator首页正片首评和作品1评论",
+        "dm": "近期列表旧项与系统通知，无新项目询问",
+        "requests": "UNKNOWN"
+      },
+      {
+        "platform": "国内抖音",
+        "identity": "VERIFIED",
+        "comments": "通知仍昨日想看及想看完整版，基线已回复；未见新增",
+        "dm": "最新08:39本人好的，近期列表未变化",
+        "requests": "UNKNOWN",
+        "notes": "creator当前四作品可读；www作品列表服务异常，未完整核所有回复"
+      },
+      {
+        "platform": "微信视频号",
+        "identity": "UNKNOWN",
+        "comments": "UNCOVERED_SITE_SAFETY",
+        "dm": "UNCOVERED_SITE_SAFETY",
+        "requests": "UNKNOWN"
+      },
+      {
+        "platform": "YouTube",
+        "identity": "VERIFIED",
+        "comments": "已发布未回复及待审核明确空；作品列表三项目均0评论",
+        "dm": "UNKNOWN_NO_NATIVE_ENTRY_OBSERVED",
+        "requests": "UNKNOWN",
+        "notes": "指南评论停用；点赞及作品归因关注未知"
+      },
+      {
+        "platform": "LinkedIn",
+        "identity": "VERIFIED",
+        "comments": "通知仅系统曝光提示；正片唯一评论人员为本人ELi Chao",
+        "dm": "Focused系统欢迎，Other空，无新收到",
+        "requests": "Other已读，Spam和Archived未扩读",
+        "notes": "Messaging一次reload恢复；分析壳后原生入口实读恢复"
+      },
+      {
+        "platform": "X",
+        "identity": "VERIFIED",
+        "comments": "三个精确作品0回复；未另读通知",
+        "dm": "UNCOVERED_LOADING_AFTER_ONE_RELOAD",
+        "requests": "UNKNOWN"
+      },
+      {
+        "platform": "微博",
+        "identity": "VERIFIED",
+        "comments": "收到评论暂无内容；作品正片1评论",
+        "dm": "聊天近期系统通知及旧项，无新受众私信",
+        "requests": "UNKNOWN",
+        "notes": "徽标7未当新私信数；本人profile指南14观看"
+      },
+      {
+        "platform": "TikTok",
+        "identity": "VERIFIED",
+        "comments": "原生活动评论仅9-14旧项；Studio三项目后台0评论",
+        "dm": "列表仍10/9接受提示与旧会话，无新增",
+        "requests": "UNKNOWN",
+        "notes": "消息空壳后同站原生首页菜单实读恢复"
+      }
+    ],
+    "dm_lists_read": 6,
+    "platforms_with_some_comment_coverage": 8,
+    "new_received_project_messages_on_read_lists": 0,
+    "new_actionable_project_messages_on_read_lists": 0,
+    "full_nine_platform_new_messages": "UNKNOWN",
+    "all_platform_pending_reply_total": "UNKNOWN",
+    "external_messages_sent": false
+  },
+  "external_messages_sent": false,
+  "post_metrics_separate": {
+    "X_post_views": 96,
+    "Weibo_reads": 153,
+    "LinkedIn_impressions": 56,
+    "XHS_note_browse": "UNKNOWN",
+    "Douyin_image_browse": 1832
+  },
+  "fresh_lower_bounds": {
+    "intro_video_views": 63,
+    "intro_video_coverage": "4/9",
+    "main_video_views": 999,
+    "main_video_coverage": "5/9",
+    "guide_video_views": 828,
+    "guide_video_coverage": "5/9",
+    "total_video_views": 1890,
+    "total_video_likes": 43,
+    "total_video_comments": 4,
+    "including_teaser_likes": 59,
+    "including_teaser_comments": 7,
+    "attributed_followers": 4,
+    "author_top_level_comments": 3,
+    "author_replies": "UNKNOWN",
+    "platforms_with_some_metrics": "8/9",
+    "unknown_not_zero": true,
+    "not_deduplicated_people": true
+  },
+  "missing": [
+    "Wechat current data and messages",
+    "XHS browse/views",
+    "YouTube likes and attributed follows",
+    "X video views and DM",
+    "Weibo intro/main video views",
+    "LinkedIn intro/guide video views",
+    "Uninspected requests",
+    "Most author reply split counts"
+  ],
+  "evidence_dir": "证据-20261010-2252",
+  "same_coverage_delta_vs_2058": {
+    "video_views": 67,
+    "intro": 60,
+    "main": 3,
+    "guide": 4,
+    "likes_including_teaser": 4,
+    "comments_including_teaser": 0,
+    "attributed_followers": 0,
+    "X_post_views": 9,
+    "Weibo_reads": 5,
+    "LinkedIn_impressions": 9,
+    "DY_image_browse": 2
+  }
+}

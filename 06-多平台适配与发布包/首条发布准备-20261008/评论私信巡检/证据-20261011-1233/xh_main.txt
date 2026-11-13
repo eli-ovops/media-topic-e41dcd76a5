@@ -1,0 +1,68 @@
+nnel_type=web_profile_board&xsec_token=REDACTED&xsec_source=
+  - generic: 省省来吃饭✨
+- generic: "99"
+- link:
+  - /url: /explore/6ac74dc4000000001a02bc6a?xsec_token=REDACTED&xsec_source=pc_feed
+- link "好多小肉球啊":
+  - /url: /explore/6ac74dc4000000001a02bc6a?xsec_token=REDACTED&xsec_source=pc_feed
+- link "吸猫大魔头":
+  - /url: /user/profile/5c010fd500000000050148a8?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=REDACTED&xsec_source=
+  - generic: 吸猫大魔头
+- generic: "3227"
+- link:
+  - /url: /explore/6ab8d1f2000000001a029157?xsec_token=REDACTED&xsec_source=pc_feed
+- link "他做了个\"AI 试妆\"App，一年赚了 80 万美金":
+  - /url: /explore/6ab8d1f2000000001a029157?xsec_token=REDACTED&xsec_source=pc_feed
+- link "Ai创客计划":
+  - /url: /user/profile/6797348c0000000006012484?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=REDACTED&xsec_source=
+  - generic: Ai创客计划
+- generic: "73"
+- generic: 00:32 / 04:32
+- paragraph: 倍速
+- paragraph: 1080P 高清
+- link:
+  - /url: /user/profile/671897ea000000001d033299?channel_type=web_note_detail_r10&xsec_token=REDACTED&xsec_source=pc_user
+- link "Eli AI FDE":
+  - /url: /user/profile/671897ea000000001d033299?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=REDACTED&xsec_source=pc_user
+  - generic: Eli AI FDE
+- heading "没人脉、没资源，普通人怎么抓住AI机会？" [level=1]
+- text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+- link "#ai":
+  - /url: /search_result?keyword=ai&type=54&source=web_note_detail_r10
+- link "#人工智能":
+  - /url: /search_result?keyword=%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD&type=54&source=web_note_detail_r10
+- link "#孙宇晨":
+  - /url: /search_result?keyword=%25E5%25AD%2599%25E5%25AE%2587%25E6%2599%25A8&type=54&source=web_note_detail_r10
+- link "#邵艾伦":
+  - /url: /search_result?keyword=%25E9%2582%25B5%25E8%2589%25BE%25E4%25BC%25A6&type=54&source=web_note_detail_r10
+- link "#孙学":
+  - /url: /search_result?keyword=%25E5%25AD%2599%25E5%25AD%25A6&type=54&source=web_note_detail_r10
+- link "#薄肌":
+  - /url: /search_result?keyword=%25E8%2596%2584%25E8%2582%258C&type=54&source=web_note_detail_r10
+- generic: 猜你想搜
+- generic: 邵艾伦孙宇晨播客
+- generic: 1天前 浙江
+- generic: 共 1 条评论
+- link:
+  - /url: /user/profile/671897ea000000001d033299?channel_type=web_note_detail_r10&xsec_token=REDACTED&xsec_source=pc_comment
+- link "Eli AI FDE":
+  - /url: /user/profile/671897ea000000001d033299?channel_type=web_note_detail_r10&parent_page_channel_type=web_user_board&xsec_token=REDACTED&xsec_source=pc_comment
+- generic: 作者
+- generic: 完整访谈视频 可私我
+- generic: 1天前浙江
+- generic: 赞
+- generic: 回复
+- generic: "- THE END -"
+- paragraph
+- generic: 说点什么...
+- generic: "2"
+- generic: "1"
+- generic: "1"
+- button "发送" [disabled]
+- button "取消"
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe
+- generic: 鼠标悬停查看 Ta 的信息 好的

@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-22T05:44:24.324414+08:00",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-22 05:39—05:42 Asia/Shanghai",
+  "status": "ACCEPTED_SOURCE_ATTRIBUTED_WITH_LIMITS",
+  "owner_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+  "owner_tool_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261022-0542.md",
+  "report_sha256": "7b622803b66a8a7b34c3713c872008e1b773bcfdad7008f466273dc9073a8fcd",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261022-0542.json",
+  "snapshot_sha256": "e8981090ebf4f03ded608568905d5edf26b441889ff83b4bdd16f0b20f7d9d2b",
+  "pmo_checks": [
+    "Both hashes independently match",
+    "Seven video counters total839, nonunique cumulative only",
+    "Xpost impressions26 excluded from video sum",
+    "YTbackend14/public12 retained separately; table uses backend",
+    "Bilibili statistics0527 time retained; snapshot difference not precise occurrence window",
+    "Missing save counters and inbox/follower coverage not filled with0",
+    "Already replied requests deduplicated without inferring file delivery"
+  ],
+  "evidence_limit": "Metrics and native message observations attributed to08 provided original report/JSON. PMO did not independently recollect counters or open private dialogues.",
+  "business_signal_scope": "No new confirmed unanswered business request in08 accessible covered lists only",
+  "production_publication_cleanup_or_automation_changes": false
+}

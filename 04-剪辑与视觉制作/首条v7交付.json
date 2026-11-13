@@ -1,0 +1,1000 @@
+{
+  "stage": "04",
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "updated_at": "2026-10-08T16:02:17.879780+08:00",
+  "status": "SUBMITTED_FOR_PMO_AND_STAGE05_REVIEW",
+  "visual_pass": "NOT_DECLARED",
+  "goal": "修复首条资料裁切和章节框选；同类成本/来源卡按同一标准检查",
+  "gate": {
+    "allowed": true,
+    "reason": "current content/stage/Owner/RELEASED/upstream imported baselines/input frozen SHA match",
+    "formal_import": "01—03当前正式接入既有不变输入，不补造历史PASS",
+    "source": "/Volumes/EXTERNAL/自媒体/流程协作/首条v7既有输入接入审查.json"
+  },
+  "final_outputs": {
+    "video": {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+      "bytes": 81049530,
+      "mtime": "2026-10-08T16:00:06.087169+08:00",
+      "sha256": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779"
+    },
+    "working_index": {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+      "bytes": 25735,
+      "mtime": "2026-10-08T15:52:44.939068+08:00",
+      "sha256": "28667f94526b7a106cfc6b98c377649203a03b8c911c954c55bc1ed0c941fe57"
+    },
+    "versioned_index": {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/index-v7.html.txt",
+      "bytes": 25735,
+      "mtime": "2026-10-08T15:52:44.939209+08:00",
+      "sha256": "28667f94526b7a106cfc6b98c377649203a03b8c911c954c55bc1ed0c941fe57"
+    },
+    "cover_reused_unchanged": {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/封面海报-地球online攻略-v6.png",
+      "bytes": 2286326,
+      "mtime": "2026-10-08T14:50:02.762161+08:00",
+      "sha256": "57a20f2a54faaf05411c84eec99ab96ec04ae600224bf8415adaa9681e176406"
+    },
+    "bilingual_srt_reused_unchanged": {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/data/中英双语字幕-v3.srt",
+      "bytes": 3019,
+      "mtime": "2026-10-08T13:52:45.722524+08:00",
+      "sha256": "e46f3de961a199f11c90e4c6292197b62e7cf53ab2f8d4a1704c3e9b8950a7fd"
+    }
+  },
+  "changes": [
+    "资料图按自然比例完整显示，去掉固定高度cover裁切，揭晓卡650px",
+    "章节明确标注标题原图摘录；按660×590源图、3倍缩放及偏移准确定位标题框，并附一条完整原文句子",
+    "框从scaleX改为固定位置opacity淡入，避免强调过程右边线扫过标题",
+    "成本图完整显示，卡片735px；来源图保留全幅，DOI与来源内容已核样本"
+  ],
+  "protected": {
+    "placed_media": true,
+    "captions": true,
+    "cover": true,
+    "animation_except_chapter_highlight": true
+  },
+  "technical_verification": {
+    "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+    "bytes": 81049530,
+    "sha256": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779",
+    "metadata": {
+      "format": {
+        "bit_rate": "10897415",
+        "duration": "59.5",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "81049530"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "30.0/1",
+          "codec_name": "h264",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    },
+    "full_decode_exit": 0,
+    "frames": 1785,
+    "reached_end": true,
+    "errors": [],
+    "black_events": [],
+    "audio": {
+      "reference": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-地球online攻略-中英双语-v6.mp4",
+      "same_decoded_float_samples": true,
+      "correlation": 1.0,
+      "peak": 0.5596057176589966,
+      "first_half_second_peak": 2.035812576650642e-05,
+      "clipping_samples": 0
+    },
+    "cover": {
+      "stable_frame_count": 15,
+      "max_mean_rgb_difference": 0.051545781893004114,
+      "boundary_at_seconds": 0.5,
+      "boundary_mean_rgb_difference": 93.37362397119341
+    },
+    "protected_html_sections_unchanged": {
+      "placed_media": true,
+      "captions": true,
+      "cover": true,
+      "animation_except_chapter_highlight": true
+    },
+    "exported_frame_count": 37,
+    "check_summary": {
+      "lint": {
+        "ok": true,
+        "errorCount": 0,
+        "warningCount": 46,
+        "infoCount": 0
+      },
+      "runtime": {
+        "ok": true,
+        "errorCount": 0,
+        "warningCount": 0,
+        "infoCount": 0
+      },
+      "layout": {
+        "ok": true,
+        "errorCount": 0,
+        "warningCount": 0,
+        "infoCount": 0
+      },
+      "motion": {
+        "ok": true,
+        "errorCount": 0,
+        "warningCount": 0,
+        "infoCount": 0
+      },
+      "contrast": {
+        "ok": true,
+        "errorCount": 0,
+        "warningCount": 0,
+        "infoCount": 0
+      }
+    },
+    "scope": "Full technical decode/audio comparison plus listed static exported samples; no claim of continuous dynamic viewing/hearing or independent visual PASS.",
+    "technical_passed": true
+  },
+  "evidence": {
+    "source_coordinates": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/source-coordinates.json",
+    "original_source_images": [
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/github-excerpt.jpg",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/chapter-excerpt.jpg",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/cost-excerpt.jpg",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/source-excerpt.jpg"
+    ],
+    "final_frame_manifest": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/frame-manifest.json",
+    "exported_frames": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames",
+    "final_contact_sheets": [
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-1.jpg",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-2.jpg",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-3.jpg",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-4.jpg"
+    ],
+    "check": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/check-report.json",
+    "render": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/render-final.log",
+    "decode": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/decode.log",
+    "audio": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/verification.json",
+    "before_engine": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/index-before-v7.html.txt"
+  },
+  "actual_review": {
+    "final_exported_samples": 37,
+    "read_contact_sheets": 4,
+    "time_scope": "封面0/0.467/0.5；资料出现/持有/退出11.2—21.9；章节出现/强调/退出30.5—33.6；成本33.7—40.133；来源40.3—46.8；结尾59.3",
+    "limitation": "静态采样覆盖多个阶段，不是连续完整动态看听；人工逐字、语气、眼神和手机实屏可读性仍由05与用户核验",
+    "content_readability": "主标题、章节标题与完整摘录、成本/收益大字及DOI用于主要阅读；全幅原图同时保留作出处，原图密集正文未声称手机逐字验收"
+  },
+  "first_render": {
+    "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-中英双语-v7.mp4",
+    "technical_passed": true,
+    "why_not_final": "最终过程帧发现scaleX框右线短暂扫字，保留作对照，采用第二版固定框淡入",
+    "evidence": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/frame-manifest.json"
+  },
+  "budget": {
+    "full_render_count": 2,
+    "max_full_renders": 2,
+    "new_retained_media_bytes": 190966463,
+    "new_retained_media_mib": 182.12,
+    "max_media_mib": 200,
+    "max_minutes": 90,
+    "cache": "原渲染缓存复用；工具自行结束本轮工作目录，无人工清理",
+    "usage": "UNKNOWN（0.8.91不支持usage）"
+  },
+  "routing": {
+    "read_version": "ROUTING-2026-09-30-v3",
+    "handoff_version": "HANDOFF-2026-10-06-v1",
+    "target_model": "user default",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "tool_limits": [
+    "HyperFrames 0.8.91不支持usage；未升级工具，用量UNKNOWN",
+    "keyframes --shot无法静态解析经anim函数封装的WAAPI目标，输出no statically resolved animated element；无命中阻断记录。使用已成功的同工具runtime snapshot及最终导出过程帧作为像素证据，不声明静态关键帧诊断通过",
+    "open_in_codex预览仅返回queued；HTTP200单独已核，不冒充用户已看到预览",
+    "曾提前在第二版编码/组装完成前启动核验，MP4尚不存在导致帧数为空/IndexError；原日志保留在verify-final-run.log与premature-final-decode.log。之后真实渲染退出0并artifact validated才重新核验；失败不计通过，不增加完整渲染次数",
+    "Final MP4 open_in_codex request did not return before the orchestration cell was stopped; actual panel display UNKNOWN; not reissued.",
+    "history end reported another process owns the history (pid 33393). This turn did not close or interrupt that process; source/media delivery remains independently verified."
+  ],
+  "boundary": [
+    "未改共享流程状态/登记、根README/AGENTS或其他岗位",
+    "未运行旧构建器、未还原未遮照片旧v1",
+    "无安装/升级/付费/上传/外发/发布/删除",
+    "未给其他会话发送消息，未恢复1000视频研究"
+  ],
+  "remaining_required_work": [
+    "PMO审04交付并决定05释放",
+    "05独立读取最终MP4、源图坐标及实际导出出现/强调/退出帧，核完整性、手机可读性和声画",
+    "用户全片终审；发布仍未授权"
+  ],
+  "file_record": {
+    "new_or_versioned_files": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/render.log",
+        "bytes": 50663,
+        "mtime": "2026-10-08T15:51:05.667181+08:00",
+        "sha256": "0dfedd6b476c79503bb7b5c7a3f59ffaf31ae6744bbfa287bab6f92850b709c2"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/export-contact-4.jpg",
+        "bytes": 60326,
+        "mtime": "2026-10-08T15:51:31.127720+08:00",
+        "sha256": "b2e6efee307b03b751e211bae0ec1824ba796fb70e70c842e203e2d2cd8cabce"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/verify-final-run.log",
+        "bytes": 310,
+        "mtime": "2026-10-08T15:59:55.595336+08:00",
+        "sha256": "68a14fe9aef5fdbbfda481274226658cf93e8c0f7f173a2f14bda76eabf12f29"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/export-contact-1.jpg",
+        "bytes": 685994,
+        "mtime": "2026-10-08T15:51:30.215390+08:00",
+        "sha256": "79b48e75a49c3c687e9ec91a043e6458f49e6ed13d79d1d920a22ba203a2c420"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/verify-final-complete-run.log",
+        "bytes": 137,
+        "mtime": "2026-10-08T16:00:58.771698+08:00",
+        "sha256": "8b618e529946be9f66590e72024f7b898b994cabd14760c2a623585468ab1584"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/index-v7.html.txt",
+        "bytes": 25735,
+        "mtime": "2026-10-08T15:52:44.939209+08:00",
+        "sha256": "28667f94526b7a106cfc6b98c377649203a03b8c911c954c55bc1ed0c941fe57"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/export-contact-3.jpg",
+        "bytes": 589085,
+        "mtime": "2026-10-08T15:51:30.885753+08:00",
+        "sha256": "6e0ce12f1bb210a8ed8c09870dcb9caa12f92123e01f326d09e8045fca83c3e1"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/check-report.json",
+        "bytes": 34979,
+        "mtime": "2026-10-08T15:51:31.194437+08:00",
+        "sha256": "e7633bef5ae74756b6a64a8ab3e2295c85863810b7e975cd156ec34d78e42ec4"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/export-contact-2.jpg",
+        "bytes": 569925,
+        "mtime": "2026-10-08T15:51:30.521299+08:00",
+        "sha256": "3832a2df8024c75167dfbc97c56a2adc896ff796a94b2296eeca658214caebf4"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/frame-manifest.json",
+        "bytes": 9824,
+        "mtime": "2026-10-08T15:51:29.651593+08:00",
+        "sha256": "1750598e285ec7a8c4f8ff98e3ab4daa66e86c66a170a73b961ea8c3b554c171"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/frame-box.log",
+        "bytes": 466,
+        "mtime": "2026-10-08T15:47:56.796876+08:00",
+        "sha256": "d79a4e798d66ded66a5e0802bbea97563d4759d8135a66bcb5fa4f1b9f739788"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/keyframes.log",
+        "bytes": 140,
+        "mtime": "2026-10-08T15:57:39.614443+08:00",
+        "sha256": "cb87e7dbff7aa21673eb69683abb467053b69c9423873ca793a86b8896b39e70"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/index-before-v7.html.txt",
+        "bytes": 24759,
+        "mtime": "2026-10-08T15:45:57.799616+08:00",
+        "sha256": "1210a025c3fdeadd1fc2533f94a682700d71b0caf3e69b1cdedeb9c12b8ad71a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/check-final-raw.log",
+        "bytes": 35151,
+        "mtime": "2026-10-08T15:55:17.355506+08:00",
+        "sha256": "15ed5f696b3a1b98f5f8341912d8fb8022af2609362108285e6490e882fd65b2"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/verify-v7.py",
+        "bytes": 5661,
+        "mtime": "2026-10-08T16:00:27.499876+08:00",
+        "sha256": "a292a0c965cd85269a17f91250acdbe5f6058013e8625818bb5cc44d0ee5c9bf"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/snapshot.log",
+        "bytes": 613,
+        "mtime": "2026-10-08T15:46:43.803049+08:00",
+        "sha256": "e87744b288ad29d2f6457d0ac3f0fbfeaee0b3294223c81c95393d5bfea90574"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/highlight-final-preview.log",
+        "bytes": 632,
+        "mtime": "2026-10-08T15:53:36.129925+08:00",
+        "sha256": "ec2282911a13aa03a40ccf206c14cd53d38172d4a27a3fe801414a614309ba85"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/decode-progress.txt",
+        "bytes": 1126,
+        "mtime": "2026-10-08T15:51:19.338480+08:00",
+        "sha256": "8389199705e70942ce2dad917779cdf351ef89e3ff4f64216d6b6dc5dbeb4c03"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/timeline.json",
+        "bytes": 51176,
+        "mtime": "2026-10-08T15:47:17.749619+08:00",
+        "sha256": "73eaef1c44a6333241433077b362bb43613c321f8607250a60ef31e637a38291"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/decode.log",
+        "bytes": 2403,
+        "mtime": "2026-10-08T15:51:19.338585+08:00",
+        "sha256": "fb16d04aa25f40740c179fe8da8c861db057ab334a014d4f196b4f75432453ae"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/check-raw.log",
+        "bytes": 35151,
+        "mtime": "2026-10-08T15:48:04.774591+08:00",
+        "sha256": "15ed5f696b3a1b98f5f8341912d8fb8022af2609362108285e6490e882fd65b2"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/index-first-render.html.txt",
+        "bytes": 25779,
+        "mtime": "2026-10-08T15:52:44.938945+08:00",
+        "sha256": "8f8476c639971a0ce579fd9ce82fc4a2608c0f52ec5ebc33fdb8fc84b1a0d298"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/render-final.log",
+        "bytes": 54223,
+        "mtime": "2026-10-08T16:00:07.836296+08:00",
+        "sha256": "5fcccedbacef47be555b9dbecb6a51b6a4b59c676ffee1f70146f7adbee6a491"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/verification.json",
+        "bytes": 2223,
+        "mtime": "2026-10-08T15:51:31.288120+08:00",
+        "sha256": "1312dae6efa871659b5fc09c87698ef5f907f6ef9e2e3182970bbc733b5a5572"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/source-coordinates.json",
+        "bytes": 2930,
+        "mtime": "2026-10-08T16:02:17.875402+08:00",
+        "sha256": "dc0b8ec9cb3d98653851371cf1ca5e692a1f762aac614ebdda70d6eb0b40fa55"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/verify-run.log",
+        "bytes": 137,
+        "mtime": "2026-10-08T15:51:31.291053+08:00",
+        "sha256": "2f564e09f756da90a91c76d15f5e64f1c319f8f7de680e5abbbe9743c6339794"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/finish-v7.py",
+        "bytes": 11659,
+        "mtime": "2026-10-08T16:01:34.486440+08:00",
+        "sha256": "deb3fa271a787438a2cc3e369dd7f182059f7849e560d7508883d0ed5d130f3e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/premature-final-decode-progress.txt",
+        "bytes": 0,
+        "mtime": "2026-10-08T16:00:27.453647+08:00",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/premature-final-decode.log",
+        "bytes": 151,
+        "mtime": "2026-10-08T16:00:27.453472+08:00",
+        "sha256": "26f401d818f4c5712d63e203333c7d74550d69258808f6f30ae572990b6d9d5e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/frame-box/frame-00-at-32.5s.png",
+        "bytes": 60266,
+        "mtime": "2026-10-08T15:47:56.308025+08:00",
+        "sha256": "a9769273ad97cc2937a6e61c3a05f3eef3c6decf64b4df239c64a1c4d1adab2a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/frame-box/contact-sheet.jpg",
+        "bytes": 19551,
+        "mtime": "2026-10-08T15:47:56.796345+08:00",
+        "sha256": "bfdc357760f4b3b7b50cb5b464aa6c116866ac492bdcb736b10ec44cab1d50e3"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/preview/frame-00-at-16.5s.png",
+        "bytes": 1201233,
+        "mtime": "2026-10-08T15:46:41.472592+08:00",
+        "sha256": "ab3ccdae61d73ce6086071e9b8e0f44758f3ec045b033f0720d6c4b2e2d2992d"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/preview/frame-03-at-42s.png",
+        "bytes": 1169829,
+        "mtime": "2026-10-08T15:46:43.234526+08:00",
+        "sha256": "584338f1f9e574302e32a8cffd7c667bb29f79191c8463fa95d9c2d36f721542"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/preview/frame-01-at-32.5s.png",
+        "bytes": 1139040,
+        "mtime": "2026-10-08T15:46:42.004585+08:00",
+        "sha256": "e5d3935cd258effcb1776e7d98fe51738dc55a296604b808aec06b1b7d85eec0"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/preview/contact-sheet.jpg",
+        "bytes": 434778,
+        "mtime": "2026-10-08T15:46:43.802680+08:00",
+        "sha256": "cd7ca7669a942349c929816b2eeb0ad02a49744f1babb2b1bc4a44b4125f899e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/preview/frame-02-at-38s.png",
+        "bytes": 1174391,
+        "mtime": "2026-10-08T15:46:42.646128+08:00",
+        "sha256": "c03bb06c4f99db9cb8396230fb3cf2bf65801bfb3c4ba8cef25979e80b4c4c5d"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-4.jpg",
+        "bytes": 60326,
+        "mtime": "2026-10-08T16:00:58.566098+08:00",
+        "sha256": "b2e6efee307b03b751e211bae0ec1824ba796fb70e70c842e203e2d2cd8cabce"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-1.jpg",
+        "bytes": 685994,
+        "mtime": "2026-10-08T16:00:58.151541+08:00",
+        "sha256": "79b48e75a49c3c687e9ec91a043e6458f49e6ed13d79d1d920a22ba203a2c420"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-3.jpg",
+        "bytes": 589064,
+        "mtime": "2026-10-08T16:00:58.549707+08:00",
+        "sha256": "13190a5857094af762e7e5314df6d7322d5313a4de881cf403f6de623393bf31"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/check-report.json",
+        "bytes": 34979,
+        "mtime": "2026-10-08T16:00:58.681552+08:00",
+        "sha256": "e7633bef5ae74756b6a64a8ab3e2295c85863810b7e975cd156ec34d78e42ec4"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-2.jpg",
+        "bytes": 569910,
+        "mtime": "2026-10-08T16:00:58.344454+08:00",
+        "sha256": "daf9b78fc8781c3ba23ec38fa45fa23eb50090bbc2ce2aced96a5fc75d7cf789"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/frame-manifest.json",
+        "bytes": 10046,
+        "mtime": "2026-10-08T16:00:57.918308+08:00",
+        "sha256": "36cd95759e47ace572d545782a3473290062854a508d3dc04f1507d5973a890d"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/decode-progress.txt",
+        "bytes": 1316,
+        "mtime": "2026-10-08T16:00:46.757257+08:00",
+        "sha256": "176e38680c149db221498da379f7ef3ec896c6e4781f0ea8d84d003618d85702"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/decode.log",
+        "bytes": 2497,
+        "mtime": "2026-10-08T16:00:46.757356+08:00",
+        "sha256": "2b4caf1d0fbb6a202d58766b9bb83bc662cdc4c206c70e24bed99d172ced3314"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/verification.json",
+        "bytes": 2261,
+        "mtime": "2026-10-08T16:00:58.768008+08:00",
+        "sha256": "63e55bd55cd1abb73f2d698c09a7fb2051fc5f46b18836dc8f48eaecef69715c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/highlight-final-preview/frame-02-at-32.1s.png",
+        "bytes": 1073118,
+        "mtime": "2026-10-08T15:53:35.156650+08:00",
+        "sha256": "8c792f57f2c6ff78adf98b7b672988a4dea1564138534c774a4c9f9ebb00e6c5"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/highlight-final-preview/contact-sheet.jpg",
+        "bytes": 278260,
+        "mtime": "2026-10-08T15:53:36.128103+08:00",
+        "sha256": "8ab4170994e8b8b11554d6bb4f4fb97da1f5b6a156a22c95402a209744e73f1b"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/highlight-final-preview/frame-01-at-31.9s.png",
+        "bytes": 1008113,
+        "mtime": "2026-10-08T15:53:34.693078+08:00",
+        "sha256": "23a47d247612c9000877f72afaec1b58211356de8d694379dea820fec30626a9"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/highlight-final-preview/frame-00-at-31.8s.png",
+        "bytes": 989418,
+        "mtime": "2026-10-08T15:53:34.243192+08:00",
+        "sha256": "c40e8fe4b2dde5c42079a2c645b8915c01d51686803f0ad1d9aabc7338a81e20"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-19-n1000-at-33.333s.jpg",
+        "bytes": 207525,
+        "mtime": "2026-10-08T15:51:24.892778+08:00",
+        "sha256": "2e8bca547c9c6beff8f743d641991a61c00a766269c0e0ad4976e8ec0c18ec3f"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-11-n657-at-21.900s.jpg",
+        "bytes": 175721,
+        "mtime": "2026-10-08T15:51:22.496935+08:00",
+        "sha256": "1a0a6e5ad703a7e3505c5940783edcaae3a0a60f695b1d48c1c3390dd76f201c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-27-n1197-at-39.900s.jpg",
+        "bytes": 238795,
+        "mtime": "2026-10-08T15:51:26.693384+08:00",
+        "sha256": "34048bde4c70ee2a90c0b89306e49ef241c8ada673361c2a9899041a589d33c2"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-23-n1020-at-34.000s.jpg",
+        "bytes": 194399,
+        "mtime": "2026-10-08T15:51:26.013997+08:00",
+        "sha256": "7a70795d4d200b795ace294ad13c1f7a393f34910eb8bf63c229aa36c250c33e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-18-n975-at-32.500s.jpg",
+        "bytes": 212188,
+        "mtime": "2026-10-08T15:51:24.655468+08:00",
+        "sha256": "46c1b0602ff47c66cf5331078e3ab07d4ddbf2c5c724e02a1227d9a4bd5348e8"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-07-n390-at-13.000s.jpg",
+        "bytes": 222685,
+        "mtime": "2026-10-08T15:51:21.212352+08:00",
+        "sha256": "0557171a3b9dbe116e6aacc02bcef221cbbd33c26a74e986f81ce4cb375ac8c4"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-05-n346-at-11.533s.jpg",
+        "bytes": 257626,
+        "mtime": "2026-10-08T15:51:20.831934+08:00",
+        "sha256": "3532bfed19262e871c3d37ebf798e0f65748e832bc4221cecc992efa60c6a45d"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-06-n360-at-12.000s.jpg",
+        "bytes": 253618,
+        "mtime": "2026-10-08T15:51:21.002710+08:00",
+        "sha256": "01a20cce09ca4cf67f2bd8090210edb0ccf2d13adb0ecf6fa5b7d84314e58947"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-16-n957-at-31.900s.jpg",
+        "bytes": 182418,
+        "mtime": "2026-10-08T15:51:24.083257+08:00",
+        "sha256": "bee840a78ac9a2902b43d7139ce096b2570ea38d8673503bb44e95a53436d391"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-04-n340-at-11.333s.jpg",
+        "bytes": 238955,
+        "mtime": "2026-10-08T15:51:20.649780+08:00",
+        "sha256": "0f6165848c7e61a6a2825ef12dda3a3f041c9f163262565339c1501705ae4f5c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-03-n336-at-11.200s.jpg",
+        "bytes": 171967,
+        "mtime": "2026-10-08T15:51:20.488072+08:00",
+        "sha256": "e72fa27b2f6f812469cdbeb563f77f2940b00a1da9e79e26c7c69d2e530d6e56"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-21-n1008-at-33.600s.jpg",
+        "bytes": 200655,
+        "mtime": "2026-10-08T15:51:25.391694+08:00",
+        "sha256": "0f13a087bafddc601f5035a066a3218afb1547136508e03c061b94f3c2f60936"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-36-n1779-at-59.300s.jpg",
+        "bytes": 193518,
+        "mtime": "2026-10-08T15:51:29.638528+08:00",
+        "sha256": "5e74e27a8e14628ff18f81fdc7df5a077db29058613491340832f9b76667392a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-31-n1230-at-41.000s.jpg",
+        "bytes": 217065,
+        "mtime": "2026-10-08T15:51:27.452377+08:00",
+        "sha256": "cbe2887e29c78b94c2d6e6bda7bd26f846266147c5dd38010ae3e56a59865035"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-35-n1404-at-46.800s.jpg",
+        "bytes": 214990,
+        "mtime": "2026-10-08T15:51:28.777430+08:00",
+        "sha256": "6a1f9ecc80ddb3b433ca1f9aa4990ec534b06634662b8c1342e9f5467bcd665c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-14-n927-at-30.900s.jpg",
+        "bytes": 180547,
+        "mtime": "2026-10-08T15:51:23.404575+08:00",
+        "sha256": "5b78e3123e7c51b3a249d5f30e936938a3132e7c01cf7f425048cde7065ec41e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-33-n1394-at-46.467s.jpg",
+        "bytes": 229588,
+        "mtime": "2026-10-08T15:51:27.885590+08:00",
+        "sha256": "a2affc3b01e48eced9508eecdd59c3b88da44810f1b5d472eb73edf1c54245f0"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-26-n1140-at-38.000s.jpg",
+        "bytes": 217902,
+        "mtime": "2026-10-08T15:51:26.540724+08:00",
+        "sha256": "fd9cb53d69aec4fe8c778dbe080ee9adf42f5f9fcd508468ce976e53236cb954"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-29-n1209-at-40.300s.jpg",
+        "bytes": 234329,
+        "mtime": "2026-10-08T15:51:27.015661+08:00",
+        "sha256": "5796eaf6866d3533d28d2fe4f965514d064ccfd66e721da176604b278e50efdc"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-22-n1011-at-33.700s.jpg",
+        "bytes": 217060,
+        "mtime": "2026-10-08T15:51:25.653977+08:00",
+        "sha256": "a0b2595c023a0fba48cf301b5b6dab486869e26f332eeb2fef1f88daf76c7a6c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-24-n1050-at-35.000s.jpg",
+        "bytes": 198381,
+        "mtime": "2026-10-08T15:51:26.361760+08:00",
+        "sha256": "f7d1680f25e91d4041d56769acf40c542ca8af6a3a9c8e198f8870b329dd8081"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-12-n915-at-30.500s.jpg",
+        "bytes": 199790,
+        "mtime": "2026-10-08T15:51:22.813878+08:00",
+        "sha256": "98b0261cbfd4e45032765793f5dd3c1837ebb70e4f9e9ce8f557724827497708"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-00-n0-at-0.000s.jpg",
+        "bytes": 424425,
+        "mtime": "2026-10-08T15:51:20.112863+08:00",
+        "sha256": "9470552a2a327ab5a801272cc606f495e79f2177562e52e1dca185bc30619d66"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-02-n15-at-0.500s.jpg",
+        "bytes": 210325,
+        "mtime": "2026-10-08T15:51:20.318523+08:00",
+        "sha256": "cfb4d3c6d87fe2d96367997bb8100271c917d741081dbc9529706b1f74af8a3c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-13-n920-at-30.667s.jpg",
+        "bytes": 202172,
+        "mtime": "2026-10-08T15:51:23.104883+08:00",
+        "sha256": "cea67bc7c165af787d92b882ada82884356ce33a188112ae16eb51e79599b4c9"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-17-n966-at-32.200s.jpg",
+        "bytes": 218364,
+        "mtime": "2026-10-08T15:51:24.469800+08:00",
+        "sha256": "54b0bd4d812e10b7f06c3ddc7c3fdfe9722d38f57b28e2af7c5a1fc463d1ab73"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-30-n1218-at-40.600s.jpg",
+        "bytes": 196883,
+        "mtime": "2026-10-08T15:51:27.266301+08:00",
+        "sha256": "b203e546def51ea35ea2707b326b3540c3e8134c6fd02cd94e6d71a63e76a0cb"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-15-n952-at-31.733s.jpg",
+        "bytes": 199697,
+        "mtime": "2026-10-08T15:51:23.715416+08:00",
+        "sha256": "d727ac528e6e42ab1fa2315321f524c30dfe7b0fe6f4c704d4eabe9cd7494fff"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-25-n1110-at-37.000s.jpg",
+        "bytes": 219984,
+        "mtime": "2026-10-08T15:51:26.440978+08:00",
+        "sha256": "5f1a97afe81f6278344cbed3a88d5177078e519a00ffed6dcf5458e11624b153"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-28-n1204-at-40.133s.jpg",
+        "bytes": 209778,
+        "mtime": "2026-10-08T15:51:26.894881+08:00",
+        "sha256": "afd2f1d061c8594d37dfbd1a45180873580e3d37edc4b9a335687a4e1bf0e807"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-01-n14-at-0.467s.jpg",
+        "bytes": 424182,
+        "mtime": "2026-10-08T15:51:20.216702+08:00",
+        "sha256": "4bc0e9129ca3992651b523898a7dfd249741c27624743520389f788c2642320e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-20-n1005-at-33.500s.jpg",
+        "bytes": 204172,
+        "mtime": "2026-10-08T15:51:25.118636+08:00",
+        "sha256": "1147238dd4e730caceaf9f80a52226d217a392434c51ccd83a23e8c9aef22238"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-32-n1260-at-42.000s.jpg",
+        "bytes": 209165,
+        "mtime": "2026-10-08T15:51:27.593879+08:00",
+        "sha256": "0a8b6cae6b70c324b81d6de188cb7bacb05610247f6334e39e3d5fc2573c0cb1"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-08-n495-at-16.500s.jpg",
+        "bytes": 228779,
+        "mtime": "2026-10-08T15:51:21.534304+08:00",
+        "sha256": "e002420b775d9c9065a8f45df0486699f7e952d3e5fa5ac24eb03146f17afdb7"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-10-n652-at-21.733s.jpg",
+        "bytes": 198438,
+        "mtime": "2026-10-08T15:51:21.908226+08:00",
+        "sha256": "6606f3c108439e474bf35621ff3176aafd664d81ff42a463e436af3d942b61d5"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-34-n1401-at-46.700s.jpg",
+        "bytes": 216174,
+        "mtime": "2026-10-08T15:51:28.146353+08:00",
+        "sha256": "3b47bc26ecb373a7dafeba1f3caa215279ec79ad3f19b7571c089e084cd3803a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-09-n646-at-21.533s.jpg",
+        "bytes": 227760,
+        "mtime": "2026-10-08T15:51:21.729578+08:00",
+        "sha256": "af4a637363fdab5b747029852dff20b3dbacd3e951973746585ae03113acfc20"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-19-n1000-at-33.333s.jpg",
+        "bytes": 207416,
+        "mtime": "2026-10-08T16:00:53.272397+08:00",
+        "sha256": "73f6ac3a582b942a94e7ee40ca0507d5ffacaae9376273defb8f20abb1e1715a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-11-n657-at-21.900s.jpg",
+        "bytes": 175721,
+        "mtime": "2026-10-08T16:00:51.155703+08:00",
+        "sha256": "1a0a6e5ad703a7e3505c5940783edcaae3a0a60f695b1d48c1c3390dd76f201c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-27-n1197-at-39.900s.jpg",
+        "bytes": 238795,
+        "mtime": "2026-10-08T16:00:55.665930+08:00",
+        "sha256": "34048bde4c70ee2a90c0b89306e49ef241c8ada673361c2a9899041a589d33c2"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-23-n1020-at-34.000s.jpg",
+        "bytes": 194447,
+        "mtime": "2026-10-08T16:00:54.716364+08:00",
+        "sha256": "5a824d872f55e4e530cc66cbca52ad164f3f0069b922802b115cbb415436eea6"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-18-n975-at-32.500s.jpg",
+        "bytes": 212417,
+        "mtime": "2026-10-08T16:00:53.005843+08:00",
+        "sha256": "9736c06578a7f129b896e9f7ca2074baabd4ecfab7bfec7751515fd15861c838"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-07-n390-at-13.000s.jpg",
+        "bytes": 222685,
+        "mtime": "2026-10-08T16:00:49.600214+08:00",
+        "sha256": "0557171a3b9dbe116e6aacc02bcef221cbbd33c26a74e986f81ce4cb375ac8c4"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-05-n346-at-11.533s.jpg",
+        "bytes": 257626,
+        "mtime": "2026-10-08T16:00:48.923662+08:00",
+        "sha256": "3532bfed19262e871c3d37ebf798e0f65748e832bc4221cecc992efa60c6a45d"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-06-n360-at-12.000s.jpg",
+        "bytes": 253618,
+        "mtime": "2026-10-08T16:00:49.202227+08:00",
+        "sha256": "01a20cce09ca4cf67f2bd8090210edb0ccf2d13adb0ecf6fa5b7d84314e58947"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-16-n957-at-31.900s.jpg",
+        "bytes": 183081,
+        "mtime": "2026-10-08T16:00:52.399623+08:00",
+        "sha256": "e916e865bb06d2fb0b51df2e06d3385263d94fe5b4e2d602eec55fcb0a28d541"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-04-n340-at-11.333s.jpg",
+        "bytes": 238955,
+        "mtime": "2026-10-08T16:00:48.674729+08:00",
+        "sha256": "0f6165848c7e61a6a2825ef12dda3a3f041c9f163262565339c1501705ae4f5c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-03-n336-at-11.200s.jpg",
+        "bytes": 171967,
+        "mtime": "2026-10-08T16:00:48.401767+08:00",
+        "sha256": "e72fa27b2f6f812469cdbeb563f77f2940b00a1da9e79e26c7c69d2e530d6e56"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-21-n1008-at-33.600s.jpg",
+        "bytes": 200567,
+        "mtime": "2026-10-08T16:00:53.937283+08:00",
+        "sha256": "c67941c204b133ca1f86285cae445900cc023565037778ef1dcc7c2b16100c67"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-36-n1779-at-59.300s.jpg",
+        "bytes": 193518,
+        "mtime": "2026-10-08T16:00:57.908266+08:00",
+        "sha256": "5e74e27a8e14628ff18f81fdc7df5a077db29058613491340832f9b76667392a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-31-n1230-at-41.000s.jpg",
+        "bytes": 217065,
+        "mtime": "2026-10-08T16:00:56.305498+08:00",
+        "sha256": "cbe2887e29c78b94c2d6e6bda7bd26f846266147c5dd38010ae3e56a59865035"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-35-n1404-at-46.800s.jpg",
+        "bytes": 214990,
+        "mtime": "2026-10-08T16:00:57.494580+08:00",
+        "sha256": "6a1f9ecc80ddb3b433ca1f9aa4990ec534b06634662b8c1342e9f5467bcd665c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-14-n927-at-30.900s.jpg",
+        "bytes": 180687,
+        "mtime": "2026-10-08T16:00:51.857261+08:00",
+        "sha256": "47954ad68fa003fcac8967d185194b35def9e5e563717f42419bdf9cf7658c03"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-33-n1394-at-46.467s.jpg",
+        "bytes": 229588,
+        "mtime": "2026-10-08T16:00:56.816144+08:00",
+        "sha256": "a2affc3b01e48eced9508eecdd59c3b88da44810f1b5d472eb73edf1c54245f0"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-26-n1140-at-38.000s.jpg",
+        "bytes": 217902,
+        "mtime": "2026-10-08T16:00:55.344567+08:00",
+        "sha256": "fd9cb53d69aec4fe8c778dbe080ee9adf42f5f9fcd508468ce976e53236cb954"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-29-n1209-at-40.300s.jpg",
+        "bytes": 234329,
+        "mtime": "2026-10-08T16:00:56.015164+08:00",
+        "sha256": "5796eaf6866d3533d28d2fe4f965514d064ccfd66e721da176604b278e50efdc"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-22-n1011-at-33.700s.jpg",
+        "bytes": 217346,
+        "mtime": "2026-10-08T16:00:54.307890+08:00",
+        "sha256": "c23f7b6bc4a5b63e19ff83c12ac6490acdabe65d12d6a5e0e070b27f7a2d1964"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-24-n1050-at-35.000s.jpg",
+        "bytes": 198403,
+        "mtime": "2026-10-08T16:00:55.091719+08:00",
+        "sha256": "afc45915dfbabfb0bd145b7e68248e5624e0a4d6b836adb6b94c66158eef5d52"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-12-n915-at-30.500s.jpg",
+        "bytes": 199790,
+        "mtime": "2026-10-08T16:00:51.352485+08:00",
+        "sha256": "98b0261cbfd4e45032765793f5dd3c1837ebb70e4f9e9ce8f557724827497708"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-00-n0-at-0.000s.jpg",
+        "bytes": 424425,
+        "mtime": "2026-10-08T16:00:47.774431+08:00",
+        "sha256": "9470552a2a327ab5a801272cc606f495e79f2177562e52e1dca185bc30619d66"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-02-n15-at-0.500s.jpg",
+        "bytes": 210325,
+        "mtime": "2026-10-08T16:00:48.151443+08:00",
+        "sha256": "cfb4d3c6d87fe2d96367997bb8100271c917d741081dbc9529706b1f74af8a3c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-13-n920-at-30.667s.jpg",
+        "bytes": 202077,
+        "mtime": "2026-10-08T16:00:51.608256+08:00",
+        "sha256": "4a881388d1c5b9d2e66c9386b9530837add20e535bfa79e7910e0562cabcb5d1"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-17-n966-at-32.200s.jpg",
+        "bytes": 218521,
+        "mtime": "2026-10-08T16:00:52.713456+08:00",
+        "sha256": "f60e27209093f39dca54a47e511eac32f4e417a1e07c250fa60cbf84a90cbce9"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-30-n1218-at-40.600s.jpg",
+        "bytes": 196883,
+        "mtime": "2026-10-08T16:00:56.170897+08:00",
+        "sha256": "b203e546def51ea35ea2707b326b3540c3e8134c6fd02cd94e6d71a63e76a0cb"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-15-n952-at-31.733s.jpg",
+        "bytes": 199765,
+        "mtime": "2026-10-08T16:00:52.123238+08:00",
+        "sha256": "3f094cd2acdb278945e8d08a1288fddcf4124a28a07facf380b3e5fce3ca85d1"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-25-n1110-at-37.000s.jpg",
+        "bytes": 219984,
+        "mtime": "2026-10-08T16:00:55.200255+08:00",
+        "sha256": "5f1a97afe81f6278344cbed3a88d5177078e519a00ffed6dcf5458e11624b153"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-28-n1204-at-40.133s.jpg",
+        "bytes": 209853,
+        "mtime": "2026-10-08T16:00:55.910040+08:00",
+        "sha256": "36418e5eb627059ff7869392c6be54851ceb92d5b28336966dc20c2e684779e5"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-01-n14-at-0.467s.jpg",
+        "bytes": 424182,
+        "mtime": "2026-10-08T16:00:47.972844+08:00",
+        "sha256": "4bc0e9129ca3992651b523898a7dfd249741c27624743520389f788c2642320e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-20-n1005-at-33.500s.jpg",
+        "bytes": 204086,
+        "mtime": "2026-10-08T16:00:53.586871+08:00",
+        "sha256": "ee2bc1afbacc8c094ed206f4359db34dbdafddfaede640b34c1b91d94b1cddfc"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-32-n1260-at-42.000s.jpg",
+        "bytes": 209165,
+        "mtime": "2026-10-08T16:00:56.472434+08:00",
+        "sha256": "0a8b6cae6b70c324b81d6de188cb7bacb05610247f6334e39e3d5fc2573c0cb1"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-08-n495-at-16.500s.jpg",
+        "bytes": 228779,
+        "mtime": "2026-10-08T16:00:50.156133+08:00",
+        "sha256": "e002420b775d9c9065a8f45df0486699f7e952d3e5fa5ac24eb03146f17afdb7"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-10-n652-at-21.733s.jpg",
+        "bytes": 198438,
+        "mtime": "2026-10-08T16:00:50.817770+08:00",
+        "sha256": "6606f3c108439e474bf35621ff3176aafd664d81ff42a463e436af3d942b61d5"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-34-n1401-at-46.700s.jpg",
+        "bytes": 216174,
+        "mtime": "2026-10-08T16:00:57.163615+08:00",
+        "sha256": "3b47bc26ecb373a7dafeba1f3caa215279ec79ad3f19b7571c089e084cd3803a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/exported-frames/frame-09-n646-at-21.533s.jpg",
+        "bytes": 227760,
+        "mtime": "2026-10-08T16:00:50.491066+08:00",
+        "sha256": "af4a637363fdab5b747029852dff20b3dbacd3e951973746585ae03113acfc20"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/revise-v7.py",
+        "bytes": 3655,
+        "mtime": "2026-10-08T15:45:44.633019+08:00",
+        "sha256": "377315b18afbd465d8965afd910a76b8d093c45a2db8ae7dee80703bb909e477"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/revise-highlight-v7.py",
+        "bytes": 689,
+        "mtime": "2026-10-08T15:52:44.847766+08:00",
+        "sha256": "e79cac38c18a98f502d98f9005dae9607d12ac75d2cef9450d94aafc36bcfe92"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+        "bytes": 81049530,
+        "mtime": "2026-10-08T16:00:06.087169+08:00",
+        "sha256": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-中英双语-v7.mp4",
+        "bytes": 81056962,
+        "mtime": "2026-10-08T15:51:05.203588+08:00",
+        "sha256": "b73286c1aadd389712df3b2627b3679e32df3d24f06e4e6836c99c81c03c2783"
+      }
+    ],
+    "generated_handoff_files": [
+      "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/首条v7交付.json",
+      "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/首条v7交付.md",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/视觉修订-v7制作记录.md"
+    ],
+    "modified_existing": [
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/README.md"
+    ],
+    "creation_source": "本輪两次本地修订导出、CLI检查/snapshot以及本地技术核验脚本；用户附件与现有源图仅只读",
+    "purpose_and_dependency": "最终版供05/用户审片；首轮、过程图、冻结/版本源码与失败日志支撑修订对照、验收与恢复，仍有后续用途",
+    "risk": "源码、媒体和验收证据保护，不清理",
+    "releasable_bytes": 0,
+    "existing_cache": "项目.render-cache约775MiB，两次导出复用，未人工改动/删除",
+    "temporary_files": "render工具生成的本轮work目录已自行收尾；QA/首轮对照仍用于审查，全部保留；无人工删除"
+  },
+  "next_action": "待PMO转05；本Owner不自行PASS或推进下游。"
+}

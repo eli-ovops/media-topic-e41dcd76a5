@@ -1,0 +1,13 @@
+- heading "GitHub高性价比人生指南" [level=1]
+- generic: "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，不知道先查什么？ 这份《高性价比人生指南》，可以按自己的问题翻对应章节。 我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。 先存目录，需要时再翻。想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+- generic: 猜你想搜
+- generic: github人生进阶指南pdf
+- generic: 4天前 浙江
+- paragraph: 这是一片荒地点击评论
+- paragraph
+- generic: 说点什么...
+- generic: "1"
+- generic: 收藏
+- generic: 评论
+- button "发送" [disabled]
+- button "取消"

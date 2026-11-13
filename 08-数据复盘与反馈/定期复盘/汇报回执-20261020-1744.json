@@ -1,0 +1,15 @@
+{
+  "automation_id":"9",
+  "report":"复盘-20261020-1744.md",
+  "snapshot":"数据基线-20261020-1744.json",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool":"mcp__codex_app__send_message_to_thread",
+  "tool_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "send_status":"TOOL_ACCEPTED",
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "verification":"JSON解析及1412+11281=12693合计通过",
+  "snapshot_sha256":"5571f76618889a0da9c3396768703e3e20929c26802fe1de83c7e23f3e7a99bf",
+  "report_sha256":"5ad968efe30c0fd261e8e83774cf3bf04ab0089059c224871061d85e464272ee",
+  "note":"遵守禁止轮询，没有查询PMO是否收到。"
+}

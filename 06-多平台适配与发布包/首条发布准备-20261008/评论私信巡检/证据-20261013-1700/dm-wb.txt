@@ -1,0 +1,211 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "消息" [level=2]
+- link " @我的":
+
+  - link " @我的":
+    - generic: 
+    - generic: "@我的"
+- link " 评论":
+
+  - link " 评论":
+    - generic: 
+    - generic: 评论
+- link " 赞":
+
+  - link " 赞":
+    - generic: 
+    - generic: 赞
+- link " 私信 7":
+
+  - link " 私信 7":
+    - generic: 
+    - generic: 私信
+    - generic: "7"
+- link " 群通知":
+
+  - link " 群通知":
+    - generic: 
+    - generic: 群通知
+- main:
+  - generic: 收到的评论
+  - generic: 关注人的评论
+  - generic: 发出的评论
+  - generic: 暂无内容
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 金秀贤未与未成年金赛纶交往 13:05登顶":
+
+    - generic: "1"
+    - generic "金秀贤未与未成年金赛纶交往"
+    - generic: 13:05登顶
+  - link "2 网友曾偶遇李善宝与女生吃饭 61902":
+
+    - generic: "2"
+    - generic "网友曾偶遇李善宝与女生吃饭"
+    - generic: "61902"
+  - link "3 王嘉尔小鱼海棠同框 54713":
+
+    - generic: "3"
+    - generic "王嘉尔小鱼海棠同框"
+    - generic: "54713"
+  - link "4 懂车帝将依法采取维权措施 70005":
+
+    - generic: "4"
+    - generic "懂车帝将依法采取维权措施"
+    - generic: "70005"
+  - link "5 王一博帽子反戴完全男大来的 56858":
+
+    - generic: "5"
+    - generic "王一博帽子反戴完全男大来的"
+    - generic: "56858"
+  - link "6 郭碧婷向佐小儿子颜值 54020":
+
+    - generic: "6"
+    - generic "郭碧婷向佐小儿子颜值"
+    - generic: "54020"
+  - link "青春的长征答案由我们书写":
+
+    - generic "青春的长征答案由我们书写"
+  - link "7 赵奕欢上恋综崩溃大哭 55865":
+
+    - generic: "7"
+    - generic "赵奕欢上恋综崩溃大哭"
+    - generic: "55865"
+  - link "8 懂车帝测试人回应尊界V800检测报告 70009":
+
+    - generic: "8"
+    - generic "懂车帝测试人回应尊界V800检测报告"
+    - generic: "70009"
+  - link "9 AI女爱豆因怀孕暂停活动 941322":
+
+    - generic: "9"
+    - generic "AI女爱豆因怀孕暂停活动"
+    - generic: "941322"
+  - link "10 郭碧婷的美貌后继有人了 372604":
+
+    - generic: "10"
+    - generic "郭碧婷的美貌后继有人了"
+    - generic: "372604"
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 你可能感兴趣的人
+  - generic: 
+  - generic: 换一换
+  - link "哈登之家 体育博主  关注":
+
+    - generic: 哈登之家
+    - generic: 体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "篮球之声 体育博主 微博原创视频博主  关注":
+
+    - generic: 篮球之声
+    - generic: 体育博主 微博原创视频博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "篮球人物 微博原创视频博主  关注":
+
+    - generic: 篮球人物
+    - generic: 微博原创视频博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "创作者中心  数据中心  内容管理  收益中心  私信管理 进入创作者中心 ":
+
+    - generic: 创作者中心
+    - link " 数据中心":
+
+      - generic: 
+      - generic: 数据中心
+    - link " 内容管理":
+
+      - generic: 
+      - generic: 内容管理
+    - link " 收益中心":
+
+      - generic: 
+      - generic: 收益中心
+    - link " 私信管理":
+
+      - generic: 
+      - generic: 私信管理
+    - link "进入创作者中心 ":
+
+      - generic: 进入创作者中心
+      - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

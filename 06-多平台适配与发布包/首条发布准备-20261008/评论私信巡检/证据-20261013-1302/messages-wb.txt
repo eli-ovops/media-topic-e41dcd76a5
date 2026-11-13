@@ -1,0 +1,214 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "消息" [level=2]
+- link " @我的":
+
+  - link " @我的":
+    - generic: 
+    - generic: "@我的"
+- link " 评论":
+
+  - link " 评论":
+    - generic: 
+    - generic: 评论
+- link " 赞":
+
+  - link " 赞":
+    - generic: 
+    - generic: 赞
+- link " 私信 7" [active]:
+
+  - link " 私信 7":
+    - generic: 
+    - generic: 私信
+    - generic: "7"
+- link " 群通知":
+
+  - link " 群通知":
+    - generic: 
+    - generic: 群通知
+- main:
+  - generic: 收到的评论
+  - generic: 关注人的评论
+  - generic: 发出的评论
+  - generic: 暂无内容
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 谭松韵几乎没有精力社交认识新人 59343":
+
+    - generic: "1"
+    - generic "谭松韵几乎没有精力社交认识新人"
+    - generic: "59343"
+  - link "2 AI女爱豆因怀孕暂停活动 148848":
+
+    - generic: "2"
+    - generic "AI女爱豆因怀孕暂停活动"
+    - generic: "148848"
+  - link "3 懂车帝测试人回应尊界V800检测报告 81679":
+
+    - generic: "3"
+    - generic "懂车帝测试人回应尊界V800检测报告"
+    - generic: "81679"
+  - link "京东健康11.11小沈阳送千万免单":
+
+    - generic "京东健康11.11小沈阳送千万免单"
+  - link "4 李善宝小美时间线 81087":
+
+    - generic: "4"
+    - generic "李善宝小美时间线"
+    - generic: "81087"
+  - link "5 陈小纭已经是完全认不出的程度了 00:51登顶":
+
+    - generic: "5"
+    - generic "陈小纭已经是完全认不出的程度了"
+    - generic: 00:51登顶
+  - link "6 买了三个螃蟹吃发了十条朋友圈 54867":
+
+    - generic: "6"
+    - generic "买了三个螃蟹吃发了十条朋友圈"
+    - generic: "54867"
+  - link "大汉下线定格王朝千万里程碑":
+
+    - generic "大汉下线定格王朝千万里程碑"
+  - link "7 TF二代三代四代都营业了 58616":
+
+    - generic: "7"
+    - generic "TF二代三代四代都营业了"
+    - generic: "58616"
+  - link "8 李善宝 捏到一只咩咩 313703":
+
+    - generic: "8"
+    - generic "李善宝 捏到一只咩咩"
+    - generic: "313703"
+  - link "9 爸爸姓上官妈妈姓虞小孩叫什么 68125":
+
+    - generic: "9"
+    - generic "爸爸姓上官妈妈姓虞小孩叫什么"
+    - generic: "68125"
+  - link "10 人社部要把未参保人员找到 82602":
+
+    - generic: "10"
+    - generic "人社部要把未参保人员找到"
+    - generic: "82602"
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 你可能感兴趣的人
+  - generic: 
+  - generic: 换一换
+  - link "篮人 知名体育博主  关注":
+
+    - generic: 篮人
+    - generic: 知名体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "篮球技巧教学 微博知名体育账号 体育博主  关注":
+
+    - generic: 篮球技巧教学
+    - generic: 微博知名体育账号 体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "篮球大历史 知名体育博主 微博剪辑视频博主  关注":
+
+    - generic: 篮球大历史
+    - generic: 知名体育博主 微博剪辑视频博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "创作者中心  数据中心  内容管理  收益中心  私信管理 进入创作者中心 ":
+
+    - generic: 创作者中心
+    - link " 数据中心":
+
+      - generic: 
+      - generic: 数据中心
+    - link " 内容管理":
+
+      - generic: 
+      - generic: 内容管理
+    - link " 收益中心":
+
+      - generic: 
+      - generic: 收益中心
+    - link " 私信管理":
+
+      - generic: 
+      - generic: 私信管理
+    - link "进入创作者中心 ":
+
+      - generic: 进入创作者中心
+      - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

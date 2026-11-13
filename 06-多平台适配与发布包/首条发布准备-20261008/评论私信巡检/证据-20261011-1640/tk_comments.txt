@@ -1,0 +1,11 @@
+tabpanel "评论":
+  - paragraph: 早前
+  - list:
+    - link "quyenvu613 的主页":
+      - /url: /@quyenvu613
+    - link "quyenvu613":
+      - /url: /@quyenvu613
+    - paragraph: 发表了评论：Đam mê quá · 9-14
+    - link:
+      - /url: /@7652216317653599253/video/7685001922910326036
+- button "关闭"

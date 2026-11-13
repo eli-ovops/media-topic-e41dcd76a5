@@ -1,0 +1,56 @@
+{
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "target_stage": "04",
+  "decision": "PASS_BASELINE_ONLY",
+  "human_change_source": "2026-10-08 current PMO user message: 文字遮挡、圈文字未对准; two supplied PNG screenshots",
+  "preserved_scope": "v6题材/口播/来源/原片已形成现有可用输入；本轮只改图片展示/框选，不重新选题写稿拍摄，不声称新阶段历史PASS",
+  "known_defects": [
+    "资料图片正文裁切",
+    "章节框选偏移/含下一段"
+  ],
+  "prior_stage_evidence": {
+    "01": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/01-0-asset-records.json",
+        "sha256": "c093d56e923e89f7f1d0628c4527d4f4aaa43f995f4d6b6ce4e449933646c7e4",
+        "original_path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/asset-records.json"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/01-1-BRIEF.md",
+        "sha256": "7302a4c819a926db80408ae7b31738be4d0113e2458d68d77ae3ac4817a26e2c",
+        "original_path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/BRIEF.md"
+      }
+    ],
+    "02": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/02-0-高性价比人生指南-参照声画表.md",
+        "sha256": "b895a2a804bbd090023545d62321d0d26d0358ea9c21d91dfd83c8bd0b63c143",
+        "original_path": "/Volumes/EXTERNAL/自媒体/文案-20261007/高性价比人生指南-参照声画表.md"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/02-1-captions-bilingual-v3.json",
+        "sha256": "f3dddb20be0cf9c89d450e117ce7e3773b1eca0af0cbd5baf016f8c3b00a5d8d",
+        "original_path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/data/captions-bilingual-v3.json"
+      }
+    ],
+    "03": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/03-0-高性价比人生指南-素材编排.md",
+        "sha256": "0f7418b3a2bafa6d1c2b6103adee5dd2105fd8b6a2b1b4afe46486d73766e5f6",
+        "original_path": "/Volumes/EXTERNAL/自媒体/文案-20261007/高性价比人生指南-素材编排.md"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/输入冻结/03-1-README.md",
+        "sha256": "553ba05a1f89c8a111213c014821a78d41527a6a187a595dd239f3da2930c6eb",
+        "original_path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/README.md"
+      }
+    ]
+  },
+  "evidence_scope": "旧输入原件已在本PMO制作链读取并实际使用，SHA当前冻结；不是重新跑业务或补造过去审批。",
+  "remaining_for_new_revision": [
+    "04本地修复导出",
+    "05独立视觉验证",
+    "用户终审；发布仍未授权"
+  ]
+}

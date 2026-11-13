@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-24T05:59:56.995606+08:00",
+  "reviewer_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "message_received": true,
+  "decision": "LIMITED_REPORT_AND_BASELINE_CONSISTENCY_ACCEPTED",
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261024-0558.md",
+      "sha256": "28871defd601829ab4751eabffc591ac35a4974495e57cfc7a96422a7003ee80"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261024-0558.json",
+      "sha256": "5700390c6fd7a573277f1d5ee713d6b39ca20af936a69ed0b3e9c49c0f13320e"
+    }
+  ],
+  "checked": "已实读报告、数据基线与工具发送接受回执；六站数值、作品ID、统计口径与未核项相互一致，内部求和357正确。",
+  "native_reverification": "本轮PMO未独立重采平台原生页面；数据仍归属08报告时点，不冒称PMO逐站实测。",
+  "limits": [
+    "B站趋势自身更新时间05:21，非05:58实时事件流",
+    "X展示28与视频浏览11及独立观看7分开",
+    "YouTube全部评论/点赞/收藏未核，不能填0",
+    "旧反馈继续去重；可读三站私信未见新可确认业务，不推及未覆盖渠道",
+    "不因小样本作审美/动效或平台分发因果结论"
+  ],
+  "publication_status_changed": false,
+  "new_action_required": false,
+  "no_downstream_dispatch": true
+}

@@ -1,0 +1,37 @@
+- img "修改头像"
+- generic "修改昵称": Eli-AI
+- generic: 
+- generic: 
+- textbox "查找联系人或群"
+- list:
+  - generic: 新浪新闻
+  - generic: 12:47
+  - paragraph: 发来了一条链接消息＞>
+  - generic: "7"
+  - generic: 系统通知
+  - generic: 昨天
+  - paragraph: 您2026年10月10日 18:57发布的视频已成功发出：http://t.cn/AXlG9bko。为获得更多曝光和广告分成机会，诚邀您后续发布1分钟以上的高清视频（分辨率1080p及以上），原创高清内容能获得更多推荐机会，期待您的精彩创作! 您可在“我-创作中心-数据中心”查看视频数据表现。更多微博视频号创作者权益见:http://t.cn/AXapLYth
+  - generic: 活动通知
+  - generic: 昨天
+  - paragraph: 发来了一条链接消息＞>
+  - generic: "2"
+  - generic: 服务通知
+  - generic: 10-08
+  - paragraph: "你好，由于你是“#GitHub[超话]#”活跃粉丝，现有机会成为该超话主持人，更好的参与到超话管理。 戳这里 http://t.cn/A6HORcXK 申请吧！ 戳这里 #GitHub[超话]# 进超话玩吧！ 戳这里 http://t.cn/RQ1JurL 了解超话玩法和管理秘籍。 如有问题欢迎各位私信@超话小秘书，超话君会为你解答~"
+  - generic: "1"
+  - generic: 创作者小助手
+  - generic: 10-08
+  - paragraph: 您好！恭喜您已正式享有自制保护的权益。感谢您的持续投稿，微博将为保护您的视频权益而努力！ 产品使用流程如下： 1、系统将每日推送疑似侵权视频链接给您，具体查看方式：微博移动端APP-我-创作者中心-自制保护-未处理； 2、请您查看疑似链接并确认侵权是否成立，对属实侵权的视频链接可直接通过系统举报； 3、微博站方审核您的举报视频。当审核举报成功后，站方将把侵权视频的链接替换为您的原发视频链接。 小提示：还请谨慎确认系统召回的疑似链接，避免无效举报。
+  - generic: 明明明宏ouo
+  - generic: 2024-04
+  - paragraph: 申请了
+  - generic: 留言板
+  - generic: 2022-07
+  - paragraph: 微博会员:发来了一条链接消息＞>
+  - generic: 微博安全中心
+  - generic: 2021-11
+  - paragraph: 发来了一条链接消息＞>
+  - generic: 微博生活家
+  - generic: 2021-11
+  - paragraph: 感谢关注@微博故事，戳链接查看如何玩转微博故事：http://t.cn/EwJxTiM
+- paragraph: 您还未选中或发起聊天，快去跟好友聊一聊吧

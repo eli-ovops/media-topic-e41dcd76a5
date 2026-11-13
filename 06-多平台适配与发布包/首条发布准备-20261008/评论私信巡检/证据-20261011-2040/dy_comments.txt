@@ -1,0 +1,284 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注 2":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+  - generic: "2"
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - textbox "搜索你感兴趣的内容"
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+    - generic: 互动消息
+    - text: 评论
+    - link:
+      - /url: //www.douyin.com/user/MS4wLjABAAAAgwVep-F2ougKev6TMG_yodP115Kw5MnNujTkNs5WbMY_06Lg1_z--jB0SvAlchYl?enter_from=interact_cell&from_tab_name=main
+    - link "3️⃣月7️⃣":
+      - /url: //www.douyin.com/user/MS4wLjABAAAAgwVep-F2ougKev6TMG_yodP115Kw5MnNujTkNs5WbMY_06Lg1_z--jB0SvAlchYl
+      - generic: 3️⃣月7️⃣
+    - generic: 想看
+    - generic: 评论了你的作品星期五
+    - link:
+      - /url: //www.douyin.com/user/MS4wLjABAAAABiwIDeMUjslxRzB2uBgrOM39psCgVX2ZVoq8vK6EoiM?enter_from=interact_cell&from_tab_name=main
+    - link "洋大人":
+      - /url: //www.douyin.com/user/MS4wLjABAAAABiwIDeMUjslxRzB2uBgrOM39psCgVX2ZVoq8vK6EoiM
+      - generic: 洋大人
+    - generic: 想看完整版
+    - generic: 评论了你的作品星期五
+    - generic: 暂时没有更多了
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- img "Eli-Ai头像"
+- heading "Eli-Ai" [level=1]:
+  - generic: Eli-Ai
+- generic: 关注
+- generic: "11"
+- generic: 粉丝
+- generic: "10"
+- generic: 获赞
+- generic: "55"
+- paragraph:
+  - generic: 抖音号：25296649142
+- generic: AI｜Agent｜FDE 实用方法 · 真实案例 · 踩坑分...
+- generic: 更多
+- generic: 我公开展示的群聊
+- generic: 保存登录信息
+- generic: 下载电脑客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- tablist:
+  - tab "作品 4" [selected]:
+    - heading "作品 4" [level=2]:
+      - generic: 作品
+      - generic: "4"
+  - tab "推荐":
+    - generic: 推荐
+  - tab "喜欢":
+    - generic: 喜欢
+  - tab "收藏":
+    - generic: 收藏
+  - tab "观看历史":
+    - generic: 观看历史
+  - tab "稍后再看":
+    - generic: 稍后再看
+  - tab "我的预约":
+    - generic: 我的预约
+- tabpanel "作品 4"
+- generic: 批量管理
+- tablist:
+  - tab "作品" [selected]:
+    - generic: 作品
+  - tab "私密作品":
+    - generic: 私密作品
+  - tab "合集":
+    - generic: 合集
+  - tab "短剧":
+    - generic: 短剧
+- tabpanel "作品"
+- generic: 搜索你发布的作品
+- textbox "搜索你发布的作品"
+- generic: 日期筛选
+- list:
+  - 'link "Eli-Ai：把AI用起来｜我是Eli 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。 #AI #人工智能 #AI工具 #Agent #FDE 239 把AI用起来｜我是Eli 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。 #AI #人工智能 #AI工具 #Agent #FDE"':
+    - /url: /video/7695016865814400297
+    - 'img "Eli-Ai：把AI用起来｜我是Eli 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。 #AI #人工智能 #AI工具 #Agent #FDE"'
+    - generic: "239"
+    - paragraph: "把AI用起来｜我是Eli 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。 #AI #人工智能 #AI工具 #Agent #FDE"
+  - 'link "Eli-Ai：没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 775 没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学"':
+    - /url: /video/7694630238197665050
+    - 'img "Eli-Ai：没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学"'
+    - generic: "775"
+    - paragraph: "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学"
+  - 'link "Eli-Ai：看完了艾伦和孙哥的访谈。完整版稍后发出来#薄肌 #孙学 #孙宇晨 #邵艾伦alan 1857 看完了艾伦和孙哥的访谈。完整版稍后发出来#薄肌 #孙学 #孙宇晨 #邵艾伦alan"':
+    - /url: //www.douyin.com/note/7694562191479593466
+    - 'img "Eli-Ai：看完了艾伦和孙哥的访谈。完整版稍后发出来#薄肌 #孙学 #孙宇晨 #邵艾伦alan"'
+    - generic: "1857"
+    - paragraph: "看完了艾伦和孙哥的访谈。完整版稍后发出来#薄肌 #孙学 #孙宇晨 #邵艾伦alan"
+  - 'link "Eli-Ai：GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具 658 GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"':
+    - /url: /video/7694290083091926287
+    - 'img "Eli-Ai：GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"'
+    - generic: "658"
+    - paragraph: "GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+- generic: 暂时没有更多了
+- complementary:
+  - generic: 消息
+  - textbox "搜索"
+  - generic: 3️⃣月7️⃣
+  - generic: 昨天 08:39
+  - generic: 好的
+  - generic: 洋大人
+  - generic: 前天
+  - generic: 要完整版吗
+  - generic: Eli
+  - generic: 前天
+  - generic: "[分享用户]"
+  - generic: 千金难买你初心
+  - generic: 前天
+  - generic: 嗨～ 我是郁蛊，聊聊天吧
+  - generic: ￴ ￴￴ ￴￴￴ ︎
+  - generic: 前天
+  - generic: 嗨～ 我是￴ ￴￴ ￴￴￴ ︎，聊聊天吧
+  - generic: 躲我是害羞吗
+  - generic: 前天
+  - generic: 嗨～ 我是躲我是害羞吗，聊聊天吧
+  - generic: 你是恨我还是恨不如我
+  - generic: 周四
+  - generic: 回！
+  - generic: 小鲶鱼
+  - generic: 周四
+  - generic: 嗨～ 我是小鲶鱼，聊聊天吧
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音精选":
+    - /url: https://www.douyin.com/jingxuan
+  - link "抖音网页版入口":
+    - /url: https://www.douyin.com/jingxuan
+  - link "满记甜品":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAA2Q2QbOQBPX52H-kfqyo4p_uWdJrTbGyk367niSuGUpY
+  - 'link "一轮复习开始，27版一地宝藏高中教辅，必刷100讲人手一本！！这是一本有思维引导功能的教辅，它会像老师一样引领大家去总结高考的核心方法以及各类题型该如何思考，有哪些值得注意的地方，最终帮助大家真正地构建属于自己的方法体系 #高中地理 #一轮复习"':
+    - /url: https://www.douyin.com/video/7694937332168365672
+  - link "浙江保送清华北大人数全国第一":
+    - /url: https://www.douyin.com/topic/7509878546140284943
+  - link "东北育才最后一模":
+    - /url: https://www.douyin.com/shipin/7509923183936505907
+  - link "四川志愿档案状态查询":
+    - /url: https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E5%BF%97%E6%84%BF%E6%A1%A3%E6%A1%88%E7%8A%B6%E6%80%81%E6%9F%A5%E8%AF%A2
+  - link "国家体育总局中国足协致贺信":
+    - /url: https://www.douyin.com/video/7599077226562309427?source=Baiduspider
+  - 'link "香奈儿拜占庭328试色+画法｜这盘是复古爱情#眼影 #眼影试色 #眼影分享 #眼影盘 #眼妆"':
+    - /url: https://www.douyin.com/video/7270082908990246184?source=Baiduspider
+  - 'link "我给毛子洗澡视频点@抗哥卤菜荆门工商街店 #抖音美食推荐官 #美食教程 #美食创作人"':
+    - /url: https://www.douyin.com/video/7260418783796366650?source=Baiduspider
+  - 'link "这次特意买个大一点的床，下次他们几个来，就有地方睡了 #路由器 #监控安防"':
+    - /url: https://www.douyin.com/video/7171770656315460897?source=Baiduspider-sdc
+  - 'link "遵义习水县，习水县下辖20个镇2个乡4个街道，你都了解多少？#地图 #遵义 #习水县"':
+    - /url: https://www.douyin.com/video/7557367836319534376?source=Baiduspider
+  - 'link "#真实生活分享计划 每天的快乐是村民们给的 这就是我的家乡#记录农村真实生活 #记录农村真实生活 #摆摊日记"':
+    - /url: https://www.douyin.com/video/7563217081576557882?source=Baiduspider
+  - 'link "7️⃣女孩儿养自己❤️1个月变好看野路子。1个月变好看野路子，2个特点：野➕巨有用！ ✅真的就1个月，不行你回来找我，真的，你变美变好看你周围人就会告诉你，真的这玩意真没办法，我都不想说啥，周围人就会说你皮肤光了，状态好了，气质提起来了，整体棒了#大猫猫的思考笔记 #变美 #变好看 #女孩儿养自己 #富养自己"':
+    - /url: https://www.douyin.com/video/7562608941445041449?source=Baiduspider-sdc

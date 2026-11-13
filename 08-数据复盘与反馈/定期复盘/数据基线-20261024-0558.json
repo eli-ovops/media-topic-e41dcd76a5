@@ -1,0 +1,330 @@
+{
+  "automation_id": "9",
+  "observed_window": "2026-10-24 05:56—05:58 Asia/Shanghai",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "release_source": "elden-ring-ai-recap-20261023/06-发布准备/发送回执-v1.json",
+  "release_updated": "2026-10-24 01:58:49",
+  "rules": "AGENTS v3 / CODEX-MEDIA-20261021-v2; registry 08 and PMO verified",
+  "no_new_06_metrics": true,
+  "platforms": [
+    {
+      "platform": "抖音",
+      "account": "Eli-Ai/本人作者与头像一致",
+      "views": 129,
+      "likes": 0,
+      "saves": 0,
+      "comments": 1,
+      "work_id": "7699890072421698857",
+      "source": "https://creator.douyin.com/creator-micro/content/manage",
+      "completion": 1.53,
+      "two_second_exit": 33.8,
+      "attributed_followers": 0
+    },
+    {
+      "platform": "B站",
+      "account": "Eli-AI/432834855",
+      "views": 35,
+      "likes": 0,
+      "saves": 0,
+      "comments": 0,
+      "work_id": "BV1ZEn86PEha",
+      "source": "https://member.bilibili.com/platform/upload-manager/article/data/BV1ZEn86PEha",
+      "updated": "2026-10-24 05:21"
+    },
+    {
+      "platform": "TikTok",
+      "account": "@elimakesapps",
+      "views": 73,
+      "likes": 1,
+      "saves": "UNKNOWN",
+      "comments": 0,
+      "work_id": "7699897661360442676",
+      "source": "https://www.tiktok.com/tiktokstudio/content",
+      "privacy": "所有人"
+    },
+    {
+      "platform": "微博",
+      "account": "Eli-AI",
+      "views": 0,
+      "likes": 0,
+      "saves": "UNKNOWN",
+      "comments": 1,
+      "url": "https://weibo.com/7720929036/Ro3sI7C63",
+      "source": "https://me.weibo.com/content/video",
+      "comment_direction": "UNKNOWN"
+    },
+    {
+      "platform": "X",
+      "account": "Eli-AI/@cczij1112",
+      "views": 11,
+      "likes": 2,
+      "saves": 0,
+      "comments": 2,
+      "work_id": "2113662529859919990",
+      "source": "https://x.com/cczij1112/status/2113662529859919990/analytics",
+      "unique_video_views": 7,
+      "post_impressions": 28
+    },
+    {
+      "platform": "YouTube",
+      "account": "UCqJaVQRO3FrxD5spt1GG7Iw",
+      "views": 109,
+      "likes": "UNKNOWN",
+      "saves": "UNKNOWN",
+      "comments": "UNKNOWN",
+      "work_id": "2ZQ6YZ8Yv34",
+      "source": "https://studio.youtube.com/video/2ZQ6YZ8Yv34/analytics/tab-overview/period-default",
+      "comment_coverage": "未回复筛选为空，移除后仅加载中，全部和待审未核，不填0"
+    },
+    {
+      "platform": "小红书",
+      "state": "UNPUBLISHED_FROM_RECEIPT",
+      "identity": "NOT_REVERIFIED",
+      "views": "UNKNOWN"
+    },
+    {
+      "platform": "LinkedIn",
+      "state": "UNPUBLISHED_VERIFICATION_BLOCK_FROM_RECEIPT",
+      "identity": "NOT_REVERIFIED",
+      "views": "UNKNOWN"
+    },
+    {
+      "platform": "视频号",
+      "state": "MANUAL_REQUIRED_SITE_SAFETY_NOT_ACCESSED",
+      "identity": "NOT_REVERIFIED",
+      "views": "UNKNOWN"
+    }
+  ],
+  "comparison_internal": {
+    "previous": "复盘-20261024-0200.md",
+    "same_six_previous": 156,
+    "same_six_current": 357,
+    "snapshot_delta": 201,
+    "note": "同6站同作品后台口径，非精确窗口事件时间；不向用户展示新增列"
+  },
+  "comments": {
+    "douyin": {
+      "sender": "不染，",
+      "text": "建模不要用gpt手搓啊，人家大神估计也是用专门的建模模型",
+      "time": "4小时前·江苏",
+      "dedup": "douyin:7699890072421698857:不染:建模",
+      "status": "UNCHANGED_NO_REPLY"
+    },
+    "x": [
+      {
+        "id": "2113671199905702184",
+        "sender": "Jason/@JasonPang0720",
+        "text": "我會先看閃避和受擊的手感。",
+        "status": "UNCHANGED"
+      },
+      {
+        "id": "2113671330419859941",
+        "sender": "Jason/@JasonPang0720",
+        "text": "關注你啦，有興趣就互關～",
+        "status": "UNCHANGED_NO_FOLLOW_ACTION",
+        "follow_verification": "仅本人自述，不证明当前关注列表"
+      }
+    ]
+  },
+  "dm": [
+    {
+      "platform": "抖音",
+      "source": "https://www.douyin.com/video/7699890072421698857 消息",
+      "finding": "仍周三當時的月亮本人已回复/卡西酱已回复与群旧申请提示；无新可确认业务，待审人数未核"
+    },
+    {
+      "platform": "B站",
+      "source": "https://message.bilibili.com/#/whisper",
+      "finding": "本人432834855，顶部仍贴标/登录系统通知，旧动物园预览去重，无新可确认业务"
+    },
+    {
+      "platform": "微博",
+      "source": "https://api.weibo.com/chat#/chat",
+      "finding": "本人Eli-AI，顶部仍本片10/23 23:49成功发布系统通知、新闻和服务提醒，无新可确认业务"
+    },
+    {
+      "platform": "TikTok",
+      "source": "https://www.tiktok.com/business-suite/messages",
+      "finding": "消息与请求已读；2请求为10/22及10/21旧骚扰预览，昵称未显示，不计业务，不接受/回复；Marsexpress仍10/20请求已接受，按用户已回复去重",
+      "dedup": [
+        "tiktok:request:20261022:spam",
+        "tiktok:request:20261021:spam"
+      ]
+    },
+    {
+      "platform": "X",
+      "source": "https://x.com/i/chat",
+      "finding": "本轮返回内容未能核到可确认近期聊天/请求列表，不对其作无消息结论"
+    },
+    {
+      "platform": "YouTube",
+      "finding": "未回复已发布评论筛选为空，移除后加载中；全部/待审/私信未覆盖"
+    },
+    {
+      "platform": "小红书",
+      "finding": "旧设备登录限制不重试，私信未覆盖"
+    },
+    {
+      "platform": "LinkedIn",
+      "finding": "既有验证重定向未重试，私信未覆盖"
+    },
+    {
+      "platform": "视频号",
+      "finding": "已知site-safety未访问，私信未覆盖"
+    }
+  ],
+  "other_works": {
+    "order": "播放/赞/藏/评",
+    "douyin": {
+      "DeepInfer": [
+        649,
+        7,
+        1,
+        0
+      ],
+      "漏斗": [
+        424,
+        8,
+        0,
+        0
+      ],
+      "反对": [
+        1202,
+        26,
+        11,
+        4
+      ],
+      "豆包": [
+        8515,
+        54,
+        7,
+        50
+      ],
+      "千问": [
+        503,
+        8,
+        1,
+        1
+      ],
+      "介绍": [
+        249,
+        3,
+        0,
+        1
+      ],
+      "访谈": [
+        789,
+        23,
+        9,
+        1
+      ],
+      "指南": [
+        664,
+        10,
+        2,
+        1
+      ]
+    },
+    "weibo": {
+      "DeepInfer": [
+        8,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "漏斗": [
+        14,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "反对": [
+        5,
+        0,
+        "UNKNOWN",
+        3
+      ],
+      "豆包": [
+        13,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "千问": [
+        5,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "介绍": [
+        7,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "访谈": [
+        8,
+        0,
+        "UNKNOWN",
+        1
+      ],
+      "指南": [
+        37,
+        0,
+        "UNKNOWN",
+        0
+      ]
+    },
+    "tiktok": {
+      "DeepInfer": [
+        98,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "漏斗": [
+        115,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "反对": [
+        0,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "豆包": [
+        0,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "千问": [
+        0,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "介绍": [
+        94,
+        2,
+        "UNKNOWN",
+        0
+      ]
+    },
+    "comment_note": "反对4评含本人首评/回复，不推拆观众数",
+    "coverage": "本轮DY/WB/TK列表；其余旧作品站未重采",
+    "internal_deltas": {
+      "douyin_豆包": 6,
+      "tiktok_DeepInfer": 1,
+      "others_observed": 0
+    }
+  },
+  "separate_browse": {
+    "douyin_image_preview": 1867,
+    "X_post": 28
+  },
+  "recommendation": "沿已有观众反馈选择专用建模或闪避受击一个可验证改进，不因小样本断言趋势。",
+  "boundaries": "单IAB串行只读已关闭，不轮询会话/改共享状态登记/唤醒制作/联系Grok/恢复自动化；无评论私信互关接受请求发布改帖删除安装改权限费用，未读Cookie凭据内部存储私有API，IG/FB排除。"
+}

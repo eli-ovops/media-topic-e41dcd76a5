@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-08",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "owner_turn_id": "01a11b57-8d46-7c33-ab43-87927fe3d2bf",
+  "decision": "DRAFT_TEXT_AND_STRATEGY_ACCEPTED_MUSIC_SELECTION_OPEN",
+  "scope": "用户指定平台热门低音量BGM、GitHub/指南/AI关联标题、新抖音目标的本轮草稿修订；不代表正式06通过或平台最终发布包齐备",
+  "evidence_read": [
+    "音乐与标题修订-v2.md全文",
+    "平台文案-v2.md全文，11平台标题/正文/标签/音乐步骤",
+    "来源核对-v2.md全文；曲目证据缺口与读取范围明确",
+    "发布清单-v2.json的平台集合、音乐策略、主选标题、新抖音字段及现有母版信息",
+    "文件记录-v2.json，4份交付SHA实际核对匹配",
+    "账号Owner最新README/主页清单/全平台执行记录；原Owner turn 01a11b52-f65c-7fa3-b4c6-2e149683eb8b及保存截图，PMO实际看图确认Eli-Ai/25296649142/作品0",
+    "X本文无emoji草稿按官方加权范围+URL23规则离线核：含标题/正文/标签272，小于280；未客户端提交"
+  ],
+  "confirmed": {
+    "platform_count": 11,
+    "new_douyin_id": "25296649142",
+    "old_douyin_used": false,
+    "music_strategy": "PER_PLATFORM_NATIVE_TRENDING_LOW_VOLUME",
+    "uniform_Machina_default": false,
+    "master_bgm_changed": false,
+    "voice_slider_start_percent": 100,
+    "music_slider_start_percent": [3, 5],
+    "GitHub_and_book_title_primary": true,
+    "AI_context": "account sharing perspective, no invented AI demo",
+    "user_hot_title_preserved": true,
+    "final_sender": "用户本人",
+    "published": false
+  },
+  "open_items": [
+    "没有核到合格当前具体热曲，确认曲目0；曲名/版本/音乐页/地区时间窗与当前可用性在本次原生入口选择，不能称音乐已备齐",
+    "新抖音简介未显示，不继承旧账号资料全齐状态，不由本PMO擅自改资料",
+    "用户实际最终同版本视频审看、平台选曲后的原声/BGM听感与封面/字幕预览、文案确认",
+    "最后发送由用户本人；07只指导和核对回执"
+  ],
+  "formal_stage": "05",
+  "formal_06_pass": false,
+  "live_other_thread_browser_read_by_PMO": false,
+  "route_actual_model_effort_speed": "UNKNOWN"
+}

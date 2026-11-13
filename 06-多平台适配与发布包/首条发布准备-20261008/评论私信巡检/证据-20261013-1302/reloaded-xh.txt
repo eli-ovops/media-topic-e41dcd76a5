@@ -1,0 +1,273 @@
+- banner:
+  - textbox "推出十月最爱新番"
+  - img "搜索"
+- link:
+
+- list:
+  - link "首页":
+
+    - generic: 首页
+  - link "点点 ai":
+
+    - generic: 点点
+    - generic: ai
+  - link "RED":
+
+    - generic: RED
+  - link "直播":
+
+    - generic: 直播
+  - link "发布":
+
+    - generic: 发布
+  - link "通知" [active]:
+
+    - generic: 通知
+  - link "消息":
+
+    - generic: 消息
+  - link "我":
+
+    - generic: 我
+  - paragraph:
+    - link "沪ICP备13030189号":
+
+    - text: "|"
+    - link "营业执照":
+
+    - text: "|"
+    - link "2026沪公网安备31010102002533号":
+
+    - text: "|"
+    - link "增值电信业务经营许可证：沪B2-20150021":
+
+    - text: "|"
+    - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+
+    - text: "|"
+    - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+
+    - text: "|"
+    - link "违法不良信息举报电话：4006676810":
+
+    - text: "|"
+    - link "上海市互联网举报中心":
+
+    - text: "|"
+    - link "网上有害信息举报专区":
+
+    - text: "|"
+    - link "自营经营者信息":
+
+    - text: "|"
+    - link "网络文化经营许可证：沪网文[2021]1545-113号":
+
+    - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+  - paragraph: © 2014-2026
+  - paragraph: 行吟信息科技（上海）有限公司
+  - paragraph: 地址：上海市黄浦区马当路388号C座
+  - paragraph: 电话：9501-3888
+- generic "更多":
+  - generic: 更多
+- generic "关于我们":
+  - generic: 关于我们
+- paragraph:
+  - link "沪ICP备13030189号":
+
+  - text: "|"
+  - link "营业执照":
+
+  - text: "|"
+  - link "2026沪公网安备31010102002533号":
+
+  - text: "|"
+  - link "增值电信业务经营许可证：沪B2-20150021":
+
+  - text: "|"
+  - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+
+  - text: "|"
+  - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+
+  - text: "|"
+  - link "违法不良信息举报电话：4006676810":
+
+  - text: "|"
+  - link "上海市互联网举报中心":
+
+  - text: "|"
+  - link "网上有害信息举报专区":
+
+  - text: "|"
+  - link "自营经营者信息":
+
+  - text: "|"
+  - link "网络文化经营许可证：沪网文[2021]1545-113号":
+
+  - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+- paragraph: © 2014-2026
+- paragraph: 行吟信息科技（上海）有限公司
+- paragraph: 地址：上海市黄浦区马当路388号C座
+- paragraph: 电话：9501-3888
+- generic: 评论和@
+- generic: 赞和收藏
+- generic: 新增关注
+- link:
+
+- link "栈外LINK":
+
+- generic: 作者
+- generic: 回复了你的评论6天前
+- generic: 最近宁波有一个AI气候大赛还没截止
+- generic: 已经截止报名了吗
+- generic: 回复
+- link:
+
+- link "栈外LINK":
+
+- generic: 作者
+- generic: 回复了你的评论7天前
+- generic: 原评论已删除
+- link:
+
+- link "栈外LINK":
+
+- generic: 作者
+- generic: 回复了你的评论7天前
+- generic: 还有一个赛道可以补录报名，
+- generic: 已经截止报名了吗
+- generic: 回复
+- link:
+
+- link "月亮":
+
+- generic: 评论了你的笔记08-19
+- generic: 蹲一个
+- generic: 回复
+- link:
+
+- link "momo":
+
+- generic: 评论了你的笔记08-18
+- generic: 蹲一个
+- generic: 回复
+- link:
+
+- link "momo":
+
+- generic: 评论了你的笔记08-18
+- generic: 辣🐔人的评论[表情]
+- generic: "时代: 垃圾东西没人用呀"
+- generic: 回复
+- link:
+
+- link "爱昊昊":
+
+- generic: 评论了你的笔记08-18
+- generic: 原评论已删除
+- link:
+
+- link "时代":
+
+- generic: 评论了你的笔记08-18
+- generic: 垃圾东西没人用呀
+- generic: 回复
+- link:
+
+- link "随意小铺":
+
+- generic: 评论了你的笔记08-18
+- text: 内测
+- generic: 回复
+- link:
+
+- link "AAAA":
+
+- generic: 你的关注
+- generic: 回复了你的评论08-17
+- generic: 可以边试边改吧，后续不会优化了吗
+- text: 说实话感觉完成度还不够
+- generic: 回复
+- link:
+
+- link "AAAA":
+
+- generic: 你的关注
+- generic: 评论了你的笔记08-17
+- generic: 怎么参加
+- generic: 回复
+- link:
+
+- link "༺ཌༀཉི乐乐༃ༀད༻":
+
+- generic: 你的关注
+- generic: 回复了你的评论08-16
+- text: 我先试试
+- text: 这个是一个很好的方向呀
+- generic: 回复
+- link:
+
+- link "༺ཌༀཉི乐乐༃ༀད༻":
+
+- generic: 你的关注
+- generic: 评论了你的笔记08-16
+- text: 我ios，我试试（同时，一个建议，如果可以的话，后期希望能加一个，就是用户上传自己，一个角色视图，然后让用户喜欢的角色陪着
+- text: ）
+- generic: 回复
+- link:
+
+- link "晓琳":
+
+- generic: 你的好友
+- generic: 评论了你的笔记08-14
+- generic: 我
+- generic: 回复
+- link:
+
+- link "一只森":
+
+- generic: 评论了你的笔记08-14
+- generic: 萌之萌之
+- generic: 回复
+- link:
+
+- link "🐟🐟":
+
+- generic: 你的好友
+- generic: 评论了你的笔记08-13
+- generic: 同类产品太多了
+- generic: 回复
+- link:
+
+- link "马之虎":
+
+- generic: 评论了你的笔记08-13
+- generic: 试试
+- generic: 回复
+- link:
+
+- link "破产男孩Chris":
+
+- generic: 回复了你的评论08-12
+- generic: 荣幸至极
+- text: 想试用一下不
+- generic: 回复
+- link:
+
+- link "破产男孩Chris":
+
+- generic: 评论了你的笔记08-12
+- generic: 了不起的开发者
+- generic: 回复
+- link:
+
+- link "菠萝想我":
+
+- generic: 评论了你的笔记08-12
+- text: Android 还是 IOS
+- generic: 回复
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe

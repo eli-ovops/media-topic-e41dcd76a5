@@ -1,0 +1,74 @@
+- generic: 社区
+- banner:
+  - button "收起菜单":
+  - link "YouTube Studio 信息中心":
+    - /url: /channel/UCqJaVQRO3FrxD5spt1GG7Iw
+    - img "YouTube Studio 信息中心"
+  - button "跳过导航":
+    - generic: 跳过导航
+  - button "搜索":
+  - button "帮助":
+  - button "通知":
+  - button "问问 Studio":
+    - generic: 问问 Studio
+  - button "创建":
+    - generic: 创建
+  - generic "账号":
+    - button "Account"
+- navigation:
+  - img "Eli-AI"
+  - generic: 我的频道
+  - generic: Eli-AI
+  - menu:
+    - menuitem "信息中心":
+      - generic: 信息中心
+    - menuitem "内容":
+      - generic: 内容
+    - menuitem "数据分析":
+      - generic: 数据分析
+    - menuitem "社区":
+      - generic: 社区
+    - menuitem "字幕":
+      - generic: 字幕
+    - menuitem "内容检测":
+      - generic: 内容检测
+    - menuitem "创收":
+      - generic: 创收
+    - menuitem "自定义":
+      - generic: 自定义
+    - menuitem "音频库":
+      - generic: 音频库
+  - separator
+  - list:
+    - button "设置":
+      - generic: 设置
+    - button "发送反馈":
+      - generic: 发送反馈
+- main:
+  - heading "社区" [level=1]
+  - tablist:
+    - tab "评论" [selected]:
+      - generic: 评论
+    - tab "观看者帖子":
+      - generic: 观看者帖子
+    - tab "提及":
+      - generic: 提及
+  - button "已发布。按 Enter 键即可修改":
+    - generic: 已发布
+  - button "相关性最高。按 Enter 键即可修改":
+    - generic: 相关性最高
+  - button "搜索。按 Enter 键即可修改":
+    - generic: 搜索
+  - button "回复状态：未回复。按 Enter 键即可修改":
+    - generic: 回复状态：未回复
+    - button "移除":
+  - button "内容类型：视频、短视频以及另外 1 个。按 Enter 键即可修改":
+    - generic: 内容类型：视频、短视频以及另外 1 个
+    - button "移除":
+  - textbox
+  - button "移除过滤条件":
+  - separator
+  - list
+  - paragraph: 糟糕，出了点问题。
+  - button "重试":
+    - generic: 重试

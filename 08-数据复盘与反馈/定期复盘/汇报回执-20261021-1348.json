@@ -1,0 +1,22 @@
+{
+  "time": "2026-10-21 13:50 Asia/Shanghai",
+  "automation_id": "9",
+  "target_thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "report": "复盘-20261021-1348.md",
+  "snapshot": "数据基线-20261021-1348.json",
+  "report_sha256": "9cf13289e3d4c1f9c7f12e934a44ac2e3ca6264f7cc4a775ae8e1d1997e5d19e",
+  "snapshot_sha256": "b2fee5e99d7cd0adaf3b62ffd845119957c5d8ce2b9ee42ce416f9ab5511ad9c",
+  "tool_status": "TOOL_ACCEPTED",
+  "pmo_received": "UNKNOWN",
+  "pmo_acceptance": "UNKNOWN",
+  "raw_tool_receipt": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "no_polling": true
+}

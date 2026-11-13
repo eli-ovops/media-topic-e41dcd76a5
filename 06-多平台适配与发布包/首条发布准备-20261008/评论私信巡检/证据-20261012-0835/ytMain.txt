@@ -1,0 +1,127 @@
+- generic: 频道内容
+- banner:
+  - button "收起菜单":
+  - link "YouTube Studio 信息中心":
+    - /url: /channel/UCqJaVQRO3FrxD5spt1GG7Iw
+    - img "YouTube Studio 信息中心"
+  - button "跳过导航":
+    - generic: 跳过导航
+  - button "搜索":
+  - button "帮助":
+  - button "通知":
+  - button "问问 Studio":
+    - generic: 问问 Studio
+  - button "创建":
+    - generic: 创建
+  - generic "账号":
+    - button "Account"
+- navigation:
+  - img "Eli-AI"
+  - generic: 我的频道
+  - generic: Eli-AI
+  - menu:
+    - menuitem "信息中心":
+      - generic: 信息中心
+    - menuitem "内容":
+      - generic: 内容
+    - menuitem "数据分析":
+      - generic: 数据分析
+    - menuitem "社区":
+      - generic: 社区
+    - menuitem "字幕":
+      - generic: 字幕
+    - menuitem "内容检测":
+      - generic: 内容检测
+    - menuitem "创收":
+      - generic: 创收
+    - menuitem "自定义":
+      - generic: 自定义
+    - menuitem "音频库":
+      - generic: 音频库
+  - separator
+  - list:
+    - button "设置":
+      - generic: 设置
+    - button "发送反馈":
+      - generic: 发送反馈
+- main:
+  - heading "频道内容" [level=1]
+  - tablist:
+    - tab "视频" [active] [selected]:
+      - generic: 视频
+    - tab "Shorts":
+      - generic: Shorts
+    - tab "直播":
+      - generic: 直播
+    - tab "帖子":
+      - generic: 帖子
+    - tab "播放列表":
+      - generic: 播放列表
+    - tab "播客":
+      - generic: 播客
+    - tab "推流":
+      - generic: 推流
+    - tab "联合创作":
+      - generic: 联合创作
+  - table "视频列表":
+    - rowgroup:
+      - textbox "过滤条件"
+      - row "全选 视频 通知 公开范围 按日期排序 按观看次数排序 评论数":
+        - columnheader "全选":
+          - generic "全选":
+            - checkbox "全选"
+        - columnheader "视频":
+          - heading "视频" [level=3]:
+            - generic: 视频
+        - columnheader "通知":
+          - heading "通知" [level=3]:
+            - generic: 通知
+        - columnheader "公开范围":
+          - heading "公开范围" [level=3]:
+            - generic: 公开范围
+        - columnheader "按日期排序":
+          - heading "按日期排序" [level=3]:
+            - button "按日期排序":
+              - generic: 日期
+        - columnheader "按观看次数排序":
+          - heading "按观看次数排序" [level=3]:
+            - button "按观看次数排序":
+              - generic: 观看次数
+        - columnheader "评论数":
+          - heading "评论数" [level=3]:
+            - generic: 评论数
+    - 'row "选择没人脉、没资源，普通人怎么抓住AI机会？ 视频缩略图：没人脉、没资源，普通人怎么抓住AI机会？ 4:33 没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 #薄肌理论 — 公开 2026年10月9日 发布日期 25 视频有 0 条评论。视频评论页面"':
+      - cell "选择没人脉、没资源，普通人怎么抓住AI机会？":
+        - generic "选择没人脉、没资源，普通人怎么抓住AI机会？":
+          - checkbox "选择没人脉、没资源，普通人怎么抓住AI机会？"
+      - 'cell "视频缩略图：没人脉、没资源，普通人怎么抓住AI机会？ 4:33 没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 #薄肌理论"':
+        - link "视频缩略图：没人脉、没资源，普通人怎么抓住AI机会？ 4:33":
+          - /url: /video/GksDGFRpmGI/edit
+          - img "视频缩略图：没人脉、没资源，普通人怎么抓住AI机会？"
+          - generic: 4:33
+        - link "没人脉、没资源，普通人怎么抓住AI机会？":
+          - /url: /video/GksDGFRpmGI/edit
+          - generic: 没人脉、没资源，普通人怎么抓住AI机会？
+        - generic: "一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 #薄肌理论"
+      - cell "—":
+        - generic: —
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年10月9日 发布日期":
+        - text: 2026年10月9日
+        - generic: 发布日期
+      - cell "25"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/GksDGFRpmGI/comments
+          - text: "0"
+    - generic: 每页行数：
+    - generic "用于选择每页行数的菜单。":
+      - button "30":
+        - button "30":
+          - generic: "30"
+    - generic: 第 1 - 1 条，共 1 条
+    - button "转到第一页" [disabled]:
+    - button "转到上一页" [disabled]:
+    - button "转到下一页" [disabled]:
+    - button "转到最后一页" [disabled]:

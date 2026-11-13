@@ -1,0 +1,244 @@
+- heading "0 notifications" [level=2]
+- generic "Skip navigation menu":
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Skip to sidebar":
+    - generic: Skip to sidebar
+  - button "Skip to primary content":
+    - generic: Skip to primary content
+  - button "Skip to aside":
+    - generic: Skip to aside
+  - button "Close jump menu":
+- banner:
+  - button "LinkedIn":
+    - img "LinkedIn"
+  - status
+  - search:
+    - textbox "Search"
+  - figure
+  - navigation:
+    - list:
+      - button "Home, 1 new notification":
+        - generic: Home
+      - link "Network, 2 new notifications":
+
+        - generic: "2"
+        - generic: Network
+      - link "Jobs, 0 new notifications":
+
+        - generic: Jobs
+      - link "Messaging, 0 new notifications":
+
+        - generic: Messaging
+      - link "Notifications, 1 new notification":
+
+        - generic: "1"
+        - generic: Notifications
+      - button "Me":
+        - figure
+        - text: Me
+  - navigation:
+    - list:
+      - button "For Business":
+        - text: For Business
+  - button "Try Premium for ¥0":
+    - paragraph: Try Premium for ¥0
+- main:
+  - complementary "Sidebar":
+    - link:
+
+      - figure
+      - figure:
+        - img "ELi Chao"
+    - link "ELi Chao AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 Japan":
+
+      - paragraph: ELi Chao
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: Japan
+    - link "Experience":
+
+      - paragraph: Experience
+    - navigation:
+      - list:
+        - link "Overview":
+
+          - generic: Overview
+        - link "Content analytics":
+
+          - generic: Content analytics
+        - link "Audience analytics":
+
+          - generic: Audience analytics
+  - region "Primary content":
+    - paragraph: Post analytics
+    - link "Export":
+
+      - generic: Export
+    - heading "Feed post" [level=2]:
+      - generic: Feed post
+    - link "ELi Chao posted this • 4d":
+
+      - paragraph:
+        - strong: ELi Chao
+        - text: posted this • 4d
+    - 'link "关注AI工具，也别错过GitHub这份《高性价比人生指南》 关注AI实用工具，也别错过这样的GitHub免费资料。 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 换工作、租房、学技能，先查什么资料？ 《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。 对我来说，这类资料的价值，是让查阅有入口。 想要整理好的文档，评论「指南」。 View hashtag: #github View hashtag: #高性价比人生指南 View hashtag: #免费资源 View hashtag: #资料分享 View hashtag: #自我提升 View hashtag: #ai工具"':
+
+      - paragraph:
+        - text: 关注AI工具，也别错过GitHub这份《高性价比人生指南》
+        - text: 关注AI实用工具，也别错过这样的GitHub免费资料。
+        - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。
+        - text: 换工作、租房、学技能，先查什么资料？
+        - text: 《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。
+        - text: 对我来说，这类资料的价值，是让查阅有入口。
+        - text: 想要整理好的文档，评论「指南」。
+        - 'link "View hashtag: #github"':
+
+          - text: "#GitHub"
+        - 'link "View hashtag: #高性价比人生指南"':
+
+          - text: "#高性价比人生指南"
+        - 'link "View hashtag: #免费资源"':
+
+          - text: "#免费资源"
+        - 'link "View hashtag: #资料分享"':
+
+          - text: "#资料分享"
+        - 'link "View hashtag: #自我提升"':
+
+          - text: "#自我提升"
+        - 'link "View hashtag: #ai工具"':
+
+          - text: "#AI工具"
+    - paragraph: Discovery
+    - button "Learn more":
+    - paragraph: "62"
+    - paragraph: Impressions
+    - paragraph: In-network (followers and connections)
+    - paragraph: 77%
+    - paragraph: Out-of-network
+    - paragraph: 23%
+    - paragraph: "16"
+    - paragraph: Members reached
+    - paragraph: Members who post once a week can get up to 4x more profile views. Keep the momentum going by creating another post.
+    - link "Start a post":
+
+      - generic: Start a post
+    - button "Dismiss":
+    - paragraph: Profile activity
+    - button "Learn more":
+    - paragraph: "0"
+    - paragraph: Profile viewers from this post
+    - link "1 Followers gained from this post":
+
+      - paragraph: "1"
+      - paragraph: Followers gained from this post
+    - paragraph: Engagement
+    - button "Learn more":
+    - paragraph: "0"
+    - paragraph: Social engagements
+    - paragraph: Reactions
+    - paragraph: "0"
+    - paragraph: Comments
+    - paragraph: "0"
+    - paragraph: Reposts
+    - paragraph: "0"
+    - paragraph: Saves
+    - paragraph: "0"
+    - paragraph: Sends on LinkedIn
+    - paragraph: "0"
+    - paragraph: Top demographics
+    - button "Learn more":
+    - heading "Demographics not available yet" [level=2]
+    - paragraph: To protect viewer privacy, each demographics category will not display information until you have enough data for that category.
+    - link "Analytics & tools View all analytics, including Followers":
+
+      - paragraph: Analytics & tools
+      - paragraph: View all analytics, including Followers
+  - complementary "Aside":
+    - iframe:
+      - link "Advertise on LinkedIn":
+
+        - img "Advertise on LinkedIn"
+    - link "About":
+
+      - paragraph: About
+    - link "Accessibility":
+
+      - paragraph: Accessibility
+    - link "Help Center":
+
+      - paragraph: Help Center
+    - button "Privacy & Terms":
+      - paragraph: Privacy & Terms
+    - link "Ad Choices":
+
+      - paragraph: Ad Choices
+    - link "Advertising":
+
+      - paragraph: Advertising
+    - button "Business Services":
+      - paragraph: Business Services
+    - link "Get the LinkedIn app":
+
+      - paragraph: Get the LinkedIn app
+    - link "More":
+
+      - paragraph: More
+    - paragraph: LinkedIn Corporation © 2026
+- complementary:
+  - img "ELi Chao"
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: Messaging
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+  - button "Open messenger dropdown menu":
+    - img "Open messenger dropdown menu"
+  - button "Compose message":
+    - generic: Compose message
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+- complementary "AI-powered assistant to get help with your career, jobs etc"
+- iframe:
+  - region "Toast message":
+    - heading "0 notifications total" [level=2]
+    - alert
+  - region
+  - button "Skip to search":
+    - generic: Skip to search
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Keyboard shortcuts":
+    - generic: Keyboard shortcuts
+  - button "Close jump menu":
+    - generic: Close jump menu
+  - banner "Global Navigation":
+    - link "LinkedIn":
+
+      - img "LinkedIn":
+    - combobox "Search"
+    - navigation "Primary Navigation":
+      - list:
+        - link "new feed updates notifications Home":
+
+          - generic: new feed updates notifications
+          - generic "Home"
+        - link "Network":
+
+          - generic "Network"
+        - link "Jobs":
+
+          - generic "Jobs"
+        - link "Messaging":
+
+          - generic "Messaging"
+        - link "Notifications":
+
+          - generic "Notifications"
+        - button "ELi Chao Me":
+          - img "ELi Chao"
+          - text: Me
+        - button "For Business":
+          - generic "For Business":
+            - text: For Business
+        - link "Try Premium for ¥0":
+
+          - generic: Try Premium for ¥0

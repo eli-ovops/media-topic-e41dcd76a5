@@ -1,0 +1,259 @@
+- heading "0 notifications" [level=2]
+- generic "Skip navigation menu":
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Skip to sidebar":
+    - generic: Skip to sidebar
+  - button "Skip to primary content":
+    - generic: Skip to primary content
+  - button "Skip to aside":
+    - generic: Skip to aside
+  - button "Close jump menu":
+- banner:
+  - button "LinkedIn":
+    - img "LinkedIn"
+  - status
+  - search:
+    - textbox "Search"
+  - figure
+  - navigation:
+    - list:
+      - button "Home, 1 new notification":
+        - generic: Home
+      - link "Network, 1 new notification":
+        - /url: https://www.linkedin.com/mynetwork
+        - generic: "1"
+        - generic: Network
+      - link "Jobs, 0 new notifications":
+        - /url: https://www.linkedin.com/jobs/
+        - generic: Jobs
+      - link "Messaging, 0 new notifications":
+        - /url: https://www.linkedin.com/messaging/
+        - generic: Messaging
+      - link "Notifications, 1 new notification":
+        - /url: https://www.linkedin.com/notifications/
+        - generic: "1"
+        - generic: Notifications
+      - button "Me":
+        - figure
+        - text: Me
+  - navigation:
+    - list:
+      - button "For Business":
+        - text: For Business
+  - button "Try Premium for ¥0":
+    - paragraph: Try Premium for ¥0
+- main:
+  - complementary "Sidebar":
+    - link:
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - figure
+      - figure:
+        - img "ELi Chao"
+    - link "ELi Chao AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 Japan":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - paragraph: ELi Chao
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: Japan
+    - link "Experience":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/edit/forms/position/new/?profileFormEntryPoint=identityModuleMirror
+      - paragraph: Experience
+    - link "Access exclusive tools & insights Try Premium for ¥0":
+      - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_homepage_identity_upsell%3ANav%3AIn-Product&referenceId=B7WTMR3zTZ6HjY%2BUy%2FCAOQ%3D%3D&isSS=true&upsellSlotId=IDENTITY_MODULE
+      - paragraph: Access exclusive tools & insights
+      - paragraph: Try Premium for ¥0
+    - menu:
+      - link "Connections 0 Grow your network":
+        - /url: https://www.linkedin.com/mynetwork/invite-connect/connections/
+        - generic "Connections 0 Grow your network":
+          - paragraph: Connections
+          - paragraph: Grow your network
+          - paragraph: "0"
+  - region "Primary content":
+    - heading "Feed post" [level=2]:
+      - generic: Feed post
+    - link:
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - figure:
+        - img "View ELi Chao’s profile"
+    - link "ELi Chao You":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic "ELi Chao You":
+        - paragraph: ELi Chao
+        - paragraph: • You
+    - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+    - paragraph: 1d
+    - link "ELi Chao You":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic "ELi Chao You"
+    - button "Open control menu for post by ELi Chao":
+    - paragraph:
+      - text: 没人脉、没资源，普通人怎么抓住AI机会？
+      - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+      - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+      - 'link "View hashtag: #ai"':
+        - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai&origin=HASH_TAG_FROM_FEED
+        - strong: "#AI"
+      - 'link "View hashtag: #人工智能"':
+        - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&origin=HASH_TAG_FROM_FEED
+        - strong: "#人工智能"
+      - 'link "View hashtag: #孙宇晨"':
+        - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%AD%99%E5%AE%87%E6%99%A8&origin=HASH_TAG_FROM_FEED
+        - strong: "#孙宇晨"
+      - 'link "View hashtag: #邵艾伦"':
+        - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E9%82%B5%E8%89%BE%E4%BC%A6&origin=HASH_TAG_FROM_FEED
+        - strong: "#邵艾伦"
+      - 'link "View hashtag: #孙学"':
+        - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%AD%99%E5%AD%A6&origin=HASH_TAG_FROM_FEED
+        - strong: "#孙学"
+      - 'link "View hashtag: #薄肌理论"':
+        - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA&origin=HASH_TAG_FROM_FEED
+        - strong: "#薄肌理论"
+    - button "Show translation":
+      - generic: Show translation
+    - region "Video Player":
+      - generic: Video Player is loading.
+      - text:              
+    - 'button "Reaction button state: no reaction"':
+    - button "Open reactions menu":
+    - button "Comment":
+      - generic: "1"
+    - button "Repost":
+    - link "Send":
+      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/
+    - link "View analytics":
+      - /url: https://www.linkedin.com/analytics/post-summary/urn:li:activity:7514287448282058753/
+      - generic "View analytics":
+        - generic "Content analytics":
+          - img "Analytics Icon"
+          - paragraph: 17 impressions
+        - paragraph:
+          - generic: View analytics
+          - text: View analytics
+    - figure
+    - status
+    - textbox "Text editor for creating comment":
+      - paragraph: Add a comment...
+    - button "Show Emoji Picker":
+    - button "Open GIF picker":
+    - button "Share photo":
+    - link:
+      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/
+    - link:
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - figure:
+        - img "View ELi Chao’s profile"
+    - link "ELi Chao Author AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - paragraph: ELi Chao
+      - paragraph: Author
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+    - paragraph: 1d
+    - button "View more options for ELi Chao’s comment.":
+    - paragraph:
+      - generic: 完整访谈视频 可私我
+    - button "Show translation":
+      - generic: Show translation
+    - 'button "Reaction button state: no reaction 0"':
+      - 'img "Reaction button state: no reaction"'
+      - paragraph:
+        - generic: "0"
+    - button "Open reactions menu":
+    - button "Reply":
+    - img "2 impressions"
+    - paragraph:
+      - generic: 2 impressions
+      - text: "2"
+  - complementary "Aside":
+    - iframe:
+      - link "Advertise on LinkedIn":
+        - /url: https://www.linkedin.com/jobs/?trk=li_FA_global_careers_jobsgtm_jsFA_v1&mcid=6899045044465016833
+        - img "Advertise on LinkedIn"
+    - link "About":
+      - /url: https://about.linkedin.com/
+      - paragraph: About
+    - link "Accessibility":
+      - /url: https://www.linkedin.com/accessibility/
+      - paragraph: Accessibility
+    - link "Help Center":
+      - /url: https://www.linkedin.com/help/linkedin/
+      - paragraph: Help Center
+    - button "Privacy & Terms":
+      - paragraph: Privacy & Terms
+    - link "Ad Choices":
+      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+      - paragraph: Ad Choices
+    - link "Advertising":
+      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+      - paragraph: Advertising
+    - button "Business Services":
+      - paragraph: Business Services
+    - link "Get the LinkedIn app":
+      - /url: https://www.linkedin.com/mobile/
+      - paragraph: Get the LinkedIn app
+    - link "More":
+      - /url: https://www.linkedin.com/
+      - paragraph: More
+    - paragraph: LinkedIn Corporation © 2026
+- complementary:
+  - img "ELi Chao"
+  - generic: Status is online
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: Messaging
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+  - button "Open messenger dropdown menu":
+    - img "Open messenger dropdown menu"
+  - button "Compose message":
+    - generic: Compose message
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+- complementary "AI-powered assistant to get help with your career, jobs etc"
+- iframe:
+  - region "Toast message":
+    - heading "0 notifications total" [level=2]
+    - alert
+  - region
+  - button "Skip to search":
+    - generic: Skip to search
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Keyboard shortcuts":
+    - generic: Keyboard shortcuts
+  - button "Close jump menu":
+    - generic: Close jump menu
+  - banner "Global Navigation":
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/feed/
+      - img "LinkedIn":
+    - combobox "Search"
+    - navigation "Primary Navigation":
+      - list:
+        - link "new feed updates notifications Home":
+          - /url: https://www.linkedin.com/feed/
+          - generic: new feed updates notifications
+          - generic "Home"
+        - link "1 new network update notification Network":
+          - /url: https://www.linkedin.com/mynetwork/?
+          - generic: "1"
+          - generic: 1 new network update notification
+          - generic "Network"
+        - link "Jobs":
+          - /url: https://www.linkedin.com/jobs/?
+          - generic "Jobs"
+        - link "Messaging":
+          - /url: https://www.linkedin.com/messaging/?
+          - generic "Messaging"
+        - link "1 new notification Notifications":
+          - /url: https://www.linkedin.com/notifications/?
+          - generic: "1"
+          - generic: 1 new notification
+          - generic "Notifications"
+        - button "ELi Chao Me":
+          - img "ELi Chao"
+          - text: Me
+        - button "For Business":
+          - generic "For Business":
+            - text: For Business
+        - link "Try Premium for ¥0":
+          - /url: javascript:void(0)
+          - generic: Try Premium for ¥0

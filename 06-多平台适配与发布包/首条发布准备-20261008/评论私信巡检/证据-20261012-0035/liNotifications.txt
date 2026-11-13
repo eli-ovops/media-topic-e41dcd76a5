@@ -1,0 +1,216 @@
+- region "Toast message":
+  - heading "0 notifications total" [level=2]
+  - alert
+- button "Skip to search":
+  - generic: Skip to search
+- button "Skip to main content":
+  - generic: Skip to main content
+- button "Keyboard shortcuts":
+  - generic: Keyboard shortcuts
+- button "Close jump menu":
+  - generic: Close jump menu
+- banner "Global Navigation":
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/feed/?nis=true
+    - img "LinkedIn":
+  - combobox "Search"
+  - navigation "Primary Navigation":
+    - list:
+      - link "new feed updates notifications Home":
+        - /url: https://www.linkedin.com/feed/?nis=true&
+        - generic: new feed updates notifications
+        - generic "Home"
+      - link "1 new network update notification Network":
+        - /url: https://www.linkedin.com/mynetwork/?
+        - generic: "1"
+        - generic: 1 new network update notification
+        - generic "Network"
+      - link "Jobs":
+        - /url: https://www.linkedin.com/jobs/?
+        - generic "Jobs"
+      - link "Messaging":
+        - /url: https://www.linkedin.com/messaging/?
+        - generic "Messaging"
+      - link "Notifications":
+        - /url: https://www.linkedin.com/notifications/?filter=all&refresh=true
+        - generic "Notifications"
+      - button "ELi Chao Me":
+        - img "ELi Chao"
+        - text: Me
+      - button "For Business":
+        - generic "For Business":
+          - text: For Business
+      - link "Try Premium for ¥0":
+        - /url: javascript:void(0)
+        - generic: Try Premium for ¥0
+- complementary:
+  - link "Background photo of ELi Chao":
+    - /url: /in/eli-chao-548a7a43b/
+  - link "Photo of ELi Chao":
+    - /url: /in/eli-chao-548a7a43b/
+    - img "Photo of ELi Chao"
+  - link "ELi Chao AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 Japan":
+    - /url: /in/eli-chao-548a7a43b/
+    - heading "ELi Chao" [level=3]
+    - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+    - paragraph: Japan
+  - button "Add Experience":
+    - generic: Experience
+  - heading "Manage your notifications" [level=1]
+  - link "View settings":
+    - /url: /mypreferences/d/categories/notifications
+- main:
+  - radiogroup:
+    - radio "All" [checked]
+    - radio "Jobs"
+    - radio "My posts"
+    - radio "Mentions"
+  - article "Unread notification.":
+    - figure:
+    - link "Unread notification. Your post has reached 25 impressions so far. View more analytics.":
+      - /url: /analytics/post-summary/urn:li:activity:7514664851835854848
+      - paragraph: Unread notification.
+      - text: Your post has reached
+      - strong: 25 impressions
+      - text: so far. View more analytics.
+    - link:
+      - generic: "把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE"
+    - paragraph: 3h
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "Unread notification. Here's why some strong candidates don't get the job.":
+      - /url: /feed/news/9437026
+      - paragraph: Unread notification.
+      - generic: Here's why some strong candidates don't get the job.
+      - generic: Here's why some strong candidates don't get the job.
+    - paragraph: 12h
+    - button "Settings menu":
+  - article "Notification":
+    - link "masao miki":
+      - /url: /in/masaomiki
+      - img "masao miki"
+    - link "You may know masao miki. Add to your network. AIに仕事を丸ごと任せる実験を記録中｜ADZUKI Trading 代表｜航空業界26年｜経営者・事業オーナー":
+      - /url: /in/masaomiki?isRecommended=true
+      - text: You may know
+      - strong: masao miki
+      - text: . Add to your network.
+      - generic: AIに仕事を丸ごと任せる実験を記録中｜ADZUKI Trading 代表｜航空業界26年｜経営者・事業オーナー
+    - paragraph: 14h
+    - button "Settings menu":
+  - article "Notification":
+    - link "View Deby Choirur Rochiim’s profile.":
+      - /url: /in/debyco
+      - img "Deby Choirur Rochiim"
+    - 'link "Suggested for you: \"I have no technical ability and I know nothing.\" Every vibe coder explaining their stack. 😂 The funny part is that half of it is right. When AI writes the code, taste matters more than ever: → Knowing what good looks like → Knowing what to cut → Knowing when the output is lying to you That last one is where it falls apart. Taste without the ability to check the work is just confidence. The best builders I know have both. They let AI do the typing and still read every line that matters. Is taste enough to ship with AI, or do you still need to know how it works?"':
+      - /url: /feed/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512490889999527936&highlightedUpdateType=CONTENT_YOU_MAYBE_INTERESTED_IN&origin=INAPP&showCommentBox=true&highlightedUpdateTrackingId=RKf0IERaTp%2BOOg45BTWAhQ%3D%3D
+      - strong: "Suggested for you:"
+      - text: "\"I have no technical ability and I know nothing.\" Every vibe coder explaining their stack. 😂 The funny part is that half of it is right. When AI writes the code, taste matters more than ever: → Knowing what good looks like → Knowing what to cut → Knowing when the output is lying to you That last one is where it falls apart. Taste without the ability to check the work is just confidence. The best builders I know have both. They let AI do the typing and still read every line that matters. Is taste enough to ship with AI, or do you still need to know how it works?"
+    - paragraph: 16h
+    - button "Settings menu":
+  - article "Notification":
+    - link "Your post has reached 35 impressions so far. View more analytics.":
+      - /url: /analytics/post-summary/urn:li:activity:7514287448282058753
+      - text: Your post has reached
+      - strong: 35 impressions
+      - text: so far. View more analytics.
+    - link:
+      - generic: "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 #薄肌理论"
+    - generic: 1 comment
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Notification":
+    - link "A conversation could land you your next role. Here's how.":
+      - /url: /feed/news/9439130
+      - generic: A conversation could land you your next role. Here's how.
+      - generic: A conversation could land you your next role. Here's how.
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Notification":
+    - link "View HARUTO SAKAI’s profile.":
+      - /url: /in/haruto%2Dlink0408
+      - img "HARUTO SAKAI"
+    - link:
+      - /url: /feed/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512466560188583936&highlightedUpdateType=CONTENT_YOU_MAYBE_INTERESTED_IN&origin=INAPP&showCommentBox=true&highlightedUpdateTrackingId=JYn6BxrqTi2JEdv2wnr0HA%3D%3D
+      - strong: "Suggested for you:"
+      - text: "She said, “I don’t have experience in that.” Another opportunity followed. Recently, a woman who used our service updated her LinkedIn profile and added her resume. Soon after, she received a work opportunity through LinkedIn.But there was one problem. The project required experience she didn’t have. Instead of pretending she could do it, she was honest. She explained that she didn’t have hands-on experience in that particular area. The conversation could have ended there. It didn’t.Instead, she was introduced to another opportunity. That story reminded me of something important. Your LinkedIn profile doesn’t need to make you look perfect for every opportunity. It needs to help the right people understand what you can actually do. And when an opportunity comes, honesty matters too. You don’t need to say yes to everything. You don’t need to exaggerate your experience. Sometimes:“I haven’t done that before.”can lead to: How about this opportunity instead? If you want more opportunities through LinkedIn:Make your experience easy to understand. Show what you’ve actually done. Be honest about what you haven’t done. Keep the conversation open. The first opportunity might not be the right one.But it can lead to the next one. Have you ever said “no” or “not yet” to something and had it lead to another opportunity?"
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Notification":
+    - link "View Ryan Alviandi’s profile.":
+      - /url: /in/ryanalviandi
+      - img "Ryan Alviandi"
+      - generic: Status is reachable
+    - link:
+      - /url: /feed/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7513430670510125057&highlightedUpdateType=CONTENT_YOU_MAYBE_INTERESTED_IN&origin=INAPP&showCommentBox=true&highlightedUpdateTrackingId=hEUiivPWSXa4nBS4Lwo%2Bng%3D%3D
+      - strong: "Suggested for you:"
+      - text: "I saw a post this morning about putting a photo on your CV. It made me giggle a bit. 😅 Let me explain why that post bothers me. 1. A photo does not show your skills. A CV should tell who you are at work. Your experience, your results, your skills. Not your face. 2. The post says \"this is not about looks\". But then it judges a CV because of a selfie. And because \"it's a guy\". That is exactly judging by looks. 3. Saying \"HR can be like a fortune teller\" is a red flag. Hiring is not fortune telling. Guessing someone's ability from a photo is bias, not skill. 4. School report cards and CVs are not the same. A school photo is for identity. A CV is for showing your ability to do the job. 5. A photo can open the door to bias. Bias about looks, age, gender, religion, or background. Many countries now ask candidates NOT to put a photo on the CV. They do this to keep hiring fair. 6. If a photo is a \"culture\", it is a culture that should change. Something that is common is not always right. Of course, I am not saying photos are forbidden. If someone wants to add one, that is their choice. But it should never be a rule, and it should never decide who gets an interview. Good companies should look at: ✅ Skills ✅ Experience ✅ Attitude ✅ Results Not at how someone smiles in a photo. Job seekers in Indonesia already face a lot. Low salaries, age limits, and very few openings. Please don't make it harder by adding \"photo judging\" on top. Let's hire the person, not the picture."
+    - generic: 847 reactions
+    - generic: • 64 comments
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Notification":
+    - link "Video successfully uploaded.":
+      - /url: /feed/update/urn%3Ali%3AugcPost%3A7514284320493039616
+      - generic: Video successfully uploaded.
+    - paragraph: 2d
+    - button "Settings menu":
+  - article "Notification":
+    - link "View Toukebri Takwa’s profile":
+      - /url: /in/toukebri%2Dtakwa
+      - img "Toukebri Takwa"
+    - link "Toukebri Takwa followed you. Business Computing | Curieuse par nature, développeuse en devenir | Web • Java • PHP • JavaScript | Stage PFE":
+      - /url: /in/toukebri%2Dtakwa
+      - strong: Toukebri Takwa
+      - text: followed you.
+      - generic: Toukebri Takwa followed you.
+      - generic: Business Computing | Curieuse par nature, développeuse en devenir | Web • Java • PHP • JavaScript | Stage PFE
+      - generic: Business Computing | Curieuse par nature, développeuse en devenir | Web • Java • PHP • JavaScript | Stage PFE
+    - paragraph: 2d
+    - button "Settings menu":
+  - button "Show more results":
+    - generic: Show more results
+- complementary:
+  - iframe:
+    - link "Advertise on LinkedIn":
+      - /url: https://www.linkedin.com/jobs/?trk=li_FA_global_careers_jobsgtm_jsFA_v1&mcid=6899045044465016833
+      - img "Advertise on LinkedIn"
+  - generic "LinkedIn Footer Content":
+    - list:
+      - link "About":
+        - /url: https://about.linkedin.com/
+        - generic: About
+      - link "Accessibility":
+        - /url: https://www.linkedin.com/accessibility
+        - generic: Accessibility
+      - link "Help Center":
+        - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_notifications
+        - generic: Help Center
+      - button "Privacy & Terms":
+        - text: Privacy & Terms
+      - link "Ad Choices":
+        - /url: https://www.linkedin.com/help/linkedin/answer/62931
+        - generic: Ad Choices
+      - link "Advertising":
+        - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+        - generic: Advertising
+      - button "Business Services":
+        - text: Business Services
+      - button "Get the LinkedIn app"
+      - button "More options": More
+    - img "LinkedIn":
+    - text: LinkedIn Corporation © 2026
+- complementary:
+  - img "ELi Chao"
+  - generic: Status is online
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: Messaging
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+  - button "Open messenger dropdown menu":
+    - img "Open messenger dropdown menu"
+  - button "Compose message":
+    - generic: Compose message
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+- complementary "AI-powered assistant to get help with your career, jobs etc"
+- region

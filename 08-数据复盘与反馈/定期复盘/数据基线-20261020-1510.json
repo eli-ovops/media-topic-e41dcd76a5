@@ -1,0 +1,35 @@
+{
+  "observed_window":"2026-10-20 15:07—15:10 Asia/Shanghai",
+  "latest_content_id":"ai-contrarian-20261019",
+  "previous_snapshot":"数据基线-20261020-1335.json",
+  "method":"同一Codex内置浏览器原生AX/DOM只读实核；没有沿旧值补当前缺项",
+  "latest_platforms":[
+    {"platform":"国内抖音","video_views":941,"delta":36,"likes":23,"comments":3,"saves":8,"shares":3,"completion_rate_percent":1.3,"two_second_exit_rate_percent":31.57,"attributed_followers":0,"url":"https://www.douyin.com/video/7698553920687295795","source":"https://creator.douyin.com/creator-micro/content/manage","evidence":"播放941/点赞23/评论3/分享3/收藏8/完播率1.3%/2秒跳出率31.57%/吸粉量0；本轮评论身份未重读"},
+    {"platform":"B站","video_views":387,"delta":3,"likes":2,"saves":2,"danmaku":0,"comments":"UNKNOWN","url":"https://www.bilibili.com/video/BV1f7JZ6yErV/","evidence":"viewbox 387 0 2026-10-20 08:55:27；点赞2/收藏2，弹幕0不是评论"},
+    {"platform":"小红书","video_views":26,"delta":8,"likes":0,"comments":0,"saves":1,"shares":1,"url":"UNKNOWN","source":"https://creator.xiaohongshu.com/new/note-manager","evidence":"本人Eli AI FDE，标题及09:44/01:35匹配；五指标26/0/0/1/1；goto超时后核实际页已成功加载，未重提交或改登录"},
+    {"platform":"YouTube","video_views":5,"delta":0,"likes":0,"comments":1,"url":"https://www.youtube.com/shorts/9H5l13FnFAk","evidence":"标题展开实际显示5次观看/0赞；按钮查看1条评论"},
+    {"platform":"LinkedIn","video_views":4,"delta":1,"post_impressions":11,"post_impressions_delta":3,"likes":0,"comments":1,"saves":0,"attributed_followers":0,"url":"https://www.linkedin.com/feed/update/urn:li:activity:7518112824783560704/","source":"https://www.linkedin.com/analytics/post-summary/urn:li:activity:7518112824783560704/","evidence":"Video views4/Impressions11/Watch time3m23s/Average50s/Followers gained0"},
+    {"platform":"微博","video_views":4,"delta":0,"post_reads":39,"post_reads_delta":1,"comments":3,"url":"https://weibo.com/7720929036/RnvhUyeaA","evidence":"4次观看/39阅读，分开统计；评论展示3，正文可见本人两段提示词"},
+    {"platform":"TikTok","video_views":0,"delta":0,"likes":0,"comments_backend":0,"url":"https://www.tiktok.com/@elimakesapps/video/7698547532716100885","source":"https://www.tiktok.com/tiktokstudio/content","evidence":"作品22已加载，指定01:35/10月20日8:56/所有人行观看0赞0评论0；只报后台口径"},
+    {"platform":"X","video_views":"UNKNOWN","delta":"UNKNOWN","post_views":35,"post_views_delta":2,"url":"https://x.com/cczij1112/status/2112347315818361020","evidence":"一次正常reload后页面恢复；主帖35查看为帖子查看，不是视频播放，作者回复帖不合并"},
+    {"platform":"微信视频号","video_views":"UNKNOWN","delta":"UNKNOWN","reason":"既有B002安全拒绝未访问，需本人数据；不把未知当0"}
+  ],
+  "other_video_views":[
+    {"content_id":"doubao-app-rejection-20261016","platforms":{"小红书":0,"国内抖音":8049,"TikTok":0},"sum":8049,"delta":5},
+    {"content_id":"qianwen-go-case-20261013","platforms":{"小红书":5,"国内抖音":501,"TikTok":0},"sum":506,"delta":0},
+    {"content_id":"eli-brand-intro-20261010","platforms":{"小红书":85,"国内抖音":249,"TikTok":94},"sum":428,"delta":0},
+    {"content_id":"sun-shao-interview-20261009","platforms":{"小红书":376,"国内抖音":788,"TikTok":93},"sum":1257,"delta":0},
+    {"content_id":"first-video-life-guide-visual-fix-v7","platforms":{"小红书":116,"国内抖音":664,"TikTok":249},"sum":1029,"delta":0}
+  ],
+  "other_sources":"原生小红书creator/抖音creator/TikTokStudio实际标题、日期和链接匹配；仅同三平台，不补其他平台历史数字",
+  "separate_post_browse":{"抖音访谈图文预告":1867},
+  "latest_video_views_partial_sum":1367,
+  "latest_video_views_coverage":7,
+  "latest_comparable_delta":48,
+  "other_video_views_partial_sum":11269,
+  "all_video_views_partial_sum":12636,
+  "all_video_views_known_platform_work_pairs":22,
+  "all_comparable_delta":53,
+  "limitations":["此差分相对13:32—13:35，不是四小时整窗", "各平台定义不同，不是去重人数；本人访问也可能计数", "旧作品仅3站统计，不能宣称所有作品全平台总数已齐", "Instagram/Facebook暂停排除", "未新增采集评论私信/关注全量"],
+  "status":"待PMO审原件；未改共享状态/公开作品/自动化"
+}

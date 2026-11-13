@@ -1,0 +1,84 @@
+{
+  "coverage": {
+    "小红书": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Three project metrics and old recent DM read; main likes4(+1), unique author first comment1; guide0comments restored baseline"
+    },
+    "B站": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "国内抖音": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": false,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Correct new25296649142 account read; project listservice error after normal reload, current play/likes/imageunknown; recent DM old handled baseline unchanged"
+    },
+    "YouTube": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Shorts54/4 read; main video error after one reload remainsunknown; unreplied/held explicit no comments"
+    },
+    "LinkedIn": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "All3analytics read incl main restored baseline; Messaging failed list after one reload; notifications readable"
+    },
+    "X": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Latest45 read; main/guide disconnected, chatERR_ABORTED unverified, notifications once reload disconnected"
+    },
+    "微博": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "TikTok": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Actual native message panel readOct9accepted notices and old conversations after home reload; Studio current3project countsread"
+    },
+    "微信视频号": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "reason": "existing explicit site-safety rejection, not visited",
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN"
+    }
+  },
+  "notes": [
+    "Native UI only; no sends, permissions or safety bypass. Project metric7/9 partial; DY project list and WX unavailable.",
+    "Video current lowerbound629, latest238/main213/guide178 eachplaycoverage4/9. Current comparable video fields+0, cannot infer all-platform no growth. Missing DY244/781/658 last00:56 plus YT main; do not backfill.",
+    "Small XHS main like increases3→4 (+1); totallikes≥10. Comments≥4 includes restored LI1 baseline not new comment.",
+    "LI current exposure37/45/55 total137; main restored baseline vs00:56UNKNOWN, aggregate deltaUNKNOWN; latest/guide comparable+4.",
+    "WB currentreads11/26/160 total197(+3). DYimageUNKNOWN, previous1862 historical only. X latest45(+0), otherworksUNKNOWN.",
+    "Recent DM actual5/9 XHS Bili DY WB TK; no new project inbound. LI after one reload failed; X chat unresolved.",
+    "YT unpublished-unreplied/held explicit empty; XHS mainonlyownfirstcomment, DY handled twoFriday requestsold; no new confirmed reply-needed project message.",
+    "WX B002 not visited; allpending/reply completenessUNKNOWN."
+  ]
+}

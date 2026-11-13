@@ -1,0 +1,83 @@
+{
+  "coverage": {
+    "小红书": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Original native notification/profile now readable without CAPTCHA; actual account11520431136; three project likes/comments verified; recent DM old baseline unchanged"
+    },
+    "B站": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "国内抖音": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "YouTube": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Published-unreplied and held-for-review explicitly empty; no native DM feature"
+    },
+    "LinkedIn": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Messaging timeout then reload once; old welcome list with failed-to-load error, full list UNKNOWN; notifications readable"
+    },
+    "X": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Exact three posts readable; all views restored baseline relative12:35 missing; chat old list/requests containers partial; notifications disconnected after one reload"
+    },
+    "微博": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "TikTok": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Studio recovered after reload; native messages panel blank after home reload, no actual recent list; comment activity only old September unrelated comment"
+    },
+    "微信视频号": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "reason": "existing explicit site-safety rejection, not visited",
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN"
+    }
+  },
+  "notes": [
+    "Native UI only, no sends or safety bypass. Metrics8/9 partial, play coverage5/9 intro/guide6/9 main.",
+    "XHS native current user page has recovered without agent solving CAPTCHA; identity11520431136 verified; intro1like0comments, main3likes1author first comment0audience replies0, guide1like0comments. New coverage baseline, not +5likes/+1comment growth.",
+    "X restored current post views43/86/31 total160, previous12:35 missing so increment UNKNOWN.",
+    "Recent actual DM lists4/9 XHS Bili Douyin WB; no new project messages observed, old handled DY requests unchanged.",
+    "LI messaging timeout and one reload leaves failed list; TK home one reload messages panel blank, neither counted as zero. X requests/other blank without explicit empty confirmation.",
+    "YT published-unreplied and held-review explicitly no comments; TK only old Sept14 non-project comment.",
+    "WB seven badge corresponds system news link latest12:39, no user project inbound; badge not new-message count.",
+    "WX B002 not accessed; all pending/reply totals UNKNOWN."
+  ]
+}

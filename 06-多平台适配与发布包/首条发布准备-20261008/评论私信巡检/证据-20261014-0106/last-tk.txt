@@ -1,0 +1,65 @@
+- region "Notifications alt+T"
+- link "前往 TikTok【推荐】页":
+
+  - strong: TikTok
+- searchbox "搜索":
+- heading "推荐" [level=2]:
+  - link "推荐":
+
+    - listitem "推荐":
+      - generic: 推荐
+- heading "探索" [level=2]:
+  - link "探索":
+
+    - listitem "探索":
+      - generic: 探索
+- heading "已关注" [level=2]:
+  - link "已关注":
+
+    - listitem "已关注":
+      - generic: 已关注
+- heading "好友" [level=2]:
+  - link "好友":
+
+    - listitem "好友":
+      - generic: 好友
+- heading "短剧" [level=2]:
+  - link "短剧":
+
+    - listitem "短剧":
+      - generic: 短剧
+- heading "直播" [level=2]:
+  - link "直播":
+
+    - listitem "直播":
+      - generic: 直播
+- listitem "消息":
+  - generic: 消息
+- listitem "活动":
+  - superscript:
+    - paragraph: "1"
+  - generic: 活动
+- link "上传":
+
+  - listitem "上传":
+    - generic: 上传
+- heading "主页" [level=2]:
+  - link "主页":
+
+    - listitem "主页":
+      - generic: 主页
+- listitem "更多":
+  - generic: 更多
+- heading "通知" [level=2]
+- tablist "通知":
+  - tab "所有活动"
+  - tab "赞"
+  - tab "评论" [active] [selected]
+  - tab "提及和标记"
+  - tab "粉丝"
+- tabpanel "评论":
+- button "关闭":
+- main:
+  - paragraph: 出错了
+  - paragraph: 很抱歉！请稍后重试。
+  - button "刷新"

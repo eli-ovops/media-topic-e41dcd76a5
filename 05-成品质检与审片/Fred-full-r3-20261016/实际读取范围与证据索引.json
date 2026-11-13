@@ -1,0 +1,1866 @@
+{
+  "owner": "05",
+  "date": "2026-10-16",
+  "videoSha256": "2e4495750c98aea7b03574d1f509dd1de432e8826bccece40769d662bc8ee41e",
+  "viewEvidence": "05 actual tool image viewing this task; upstream viewed flags intentionally discarded",
+  "contactsViewed": [
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/seam-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/seam-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/seam-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/seam-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/seam-05.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-05.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-06.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-07.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-08.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-09.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-10.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-11.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-12.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-13.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-14.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-15.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-16.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-17.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-18.jpg",
+    "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/review-contact/motion-19.jpg"
+  ],
+  "pagesRepresented": [
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-01-239.jpg",
+      "frames": [
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-02-483.jpg",
+      "frames": [
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-03-665.jpg",
+      "frames": [
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-04-1022.jpg",
+      "frames": [
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-05-1166.jpg",
+      "frames": [
+        1161,
+        1162,
+        1163,
+        1164,
+        1165,
+        1166,
+        1167,
+        1168,
+        1169,
+        1170,
+        1171
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-06-1502.jpg",
+      "frames": [
+        1497,
+        1498,
+        1499,
+        1500,
+        1501,
+        1502,
+        1503,
+        1504,
+        1505,
+        1506,
+        1507
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-07-2122.jpg",
+      "frames": [
+        2117,
+        2118,
+        2119,
+        2120,
+        2121,
+        2122,
+        2123,
+        2124,
+        2125,
+        2126,
+        2127
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-08-2524.jpg",
+      "frames": [
+        2519,
+        2520,
+        2521,
+        2522,
+        2523,
+        2524,
+        2525,
+        2526,
+        2527,
+        2528,
+        2529
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-09-2800.jpg",
+      "frames": [
+        2795,
+        2796,
+        2797,
+        2798,
+        2799,
+        2800,
+        2801,
+        2802,
+        2803,
+        2804,
+        2805
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-10-2932.jpg",
+      "frames": [
+        2927,
+        2928,
+        2929,
+        2930,
+        2931,
+        2932,
+        2933,
+        2934,
+        2935,
+        2936,
+        2937
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-11-3133.jpg",
+      "frames": [
+        3128,
+        3129,
+        3130,
+        3131,
+        3132,
+        3133,
+        3134,
+        3135,
+        3136,
+        3137,
+        3138
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-12-3317.jpg",
+      "frames": [
+        3312,
+        3313,
+        3314,
+        3315,
+        3316,
+        3317,
+        3318,
+        3319,
+        3320,
+        3321,
+        3322
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-13-3886.jpg",
+      "frames": [
+        3881,
+        3882,
+        3883,
+        3884,
+        3885,
+        3886,
+        3887,
+        3888,
+        3889,
+        3890,
+        3891
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-14-4313.jpg",
+      "frames": [
+        4308,
+        4309,
+        4310,
+        4311,
+        4312,
+        4313,
+        4314,
+        4315,
+        4316,
+        4317,
+        4318
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-15-4474.jpg",
+      "frames": [
+        4469,
+        4470,
+        4471,
+        4472,
+        4473,
+        4474,
+        4475,
+        4476,
+        4477,
+        4478,
+        4479
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-16-5089.jpg",
+      "frames": [
+        5084,
+        5085,
+        5086,
+        5087,
+        5088,
+        5089,
+        5090,
+        5091,
+        5092,
+        5093,
+        5094
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-17-5304.jpg",
+      "frames": [
+        5299,
+        5300,
+        5301,
+        5302,
+        5303,
+        5304,
+        5305,
+        5306,
+        5307,
+        5308,
+        5309
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-18-5510.jpg",
+      "frames": [
+        5505,
+        5506,
+        5507,
+        5508,
+        5509,
+        5510,
+        5511,
+        5512,
+        5513,
+        5514,
+        5515
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-19-5671.jpg",
+      "frames": [
+        5666,
+        5667,
+        5668,
+        5669,
+        5670,
+        5671,
+        5672,
+        5673,
+        5674,
+        5675,
+        5676
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-20-6037.jpg",
+      "frames": [
+        6032,
+        6033,
+        6034,
+        6035,
+        6036,
+        6037,
+        6038,
+        6039,
+        6040,
+        6041,
+        6042
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-21-6401.jpg",
+      "frames": [
+        6396,
+        6397,
+        6398,
+        6399,
+        6400,
+        6401,
+        6402,
+        6403,
+        6404,
+        6405,
+        6406
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-22-6569.jpg",
+      "frames": [
+        6564,
+        6565,
+        6566,
+        6567,
+        6568,
+        6569,
+        6570,
+        6571,
+        6572,
+        6573,
+        6574
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-23-6968.jpg",
+      "frames": [
+        6963,
+        6964,
+        6965,
+        6966,
+        6967,
+        6968,
+        6969,
+        6970,
+        6971,
+        6972,
+        6973
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-24-7285.jpg",
+      "frames": [
+        7280,
+        7281,
+        7282,
+        7283,
+        7284,
+        7285,
+        7286,
+        7287,
+        7288,
+        7289,
+        7290
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/seam-25-7577.jpg",
+      "frames": [
+        7572,
+        7573,
+        7574,
+        7575,
+        7576,
+        7577,
+        7578,
+        7579,
+        7580,
+        7581,
+        7582
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-01.jpg",
+      "frames": [
+        0,
+        60,
+        119,
+        178
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-02.jpg",
+      "frames": [
+        300,
+        361,
+        421,
+        528
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-03.jpg",
+      "frames": [
+        573,
+        619,
+        754,
+        843
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-04.jpg",
+      "frames": [
+        932,
+        990,
+        1015,
+        1021
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-05.jpg",
+      "frames": [
+        1058,
+        1094,
+        1129,
+        1170
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-06.jpg",
+      "frames": [
+        1250,
+        1318,
+        1334,
+        1374
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-07.jpg",
+      "frames": [
+        1385,
+        1395,
+        1405,
+        1414
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-08.jpg",
+      "frames": [
+        1417,
+        1440,
+        1657,
+        1812
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-09.jpg",
+      "frames": [
+        1966,
+        2130,
+        2222,
+        2230
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-10.jpg",
+      "frames": [
+        2322,
+        2370,
+        2423,
+        2490
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-11.jpg",
+      "frames": [
+        2593,
+        2662,
+        2730,
+        2833
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-12.jpg",
+      "frames": [
+        2866,
+        2898,
+        2982,
+        3032
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-13.jpg",
+      "frames": [
+        3082,
+        3130,
+        3133,
+        3140
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-14.jpg",
+      "frames": [
+        3160,
+        3179,
+        3225,
+        3270
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-15.jpg",
+      "frames": [
+        3315,
+        3316,
+        3317,
+        3459
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-16.jpg",
+      "frames": [
+        3601,
+        3743,
+        3992,
+        4099
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-17.jpg",
+      "frames": [
+        4206,
+        4316,
+        4326,
+        4350
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-18.jpg",
+      "frames": [
+        4353,
+        4393,
+        4433,
+        4628
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-19.jpg",
+      "frames": [
+        4781,
+        4934,
+        5088,
+        5089
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-20.jpg",
+      "frames": [
+        5090,
+        5100,
+        5120,
+        5143
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-21.jpg",
+      "frames": [
+        5150,
+        5196,
+        5249,
+        5303
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-22.jpg",
+      "frames": [
+        5355,
+        5406,
+        5458,
+        5550
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-23.jpg",
+      "frames": [
+        5590,
+        5630,
+        5762,
+        5853
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-24.jpg",
+      "frames": [
+        5945,
+        6120,
+        6128,
+        6200
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-25.jpg",
+      "frames": [
+        6219,
+        6309,
+        6320,
+        6390
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-26.jpg",
+      "frames": [
+        6417,
+        6443,
+        6447,
+        6485
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-27.jpg",
+      "frames": [
+        6490,
+        6526,
+        6568,
+        6650
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-28.jpg",
+      "frames": [
+        6669,
+        6768,
+        6790,
+        6867
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-29.jpg",
+      "frames": [
+        6956,
+        6957,
+        6967,
+        6968
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-30.jpg",
+      "frames": [
+        6969,
+        6970,
+        6971,
+        6972
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-31.jpg",
+      "frames": [
+        6980,
+        7000,
+        7010,
+        7016
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-32.jpg",
+      "frames": [
+        7017,
+        7047,
+        7100,
+        7126
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-33.jpg",
+      "frames": [
+        7205,
+        7274,
+        7284,
+        7285
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-34.jpg",
+      "frames": [
+        7288,
+        7291,
+        7292,
+        7293
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-35.jpg",
+      "frames": [
+        7299,
+        7350,
+        7358,
+        7431
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-36.jpg",
+      "frames": [
+        7480,
+        7503,
+        7656,
+        7735
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/evidence/full-r3/motion-37.jpg",
+      "frames": [
+        7815,
+        7894
+      ]
+    }
+  ],
+  "baseUniqueFrameCount": 399,
+  "supplementFrames": [
+    7274,
+    7275,
+    7276,
+    7277,
+    7278,
+    7279,
+    7280,
+    7281,
+    7282,
+    7283,
+    7284,
+    7285,
+    7286,
+    7287,
+    7288,
+    7289,
+    7290,
+    7291,
+    7292,
+    7293,
+    7294,
+    7295,
+    7296,
+    7297,
+    7298,
+    7299
+  ],
+  "supplementContactsViewed": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-05.jpg",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-06.jpg",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/tail-contact-07.jpg"
+  ],
+  "nativeRoisViewed": [
+    {
+      "frame": 3160,
+      "file": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/roi-3160.png"
+    },
+    {
+      "frame": 5120,
+      "file": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/roi-5120.png"
+    },
+    {
+      "frame": 5143,
+      "file": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/Fred-full-r3-20261016/roi-5143.png"
+    }
+  ],
+  "uniqueFramesViewed": [
+    0,
+    60,
+    119,
+    178,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    300,
+    361,
+    421,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    528,
+    573,
+    619,
+    660,
+    661,
+    662,
+    663,
+    664,
+    665,
+    666,
+    667,
+    668,
+    669,
+    670,
+    754,
+    843,
+    932,
+    990,
+    1015,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1058,
+    1094,
+    1129,
+    1161,
+    1162,
+    1163,
+    1164,
+    1165,
+    1166,
+    1167,
+    1168,
+    1169,
+    1170,
+    1171,
+    1250,
+    1318,
+    1334,
+    1374,
+    1385,
+    1395,
+    1405,
+    1414,
+    1417,
+    1440,
+    1497,
+    1498,
+    1499,
+    1500,
+    1501,
+    1502,
+    1503,
+    1504,
+    1505,
+    1506,
+    1507,
+    1657,
+    1812,
+    1966,
+    2117,
+    2118,
+    2119,
+    2120,
+    2121,
+    2122,
+    2123,
+    2124,
+    2125,
+    2126,
+    2127,
+    2130,
+    2222,
+    2230,
+    2322,
+    2370,
+    2423,
+    2490,
+    2519,
+    2520,
+    2521,
+    2522,
+    2523,
+    2524,
+    2525,
+    2526,
+    2527,
+    2528,
+    2529,
+    2593,
+    2662,
+    2730,
+    2795,
+    2796,
+    2797,
+    2798,
+    2799,
+    2800,
+    2801,
+    2802,
+    2803,
+    2804,
+    2805,
+    2833,
+    2866,
+    2898,
+    2927,
+    2928,
+    2929,
+    2930,
+    2931,
+    2932,
+    2933,
+    2934,
+    2935,
+    2936,
+    2937,
+    2982,
+    3032,
+    3082,
+    3128,
+    3129,
+    3130,
+    3131,
+    3132,
+    3133,
+    3134,
+    3135,
+    3136,
+    3137,
+    3138,
+    3140,
+    3160,
+    3179,
+    3225,
+    3270,
+    3312,
+    3313,
+    3314,
+    3315,
+    3316,
+    3317,
+    3318,
+    3319,
+    3320,
+    3321,
+    3322,
+    3459,
+    3601,
+    3743,
+    3881,
+    3882,
+    3883,
+    3884,
+    3885,
+    3886,
+    3887,
+    3888,
+    3889,
+    3890,
+    3891,
+    3992,
+    4099,
+    4206,
+    4308,
+    4309,
+    4310,
+    4311,
+    4312,
+    4313,
+    4314,
+    4315,
+    4316,
+    4317,
+    4318,
+    4326,
+    4350,
+    4353,
+    4393,
+    4433,
+    4469,
+    4470,
+    4471,
+    4472,
+    4473,
+    4474,
+    4475,
+    4476,
+    4477,
+    4478,
+    4479,
+    4628,
+    4781,
+    4934,
+    5084,
+    5085,
+    5086,
+    5087,
+    5088,
+    5089,
+    5090,
+    5091,
+    5092,
+    5093,
+    5094,
+    5100,
+    5120,
+    5143,
+    5150,
+    5196,
+    5249,
+    5299,
+    5300,
+    5301,
+    5302,
+    5303,
+    5304,
+    5305,
+    5306,
+    5307,
+    5308,
+    5309,
+    5355,
+    5406,
+    5458,
+    5505,
+    5506,
+    5507,
+    5508,
+    5509,
+    5510,
+    5511,
+    5512,
+    5513,
+    5514,
+    5515,
+    5550,
+    5590,
+    5630,
+    5666,
+    5667,
+    5668,
+    5669,
+    5670,
+    5671,
+    5672,
+    5673,
+    5674,
+    5675,
+    5676,
+    5762,
+    5853,
+    5945,
+    6032,
+    6033,
+    6034,
+    6035,
+    6036,
+    6037,
+    6038,
+    6039,
+    6040,
+    6041,
+    6042,
+    6120,
+    6128,
+    6200,
+    6219,
+    6309,
+    6320,
+    6390,
+    6396,
+    6397,
+    6398,
+    6399,
+    6400,
+    6401,
+    6402,
+    6403,
+    6404,
+    6405,
+    6406,
+    6417,
+    6443,
+    6447,
+    6485,
+    6490,
+    6526,
+    6564,
+    6565,
+    6566,
+    6567,
+    6568,
+    6569,
+    6570,
+    6571,
+    6572,
+    6573,
+    6574,
+    6650,
+    6669,
+    6768,
+    6790,
+    6867,
+    6956,
+    6957,
+    6963,
+    6964,
+    6965,
+    6966,
+    6967,
+    6968,
+    6969,
+    6970,
+    6971,
+    6972,
+    6973,
+    6980,
+    7000,
+    7010,
+    7016,
+    7017,
+    7047,
+    7100,
+    7126,
+    7205,
+    7274,
+    7275,
+    7276,
+    7277,
+    7278,
+    7279,
+    7280,
+    7281,
+    7282,
+    7283,
+    7284,
+    7285,
+    7286,
+    7287,
+    7288,
+    7289,
+    7290,
+    7291,
+    7292,
+    7293,
+    7294,
+    7295,
+    7296,
+    7297,
+    7298,
+    7299,
+    7350,
+    7358,
+    7431,
+    7480,
+    7503,
+    7572,
+    7573,
+    7574,
+    7575,
+    7576,
+    7577,
+    7578,
+    7579,
+    7580,
+    7581,
+    7582,
+    7656,
+    7735,
+    7815,
+    7894
+  ],
+  "uniqueFrameCount": 409,
+  "unviewedFrameCount": 7486,
+  "unviewedFrameRangesInclusive": [
+    [
+      1,
+      59
+    ],
+    [
+      61,
+      118
+    ],
+    [
+      120,
+      177
+    ],
+    [
+      179,
+      233
+    ],
+    [
+      245,
+      299
+    ],
+    [
+      301,
+      360
+    ],
+    [
+      362,
+      420
+    ],
+    [
+      422,
+      477
+    ],
+    [
+      489,
+      527
+    ],
+    [
+      529,
+      572
+    ],
+    [
+      574,
+      618
+    ],
+    [
+      620,
+      659
+    ],
+    [
+      671,
+      753
+    ],
+    [
+      755,
+      842
+    ],
+    [
+      844,
+      931
+    ],
+    [
+      933,
+      989
+    ],
+    [
+      991,
+      1014
+    ],
+    [
+      1016,
+      1016
+    ],
+    [
+      1028,
+      1057
+    ],
+    [
+      1059,
+      1093
+    ],
+    [
+      1095,
+      1128
+    ],
+    [
+      1130,
+      1160
+    ],
+    [
+      1172,
+      1249
+    ],
+    [
+      1251,
+      1317
+    ],
+    [
+      1319,
+      1333
+    ],
+    [
+      1335,
+      1373
+    ],
+    [
+      1375,
+      1384
+    ],
+    [
+      1386,
+      1394
+    ],
+    [
+      1396,
+      1404
+    ],
+    [
+      1406,
+      1413
+    ],
+    [
+      1415,
+      1416
+    ],
+    [
+      1418,
+      1439
+    ],
+    [
+      1441,
+      1496
+    ],
+    [
+      1508,
+      1656
+    ],
+    [
+      1658,
+      1811
+    ],
+    [
+      1813,
+      1965
+    ],
+    [
+      1967,
+      2116
+    ],
+    [
+      2128,
+      2129
+    ],
+    [
+      2131,
+      2221
+    ],
+    [
+      2223,
+      2229
+    ],
+    [
+      2231,
+      2321
+    ],
+    [
+      2323,
+      2369
+    ],
+    [
+      2371,
+      2422
+    ],
+    [
+      2424,
+      2489
+    ],
+    [
+      2491,
+      2518
+    ],
+    [
+      2530,
+      2592
+    ],
+    [
+      2594,
+      2661
+    ],
+    [
+      2663,
+      2729
+    ],
+    [
+      2731,
+      2794
+    ],
+    [
+      2806,
+      2832
+    ],
+    [
+      2834,
+      2865
+    ],
+    [
+      2867,
+      2897
+    ],
+    [
+      2899,
+      2926
+    ],
+    [
+      2938,
+      2981
+    ],
+    [
+      2983,
+      3031
+    ],
+    [
+      3033,
+      3081
+    ],
+    [
+      3083,
+      3127
+    ],
+    [
+      3139,
+      3139
+    ],
+    [
+      3141,
+      3159
+    ],
+    [
+      3161,
+      3178
+    ],
+    [
+      3180,
+      3224
+    ],
+    [
+      3226,
+      3269
+    ],
+    [
+      3271,
+      3311
+    ],
+    [
+      3323,
+      3458
+    ],
+    [
+      3460,
+      3600
+    ],
+    [
+      3602,
+      3742
+    ],
+    [
+      3744,
+      3880
+    ],
+    [
+      3892,
+      3991
+    ],
+    [
+      3993,
+      4098
+    ],
+    [
+      4100,
+      4205
+    ],
+    [
+      4207,
+      4307
+    ],
+    [
+      4319,
+      4325
+    ],
+    [
+      4327,
+      4349
+    ],
+    [
+      4351,
+      4352
+    ],
+    [
+      4354,
+      4392
+    ],
+    [
+      4394,
+      4432
+    ],
+    [
+      4434,
+      4468
+    ],
+    [
+      4480,
+      4627
+    ],
+    [
+      4629,
+      4780
+    ],
+    [
+      4782,
+      4933
+    ],
+    [
+      4935,
+      5083
+    ],
+    [
+      5095,
+      5099
+    ],
+    [
+      5101,
+      5119
+    ],
+    [
+      5121,
+      5142
+    ],
+    [
+      5144,
+      5149
+    ],
+    [
+      5151,
+      5195
+    ],
+    [
+      5197,
+      5248
+    ],
+    [
+      5250,
+      5298
+    ],
+    [
+      5310,
+      5354
+    ],
+    [
+      5356,
+      5405
+    ],
+    [
+      5407,
+      5457
+    ],
+    [
+      5459,
+      5504
+    ],
+    [
+      5516,
+      5549
+    ],
+    [
+      5551,
+      5589
+    ],
+    [
+      5591,
+      5629
+    ],
+    [
+      5631,
+      5665
+    ],
+    [
+      5677,
+      5761
+    ],
+    [
+      5763,
+      5852
+    ],
+    [
+      5854,
+      5944
+    ],
+    [
+      5946,
+      6031
+    ],
+    [
+      6043,
+      6119
+    ],
+    [
+      6121,
+      6127
+    ],
+    [
+      6129,
+      6199
+    ],
+    [
+      6201,
+      6218
+    ],
+    [
+      6220,
+      6308
+    ],
+    [
+      6310,
+      6319
+    ],
+    [
+      6321,
+      6389
+    ],
+    [
+      6391,
+      6395
+    ],
+    [
+      6407,
+      6416
+    ],
+    [
+      6418,
+      6442
+    ],
+    [
+      6444,
+      6446
+    ],
+    [
+      6448,
+      6484
+    ],
+    [
+      6486,
+      6489
+    ],
+    [
+      6491,
+      6525
+    ],
+    [
+      6527,
+      6563
+    ],
+    [
+      6575,
+      6649
+    ],
+    [
+      6651,
+      6668
+    ],
+    [
+      6670,
+      6767
+    ],
+    [
+      6769,
+      6789
+    ],
+    [
+      6791,
+      6866
+    ],
+    [
+      6868,
+      6955
+    ],
+    [
+      6958,
+      6962
+    ],
+    [
+      6974,
+      6979
+    ],
+    [
+      6981,
+      6999
+    ],
+    [
+      7001,
+      7009
+    ],
+    [
+      7011,
+      7015
+    ],
+    [
+      7018,
+      7046
+    ],
+    [
+      7048,
+      7099
+    ],
+    [
+      7101,
+      7125
+    ],
+    [
+      7127,
+      7204
+    ],
+    [
+      7206,
+      7273
+    ],
+    [
+      7300,
+      7349
+    ],
+    [
+      7351,
+      7357
+    ],
+    [
+      7359,
+      7430
+    ],
+    [
+      7432,
+      7479
+    ],
+    [
+      7481,
+      7502
+    ],
+    [
+      7504,
+      7571
+    ],
+    [
+      7583,
+      7655
+    ],
+    [
+      7657,
+      7734
+    ],
+    [
+      7736,
+      7814
+    ],
+    [
+      7816,
+      7893
+    ]
+  ],
+  "normalSpeedContinuousReview": false,
+  "audiblyReviewed": false,
+  "visual99PercentEstablished": false,
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "actualSpeed": "UNKNOWN",
+  "extraction": "ffmpeg decoded frame index select n (zero based); native 3160/5120/5143 PNG, ROI 1:1; tail 7274..7299 scale640:360; no video render/transcode",
+  "evidenceHashes": {
+    "source-01.png": "cb13b94c0a41e7ff13c10e78206dd2f7ff90acd40d8318817877f44ad1c7085e",
+    "source-02.png": "fbc170c022cc6f1fbbc8c46151426bda516d87098a4319b4649cbb00905a41e3",
+    "source-03.png": "e64d06b8aec4ec0983400de0fc27a4427e3cd235d2d87510334660deb5d92133",
+    "replica-tail-24.png": "428159c6f971068d0d85f4a7486cc1d66a7eeb158d09c1ee5513a1d6419193fc",
+    "replica-tail-18.png": "af9b8e7c9fa16b5a6e7f7ba5d65164aa70e80032f813c91962f1cb956fcb2226",
+    "source-tail-22.png": "a72a66bdb9a6a79ba27ea7c58dc962b079cf0ddea08f43e758f0dd355b5ba147",
+    "source-tail-23.png": "6d7f5a4c9a1999dce63cca37697283f31c51e3003fc2c032164540c054d815e8",
+    "replica-tail-19.png": "90478d1fb40c18cae3ec0e9716e559e4019aad702db99c7fdbfc954b2939bc70",
+    "roi-3160.png": "3f377aa31a87e006085bf2be84e4b7bef20c40c8500356d905413d484dcf9338",
+    "replica-tail-25.png": "a0f5323b420ed604ec1a54b357209ccb6931b75d7a3328f41c83dca461416c40",
+    "source-tail-09.png": "62391b128e13eb39ca7ce41c33706f534f816018e5ec68a56cdda1252b0914d3",
+    "source-tail-21.png": "0660dd10a7ebd77ee3e76997175eed7c0ec436d5f6ca543279b7993320c33a61",
+    "source-tail-20.png": "8acb415f870ec9e4e5638f8ba10c233ec9fea736b14ed80fabe9542f7652de9c",
+    "source-tail-08.png": "c6c2478b4c403a8130595a24c9204c02857cb043837ae4b86d1b409bb1db833e",
+    "replica-tail-26.png": "557a134093664427b3f88e3124d64c02016f944826d9fb13a2de324bd1994de1",
+    "replica-tail-22.png": "d7b6da566adc278930b70474d3ee3fe76bc1adfc35781aaa90305e9929d967a2",
+    "source-tail-24.png": "e609318a8a6eb6a24c1174d6ddb09d2bdeec99a17b3082778a14ea0c9b437ec9",
+    "source-tail-18.png": "36eeb6d8dc47ff992caaef3160496a8e1bd10d8c2dd7fb4daba51f9e0bb5e17d",
+    "source-tail-19.png": "f94af66290a63581e71aa5018d14337acddd2ae2e5e774e879ff9ac66a0d4048",
+    "source-tail-25.png": "b1b054ccbfddf0bdd071969b409ef9002c78f4ee78c8f00a83830cb51f699aff",
+    "replica-tail-23.png": "bd211c39fdd959b225503c8a7766feb35a8a9aff9546e4e4734b3c2fd4e65a7e",
+    "replica-tail-09.png": "44c0de1cbaf5f5d69ac394ab46c1637121094ed6af1362d7aa293ce7e0a50b07",
+    "replica-tail-21.png": "2c46b71496ee0a805a950c6052874f55d0608e78d789162917275837411bd43a",
+    "source-tail-26.png": "2fed9511aa5521cbc81829ce6e69814407910f2854d40d2cfc303a14b7f43e6a",
+    "replica-tail-20.png": "89b6a4537504f1bfaba163c4bea8326e5b9d9e17b9f38e9258e2a393b1b9f3c6",
+    "replica-tail-08.png": "f0e5470b0fe1adb0b21f78eaa6ebd1642ea1b60ab893fedb650017bfd9e139a1",
+    "replica-tail-11.png": "74f21cfd755e2e19a9efef1a2665780be5e143f9647fd8f42eda4ccf96e40fdf",
+    "replica-tail-05.png": "7fb61860a2e03220cf03f678c8f66b370c0ba0ce3190abd94dd3677971278a87",
+    "source-tail-03.png": "f004bee7da350f758529f0deadd80c0e8d5f573a843ee3dcc543cb420bf0bca1",
+    "source-tail-17.png": "73566601e94ebf06d84f1cc4228170e720c1875119be3568292b4f5a1c464471",
+    "source-tail-16.png": "b717cfd5bc2e0c3205dd1fdef0fb9be891864a17b1a79686854bc99129c2fd81",
+    "source-tail-02.png": "db7b2862c27902cc46924c64213507782fda0efcf4477fcd6e9c92485cde499f",
+    "roi-5120.png": "443e229a3d3064db3372eed3730ed82305d717ce890ffe1f2ab1b03b56f8474c",
+    "replica-tail-04.png": "15e12f466bda9df9b69a0391f2fd441922f187d33fffcd71e1e50c0113e5d130",
+    "replica-tail-10.png": "c27386613ecafab7a651e249185d818f87d6ed742bcebd2906a722817045a534",
+    "replica-tail-06.png": "932009d908809c3192efc00b3e874b658b0f74acae066e9187f19bc4152337aa",
+    "replica-tail-12.png": "3e7be765073acc834552fa25ee53612644feb77b4880c3773dd91f5826461e73",
+    "source-tail-14.png": "82d3f6e995544f47c4b563fd440d8f7e952e1ba28297d215b3dd01b2b4cc778b",
+    "source-tail-01.png": "76e39eae5649a94bd18b7a0420dcac5e79950896e995017d395964677ce8d33e",
+    "source-tail-15.png": "00e95a8b7b013794c2a5339b9983b68015337c64270db439dc673b4e0e813721",
+    "replica-tail-13.png": "55724c106b6f19a4a768ebb751e4e97f10f24674f72658a163483ffcee676ec5",
+    "replica-tail-07.png": "8025e0fa91a658a30866529f2c37805f0913b36f8769c3deee11c5b227f2d82e",
+    "replica-tail-03.png": "19d8cc3a25a2d65d34cbd8f139602f6f7a8e261c9624f31b739ab65e89170050",
+    "replica-tail-17.png": "7d5585d95cea371dbc4c87d01bb2127104e8c712b2981b935007dc137d38c17e",
+    "source-tail-11.png": "4468d33e2e998cadda72999ae50fb0b973d8b6a0337c95ac24b2c0ed09c46e51",
+    "source-tail-05.png": "8b6b730f08660af946cda2cadab955d1eac62537bf642cf99eaee6dd933c7485",
+    "source-tail-04.png": "8ffe694e12a204b665fdb8c87850121e169d28f5e705ce09a692f7c3ce320570",
+    "source-tail-10.png": "72c77e6f572ca6cfadc3c06571b563925990e251229268a9286f922fbc03e3c8",
+    "replica-tail-16.png": "74b2d666eb18c297092676664d2dccac42556a7e46bbd460ac4d4b2cb93fa050",
+    "replica-tail-02.png": "5b95b41397272ced8d570a0c60436bc1feb094275524b538697293f1b0e25c6c",
+    "replica-tail-14.png": "94677b325cfb0b34e408ea8e[REDACTED_PHONE]c5a92fd4382b81d34006561a587eb",
+    "source-tail-06.png": "900514654a913547314e011412f2016b21440a3490717169cd8338adcbd114d6",
+    "source-tail-12.png": "cb792ee0833841dc6438289240e638bdf7c9c8e76a396ac4f3cfb5eeb8c0001a",
+    "source-tail-13.png": "dd2e45a579209fd175fac025cf2977304eab8643a70ac8acf9485adbd90beef8",
+    "source-tail-07.png": "1297dc011cd11d876f2987b730923e182b9271011070f1629c0c2f661a7f400a",
+    "replica-tail-01.png": "4ba67d098ad87eb0c6e5ae47931de4ff4e09b0f4166ea44fb9cfaa92c6a3697d",
+    "replica-tail-15.png": "dc194e6f6d7ef9daf3abda5f3013a3d7e8dc4cd4f5dee3a96349a6b9fc4ea0d2",
+    "roi-5143.png": "f2045f319ce52f16113210e53c3c86d9e7807c17f7ecb59ecc61866cf14877fc",
+    "replica-02.png": "10268b2669e99c7c03dd1dc7318f0fae5f118050bd43a391105c7e623d87e663",
+    "replica-03.png": "296402bffa9c6d83f1fc1dc9c0a7e40247e31b4b604f7a487d871ff5a70713b5",
+    "replica-01.png": "3ae66321d96dbcb4b88c5f74a5215ac008b5791876afa8df0cc1f120f4fe6583"
+  }
+}

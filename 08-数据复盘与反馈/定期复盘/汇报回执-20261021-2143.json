@@ -1,0 +1,20 @@
+{
+  "automation_id": "9",
+  "sent_at_utc": "2026-10-21 13:45:00 UTC",
+  "target_thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "report": "复盘-20261021-2143.md",
+  "snapshot": "数据基线-20261021-2143.json",
+  "tool_status": "TOOL_ACCEPTED",
+  "pmo_received": "UNKNOWN",
+  "pmo_acceptance": "UNKNOWN",
+  "raw_tool_receipt": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "no_polling": true
+}

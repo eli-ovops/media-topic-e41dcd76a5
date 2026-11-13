@@ -1,0 +1,214 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "消息" [level=2]
+- link " @我的":
+
+  - link " @我的":
+    - generic: 
+    - generic: "@我的"
+- link " 评论":
+
+  - link " 评论":
+    - generic: 
+    - generic: 评论
+- link " 赞":
+
+  - link " 赞":
+    - generic: 
+    - generic: 赞
+- link " 私信 7":
+
+  - link " 私信 7":
+    - generic: 
+    - generic: 私信
+    - generic: "7"
+- link " 群通知":
+
+  - link " 群通知":
+    - generic: 
+    - generic: 群通知
+- main:
+  - generic: 收到的评论
+  - generic: 关注人的评论
+  - generic: 发出的评论
+  - generic: 暂无内容
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 AI女爱豆因怀孕暂停活动 270736":
+
+    - generic: "1"
+    - generic "AI女爱豆因怀孕暂停活动"
+    - generic: "270736"
+  - link "2 时代峰峻泄露粉丝隐私 69208":
+
+    - generic: "2"
+    - generic "时代峰峻泄露粉丝隐私"
+    - generic: "69208"
+  - link "3 肖战首站选南京上海两个场馆的原因 69383":
+
+    - generic: "3"
+    - generic "肖战首站选南京上海两个场馆的原因"
+    - generic: "69383"
+  - link "孙颖莎海尔全球品牌代言人":
+
+    - generic "孙颖莎海尔全球品牌代言人"
+  - link "4 79岁老干妈陶华碧用AI一年赚54亿 1315012":
+
+    - generic: "4"
+    - generic "79岁老干妈陶华碧用AI一年赚54亿"
+    - generic: "1315012"
+  - link "5 73岁迟重瑞被网友偶遇 68014":
+
+    - generic: "5"
+    - generic "73岁迟重瑞被网友偶遇"
+    - generic: "68014"
+  - link "6 李勒优买东西只舍得去逛小商品市场 58258":
+
+    - generic: "6"
+    - generic "李勒优买东西只舍得去逛小商品市场"
+    - generic: "58258"
+  - link "白云山小柴胡守护热血赛场":
+
+    - generic "白云山小柴胡守护热血赛场"
+  - link "7 老人凌晨下地干活被气枪击中身亡 435057":
+
+    - generic: "7"
+    - generic "老人凌晨下地干活被气枪击中身亡"
+    - generic: "435057"
+  - link "8 李善宝 咩咩 231821":
+
+    - generic: "8"
+    - generic "李善宝 咩咩"
+    - generic: "231821"
+  - link "9 小泡芙普通话 93651":
+
+    - generic: "9"
+    - generic "小泡芙普通话"
+    - generic: "93651"
+  - link "10 懂车帝 宝马X7 69807":
+
+    - generic: "10"
+    - generic "懂车帝 宝马X7"
+    - generic: "69807"
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 你可能感兴趣的人
+  - generic: 
+  - generic: 换一换
+  - link "篮球精选 体育博主  关注":
+
+    - generic: 篮球精选
+    - generic: 体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "篮球教学论坛 篮球教学论坛www.zjlanqiu.com官方微博  关注":
+
+    - generic: 篮球教学论坛
+    - generic: 篮球教学论坛www.zjlanqiu.com官方微博
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "这把湖了 知名体育博主  关注":
+
+    - generic: 这把湖了
+    - generic: 知名体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "创作者中心  数据中心  内容管理  收益中心  私信管理 进入创作者中心 ":
+
+    - generic: 创作者中心
+    - link " 数据中心":
+
+      - generic: 
+      - generic: 数据中心
+    - link " 内容管理":
+
+      - generic: 
+      - generic: 内容管理
+    - link " 收益中心":
+
+      - generic: 
+      - generic: 收益中心
+    - link " 私信管理":
+
+      - generic: 
+      - generic: 私信管理
+    - link "进入创作者中心 ":
+
+      - generic: 进入创作者中心
+      - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

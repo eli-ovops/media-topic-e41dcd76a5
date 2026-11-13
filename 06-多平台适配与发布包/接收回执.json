@@ -1,0 +1,101 @@
+{
+  "stage": "06",
+  "date": "2026-10-08 Asia/Shanghai",
+  "status": "SUBMITTED_FOR_PMO_REVIEW",
+  "business_status": "WAITING_FOR_PMO",
+  "identity": {
+    "title": "06｜多平台适配与发布包",
+    "thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+    "host": "local",
+    "identity_source": "本会话环境路径；创建工具回执未由本岗位独立读取，登记当前thread_id=null，待PMO核验同步",
+    "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444"
+  },
+  "read_files": [
+    "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+    "/Volumes/EXTERNAL/自媒体/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/岗位任务单.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json",
+    "/Volumes/EXTERNAL/自媒体/账号资料统一/README.md",
+    "/Users/USER/.codex/AGENTS.details.md",
+    "/Users/USER/.codex/LOCAL_BLOCKERS.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/workflow_gate.py"
+  ],
+  "read_scope": {
+    "README.md": "当前顶部与版本历史摘要",
+    "AGENTS.details.md": "完整§2/§3/§4",
+    "LOCAL_BLOCKERS.md": "入口规则及索引；本次无普通工具故障，不重试预期门禁拒绝"
+  },
+  "baseline_summary": "目标是线上AI实用知识分享，以本人语言、事实、录音和素材建立信任，FDE常驻身份。严格01至08串行。当前content_id为first-video-life-guide-visual-fix-v7，04 RELEASED，05至08 WAITING。v6仍有用户指出的截图裁切与框选错误；本机技术check不能替代最终视觉检查及用户全片终审。06本轮仅接收，不制作发布包。",
+  "input": {
+    "required": "05经PMO通过的独立质检记录、用户全片终审来源、冻结成片/封面/字幕/来源资料及逐文件SHA；账号唯一Owner实际交付并由PMO同步冻结的平台/账号清单",
+    "current": "05 inputs/outputs为空，未取得冻结成片，未释放06；不以v6历史成片作为通过输入"
+  },
+  "output": {
+    "future": "逐平台视频规格与文件、封面裁切、标题、简介、话题、字幕版本、资料入口、必要声明、能力支持表/UNKNOWN、逐文件SHA及待用户批准清单。按各渠道表达适配，不照搬同一标题与封面。",
+    "this_round": [
+      "接收回执.json",
+      "接收回执.md"
+    ]
+  },
+  "gate_check": {
+    "command": "/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 流程协作/workflow_gate.py check --content first-video-life-guide-visual-fix-v7 --stage 06 --thread 01a11a7f-9a85-7481-9e6c-75f11280ba56",
+    "exit_code": 2,
+    "stdout": {
+      "allowed": false,
+      "reason": "STAGE_OUT_OF_ORDER"
+    },
+    "interpretation": "预期拒绝：当前04，不允许跳到06；没有重试或改状态。这次拒绝先于Owner检查，不证明身份登记及后续门槛已通过。"
+  },
+  "entry_conditions": "PMO登记真实Owner，当前content_id/岗位匹配，05含用户终审通过、上游状态与SHA有效，06 RELEASED且明确派单后先check通过，再开展指定适配。",
+  "stage07_requirements": "06经PMO验收通过并冻结交付版本；07取得该版本视频SHA、具体平台、账号、动作、时间、可见性和直接用户批准来源。逐平台核提交、审核、公开状态；结果不明先查，不重复上传。创建会话、资料完成、平台保留、登录态或API存在均不构成发布授权。",
+  "discrepancies": [
+    {
+      "item": "平台数量",
+      "sources": "登记platform_baseline及流程README仍为12，账号资料统一/README.md最终取舍为11，仅移除Threads；GitHub/Reddit已排除",
+      "handling": "记录给PMO核对同步；不修改共享登记，不恢复Threads，不自行开展平台调研。未来以账号Owner实际交付及PMO冻结版本为准。"
+    },
+    {
+      "item": "身份登记",
+      "sources": "06登记thread_id=null、NOT_CREATED；当前已收到本岗位入职任务",
+      "handling": "由PMO核实创建回执与真实ID后维护登记，不自行写共享状态。"
+    }
+  ],
+  "unverified": [
+    "v7成片和05质检/用户终审尚无本轮冻结输入；未观看成片或重跑媒体QA",
+    "账号资料README是Owner交付陈述；未读其原始截图或全平台执行记录，不能独立证明当前账号登录/发布资格",
+    "各平台API、规格、自动化路径、账号权益和本片发布能力UNKNOWN",
+    "创建工具身份回执、实际model/effort/speed、实时全局用量UNKNOWN"
+  ],
+  "next_action": "等待PMO读取本待验回执并完成身份/实质接收验收；05通过并正式释放06后，读取明确输入版本、重新门禁check；本轮结束后待命，不后台调度。",
+  "boundary": "仅本目录两份回执。未改工程、成片、根文档、共享登记/状态或其他Owner材料；未联网、安装、账号写入、上传、发布、私信、跨会话消息、子agent或后台任务。账号Owner复用01a11943-cf97-78c1-aa4c-bd1a928941e2，不联系或打断。",
+  "read_rule_versions": [
+    "CONTENT-FLOW-2026-10-08-v1",
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-06-v1",
+    "BLOCKERS-2026-09-23-v1",
+    "IDEA-GATE-2026-09-30-v1（本轮非新想法审查）"
+  ],
+  "target_model_effort": {
+    "model": "用户默认；不切换",
+    "effort": "medium"
+  },
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "evidence": {
+    "workflow": "流程状态.json当前04 RELEASED / 05-08 WAITING / publication_authorization=null",
+    "platforms": "账号资料统一/README.md：发布矩阵最终取舍（2026-10-08）",
+    "gate": "本轮CLI原始stdout与exit_code收录于gate_check；门禁只验证顺序，不是业务验收"
+  },
+  "file_record": {
+    "created": [
+      "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/接收回执.json",
+      "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/接收回执.md"
+    ],
+    "purpose": "保留入职接收待验交付物及原始门禁回执",
+    "temporary_files": [],
+    "cleanup": "无一次性中间文件，无清理项"
+  }
+}

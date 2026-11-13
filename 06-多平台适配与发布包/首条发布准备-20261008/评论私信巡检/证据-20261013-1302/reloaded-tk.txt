@@ -1,0 +1,260 @@
+- region "Notifications alt+T"
+- link "前往 TikTok【推荐】页":
+
+  - strong: TikTok
+- searchbox "搜索":
+- heading "推荐" [level=2]:
+  - link "推荐":
+
+    - listitem "推荐":
+      - generic: 推荐
+- heading "探索" [level=2]:
+  - link "探索":
+
+    - listitem "探索":
+      - generic: 探索
+- heading "已关注" [level=2]:
+  - link "已关注":
+
+    - listitem "已关注":
+      - generic: 已关注
+- heading "好友" [level=2]:
+  - link "好友":
+
+    - listitem "好友":
+      - generic: 好友
+- heading "短剧" [level=2]:
+  - link "短剧":
+
+    - listitem "短剧":
+      - generic: 短剧
+- heading "直播" [level=2]:
+  - link "直播":
+
+    - listitem "直播":
+      - generic: 直播
+- listitem "消息":
+  - generic: 消息
+- listitem "活动" [active]:
+  - superscript:
+    - paragraph: "1"
+  - generic: 活动
+- link "上传":
+
+  - listitem "上传":
+    - generic: 上传
+- heading "主页" [level=2]:
+  - link "主页":
+
+    - listitem "主页":
+      - generic: 主页
+- listitem "更多":
+  - generic: 更多
+- heading "通知" [level=2]
+- tablist "通知":
+  - tab "所有活动" [selected]
+  - tab "赞"
+  - tab "评论"
+  - tab "提及和标记"
+  - tab "粉丝"
+- tabpanel "所有活动":
+  - paragraph: 最新
+  - list:
+    - paragraph: 系统通知
+    - paragraph: "直播: 你的直播内容引发了众多评论。保持这个良好势头！ 有了直播工作室，在 PC 端开播会变得得心应手： ✓ 直播活动：精心安排下一场直播，吸引更多观众参与。 ✓ 自由创作：手机、电脑、游戏主机，多端自由分享。 ✓ TikTok 专属特色：使用直播工具进行互动，通过订阅和礼物创造营收。 还等什么，立即将创意转化为奖励吧！"
+  - paragraph: 本周
+  - list:
+    - link "Taaddasaa(完美) 的主页":
+
+    - paragraph:
+      - link "Taaddasaa(完美) 的主页":
+
+        - text: Taaddasaa(完美)
+    - paragraph: 点赞了你的视频。 · 1天
+    - link:
+
+    - link "hongjing 的主页":
+
+      - text: hongjing
+    - paragraph:
+      - generic: 关注了你。
+      - generic: · 3 天前
+    - button "回关"
+    - link "hongjing 的主页":
+
+    - paragraph:
+      - link "hongjing 的主页":
+
+        - text: hongjing
+    - paragraph: 点赞了你的视频。 · 3天
+    - link:
+
+    - link "盧育宗 的主页":
+
+    - paragraph:
+      - link "盧育宗 的主页":
+
+        - text: 盧育宗
+    - paragraph: 点赞了你的视频。 · 3天
+    - link:
+
+  - paragraph: 早前
+  - list:
+    - link "vava🥰🥰 的主页":
+
+    - paragraph:
+      - link "vava🥰🥰 的主页":
+
+        - text: vava🥰🥰
+    - paragraph: 点赞了你的视频。 · 9-17
+    - link:
+
+    - link "🦎manchó el juevito 的主页":
+
+    - paragraph:
+      - link "🦎manchó el juevito 的主页":
+
+        - text: 🦎manchó el juevito
+    - paragraph: 点赞了你的视频。 · 9-15
+    - link:
+
+    - paragraph:
+      - link "Trsit Solomon 的主页":
+
+        - text: Trsit Solomon
+      - text: ","
+      - link "hehe 的主页":
+
+        - text: hehe
+      - text: 和 其他 1 人
+    - paragraph: 点赞了你的视频。 · 9-15
+    - link:
+
+    - paragraph:
+      - link "Trsit Solomon 的主页":
+
+        - text: Trsit Solomon
+      - text: ","
+      - link "Nzaramba kevin🏀🏀🏀 的主页":
+
+        - text: Nzaramba kevin🏀🏀🏀
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - paragraph:
+      - link "gadniyo1 的主页":
+
+        - text: gadniyo1
+      - text: ","
+      - link "𝐀𝐤𝐚𝐫𝐢 的主页":
+
+        - text: 𝐀𝐤𝐚𝐫𝐢
+      - text: 和 其他 29 人
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "Sõññy 的主页":
+
+    - paragraph:
+      - link "Sõññy 的主页":
+
+        - text: Sõññy
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "you 的主页":
+
+    - paragraph:
+      - link "you 的主页":
+
+        - text: you
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "Mariam jewelry 💍 的主页":
+
+    - paragraph:
+      - link "Mariam jewelry 💍 的主页":
+
+        - text: Mariam jewelry 💍
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "Sõññy 的主页":
+
+    - paragraph:
+      - link "Sõññy 的主页":
+
+        - text: Sõññy
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - paragraph:
+      - link "dipa khadka 的主页":
+
+        - text: dipa khadka
+      - text: ","
+      - link "心咲 的主页":
+
+        - text: 心咲
+      - text: 和 其他 10 人
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "quyenvu613 的主页":
+
+    - link "quyenvu613":
+
+    - paragraph: 发表了评论：Đam mê quá · 9-14
+    - link:
+
+    - link "® 的主页":
+
+    - paragraph:
+      - link "® 的主页":
+
+        - text: ®
+    - paragraph: 赞了你的照片。 · 9-14
+    - link:
+
+    - link "Gg 的主页":
+
+    - paragraph:
+      - link "Gg 的主页":
+
+        - text: Gg
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "Lesley 🦋 的主页":
+
+    - paragraph:
+      - link "Lesley 🦋 的主页":
+
+        - text: Lesley 🦋
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - paragraph:
+      - link "ニャンモロー 的主页":
+
+        - text: ニャンモロー
+      - text: ","
+      - link "cench cee 的主页":
+
+        - text: cench cee
+      - text: 和 其他 9 人
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+    - link "hhhuuu 的主页":
+
+    - paragraph:
+      - link "hhhuuu 的主页":
+
+        - text: hhhuuu
+    - paragraph: 点赞了你的视频。 · 9-14
+    - link:
+
+- button "关闭":
+- article

@@ -1,0 +1,268 @@
+- navigation:
+  - link "Weibo":
+    - /url: /
+  - link "首页":
+    - /url: /
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+    - /url: /hot
+    - generic "推荐":
+  - link "视频":
+    - /url: /tv
+    - generic "视频":
+  - link "消息":
+    - /url: /at/weibo
+    - generic "消息":
+      - generic: "6"
+  - link "Eli-AI":
+    - /url: /u/7720929036
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+    - /url: //game.weibo.com/?topnav=1&mod=logo&wvr=6
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "首页" [level=2]
+- link " 全部关注":
+  - /url: /
+  - link " 全部关注":
+    - generic: 
+    - generic: 全部关注
+- link " 最新微博":
+  - /url: /mygroups?gid=110007720929036
+  - link " 最新微博":
+    - generic: 
+    - generic: 最新微博
+- link " 特别关注":
+  - /url: /mygroups?gid=4700118928064650
+  - link " 特别关注":
+    - generic: 
+    - generic: 特别关注
+- link " 好友圈":
+  - /url: /mygroups?gid=100097720929036
+  - link " 好友圈":
+    - generic: 
+    - generic: 好友圈
+- heading "自定义分组" [level=3]
+- button "管理":
+  - generic: 管理
+- link " 名人明星":
+  - /url: /mygroups?gid=4700118928064652
+  - link " 名人明星":
+    - generic: 
+    - generic: 名人明星
+- link " 同事":
+  - /url: /mygroups?gid=4700118928064653
+  - link " 同事":
+    - generic: 
+    - generic: 同事
+- link " 同学":
+  - /url: /mygroups?gid=4700118928064654
+  - link " 同学":
+    - generic: 
+    - generic: 同学
+- link " 悄悄关注":
+  - /url: /mygroups?gid=100057720929036
+  - link " 悄悄关注":
+    - generic: 
+    - generic: 悄悄关注
+- main:
+  - generic: 
+  - generic: 返回
+  - heading [level=2]
+  - generic: Eli-AI
+  - article:
+    - generic: 公开
+    - generic "更多": 
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: ""
+    - link "GitHub超话":
+      - /url: //weibo.com/p/100808d3b7c913cd04ebfec0e9ec32cb6fd58c
+    - link "26-10-8 21:16":
+      - /url: https://weibo.com/7720929036/RlL0WwIyR
+    - generic "发布于 浙江"
+    - generic "来自 微博网页版"
+    - generic: "149"
+    - generic: 阅读
+    - generic: 推广
+    - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。
+    - text: 租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。
+    - text: 这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。
+    - text: 想要整理好的文档，评论「指南」。
+    - link "#GitHub#":
+      - /url: //s.weibo.com/weibo?q=%23GitHub%23
+    - link "#高性价比人生指南#":
+      - /url: //s.weibo.com/weibo?q=%23%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E4%BA%BA%E7%94%9F%E6%8C%87%E5%8D%97%23
+    - link "#免费资源#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%23
+    - link "#资料分享#":
+      - /url: //s.weibo.com/weibo?q=%23%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%23
+    - link "#自我提升#":
+      - /url: //s.weibo.com/weibo?q=%23%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87%23
+    - text: "#AI工具"
+    - link "http://t.cn/AXlwVnGbEli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5351839894536240
+      - img "http://t.cn/AXlwVnGb"
+      - text: Eli-AI的微博视频
+    - region "视频播放器":
+      - button "播放视频":
+        - text: 
+        - generic: 播放视频
+      - text:      
+      - generic: 个人观点，仅供参考
+    - generic: 00:59
+    - generic: 19次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+      - generic: 
+      - generic: 分享这条博文
+  - textbox "发布你的评论"
+  - generic: 
+  - generic "表情": 
+  - generic "图片": 
+  - checkbox "同时转发"
+  - generic: 同时转发
+  - button "评论" [disabled]:
+    - generic: 评论
+  - generic: 还没有人评论哦~快来抢沙发！
+  - link:
+    - /url: /u/7720929036
+  - generic: Eli-AI
+  - link "28 关注":
+    - /url: /u/page/follow/7720929036
+    - generic: "28"
+    - generic: 关注
+  - link "1 粉丝":
+    - /url: /u/page/follow/7720929036?relate=fans
+    - generic: "1"
+    - generic: 粉丝
+  - link "3 微博":
+    - /url: /u/7720929036?tabtype=feed
+    - generic: "3"
+    - generic: 微博
+  - generic "简介": 
+  - generic: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 · 🛰️：EliAIFDE 备注来意，共同交流
+  - generic "基本信息": 
+  - generic: 男1993-01-01浙江
+  - link "查看个人主页 ":
+    - /url: /u/7720929036
+    - generic: 查看个人主页
+    - generic: 
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 霸王茶姬买一送一 23:18登顶":
+    - /url: //s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80&topic_ad=&t=547
+    - generic: "1"
+    - generic "霸王茶姬买一送一"
+    - generic: 23:18登顶
+  - link "2 泰州点球大战淘汰南通 73191":
+    - /url: //s.weibo.com/weibo?q=%E6%B3%B0%E5%B7%9E%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E5%8D%97%E9%80%9A&topic_ad=&t=547
+    - generic: "2"
+    - generic "泰州点球大战淘汰南通"
+    - generic: "73191"
+  - link "3 社保 昨天霸榜":
+    - /url: //s.weibo.com/weibo?q=%E7%A4%BE%E4%BF%9D&topic_ad=&t=547
+    - generic: "3"
+    - generic "社保"
+    - generic: 昨天霸榜
+  - link "京东11.11月黑风高1元拿手机":
+    - /url: //s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C11.11%E6%9C%88%E9%BB%91%E9%A3%8E%E9%AB%981%E5%85%83%E6%8B%BF%E6%89%8B%E6%9C%BA%23&topic_ad=&t=547
+    - generic "京东11.11月黑风高1元拿手机"
+  - link "4 苏超四强 78804":
+    - /url: //s.weibo.com/weibo?q=%E8%8B%8F%E8%B6%85%E5%9B%9B%E5%BC%BA&topic_ad=&t=547
+    - generic: "4"
+    - generic "苏超四强"
+    - generic: "78804"
+  - link "5 突然不羡慕沐言一家了 15:31登顶":
+    - /url: //s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E4%B8%8D%E7%BE%A1%E6%85%95%E6%B2%90%E8%A8%80%E4%B8%80%E5%AE%B6%E4%BA%86%23&topic_ad=&t=547
+    - generic: "5"
+    - generic "突然不羡慕沐言一家了"
+    - generic: 15:31登顶
+  - link "6 两个闺女一个985一个菜市场 59246":
+    - /url: //s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E9%97%BA%E5%A5%B3%E4%B8%80%E4%B8%AA985%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%B8%82%E5%9C%BA&topic_ad=&t=547
+    - generic: "6"
+    - generic "两个闺女一个985一个菜市场"
+    - generic: "59246"
+  - link "李治廷的新搭子大众8X天生不挑路":
+    - /url: //s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%BB%E5%BB%B7%E7%9A%84%E6%96%B0%E6%90%AD%E5%AD%90%E5%A4%A7%E4%BC%978X%E5%A4%A9%E7%94%9F%E4%B8%8D%E6%8C%91%E8%B7%AF%23&topic_ad=&t=547
+    - generic "李治廷的新搭子大众8X天生不挑路"
+  - link "7 中国女性传统坐姿松弛张扬 270599":
+    - /url: //s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E4%BC%A0%E7%BB%9F%E5%9D%90%E5%A7%BF%E6%9D%BE%E5%BC%9B%E5%BC%A0%E6%89%AC&topic_ad=&t=547
+    - generic: "7"
+    - generic "中国女性传统坐姿松弛张扬"
+    - generic: "270599"
+  - link "8 传的鹿晗来的是关晓彤 昨晚霸榜":
+    - /url: //s.weibo.com/weibo?q=%23%E4%BC%A0%E7%9A%84%E9%B9%BF%E6%99%97%E6%9D%A5%E7%9A%84%E6%98%AF%E5%85%B3%E6%99%93%E5%BD%A4%23&topic_ad=&t=547
+    - generic: "8"
+    - generic "传的鹿晗来的是关晓彤"
+    - generic: 昨晚霸榜
+  - link "9 苏超淘汰赛南通vs泰州 63220":
+    - /url: //s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%8D%97%E9%80%9Avs%E6%B3%B0%E5%B7%9E%23&topic_ad=&t=547
+    - generic: "9"
+    - generic "苏超淘汰赛南通vs泰州"
+    - generic: "63220"
+  - link "10 灵活就业社保一次性补缴 71830":
+    - /url: //s.weibo.com/weibo?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E7%A4%BE%E4%BF%9D%E4%B8%80%E6%AC%A1%E6%80%A7%E8%A1%A5%E7%BC%B4&topic_ad=&t=547
+    - generic: "10"
+    - generic "灵活就业社保一次性补缴"
+    - generic: "71830"
+  - link "查看完整热搜榜单 ":
+    - /url: /hot/mine
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+    - /url: https://kefu.weibo.com/?cs_source=2
+  - link "自助服务中心":
+    - /url: https://kefu.weibo.com/selfservice?bottomnav=1&wvr=6
+  - link "常见问题":
+    - /url: https://kefu.weibo.com/allfaq?bottomnav=1&wvr=6
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+    - /url: https://marketing.hd.weibo.com/?fr=C003001_P001
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+    - /url: https://open.weibo.com/?bottomnav=1&wvr=6
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+    - /url: https://service.account.weibo.com/?bottomnav=1&wvr=6
+  - link "舞弊举报":
+    - /url: https://weibo.com/aj/static/report.html?_wv=6
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+    - /url: http://ir.weibo.com/
+  - generic: 客户端下载
+  - link "微博招聘":
+    - /url: https://career.sina.com.cn/?bottomnav=1&wvr=6
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+    - /url: https://privacy.weibo.com
+  - link "微博数据AI大模型开放合作声明":
+    - /url: https://weibo.com/pagemesh/static/weibo-data-ai-cooperation-statement.html
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+    - /url: https://weibo.com/aj/static/business_license.html
+- text: 
+- generic: 
+- text:   

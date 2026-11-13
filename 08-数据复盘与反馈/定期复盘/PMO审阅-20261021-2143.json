@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-21T21:46:10.398110+08:00",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai",
+  "status": "ACCEPTED_SOURCE_ATTRIBUTED_WITH_LIMITS",
+  "owner_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+  "owner_proactive_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261021-2143.md",
+  "report_sha256": "36dbcfbe63f5b795a2abae6c10c23dde8bf5ccaa6924b0c48d84b95c84547e61",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261021-2143.json",
+  "snapshot_sha256": "d18dd4a963f17b385b30e21fe77f4c2b0ce94a5248e978856dacb469c17861d7",
+  "pmo_checks": [
+    "Both supplied artifact SHA independently matched",
+    "Seven numeric video view counters sum658; X impressions23 kept separate",
+    "Bilibili delayed previous zero excluded from strict delta claims",
+    "Unprovided save counters and platform coverage keptUNKNOWN",
+    "One prior pending Douyin request closed from08 user-response observation, not treated as file delivered"
+  ],
+  "evidence_limit": "Metrics and reply-direction are attributed to08 native-page observations in supplied original report/JSON. PMO did not re-collect platform counters or independently open the reported private dialogue; no full platform/DM completeness claim.",
+  "dm_closed_existing_dedup_key": "douyin:當時的月亮:20261021:求:约1658",
+  "new_confirmed_unanswered_business_requests": 0,
+  "new_confirmed_unanswered_business_requests_scope": "Only08 actually covered recent lists; not universal inbox assertion",
+  "remake04_05_workflow": "Unchanged; no query/wakeup/redispatch of production Owner",
+  "publication_or_cleanup_authority_change": false
+}

@@ -1,0 +1,21 @@
+评论和@
+- generic: 赞和收藏
+- generic: 新增关注
+- link:
+  - /url: /user/profile/692fcf7f00000000370066b6?channelType=web_engagement_notification_page&channelTabId=mentions&xsec_token=REDACTED&xsec_source=pc_notice
+- link "栈外LINK":
+  - /url: /user/profile/692fcf7f00000000370066b6?channelType=web_engagement_notification_page&channelTabId=mentions&xsec_token=REDACTED&xsec_source=pc_notice
+- generic: 作者
+- generic: 回复了你的评论5天前
+- generic: 最近宁波有一个AI气候大赛还没截止
+- generic: 已经截止报名了吗
+- generic: 回复
+- link:
+  - /url: /user/profile/692fcf7f00000000370066b6?channelType=web_engagement_notification_page&channelTabId=mentions&xsec_token=REDACTED&xsec_source=pc_notice
+- link "栈外LINK":
+  - /url: /user/profile/692fcf7f00000000370066b6?channelType=web_engagement_notification_page&channelTabId=mentions&xsec_token=REDACTED&xsec_source=pc_notice
+- generic: 作者
+- generic: 回复了你的评论6天前
+- generic: 原评论已删除
+- link:
+  - /url: /user/profile/692fcf7f00000000370066b6?channelType=web_engagement_notification_page&channelTabId=mentions&xsec

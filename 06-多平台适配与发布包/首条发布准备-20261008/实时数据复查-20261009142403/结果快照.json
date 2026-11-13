@@ -1,0 +1,118 @@
+{
+  "start": "2026-10-09 14:24:03",
+  "platforms": [
+    {
+      "platform": "国内抖音",
+      "checked_at": "2026-10-09 14:26:02",
+      "source_url": "https://creator.douyin.com/creator-micro/content/manage?enter_from=publish",
+      "views": 635,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 2,
+      "new_followers": 0,
+      "completion_rate": "0.65%",
+      "two_second_exit_rate": "49.14%",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/国内抖音.jpg"
+    },
+    {
+      "platform": "小红书",
+      "checked_at": "2026-10-09 14:26:02",
+      "source_url": "https://creator.xiaohongshu.com/new/note-manager",
+      "views": 77,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/小红书.jpg"
+    },
+    {
+      "platform": "TikTok",
+      "checked_at": "2026-10-09 14:26:03",
+      "source_url": "https://www.tiktok.com/tiktokstudio",
+      "views": 119,
+      "likes": 1,
+      "comments": 0,
+      "scope": "最近发布单条卡，非账号过去7天总览",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/TikTok.jpg"
+    },
+    {
+      "platform": "YouTube",
+      "checked_at": "2026-10-09 14:26:40",
+      "source_url": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos/short?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D",
+      "views": 1,
+      "comments": 0,
+      "likes": null,
+      "comments_disabled": true,
+      "notifications_disabled": true,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/YouTube.jpg"
+    },
+    {
+      "platform": "B站",
+      "checked_at": "2026-10-09 14:27:19",
+      "source_url": "https://www.bilibili.com/video/BV1mgH96DEyt/?vd_source=8d2265a9a983c3fda794a605099169b7",
+      "views": 11,
+      "danmaku": 0,
+      "likes": null,
+      "comments": null,
+      "scope": "BV1mgH96DEyt；低样本播放可能受检查访问影响",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/B站.jpg"
+    },
+    {
+      "platform": "X",
+      "checked_at": "2026-10-09 14:27:20",
+      "source_url": "https://x.com/cczij1112/status/2108190823007539236",
+      "post_views": 18,
+      "likes": 0,
+      "comments": 0,
+      "reposts": 0,
+      "saves": 0,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/X.jpg"
+    },
+    {
+      "platform": "LinkedIn",
+      "checked_at": "2026-10-09 14:28:37",
+      "source_url": "https://www.linkedin.com/analytics/post-summary/urn:li:activity:7513959413427179522/",
+      "impressions": 16,
+      "reached": 10,
+      "likes": 0,
+      "comments": 0,
+      "reposts": 0,
+      "saves": 0,
+      "new_followers": 1,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/LinkedIn.jpg"
+    },
+    {
+      "platform": "微博",
+      "checked_at": "2026-10-09 14:28:38",
+      "source_url": "https://weibo.com/7720929036/RlL0WwIyR",
+      "reads": 108,
+      "views": 10,
+      "likes": 0,
+      "comments": 0,
+      "reposts": 0,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/实时数据复查-20261009142403/证据/微博.jpg"
+    },
+    {
+      "platform": "微信视频号",
+      "fresh": false,
+      "views": null,
+      "likes": null,
+      "comments": null,
+      "last_known": {
+        "views": 214,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1,
+        "source": "此前用户提供截图，非本次实时数据",
+        "capture_time": "UNKNOWN"
+      },
+      "blocker": "明确site-safety拒绝；本轮未绕过或访问微信网页"
+    }
+  ],
+  "end": "2026-10-09 14:28:38",
+  "paused": [
+    "Instagram",
+    "Facebook"
+  ]
+}

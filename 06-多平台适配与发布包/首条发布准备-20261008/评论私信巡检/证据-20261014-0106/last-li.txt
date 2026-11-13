@@ -1,0 +1,221 @@
+- region "Toast message":
+  - heading "0 notifications total" [level=2]
+  - alert
+- button "Skip to search":
+  - generic: Skip to search
+- button "Skip to main content":
+  - generic: Skip to main content
+- button "Keyboard shortcuts":
+  - generic: Keyboard shortcuts
+- button "Close jump menu":
+  - generic: Close jump menu
+- banner "Global Navigation":
+  - link "LinkedIn":
+
+    - img "LinkedIn":
+  - combobox "Search"
+  - navigation "Primary Navigation":
+    - list:
+      - link "new feed updates notifications Home":
+
+        - generic: new feed updates notifications
+        - generic "Home"
+      - link "2 new network updates notifications Network":
+
+        - generic: "2"
+        - generic: 2 new network updates notifications
+        - generic "Network"
+      - link "Jobs":
+
+        - generic "Jobs"
+      - link "Messaging":
+
+        - generic "Messaging"
+      - link "Notifications":
+
+        - generic "Notifications"
+      - button "ELi Chao Me":
+        - img "ELi Chao"
+        - text: Me
+      - button "For Business":
+        - generic "For Business":
+          - text: For Business
+      - link "Try Premium for ¥0":
+
+        - generic: Try Premium for ¥0
+- complementary:
+  - status "Loading content"
+  - heading "Manage your notifications" [level=1]
+  - link "View settings":
+
+- main:
+  - radiogroup:
+    - radio "All" [checked]
+    - radio "Jobs"
+    - radio "My posts"
+    - radio "Mentions"
+  - article "Unread notification.":
+    - figure:
+    - link "Unread notification. Your post has reached 48 impressions so far. View more analytics.":
+
+      - paragraph: Unread notification.
+      - text: Your post has reached
+      - strong: 48 impressions
+      - text: so far. View more analytics.
+    - link:
+      - generic: "把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE"
+    - paragraph: 4h
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - 'link "Unread notification. 🧠 Play Zip! Join 2,775,446 in the Computer Software industry with a win today. Avg score: 0:39. Challenge accepted?"':
+
+      - paragraph: Unread notification.
+      - text: 🧠 Play Zip! Join 2,775,446 in the
+      - strong: Computer Software
+      - text: "industry with a win today. Avg score: 0:39. Challenge accepted?"
+    - link "Your turn":
+      - generic: Your turn
+      - generic: Your turn
+    - paragraph: 11h
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "View Rocky Esguerra's profile":
+
+      - img "Rocky Esguerra"
+    - link "Unread notification. Clear the mental clutter in your mind by asking these 3 questions.":
+
+      - paragraph: Unread notification.
+      - generic: Clear the mental clutter in your mind by asking these 3 questions.
+      - generic: Clear the mental clutter in your mind by asking these 3 questions.
+    - paragraph: 14h
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "Unread notification. Your posts got 108 impressions last week. View your analytics.":
+
+      - paragraph: Unread notification.
+      - text: Your posts got
+      - strong: 108 impressions
+      - text: last week. View your analytics.
+      - generic: Your posts got 108 impressions last week. View your analytics.
+    - paragraph: 14h
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "View Anuj J.’s profile.":
+
+      - img "Anuj J."
+      - generic: Status is online
+    - link:
+
+      - paragraph: Unread notification.
+      - strong: "Suggested for you:"
+      - text: "I've been handing my files to AI tools that train on them. That's the trade I've been making without really thinking about it. Upload a document, get help with it, and somewhere in a terms of service, my content becomes training data. Rool is the first one I've seen that says no to that. Rool launches today. It's a full machine in the cloud — hosted in the EU — where your files, your ideas, and your AI live together in one private workspace. Here's what that actually looks like: → A real machine, not just a chat window Behind every conversation is a full machine. It holds your files, runs software, and keeps the work and memory between tasks. Start with a chat, then build from there. → Your files, software, and memory in one place Write a document. Work with your files. Run software. Your machine keeps the results and the context, ready for the next task. → Models self-hosted in the EU Rool runs the AI models on infrastructure they manage in the EU — so your workspace and the AI infrastructure sit closer together. → Your tools, connected Built-in connectors and custom MCP servers. Bring the services you already use into your Rool workspace. → The privacy stance is the actual product No ads. No data sales. Your files and conversations are never used to train AI models. Your data is stored in Finland, under EU law. Your machine is private to you and the people you invite. → Free forever, not a trial 240 AI credits per day. 2 machines. 1 GB storage each. No card, no trial clock. Balance refills hourly. Plus is €9/mo, Pro is €25/mo if you need more room. One thing I noticed on their site: no cookies, no consent banner. For a company selling privacy, that's a small detail that tells you they mean it. → https://rool.ai 🚀 Rool is live on Product Hunt: https://lnkd.in/giWehsAk We've spent two years asking what AI can do. Less time asking who it's doing it for."
+    - paragraph: 16h
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "Unread notification. Your post has reached 54 impressions so far. View more analytics.":
+
+      - paragraph: Unread notification.
+      - text: Your post has reached
+      - strong: 54 impressions
+      - text: so far. View more analytics.
+    - link:
+      - generic: "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学 #薄肌理论"
+    - generic: 1 comment
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "View Mark Johnson's profile":
+
+      - img "Mark Johnson"
+    - link "Unread notification. There's a smart way to use AI for your next interview. Try this prompt.":
+
+      - paragraph: Unread notification.
+      - generic: There's a smart way to use AI for your next interview. Try this prompt.
+      - generic: There's a smart way to use AI for your next interview. Try this prompt.
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "View Axel Algoet’s profile.":
+
+      - img "Axel Algoet"
+    - 'link "Unread notification. Suggested for you: In 2021, 5M yen was around 38,000 euros. Today it''s around 27,000. Salaries in Japan went up a little, prices went up faster, and the yen is at a massive discount. So the price we pay to be here keeps going up. Going back home is extremely expensive, and our savings are worth less and less back home (if you''re from a western country at least). The full video: https://lnkd.in/gdqABggT"':
+
+      - paragraph: Unread notification.
+      - strong: "Suggested for you:"
+      - text: "In 2021, 5M yen was around 38,000 euros. Today it's around 27,000. Salaries in Japan went up a little, prices went up faster, and the yen is at a massive discount. So the price we pay to be here keeps going up. Going back home is extremely expensive, and our savings are worth less and less back home (if you're from a western country at least). The full video: https://lnkd.in/gdqABggT"
+    - paragraph: 1d
+    - button "Settings menu":
+  - article "Unread notification.":
+    - figure:
+    - link "Unread notification. Here's why some strong candidates don't get the job.":
+
+      - paragraph: Unread notification.
+      - generic: Here's why some strong candidates don't get the job.
+      - generic: Here's why some strong candidates don't get the job.
+    - paragraph: 2d
+    - button "Settings menu":
+  - article "Notification":
+    - link "masao miki":
+
+      - img "masao miki"
+    - link "You may know masao miki. Add to your network. AIに仕事を丸ごと任せる実験を記録中｜ADZUKI Trading 代表｜航空業界26年｜経営者・事業オーナー":
+
+      - text: You may know
+      - strong: masao miki
+      - text: . Add to your network.
+      - generic: AIに仕事を丸ごと任せる実験を記録中｜ADZUKI Trading 代表｜航空業界26年｜経営者・事業オーナー
+    - paragraph: 2d
+    - button "Settings menu":
+  - button "Show more results":
+    - generic: Show more results
+- complementary:
+  - iframe:
+    - link "Advertise on LinkedIn":
+
+      - img "Advertise on LinkedIn"
+  - generic "LinkedIn Footer Content":
+    - list:
+      - link "About":
+
+        - generic: About
+      - link "Accessibility":
+
+        - generic: Accessibility
+      - link "Help Center":
+
+        - generic: Help Center
+      - button "Privacy & Terms":
+        - text: Privacy & Terms
+      - link "Ad Choices":
+
+        - generic: Ad Choices
+      - link "Advertising":
+
+        - generic: Advertising
+      - button "Business Services":
+        - text: Business Services
+      - button "Get the LinkedIn app"
+      - button "More options": More
+    - img "LinkedIn":
+    - text: LinkedIn Corporation © 2026
+- complementary:
+  - img "ELi Chao"
+  - generic: Status is online
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: Messaging
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+  - button "Open messenger dropdown menu":
+    - img "Open messenger dropdown menu"
+  - button "Compose message":
+    - generic: Compose message
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+- complementary "AI-powered assistant to get help with your career, jobs etc"
+- region

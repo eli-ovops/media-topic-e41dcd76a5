@@ -1,0 +1,108 @@
+- region "Notifications alt+T"
+- link "前往 TikTok【推荐】页":
+
+  - strong: TikTok
+- button "收起侧边栏":
+- searchbox "搜索":
+  - generic: 搜索
+- heading "推荐" [level=2]:
+  - link "推荐":
+
+    - listitem "推荐":
+      - generic: 推荐
+- heading "探索" [level=2]:
+  - link "探索":
+
+    - listitem "探索":
+      - generic: 探索
+- heading "已关注" [level=2]:
+  - link "已关注":
+
+    - listitem "已关注":
+      - generic: 已关注
+- heading "好友" [level=2]:
+  - link "好友":
+
+    - listitem "好友":
+      - generic: 好友
+- heading "短剧" [level=2]:
+  - link "短剧":
+
+    - listitem "短剧":
+      - generic: 短剧
+- heading "直播" [level=2]:
+  - link "直播":
+
+    - listitem "直播":
+      - generic: 直播
+- listitem "消息":
+  - generic: 消息
+- listitem "活动":
+  - superscript:
+    - paragraph: "1"
+  - generic: 活动
+- link "上传":
+
+  - listitem "上传":
+    - generic: 上传
+- heading "主页" [level=2]:
+  - link "主页":
+
+    - listitem "主页":
+      - generic: 主页
+- listitem "更多":
+  - generic: 更多
+- paragraph: 关注账号
+- list:
+  - link "Avatar for mysticcel el ✩ mysticcel":
+
+    - button "Avatar for mysticcel el ✩ mysticcel":
+      - img "Avatar for mysticcel"
+      - link "el ✩ mysticcel":
+
+        - paragraph:
+          - paragraph: el ✩
+        - paragraph: mysticcel
+  - link "Avatar for rebeckaslowliving rebeckaslowliving rebeckaslowliving":
+
+    - button "Avatar for rebeckaslowliving rebeckaslowliving rebeckaslowliving":
+      - img "Avatar for rebeckaslowliving"
+      - link "rebeckaslowliving rebeckaslowliving":
+
+        - paragraph:
+          - paragraph: rebeckaslowliving
+        - paragraph: rebeckaslowliving
+  - link "Avatar for mia6827z Mia mia6827z":
+
+    - button "Avatar for mia6827z Mia mia6827z":
+      - img "Avatar for mia6827z"
+      - link "Mia mia6827z":
+
+        - paragraph:
+          - paragraph: Mia
+        - paragraph: mia6827z
+  - link "Avatar for yaqoob_developer Yaqoob Developer yaqoob_developer":
+
+    - button "Avatar for yaqoob_developer Yaqoob Developer yaqoob_developer":
+      - img "Avatar for yaqoob_developer"
+      - link "Yaqoob Developer yaqoob_developer":
+
+        - paragraph:
+          - paragraph: Yaqoob Developer
+        - paragraph: yaqoob_developer
+  - link "Avatar for kennethhubbard7721 时光知味 kennethhubbard7721":
+
+    - button "Avatar for kennethhubbard7721 时光知味 kennethhubbard7721":
+      - img "Avatar for kennethhubbard7721"
+      - link "时光知味 kennethhubbard7721":
+
+        - paragraph:
+          - paragraph: 时光知味
+        - paragraph: kennethhubbard7721
+- button "查看全部":
+  - generic: 查看全部
+- heading [level=3]
+- heading [level=3]
+- heading [level=3]
+- generic: © 2026 TikTok
+- article

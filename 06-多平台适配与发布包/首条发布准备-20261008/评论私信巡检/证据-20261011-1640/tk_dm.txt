@@ -1,0 +1,152 @@
+- region "Notifications alt+T"
+- link "前往 TikTok【推荐】页":
+  - /url: /
+  - strong: TikTok
+- searchbox "搜索":
+- heading "推荐" [level=2]:
+  - link "推荐":
+    - /url: /
+    - listitem "推荐":
+      - generic: 推荐
+- heading "探索" [level=2]:
+  - link "探索":
+    - /url: /explore
+    - listitem "探索":
+      - generic: 探索
+- heading "已关注" [level=2]:
+  - link "已关注":
+    - /url: /following
+    - listitem "已关注":
+      - img "Avatar for dailyflutterui"
+      - generic: 已关注
+- heading "好友" [level=2]:
+  - link "好友":
+    - /url: /friends
+    - listitem "好友":
+      - generic: 好友
+- heading "短剧" [level=2]:
+  - link "短剧":
+    - /url: /shortdrama
+    - listitem "短剧":
+      - generic: 短剧
+- heading "直播" [level=2]:
+  - link "直播":
+    - /url: /live
+    - listitem "直播":
+      - generic: 直播
+- listitem "消息" [active]:
+  - generic: 消息
+- listitem "活动":
+  - superscript:
+    - paragraph: "2"
+  - generic: 活动
+- link "上传":
+  - /url: /tiktokstudio/upload?from=webapp&tab=video
+  - listitem "上传":
+    - generic: 上传
+- heading "主页" [level=2]:
+  - link "主页":
+    - /url: /@elimakesapps
+    - listitem "主页":
+      - generic: 主页
+- listitem "更多":
+  - generic: 更多
+- button:
+- heading "消息" [level=2]
+- button:
+- button:
+- paragraph:
+  - generic: liviaamari5
+- paragraph:
+  - paragraph: 消息请求已被接受。你们可以开始聊天了。
+  - generic: 2026/10/9
+- paragraph:
+  - generic: 粥
+- paragraph:
+  - paragraph: 消息请求已被接受。你们可以开始聊天了。
+  - generic: 2026/10/9
+- paragraph:
+  - generic: 时光知味
+- paragraph:
+  - paragraph: 你发送了贴纸
+  - generic: 2026/9/11
+- paragraph:
+  - generic: Mia
+- paragraph:
+  - paragraph: 您好！非常感谢您接受我的好友请求。很高兴能在这里见到您。
+  - generic: 2026/9/5
+- paragraph:
+  - generic: 澳洲•奥迪事业部Audi
+- paragraph:
+  - paragraph: 加了
+  - generic: 2026/9/4
+- button "dm_more":
+  - button "dm_more":
+- heading [level=2]
+- button:
+- button:
+- main:
+  - article:
+    - region "全屏观看":
+      - img "Received his handmade one-of-a-kind cake"
+      - button "音量":
+      - button:
+      - link "Deserai Waskow":
+        - /url: /@111111111111qfhhfv
+        - paragraph: Deserai Waskow
+      - generic: Received his handmade one-of-a-kind cake
+      - paragraph: 查看翻译
+      - paragraph: 00:05 / 00:11
+      - slider "视频进度条"
+    - link "111111111111qfhhfv":
+      - /url: /@111111111111qfhhfv
+      - img "111111111111qfhhfv"
+    - button:
+    - button "点赞视频 14.3M 个赞":
+      - button:
+      - strong: 14.3M
+    - button "阅读或添加评论 15.9K 条评论":
+      - button:
+      - strong: 15.9K
+    - button "添加到收藏。1.2M 人收藏":
+      - button:
+      - strong: 1.2M
+    - button "分享视频 1.1M 次分享":
+      - button:
+      - strong: 1.1M
+    - link "Watch more videos with music 原聲 - Deserai Waskow":
+      - /url: /music/原聲-Deserai-Waskow-7685976193170033421
+  - article:
+    - region "全屏观看":
+      - button "音量":
+      - button:
+      - link "￴￴￴￴￴￴￴":
+        - /url: /@somewhere.505
+        - paragraph: ￴￴￴￴￴￴￴
+      - paragraph: 00:00 / 00:00
+      - slider "视频进度条"
+    - link "somewhere.505":
+      - /url: /@somewhere.505
+      - img "somewhere.505"
+    - button:
+    - button "点赞视频 414K 个赞":
+      - button:
+      - strong: 414K
+    - button "阅读或添加评论 2248 条评论":
+      - button:
+      - strong: "2248"
+    - button "添加到收藏。55.2K 人收藏":
+      - button:
+      - strong: 55.2K
+    - button "分享视频 152.3K 次分享":
+      - button:
+      - strong: 152.3K
+    - link "Watch more videos with music suara asli - ￴￴￴￴￴￴￴":
+      - /url: /music/suara-asli-￴￴￴￴￴￴￴-7692474336255249204
+  - article
+  - complementary:
+    - button [disabled]:
+    - button:
+  - button:
+  - button:
+  - button:

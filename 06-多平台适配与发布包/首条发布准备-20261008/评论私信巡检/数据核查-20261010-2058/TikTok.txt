@@ -1,0 +1,63 @@
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- link:
+  - /url: https://www.tiktok.com
+- region "Notifications"
+- button:
+- generic: 作品 19
+- generic: 草稿 0
+- generic: 观看次数
+- generic: 赞
+- generic: 评论
+- generic: 隐私
+- textbox:
+  - /placeholder: 搜索作品描述
+- button "内容 (创建时间)":
+  - generic: 内容 (创建时间)
+- generic: 隐私
+- button "观看次数":
+  - generic: 观看次数
+- button "赞":
+  - generic: 赞
+- button "评论":
+  - generic: 评论
+- generic: 操作
+- generic: 00:15
+- 'link "把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #Agent #FDE"':
+  - /url: /@elimakesapps/video/7695017220467952904
+- generic: 10月10日 20:36
+- button "所有人":
+  - generic: 所有人
+- generic: "1"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 04:32
+- 'link "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #薄肌"':
+  - /url: /@elimakesapps/video/7694631263205870868
+- generic: 10月9日 19:39
+- button "所有人":
+  - generic: 所有人
+- generic: "80"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 00:59
+- 'link "GitHub这份《高性价比人生指南》，建议先存 租房、换工作、学技能，不知道先查什么？ GitHub上的《高性价比人生指南》，把这些问题整理成了可以按需翻阅的章节。 先存目录，需要时再查。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #自我提升 #AI工具"':
+  - /url: /@elimakesapps/video/7694304622604717330
+- generic: 10月8日 22:35
+- button "所有人":
+  - generic: 所有人
+- generic: "138"
+- generic: "2"
+- generic: "0"
+- button:

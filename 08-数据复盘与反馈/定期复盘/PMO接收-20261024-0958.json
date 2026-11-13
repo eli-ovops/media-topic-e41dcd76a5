@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-24T09:57:33.412529+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_received": true,
+  "decision": "LIMITED_REPORT_CONSISTENCY_ACCEPTED",
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261024-0958.md",
+      "sha256": "f1429096b40bcb91f1df46aa6550e03cadd72554f07eb637a1a157a8fdb2e78d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261024-0958.json",
+      "sha256": "f0f96a09d3fd0e81c4552571a0e8a0abe7bb470e6a5d85a9707a9ab5b6b43b5e"
+    }
+  ],
+  "checked_scope": "已读报告原件及本轮平台基线字段；六站合计457与报告内部求和一致，作品ID、时间和未核项明确。只核报告一致性，未重采原生页面。",
+  "limits": [
+    "平台累计不等于精确四小时事件增量；不将跨平台合计当独立观众数",
+    "YouTube的0仅指全部已发布评论；待审、点赞和收藏仍未核",
+    "X展示32、视频浏览13、独立观看8分开",
+    "首次核出旧请求昵称不当新增，不接受或回复",
+    "旧观众反馈继续去重，不作小样本动效归因"
+  ],
+  "new_action_required": false,
+  "publication_state_changed": false,
+  "no_new_dispatch_or_browser_checks": true
+}

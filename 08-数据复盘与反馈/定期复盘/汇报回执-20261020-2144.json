@@ -1,0 +1,15 @@
+{
+  "automation_id":"9",
+  "report":"复盘-20261020-2144.md",
+  "snapshot":"数据基线-20261020-2144.json",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool":"mcp__codex_app__send_message_to_thread",
+  "tool_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "send_status":"TOOL_ACCEPTED",
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "verification":"JSON解析、新片5站117与旧片6行同三站合计通过",
+  "snapshot_sha256":"ac1914ddfad6bee250ba225fb6508fa0e3f5787a35d5942dfaced335cf88e8e6",
+  "report_sha256":"00107cfe87397afc343aa082d228c2c3151e0c4cf1b607882d1f09684e4f1cdc",
+  "note":"未查询或轮询PMO是否收到，未更改共享业务状态。"
+}

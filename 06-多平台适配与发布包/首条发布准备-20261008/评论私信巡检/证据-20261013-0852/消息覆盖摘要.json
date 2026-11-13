@@ -1,0 +1,84 @@
+{
+  "coverage": {
+    "小红书": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Three project metrics and old recent DM read; main likes4(+1), unique author first comment1; guide0comments restored baseline"
+    },
+    "B站": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "国内抖音": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Current new25296649142 project244/781/658 and image1862 restored, baseline relative missing04:57; recent DM old baseline"
+    },
+    "YouTube": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "All3project view54/36/4 read, main restored baseline; community un-replied/held explicit empty"
+    },
+    "LinkedIn": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Messaging initial error recovered once reload; Focused old welcome only, Other panel empty without explicit confirmation; all3postanalytics read"
+    },
+    "X": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "All3posts current45/91/32 read; native Chat did not load after one reload; notificationerror after one reload; requests not covered"
+    },
+    "微博": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "TikTok": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Studio blank recovered once reload counts94/83/138; native home after one reload missing sidebar/messages controls, DM not covered"
+    },
+    "微信视频号": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "reason": "existing explicit site-safety rejection, not visited",
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN"
+    }
+  },
+  "notes": [
+    "Native UI only; metric8/9 partial, play coverage5/9 intro/guide6/9 main; no external writes/safety bypass. WX B002 unvisited.",
+    "Current video lowerbound2348: intro482/main1030/guide836. Restored DY244/781/658 and YTmain36 baseline vs04:57UNKNOWN, not +1719growth; comparable video delta0, complete interval deltaUNKNOWN.",
+    "Like10/comment4 unchanged comparable; own XHS firstcomment1 retained separate, replies/pendingtotalsUNKNOWN.",
+    "LI39/46/57 total142(+5), WB12/27/161 total200(+3). X45/91/32 total168 restored oldworks baseline, aggregate incrementUNKNOWN. DYimage1862 restored baseline incrementUNKNOWN.",
+    "Actual recent DM lists5/9 XHS Bili DY WB LI; no new project inbound in observed lists. Other requests/fullpendingUNKNOWN.",
+    "LI initialMessaging error recovered after one normal reload, old welcome unchanged; Other blank no explicit empty. TK home once reload still no native sidebar/messages controls, un-read notzero.",
+    "X Chat did not load after normal reload and notifications error; no permissions/extensions changes or alternate paths.",
+    "YT un-replied/held explicit no comments; XHS all3comments0/author-first1/0; DY handledFridaytwo requestsold; no new confirmed reply-needed item."
+  ]
+}

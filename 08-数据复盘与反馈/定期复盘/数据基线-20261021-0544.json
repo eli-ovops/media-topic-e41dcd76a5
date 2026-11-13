@@ -1,0 +1,53 @@
+{
+  "automation_id":"9",
+  "observed_window":"2026-10-21 05:41—05:44 Asia/Shanghai",
+  "latest_content_id":"ai-funnel-vibe-20261020",
+  "latest_title":"AI认知漏斗，你在第几层？",
+  "previous_snapshot":"数据基线-20261021-0138.json",
+  "method":"读取当前AGENTS/主Skill/登记/状态/最新06发布收口；无本窗口06新数据，IAB同登录单页串行原生AX/DOM有限只读，不轮询会话",
+  "release_evidence":"/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-本期发布收口索引.json",
+  "release_scope":"用户确认8站完成，YouTube本期明确排除；视频号仍安全拒绝，不访问，不以本人确认代替数据读取",
+  "rules":{"workflow":"CODEX-MEDIA-20261020-v1","routing":"ROUTING-2026-10-13-v4","permission":"PERMISSIONS-2026-10-14-v1","actual_model":"UNKNOWN","actual_effort":"UNKNOWN","actual_speed":"UNKNOWN"},
+  "latest_platforms":[
+    {"platform":"国内抖音","account":"Eli-Ai，本人作者/头像链接同既有账号","video_views":333,"likes":5,"saves":0,"comments":0,"shares":0,"completion_rate_percent":1.06,"two_second_exit_rate_percent":60.57,"attributed_followers":0,"url":"UNKNOWN","source":"https://creator.douyin.com/creator-micro/content/manage","evidence":"作品8/02:30/AI认知漏斗/2026-10-20 20:04已发布，播放333/赞5/评0/分享0/藏0"},
+    {"platform":"小红书","account":"Eli AI FDE","video_views":37,"likes":0,"saves":0,"comments":0,"shares":0,"url":"UNKNOWN","source":"https://creator.xiaohongshu.com/new/note-manager","evidence":"全部19，02:30/同题/21:17，五指标37/0/0/0/0，图标顺序沿同UI已核截图"},
+    {"platform":"B站","account":"Eli-AI/432834855，本人space入口一致","video_views":46,"likes":"UNKNOWN","saves":"UNKNOWN","comments":"UNKNOWN","danmaku":0,"url":"https://www.bilibili.com/video/BV1WBnA6iEvn/","evidence":"同题/21:22:34，viewbox46/0，赞藏仅文字无数字，弹幕不当评论"},
+    {"platform":"TikTok","account":"@elimakesapps，准确作品URL匹配","video_views":94,"likes":0,"saves":"UNKNOWN","comments":0,"url":"https://www.tiktok.com/@elimakesapps/video/7698739733651934465","source":"https://www.tiktok.com/tiktokstudio/content","evidence":"作品23/草稿1，02:30/10月20日21:22/所有人，观看94/赞0/评论0；后台口径，匿名公开未验"},
+    {"platform":"LinkedIn","account":"ELi Chao /eli-chao-548a7a43b，本人分析页","video_views":3,"likes":0,"saves":0,"comments":0,"reposts":0,"post_impressions":6,"attributed_followers":0,"watch_time":"1m48s","average_watch_time":"36s","url":"https://www.linkedin.com/feed/update/urn:li:ugcPost:7518295729858203648/","source":"https://www.linkedin.com/analytics/post-summary/urn:li:activity:7518300826117824513/","evidence":"Video views3/Impressions6，reactions0/comments0/reposts0/saves0，实际同题分析页"},
+    {"platform":"微博","account":"Eli-AI/7720929036","video_views":1,"likes":"UNKNOWN","saves":"UNKNOWN","comments":0,"post_reads":15,"url":"https://weibo.com/7720929036/RnAbkj0oT","video_id":"1034:5356191153586206","evidence":"公开正文同题02:30，1次观看/15阅读；明确还没有人评论哦；赞无数字，合并0,0,0不推拆"},
+    {"platform":"X","account":"Eli-AI/@cczij1112","video_views":"UNKNOWN","likes":0,"saves":0,"comments":0,"post_views":33,"url":"https://x.com/cczij1112/status/2112535172579307890","evidence":"同题/21:23/150秒，33查看为帖子查看，0回复/0喜欢/0书签"},
+    {"platform":"微信视频号","account":"UNKNOWN_NOT_ACCESSED","state":"USER_CONFIRMED_PUBLISHED_DATA_UNCOVERED","video_views":"UNKNOWN","likes":"UNKNOWN","saves":"UNKNOWN","comments":"UNKNOWN","reason":"既有B002明确site-safety拒绝，未重试或换通道"},
+    {"platform":"YouTube","account":"历史@EliChao-m9o6r，本轮未重核","state":"USER_EXCLUDED_THIS_ISSUE","video_views":"UNKNOWN","likes":"UNKNOWN","saves":"UNKNOWN","comments":"UNKNOWN","reason":"本期用户取消，未发布不填0，无待发布任务"}
+  ],
+  "latest_video_views_partial_sum":514,
+  "latest_video_views_numeric_coverage":6,
+  "internal_comparison":{"same_six_delta":67,"previous_same_six_sum":447,"current_same_six_sum":514,"period":"相对01:35—01:38，非4小时整窗，不向用户展示增长"},
+  "other_platform_metrics":[
+    {"content_id":"ai-contrarian-20261019","国内抖音":{"views":1078,"likes":25,"comments_backend":4,"saves":10,"shares":4},"小红书":{"views":70,"likes":1,"comments":0,"saves":1,"shares":1},"TikTok":{"views":0,"likes":0,"comments_backend":0},"same_three_platform_sum":1148,"internal_same_three_delta":29,"comment_note":"含本人首评/回复，当前未重读全部留言；既有抖音后台4/公开5和TikTok后台0/公开本人留言差异保留"},
+    {"content_id":"doubao-app-rejection-20261016","国内抖音":{"views":8118,"likes":51,"comments":50,"saves":6,"shares":4},"小红书":{"views":0,"likes":0,"comments":0,"saves":0,"shares":0},"TikTok":{"views":0,"likes":0,"comments":0},"same_three_platform_sum":8118,"internal_same_three_delta":11},
+    {"content_id":"qianwen-go-case-20261013","国内抖音":{"views":503,"likes":8,"comments":1,"saves":1,"shares":0},"小红书":{"views":6,"likes":0,"comments":0,"saves":0,"shares":0},"TikTok":{"views":0,"likes":0,"comments":0},"same_three_platform_sum":509,"internal_same_three_delta":0},
+    {"content_id":"eli-brand-intro-20261010","国内抖音":{"views":249,"likes":3,"comments":1,"saves":0,"shares":0},"小红书":{"views":85,"likes":1,"comments":0,"saves":0,"shares":1},"TikTok":{"views":94,"likes":2,"comments":0},"same_three_platform_sum":428,"internal_same_three_delta":0},
+    {"content_id":"sun-shao-interview-20261009","国内抖音":{"views":788,"likes":24,"comments":1,"saves":9,"shares":6},"小红书":{"views":376,"likes":4,"comments":1,"saves":1,"shares":2},"TikTok":{"views":94,"likes":0,"comments":0},"same_three_platform_sum":1258,"internal_same_three_delta":0},
+    {"content_id":"first-video-life-guide-visual-fix-v7","国内抖音":{"views":664,"likes":10,"comments":1,"saves":2,"shares":0},"小红书":{"views":116,"likes":1,"comments":0,"saves":0,"shares":0},"TikTok":{"views":254,"likes":2,"comments":3},"same_three_platform_sum":1034,"internal_same_three_delta":1}
+  ],
+  "other_sources":["https://creator.douyin.com/creator-micro/content/manage","https://creator.xiaohongshu.com/new/note-manager","https://www.tiktok.com/tiktokstudio/content"],
+  "other_three_platform_sum":12495,
+  "separate_post_browse":{"抖音访谈图文预告":1867},
+  "dm_checks":[
+    {"platform":"抖音","source":"https://www.douyin.com/video/7698553920687295795 消息/陌生人消息","sender":"卡西酱","request":"您好可以来一份高性价比指南吗？","relative_time":"39—40分钟前，约05:42读取，不转写精确发送时刻","finding":"先在陌生人消息入口预览，进入列表及该会话后同文仅1条，未见本人回复；只读，未接受请求/发送资料","status":"PENDING_USER_REPLY_OR_HANDLED_CONFIRMATION","first_observed":"2026-10-21 05:42 Asia/Shanghai","is_new_in_window":"UNKNOWN_FIRST_DISCOVERY_NOT_PROVEN_NEW","sender_unique_id":"UNKNOWN_UI_NOT_EXPOSED","dedup_key":"douyin:卡西酱:20261021:高性价比指南","other_list":"最近普通列表仍周日/周六旧聊"},
+    {"platform":"B站","source":"https://message.bilibili.com/#/whisper","finding":"顶部审核通过/登录系统通知，与上轮一致；余为旧游戏等列表，缺日期方向，完整性未核"},
+    {"platform":"TikTok","source":"https://www.tiktok.com/business-suite/messages","finding":"Marsexpress最后仍10月20日请求已接受，其余10/9及更早，无可见请求按钮或新业务预览","dedup_key":"tiktok:marsexpress333:20261020:求资料","resolution":"用户已明确私信回复，已处理不重复催办"},
+    {"platform":"LinkedIn","source":"https://www.linkedin.com/messaging/","finding":"Focused仅10月5日官方欢迎，Other明确No messages yet，未扩扫Spam/Archive"},
+    {"platform":"微博","source":"https://api.weibo.com/chat#/chat","finding":"网页原生聊天UI非私有API请求；最新昨天系统/活动/服务/新闻通知，无当日业务来信"},
+    {"platform":"X","source":"https://x.com/i/chat/requests","finding":"普通列表最新18周前本人外发，请求页仅私信请求/其它，无条目但无明确空态，完整性未核"},
+    {"platform":"小红书","finding":"已知电脑设备登录超限未解，按要求不重试，私信未覆盖"},
+    {"platform":"微信视频号","finding":"安全拒绝，未访问，私信未覆盖"},
+    {"platform":"YouTube","finding":"私信未覆盖，本期视频排除"}
+  ],
+  "business_signals":"本轮首次发现抖音卡西酱求高性价比指南，网页未见回复，待本人处理/确认已处理；不冒称刚新增。其余近期可读列表无可确认的新业务待办",
+  "followers":"全平台新增关注UNKNOWN；抖音/LinkedIn本片归因吸粉0不替代账号关注全量核对",
+  "recommendations":["优先由用户处理或确认已处理卡西酱求资料，08不代回复或传文件","下条可用具体任务结果直接开场测试；抖音2秒跳出60.57%，333播放，不能由小样本归因动画或断言趋势"],
+  "boundaries":"无评论私信发送/请求接受/发布改帖/删除资产/安装/付费/权限变更，未改共享状态/登记/自动化，未唤醒Owner或轮询，Instagram/Facebook排除",
+  "temporary_files":"无一次性临时文件；报告/基线/工具回执为保留证据，临时IAB标签结束关闭",
+  "status":"08有限只读复盘完成，待PMO审原件"
+}

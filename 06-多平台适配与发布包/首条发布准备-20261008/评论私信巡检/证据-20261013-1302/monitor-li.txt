@@ -1,0 +1,194 @@
+- heading "0 notifications" [level=2]
+- generic "Skip navigation menu":
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Skip to sidebar":
+    - generic: Skip to sidebar
+  - button "Skip to primary content":
+    - generic: Skip to primary content
+  - button "Skip to aside":
+    - generic: Skip to aside
+  - button "Close jump menu":
+- banner:
+  - button "LinkedIn":
+    - img "LinkedIn"
+  - status
+  - search:
+    - textbox "Search"
+  - figure
+  - navigation:
+    - list:
+      - button "Home, 1 new notification":
+        - generic: Home
+      - link "Network, 2 new notifications":
+
+        - generic: "2"
+        - generic: Network
+      - link "Jobs, 0 new notifications":
+
+        - generic: Jobs
+      - link "Messaging, 0 new notifications":
+
+        - generic: Messaging
+      - link "Notifications, 2 new notifications":
+
+        - generic: "2"
+        - generic: Notifications
+      - button "Me":
+        - figure
+        - text: Me
+  - navigation:
+    - list:
+      - button "For Business":
+        - text: For Business
+  - button "Try Premium for ¥0":
+    - paragraph: Try Premium for ¥0
+- main:
+  - complementary "Sidebar":
+    - link:
+
+      - figure
+      - figure:
+        - img "ELi Chao"
+    - link "ELi Chao AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 Japan":
+
+      - paragraph: ELi Chao
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: Japan
+    - link "Experience":
+
+      - paragraph: Experience
+    - navigation:
+      - list:
+        - link "Overview":
+
+          - generic: Overview
+        - link "Content analytics":
+
+          - generic: Content analytics
+        - link "Audience analytics":
+
+          - generic: Audience analytics
+  - region "Primary content":
+    - paragraph: Post analytics
+    - link "Export":
+
+      - generic: Export
+    - heading "Feed post" [level=2]:
+      - generic: Feed post
+    - link "ELi Chao posted this • 3d":
+
+      - paragraph:
+        - strong: ELi Chao
+        - text: posted this • 3d
+    - 'link "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ View hashtag: #ai View hashtag: #人工智能 View hashtag: #孙宇晨 View hashtag: #邵艾伦 View hashtag: #孙学 View hashtag: #薄肌理论"':
+
+      - figure
+      - paragraph:
+        - text: 没人脉、没资源，普通人怎么抓住AI机会？
+        - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+        - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+        - 'link "View hashtag: #ai"':
+
+          - text: "#AI"
+        - 'link "View hashtag: #人工智能"':
+
+          - text: "#人工智能"
+        - 'link "View hashtag: #孙宇晨"':
+
+          - text: "#孙宇晨"
+        - 'link "View hashtag: #邵艾伦"':
+
+          - text: "#邵艾伦"
+        - 'link "View hashtag: #孙学"':
+
+          - text: "#孙学"
+        - 'link "View hashtag: #薄肌理论"':
+
+          - text: "#薄肌理论"
+    - paragraph: Discovery
+    - button "Learn more":
+    - paragraph: "48"
+    - paragraph: Impressions
+    - paragraph: In-network (followers and connections)
+    - paragraph: 100%
+    - paragraph: Out-of-network
+    - paragraph: 0%
+    - paragraph: "1"
+    - paragraph: Members reached
+    - paragraph: Members who post once a week can get up to 4x more profile views. Keep the momentum going by creating another post.
+    - link "Start a post":
+
+      - generic: Start a post
+    - button "Dismiss":
+    - paragraph: Video performance
+    - button "Learn more":
+    - paragraph: "5"
+    - paragraph: Video views
+    - paragraph: Watch time
+    - paragraph: 5m 14s
+    - paragraph: Average watch time
+    - paragraph: 1m 2s
+    - paragraph: Profile activity
+    - button "Learn more":
+    - paragraph: "0"
+    - paragraph: Profile viewers from this post
+    - paragraph: "0"
+    - paragraph: Followers gained from this post
+    - paragraph: Engagement
+    - button "Learn more":
+    - paragraph: "1"
+    - paragraph: Social engagements
+    - paragraph: Reactions
+    - paragraph: "0"
+    - link "Comments 1":
+
+      - paragraph: Comments
+      - paragraph: "1"
+    - paragraph: Reposts
+    - paragraph: "0"
+    - paragraph: Saves
+    - paragraph: "0"
+    - paragraph: Sends on LinkedIn
+    - paragraph: "0"
+    - paragraph: Top demographics
+    - button "Learn more":
+    - heading "Demographics not available yet" [level=2]
+    - paragraph: To protect viewer privacy, each demographics category will not display information until you have enough data for that category.
+    - link "Analytics & tools View all analytics, including Followers":
+
+      - paragraph: Analytics & tools
+      - paragraph: View all analytics, including Followers
+  - complementary "Aside":
+    - iframe:
+      - link "Advertise on LinkedIn":
+
+        - img "Advertise on LinkedIn"
+    - link "About":
+
+      - paragraph: About
+    - link "Accessibility":
+
+      - paragraph: Accessibility
+    - link "Help Center":
+
+      - paragraph: Help Center
+    - button "Privacy & Terms":
+      - paragraph: Privacy & Terms
+    - link "Ad Choices":
+
+      - paragraph: Ad Choices
+    - link "Advertising":
+
+      - paragraph: Advertising
+    - button "Business Services":
+      - paragraph: Business Services
+    - link "Get the LinkedIn app":
+
+      - paragraph: Get the LinkedIn app
+    - link "More":
+
+      - paragraph: More
+    - paragraph: LinkedIn Corporation © 2026
+- iframe:
+  - region

@@ -1,0 +1,15 @@
+{
+  "automation_id":"9",
+  "report":"复盘-20261021-0945.md",
+  "snapshot":"数据基线-20261021-0945.json",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool":"mcp__codex_app__send_message_to_thread",
+  "tool_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "send_status":"TOOL_ACCEPTED",
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "verification":"JSON、7站576与旧片同三站12618校验通过",
+  "snapshot_sha256":"dc179f959e23ef75731653c66693f97415f1ebb94de4a3723c41616374f20f5b",
+  "report_sha256":"172619221a54d12faf4894030590e2b2752b96d729b77d50700316b9a61d41f2",
+  "note":"未查PMO收取状态，不轮询。卡西酱已回复；群申请仅确认提示、处理状态未核。"
+}

@@ -1,0 +1,30 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "stage": "05",
+  "decision": "PASS_INTERNAL_REPAIR_ONLY",
+  "source": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/首条v7独立质检.json",
+  "source_sha256": "62d74510f319e0b28450193a01b4f70397aaad285ff3bf30b15d9fd6e0dee711",
+  "candidate": {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+    "sha256": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779",
+    "bytes": 81049530,
+    "duration": 59.5,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 1785,
+    "sha_verified_this_turn": true
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/首条v7独立质检.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/independent-metrics.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/首条v7问题单.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/v7-evidence/highlight-all13-contact.jpg"
+  ],
+  "pmo_actual_visual_scope": "04最终两张联系图+05全部13帧标题框区域联系图；不重跑已验解码/音轨，不冒称完整连续看听",
+  "human_review": "PENDING",
+  "stage05_full_gate_pass": false,
+  "downstream_06_released": false,
+  "publication_authorized": false
+}

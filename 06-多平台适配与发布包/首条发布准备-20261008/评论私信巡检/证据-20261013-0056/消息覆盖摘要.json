@@ -1,0 +1,83 @@
+{
+  "coverage": {
+    "小红书": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Notifications/recent DM read, intro/main metrics1like0comment and3likes1author first; profile connection error recovered once reload, guide detail incomplete so comments UNKNOWN, profile like1 read"
+    },
+    "B站": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "国内抖音": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "YouTube": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Shorts read54/4; main Videos error after one reload UNKNOWN; community unreplied/held explicitly no comments"
+    },
+    "LinkedIn": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Focused recovered after one Messaging reload old welcome only; Other empty panel without explicit empty confirmation; main analytics failed"
+    },
+    "X": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Intro45 and guide32 read; main unavailable; chat Disconnected after same-tab normal recovery, requests unverified; notifications disconnected"
+    },
+    "微博": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "TikTok": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Studio restored by reload; native messages pane blank after normal home reload, no list; comments activity old Sept14"
+    },
+    "微信视频号": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "reason": "existing explicit site-safety rejection, not visited",
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN"
+    }
+  },
+  "notes": [
+    "Native UI only; no sends/permission changes/safety bypass. Metric8/9 partial; WX B002 not accessed.",
+    "Play lowerbound2307 with comparable+2; latest482(+1),main989(+1)coverage4/9,guide836(+0). Main YT31 and LI5 from20:50 NOTcarried as current; missing36 explains lower coverage, not a decline.",
+    "YT Videos error after one normal reload; LI main repeated ERR_ABORTED stopped; known latest/guide analytics35/53, main UNKNOWN.",
+    "Bili new top community-center login notice, badge2 not user messages; no project inbound in observed list.",
+    "Recent DM lists5/9 XHS Bili DY WB LI actual read; no new project received confirmed; all pending/requestsUNKNOWN. TK message pane empty after normal reload; X Disconnected chat.",
+    "X intro45+1; guide32 restored baseline relative missing20:50, mainUNKNOWN; no complete total.",
+    "XHS profile ordinary not-connected recovered once reload; guide full detail incomplete, only profile like1 confirmed; main single author first comment unchanged.",
+    "YT community both unreplied/held explicitly no comments; TK activity onlySept14 old; WB comment inboxempty/news unchanged."
+  ]
+}

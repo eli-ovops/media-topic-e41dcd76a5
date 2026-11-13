@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-22T13:46:02.870763+08:00",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-22 13:37—13:42 Asia/Shanghai",
+  "status": "ACCEPTED_SOURCE_ATTRIBUTED_WITH_LIMITS",
+  "owner_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+  "owner_tool_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261022-1342.md",
+  "report_sha256": "defe0132c574227f74ea2fb91451a056a3c615f299ac778decea627ddae66fa0",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261022-1342.json",
+  "snapshot_sha256": "b4f6a0c0d3a500e54df44e60553235158048778137552022c84607dbc8824860",
+  "pmo_checks": [
+    "Original report and snapshot hashes match tool report",
+    "Seven cumulative video counters total977; not unique people",
+    "Same-seven prior snapshot902, delta75 not precise interval occurrence",
+    "X post impressions28 excluded from video sum",
+    "Bilibili counter update0816 retained as stale, not real-time1342",
+    "YT backend20 and public18 kept separate; table uses backend",
+    "Fred full-v2 remains unpublished and excluded from performance attribution",
+    "Unknown saves and inbox/follower coverage not replaced with0",
+    "Bilibili inbox loading is uncovered, not empty; replied requests deduplicated",
+    "Weibo system host invitation not classified as audience collaboration"
+  ],
+  "evidence_limit": "PMO reviewed08 original report/JSON and arithmetic; platform observations remain attributed to08. PMO did not recollect counters or read private conversations.",
+  "business_signal_scope": "No new confirmed unanswered business request in accessible covered lists only. Bilibili/XHS/WeChat inbox gaps retained; X request completeness UNKNOWN.",
+  "production_publication_cleanup_or_automation_changes": false
+}

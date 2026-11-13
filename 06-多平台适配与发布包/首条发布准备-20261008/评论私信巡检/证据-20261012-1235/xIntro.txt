@@ -1,0 +1,60 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "聊天":
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "主要":
+    - link "主页":
+      - /url: /home
+      - generic: 主页
+    - link "搜索和发现":
+      - /url: /explore
+      - generic: 探索
+    - link "通知":
+      - /url: /notifications
+      - generic: 通知
+    - link "私信":
+      - /url: /i/chat
+      - generic: 聊天
+    - link "呼叫":
+      - /url: /i/calls
+      - generic: 呼叫
+    - link "Grok":
+      - /url: /i/grok
+      - generic "undefined 条未读项目"
+      - generic: Grok
+    - link "历史":
+      - /url: /i/history
+      - generic: 历史
+    - link "Premium":
+      - /url: /i/premium_sign_up
+      - generic: Premium
+    - link "个人资料":
+      - /url: /cczij1112
+      - generic: 个人资料
+    - button "更多菜单项":
+      - generic: 更多
+  - link "发帖":
+    - /url: /compose/post
+    - generic: 发帖
+  - button "账号菜单":
+    - generic "Eli-AI":
+      - img "Eli-AI"
+    - generic: Eli-AI
+    - generic: "@cczij1112"
+- main:
+  - generic "主页时间线":
+    - button "返回":
+    - status:
+      - button:
+        - generic: 查看新帖子
+    - generic: 出错了。请尝试重新加载。
+    - button "重试":
+      - generic: 重试

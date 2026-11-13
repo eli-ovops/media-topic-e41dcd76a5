@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-24T01:58:49.776172+08:00",
+  "source_report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261024-0200.md",
+  "source_sha256": "0d0bbd57e84ec557c3478492362fd099c3f08da06400ae8f91fa166f280e1bf7",
+  "receipt_status": "REPORT_READ_AND_LIMITED_SCOPE_ACCEPTED",
+  "accepted_scope": "原件已读，作为新片首次覆盖基线；累计、展示、独立观看及未核字段分开。未独立复采其余站数据，不将报告自述当原生截图。",
+  "independently_verified": "TikTok本条原生所有人、01:44，本次13播放；08报告10为较早累计，不覆盖成同一时点",
+  "not_authorized_by_report": [
+    "自动回复",
+    "互关",
+    "新制作",
+    "重发",
+    "清理"
+  ],
+  "source_platform_statuses": "小红书/领英未提交，视频号未覆盖仍按发布回执未提交",
+  "all_targets_complete": false
+}

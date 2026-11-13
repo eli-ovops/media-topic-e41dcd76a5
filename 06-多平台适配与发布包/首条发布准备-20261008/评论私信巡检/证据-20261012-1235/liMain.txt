@@ -1,0 +1,254 @@
+- heading "0 notifications" [level=2]
+- generic "Skip navigation menu":
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Skip to sidebar":
+    - generic: Skip to sidebar
+  - button "Skip to primary content":
+    - generic: Skip to primary content
+  - button "Skip to aside":
+    - generic: Skip to aside
+  - button "Close jump menu":
+- banner:
+  - button "LinkedIn":
+    - img "LinkedIn"
+  - status
+  - search:
+    - textbox "Search"
+  - figure
+  - navigation:
+    - list:
+      - button "Home, 1 new notification":
+        - generic: Home
+      - link "Network, 1 new notification":
+        - /url: https://www.linkedin.com/mynetwork
+        - generic: "1"
+        - generic: Network
+      - link "Jobs, 0 new notifications":
+        - /url: https://www.linkedin.com/jobs/
+        - generic: Jobs
+      - link "Messaging, 0 new notifications":
+        - /url: https://www.linkedin.com/messaging/
+        - generic: Messaging
+      - link "Notifications, 1 new notification":
+        - /url: https://www.linkedin.com/notifications/
+        - generic: "1"
+        - generic: Notifications
+      - button "Me":
+        - figure
+        - text: Me
+  - navigation:
+    - list:
+      - button "For Business":
+        - text: For Business
+  - button "Try Premium for ¥0":
+    - paragraph: Try Premium for ¥0
+- main:
+  - complementary "Sidebar":
+    - link:
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - figure
+      - figure:
+        - img "ELi Chao"
+    - link "ELi Chao AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 Japan":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - paragraph: ELi Chao
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: Japan
+    - link "Experience":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/edit/forms/position/new/?profileFormEntryPoint=identityModuleMirror
+      - paragraph: Experience
+    - navigation:
+      - list:
+        - link "Overview":
+          - /url: https://www.linkedin.com/dashboard/
+          - generic: Overview
+        - link "Content analytics":
+          - /url: https://www.linkedin.com/analytics/creator/content/
+          - generic: Content analytics
+        - link "Audience analytics":
+          - /url: https://www.linkedin.com/analytics/creator/audience/
+          - generic: Audience analytics
+  - region "Primary content":
+    - paragraph: Post analytics
+    - link "Export":
+      - /url: https://www.linkedin.com/
+      - generic: Export
+    - heading "Feed post" [level=2]:
+      - generic: Feed post
+    - link "ELi Chao posted this • 2d":
+      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/
+      - paragraph:
+        - strong: ELi Chao
+        - text: posted this • 2d
+    - 'link "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ View hashtag: #ai View hashtag: #人工智能 View hashtag: #孙宇晨 View hashtag: #邵艾伦 View hashtag: #孙学 View hashtag: #薄肌理论"':
+      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/
+      - figure
+      - paragraph:
+        - text: 没人脉、没资源，普通人怎么抓住AI机会？
+        - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+        - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+        - 'link "View hashtag: #ai"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23ai
+          - text: "#AI"
+        - 'link "View hashtag: #人工智能"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+          - text: "#人工智能"
+        - 'link "View hashtag: #孙宇晨"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%AD%99%E5%AE%87%E6%99%A8
+          - text: "#孙宇晨"
+        - 'link "View hashtag: #邵艾伦"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E9%82%B5%E8%89%BE%E4%BC%A6
+          - text: "#邵艾伦"
+        - 'link "View hashtag: #孙学"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E5%AD%99%E5%AD%A6
+          - text: "#孙学"
+        - 'link "View hashtag: #薄肌理论"':
+          - /url: https://www.linkedin.com/search/results/all/?keywords=%23%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA
+          - text: "#薄肌理论"
+    - paragraph: Discovery
+    - button "Learn more":
+    - paragraph: "39"
+    - paragraph: Impressions
+    - paragraph: In-network (followers and connections)
+    - paragraph: 100%
+    - paragraph: Out-of-network
+    - paragraph: 0%
+    - paragraph: "1"
+    - paragraph: Members reached
+    - paragraph: Members who post once a week can get up to 4x more profile views. Keep the momentum going by creating another post.
+    - link "Start a post":
+      - /url: https://www.linkedin.com/sharing/compose
+      - generic: Start a post
+    - button "Dismiss":
+    - paragraph: Video performance
+    - button "Learn more":
+    - paragraph: "5"
+    - paragraph: Video views
+    - paragraph: Watch time
+    - paragraph: 5m 14s
+    - paragraph: Average watch time
+    - paragraph: 1m 2s
+    - paragraph: Profile activity
+    - button "Learn more":
+    - paragraph: "0"
+    - paragraph: Profile viewers from this post
+    - paragraph: "0"
+    - paragraph: Followers gained from this post
+    - paragraph: Engagement
+    - button "Learn more":
+    - paragraph: "1"
+    - paragraph: Social engagements
+    - paragraph: Reactions
+    - paragraph: "0"
+    - link "Comments 1":
+      - /url: https://www.linkedin.com/analytics/post/urn:li:activity:7514287448282058753/?resultType=COMMENTS
+      - paragraph: Comments
+      - paragraph: "1"
+    - paragraph: Reposts
+    - paragraph: "0"
+    - paragraph: Saves
+    - paragraph: "0"
+    - paragraph: Sends on LinkedIn
+    - paragraph: "0"
+    - paragraph: Top demographics
+    - button "Learn more":
+    - heading "Demographics not available yet" [level=2]
+    - paragraph: To protect viewer privacy, each demographics category will not display information until you have enough data for that category.
+    - link "Analytics & tools View all analytics, including Followers":
+      - /url: https://www.linkedin.com/dashboard/
+      - paragraph: Analytics & tools
+      - paragraph: View all analytics, including Followers
+  - complementary "Aside":
+    - iframe:
+      - link "Advertise on LinkedIn":
+        - /url: https://www.linkedin.com/jobs/?trk=li_FA_global_careers_jobsgtm_jsFA_v1&mcid=6899045044465016833
+        - img "Advertise on LinkedIn"
+    - link "About":
+      - /url: https://about.linkedin.com/
+      - paragraph: About
+    - link "Accessibility":
+      - /url: https://www.linkedin.com/accessibility/
+      - paragraph: Accessibility
+    - link "Help Center":
+      - /url: https://www.linkedin.com/help/linkedin/
+      - paragraph: Help Center
+    - button "Privacy & Terms":
+      - paragraph: Privacy & Terms
+    - link "Ad Choices":
+      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+      - paragraph: Ad Choices
+    - link "Advertising":
+      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+      - paragraph: Advertising
+    - button "Business Services":
+      - paragraph: Business Services
+    - link "Get the LinkedIn app":
+      - /url: https://www.linkedin.com/mobile/
+      - paragraph: Get the LinkedIn app
+    - link "More":
+      - /url: https://www.linkedin.com/
+      - paragraph: More
+    - paragraph: LinkedIn Corporation © 2026
+- complementary:
+  - img "ELi Chao"
+  - generic: Status is online
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: Messaging
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+  - button "Open messenger dropdown menu":
+    - img "Open messenger dropdown menu"
+  - button "Compose message":
+    - generic: Compose message
+  - button "You are on the messaging overlay. Press enter to open the list of conversations.":
+    - generic: You are on the messaging overlay. Press enter to open the list of conversations.
+- complementary "AI-powered assistant to get help with your career, jobs etc"
+- iframe:
+  - region "Toast message":
+    - heading "0 notifications total" [level=2]
+    - alert
+  - region
+  - button "Skip to search":
+    - generic: Skip to search
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Keyboard shortcuts":
+    - generic: Keyboard shortcuts
+  - button "Close jump menu":
+    - generic: Close jump menu
+  - banner "Global Navigation":
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/feed/
+      - img "LinkedIn":
+    - combobox "Search"
+    - navigation "Primary Navigation":
+      - list:
+        - link "new feed updates notifications Home":
+          - /url: https://www.linkedin.com/feed/
+          - generic: new feed updates notifications
+          - generic "Home"
+        - link "1 new network update notification Network":
+          - /url: https://www.linkedin.com/mynetwork/?
+          - generic: "1"
+          - generic: 1 new network update notification
+          - generic "Network"
+        - link "Jobs":
+          - /url: https://www.linkedin.com/jobs/?
+          - generic "Jobs"
+        - link "Messaging":
+          - /url: https://www.linkedin.com/messaging/?
+          - generic "Messaging"
+        - link "1 new notification Notifications":
+          - /url: https://www.linkedin.com/notifications/?
+          - generic: "1"
+          - generic: 1 new notification
+          - generic "Notifications"
+        - button "ELi Chao Me":
+          - img "ELi Chao"
+          - text: Me
+        - button "For Business":
+          - generic "For Business":
+            - text: For Business
+        - link "Try Premium for ¥0":
+          - /url: javascript:void(0)
+          - generic: Try Premium for ¥0

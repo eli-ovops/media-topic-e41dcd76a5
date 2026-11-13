@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-08",
+  "version": "v7-retry",
+  "agent_clicked_publish": false,
+  "published_user_report": [
+    "B站",
+    "YouTube",
+    "微博",
+    "国内抖音",
+    "X",
+    "Instagram"
+  ],
+  "remaining": [
+    {
+      "platform": "LinkedIn",
+      "status": "UNPUBLISHED_EDITOR_POST_ENABLED",
+      "reason": "不是不能发；视频和封面保留，空正文已补回v5文案与6标签，Post启用。原声，未确认草稿持久化。",
+      "url": "https://www.linkedin.com/sharing/compose",
+      "tab_id": "7",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v7/LinkedIn-当前实际页面.jpg",
+      "actual_body": "关注AI工具，也别错过GitHub这份《高性价比人生指南》\n\n\n\n\n关注AI实用工具，也别错过这样的GitHub免费资料。\n\nGitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n\n换工作、租房、学技能，先查什么资料？\n\n《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。\n\n对我来说，这类资料的价值，是让查阅有入口。\n\n想要整理好的文档，评论「指南」。\n\n\n\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+    },
+    {
+      "platform": "小红书",
+      "status": "VIDEO_UPLOADED_EDITOR_RETAINED",
+      "reason": "复用21:39:05草稿重传v7，已检测为高清视频；正文189字及6标签保留。默认首帧封面，核心标题可见；自定义封面编辑控制隐藏，原生暂存点击报closed shadow root，未确认保存。",
+      "url": "https://creator.xiaohongshu.com/publish/publish?from=homepage&target=video&openFilePicker=true",
+      "tab_id": "4",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v7/小红书-当前实际页面.jpg",
+      "actual_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n\n租房、换工作、学技能，不知道先查什么？\n\n这份《高性价比人生指南》，可以按自己的问题翻对应章节。\n\n我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。\n\n先存目录，需要时再翻。想要整理好的文档，评论「指南」。\n\n\n\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+    },
+    {
+      "platform": "TikTok",
+      "status": "STALLED_PREVIOUS_TURN",
+      "reason": "用户确认卡住；沿用上轮28.44%及重复正文阻断，本轮未操作。"
+    },
+    {
+      "platform": "微信视频号",
+      "status": "BLOCKED_SITE_SAFETY",
+      "reason": "LOCAL_BLOCKERS B002 2026-10-08明确既有已登录tab正常getTab亦拒绝并禁止间接操作。本轮仅查阻断记录，未操作网站。"
+    },
+    {
+      "platform": "Facebook",
+      "status": "UNKNOWN_COMPOSER_DISAPPEARED",
+      "reason": "刷新后进入Create post并维持Friends未来默认不变；v7通过filechooser选中且出现Attached media。补稿后编辑页消失，未点击Post；回到本人主页，只读最新可见8小时前封面更新，未见本视频，保存/发布状态UNKNOWN。未盲目重传。",
+      "url": "https://www.facebook.com/profile.php?id=61594512757125",
+      "tab_id": "12",
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v7/Facebook-当前实际页面.jpg"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "coverage": {
+    "小红书": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Retained slider remains, project and messages not read this run"
+    },
+    "B站": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "国内抖音": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "YouTube": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Published-unreplied and held-for-review explicitly empty; no native DM feature"
+    },
+    "LinkedIn": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Focused welcome only; Other blank without explicit empty state; notifications project items no new comments"
+    },
+    "X": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Intro/main post pages and notifications disconnected; ordinary reload once failed. Chat old list and requests containers readable but completeness UNKNOWN."
+    },
+    "微博": {
+      "recent_dm_list_read": true,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": 0,
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN"
+    },
+    "TikTok": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": true,
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": 0,
+      "total_pending_reply": "UNKNOWN",
+      "reason": "Studio recovered after reload; native messages panel blank after home reload, no actual recent list; comment activity only old September unrelated comment"
+    },
+    "微信视频号": {
+      "recent_dm_list_read": false,
+      "current_project_data_partial": false,
+      "reason": "existing explicit site-safety rejection, not visited",
+      "new_project_inbound_confirmed": "UNKNOWN",
+      "total_pending_reply": "UNKNOWN",
+      "new_actionable_project_comment_confirmed": "UNKNOWN"
+    }
+  },
+  "notes": [
+    "Native UI only; project metrics6/9 partial, intro/guide play5/9 and main6/9. No external messages sent.",
+    "Initial TikTok/YouTube/LinkedIn navigation ERR_ABORTED left about:blank; same browser original-tab normal navigation recovered. TK Studio generic error recovered with one normal reload; DY service exception recovered one reload.",
+    "X post and notification errors persist after one reload. Current X metrics UNKNOWN;08:35 total149 only last-known.",
+    "Recent actual DM lists4/9 Bili Douyin WB LI; no new project inbound read. TK messages panel blank after home reload, not counted as0. X old list/request blank container incomplete.",
+    "YouTube published-unreplied explicitly no comments; held review failed then normal reload; final state preserved in evidence.",
+    "DY old Friday handled requests unchanged; TK comments old Sept14 unrelated.",
+    "Reply totals/all pending UNKNOWN; native merged comments may contain own first comments.",
+    "WX B002 not visited; XHS retained slider not solved."
+  ]
+}

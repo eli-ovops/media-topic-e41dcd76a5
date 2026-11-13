@@ -1,0 +1,24 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "stage": "04",
+  "decision": "PASS",
+  "scope": "制作交付/技术及基础可视证据接收，仅用于释放05独立质检，非用户视觉终审",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/首条v7交付.json",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/source-coordinates.json",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/decode.log",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/render-final.log",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/verification.json",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/final/export-contact-2.jpg"
+  ],
+  "findings": "实际联系图中资料全幅保留，标题矩形与原图对齐且淡入；最终视频SHA匹配、1785帧解码/音轨原件通过；另由05独立核原图与所有关键时点",
+  "remaining_required_work": [],
+  "downstream_required": [
+    "05独立视觉核验",
+    "用户同版本全片审片",
+    "具体发布批准仍无"
+  ],
+  "routing_actual": "UNKNOWN"
+}

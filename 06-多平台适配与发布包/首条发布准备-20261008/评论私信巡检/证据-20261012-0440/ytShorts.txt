@@ -1,0 +1,253 @@
+- generic: 频道内容
+- banner:
+  - button "收起菜单":
+  - link "YouTube Studio 信息中心":
+    - /url: /channel/UCqJaVQRO3FrxD5spt1GG7Iw
+    - img "YouTube Studio 信息中心"
+  - button "跳过导航":
+    - generic: 跳过导航
+  - button "搜索":
+  - button "帮助":
+  - button "通知":
+  - button "问问 Studio":
+    - generic: 问问 Studio
+  - button "创建":
+    - generic: 创建
+  - generic "账号":
+    - button "Account"
+- navigation:
+  - img "Eli-AI"
+  - generic: 我的频道
+  - generic: Eli-AI
+  - menu:
+    - menuitem "信息中心":
+      - generic: 信息中心
+    - menuitem "内容":
+      - generic: 内容
+    - menuitem "数据分析":
+      - generic: 数据分析
+    - menuitem "社区":
+      - generic: 社区
+    - menuitem "字幕":
+      - generic: 字幕
+    - menuitem "内容检测":
+      - generic: 内容检测
+    - menuitem "创收":
+      - generic: 创收
+    - menuitem "自定义":
+      - generic: 自定义
+    - menuitem "音频库":
+      - generic: 音频库
+  - separator
+  - list:
+    - button "设置":
+      - generic: 设置
+    - button "发送反馈":
+      - generic: 发送反馈
+- main:
+  - heading "频道内容" [level=1]
+  - tablist:
+    - tab "视频":
+      - generic: 视频
+    - tab "Shorts" [selected]:
+      - generic: Shorts
+    - tab "直播":
+      - generic: 直播
+    - tab "帖子":
+      - generic: 帖子
+    - tab "播放列表":
+      - generic: 播放列表
+    - tab "播客":
+      - generic: 播客
+    - tab "推流":
+      - generic: 推流
+    - tab "联合创作":
+      - generic: 联合创作
+  - table "视频列表":
+    - rowgroup:
+      - textbox "过滤条件"
+      - row "全选 短视频 通知 公开范围 按日期排序 按观看次数排序 评论数":
+        - columnheader "全选":
+          - generic "全选":
+            - checkbox "全选"
+        - columnheader "短视频":
+          - heading "短视频" [level=3]:
+            - generic: 短视频
+        - columnheader "通知":
+          - heading "通知" [level=3]:
+            - generic: 通知
+        - columnheader "公开范围":
+          - heading "公开范围" [level=3]:
+            - generic: 公开范围
+        - columnheader "按日期排序":
+          - heading "按日期排序" [level=3]:
+            - button "按日期排序":
+              - generic: 日期
+        - columnheader "按观看次数排序":
+          - heading "按观看次数排序" [level=3]:
+            - button "按观看次数排序":
+              - generic: 观看次数
+        - columnheader "评论数":
+          - heading "评论数" [level=3]:
+            - generic: 评论数
+    - 'row "选择把AI用起來｜我是Eli 视频缩略图：把AI用起來｜我是Eli 0:16 把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE — 公开 2026年10月10日 发布日期 52 视频有 0 条评论。视频评论页面"':
+      - cell "选择把AI用起來｜我是Eli":
+        - generic "选择把AI用起來｜我是Eli":
+          - checkbox "选择把AI用起來｜我是Eli"
+      - 'cell "视频缩略图：把AI用起來｜我是Eli 0:16 把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE"':
+        - link "视频缩略图：把AI用起來｜我是Eli 0:16":
+          - /url: /video/V6fjEeK9k7Q/edit
+          - img "视频缩略图：把AI用起來｜我是Eli"
+          - generic: 0:16
+        - link "把AI用起來｜我是Eli":
+          - /url: /video/V6fjEeK9k7Q/edit
+          - generic: 把AI用起來｜我是Eli
+        - generic: "我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #AI實用技巧 #Agent #FDE"
+      - cell "—":
+        - generic: —
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年10月10日 发布日期":
+        - text: 2026年10月10日
+        - generic: 发布日期
+      - cell "52"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/V6fjEeK9k7Q/comments
+          - text: "0"
+    - 'row "选择GitHub《高性价比人生指南》 | Chinese Life Guide 视频缩略图：GitHub《高性价比人生指南》 | Chinese Life Guide 1:00 GitHub《高性价比人生指南》 | Chinese Life Guide GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先找对应章节，再看成本、收益和来源。 这条59秒视频带你认识《高性价比人生指南》。想要整理好的文档，可以评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具 已停用评论功能 已停用通知功能 公开 2026年10月8日 发布日期 4 视频有 0 条评论。视频评论页面"':
+      - cell "选择GitHub《高性价比人生指南》 | Chinese Life Guide":
+        - generic "选择GitHub《高性价比人生指南》 | Chinese Life Guide":
+          - checkbox "选择GitHub《高性价比人生指南》 | Chinese Life Guide"
+      - 'cell "视频缩略图：GitHub《高性价比人生指南》 | Chinese Life Guide 1:00 GitHub《高性价比人生指南》 | Chinese Life Guide GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先找对应章节，再看成本、收益和来源。 这条59秒视频带你认识《高性价比人生指南》。想要整理好的文档，可以评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"':
+        - link "视频缩略图：GitHub《高性价比人生指南》 | Chinese Life Guide 1:00":
+          - /url: /video/Yx4IuJe1eSs/edit
+          - img "视频缩略图：GitHub《高性价比人生指南》 | Chinese Life Guide"
+          - generic: 1:00
+        - link "GitHub《高性价比人生指南》 | Chinese Life Guide":
+          - /url: /video/Yx4IuJe1eSs/edit
+          - generic: GitHub《高性价比人生指南》 | Chinese Life Guide
+        - generic: "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，先找对应章节，再看成本、收益和来源。 这条59秒视频带你认识《高性价比人生指南》。想要整理好的文档，可以评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+      - cell "已停用评论功能 已停用通知功能":
+        - generic: 已停用评论功能
+        - generic: 已停用通知功能
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年10月8日 发布日期":
+        - text: 2026年10月8日
+        - generic: 发布日期
+      - cell "4"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/Yx4IuJe1eSs/comments
+          - text: "0"
+    - 'row "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 0:19 Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 添加说明 — 公开 2026年9月14日 发布日期 76 视频有 0 条评论。视频评论页面"':
+      - 'cell "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"':
+        - 'generic "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"':
+          - 'checkbox "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"'
+      - 'cell "视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 0:19 Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 添加说明"':
+        - 'link "视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 0:19"':
+          - /url: /video/jUSJM32wSxU/edit
+          - 'img "视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"'
+          - generic: 0:19
+        - 'link "Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"':
+          - /url: /video/jUSJM32wSxU/edit
+          - generic: "Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"
+        - generic: 添加说明
+      - cell "—":
+        - generic: —
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年9月14日 发布日期":
+        - text: 2026年9月14日
+        - generic: 发布日期
+      - cell "76"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/jUSJM32wSxU/comments
+          - text: "0"
+    - 'row "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 0:13 Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 添加说明 — 公开 2026年9月13日 发布日期 94 视频有 0 条评论。视频评论页面"':
+      - 'cell "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"':
+        - 'generic "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"':
+          - 'checkbox "选择Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"'
+      - 'cell "视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 0:13 Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 添加说明"':
+        - 'link "视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful 0:13"':
+          - /url: /video/eP1xHWyPZ9Y/edit
+          - 'img "视频缩略图：Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"'
+          - generic: 0:13
+        - 'link "Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"':
+          - /url: /video/eP1xHWyPZ9Y/edit
+          - generic: "Your day needs a side quest. #pocketrove #sidequest #littlejoys #playful"
+        - generic: 添加说明
+      - cell "—":
+        - generic: —
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年9月13日 发布日期":
+        - text: 2026年9月13日
+        - generic: 发布日期
+      - cell "94"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/eP1xHWyPZ9Y/comments
+          - text: "0"
+    - row "选择2026年9月13日 视频缩略图：2026年9月13日 0:09 2026年9月13日 添加说明 — 公开 2026年9月13日 发布日期 16 视频有 0 条评论。视频评论页面":
+      - cell "选择2026年9月13日":
+        - generic "选择2026年9月13日":
+          - checkbox "选择2026年9月13日"
+      - cell "视频缩略图：2026年9月13日 0:09 2026年9月13日 添加说明":
+        - link "视频缩略图：2026年9月13日 0:09":
+          - /url: /video/R80901aIsDk/edit
+          - img "视频缩略图：2026年9月13日"
+          - generic: 0:09
+        - link "2026年9月13日":
+          - /url: /video/R80901aIsDk/edit
+          - generic: 2026年9月13日
+        - generic: 添加说明
+      - cell "—":
+        - generic: —
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年9月13日 发布日期":
+        - text: 2026年9月13日
+        - generic: 发布日期
+      - cell "16"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/R80901aIsDk/comments
+          - text: "0"
+    - row "选择2026年9月13日 视频缩略图：2026年9月13日 0:09 2026年9月13日 添加说明 — 公开 2026年9月13日 发布日期 0 视频有 0 条评论。视频评论页面":
+      - cell "选择2026年9月13日":
+        - generic "选择2026年9月13日":
+          - checkbox "选择2026年9月13日"
+      - cell "视频缩略图：2026年9月13日 0:09 2026年9月13日 添加说明":
+        - link "视频缩略图：2026年9月13日 0:09":
+          - /url: /video/knu7Gq9KFew/edit
+          - img "视频缩略图：2026年9月13日"
+          - generic: 0:09
+        - link "2026年9月13日":
+          - /url: /video/knu7Gq9KFew/edit
+          - generic: 2026年9月13日
+        - generic: 添加说明
+      - cell "—":
+        - generic: —
+      - cell "公开":
+        - generic: 公开
+      - cell "2026年9月13日 发布日期":
+        - text: 2026年9月13日
+        - generic: 发布日期
+      - cell "0"
+      - cell "视频有 0 条评论。视频评论页面":
+        - link "视频有 0 条评论。视频评论页面":
+          - /url: /video/knu7Gq9KFew/comments
+          - text: "0"
+    - generic: 每页行数：
+    - generic "用于选择每页行数的菜单。":
+      - button "30":
+        - button "30":
+          - generic: "30"
+    - generic: 第 1 - 6 条，共 6 条
+    - button "转到第一页" [disabled]:
+    - button "转到上一页" [disabled]:
+    - button "转到下一页" [disabled]:
+    - button "转到最后一页" [disabled]:

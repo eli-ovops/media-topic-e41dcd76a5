@@ -1,0 +1,451 @@
+{
+  "automation_id": "9",
+  "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai",
+  "latest_content_id": "deepseek-deepinfer-20261021",
+  "title": "DeepSeek把省钱引擎开源了",
+  "rules": {
+    "project": "ELI-MEDIA-AGENTS-20261021-v2",
+    "workflow": "CODEX-MEDIA-20261021-v2",
+    "routing": "ROUTING-2026-10-13-v4",
+    "permission": "PERMISSIONS-2026-10-14-v1",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "release_sources": [
+    "deepseek-deepinfer-20261021/06-发布准备/07-本次发布/发布回执-v1.json",
+    "deepseek-deepinfer-20261021/06-发布准备/07-本次发布/用户手动发布回执-20261021.json",
+    "流程协作/流程状态.json#deepseek_deepinfer_20261021"
+  ],
+  "release_note": "当前stage07/SIX_SUBMITTED_TWO_MANUAL_USER_CONFIRMED_LINKEDIN_UNPUBLISHED；06旧登记准备字段非最新回执，本轮以有时间原件为准；无06同窗数据快照，不轮询生产",
+  "latest_platforms": [
+    {
+      "platform": "抖音",
+      "account": "Eli-Ai/25296649142，既有本人作者一致",
+      "video_views": 436,
+      "likes": 6,
+      "saves": 0,
+      "comments": 0,
+      "shares": 0,
+      "completion_rate_percent": 4.26,
+      "two_second_exit_rate_percent": 35.33,
+      "attributed_followers": 0,
+      "source": "https://creator.douyin.com/creator-micro/content/manage",
+      "work_id": "UNKNOWN",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。作品9/01:34/10月21日14:37/已发布，播放436/赞6/评0/藏0/分享0",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "小红书",
+      "account": "Eli AI FDE",
+      "video_views": 74,
+      "likes": 2,
+      "saves": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "https://creator.xiaohongshu.com/new/note-manager",
+      "work_id": "UNKNOWN",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。全部20/01:34/同题/14:57；五数74/0/2/0/0=播放/评论/赞/藏/分享",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "B站",
+      "account": "Eli-AI/432834855（本轮私信本人主页链接亦匹配）",
+      "video_views": 49,
+      "likes": 0,
+      "saves": 0,
+      "comments": 0,
+      "shares": 0,
+      "coins": 0,
+      "danmaku": 0,
+      "work_id": "BV12vnq6iErM",
+      "source": "https://member.bilibili.com/platform/upload-manager/article/data/BV12vnq6iErM",
+      "url": "https://www.bilibili.com/video/BV12vnq6iErM/",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。同题01:35/14:38:37，核心大屏播放49/赞0/评0/藏0/分享0/投币0/弹幕0，趋势更新21:34；本轮不再显示统计中",
+      "quality": "NATIVE_STATS_UPDATED_2134",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "TikTok",
+      "account": "Eli-AI/@elimakesapps",
+      "video_views": 82,
+      "likes": 0,
+      "saves": "UNKNOWN",
+      "comments": 0,
+      "work_id": "7699008468958645510",
+      "source": "https://www.tiktok.com/tiktokstudio/content",
+      "url": "https://www.tiktok.com/@elimakesapps/video/7699008468958645510",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。作品24/草稿1/准确作品7699008468958645510/所有人，播放82/赞0/评0。收藏后台无字段；不重复旧公开验证码",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "微博",
+      "account": "Eli-AI/7720929036",
+      "video_views": 3,
+      "likes": 0,
+      "saves": "UNKNOWN",
+      "comments": 0,
+      "shares": 0,
+      "work_id": "UNKNOWN",
+      "source": "https://me.weibo.com/content/video",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。同题01:34/10月21日，四独立图标播放3/转发0/评论0/赞0；收藏未提供",
+      "native_success_notification_link": "http://t.cn/AXj7flGw",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "X",
+      "account": "Eli-AI/@cczij1112",
+      "video_views": 12,
+      "unique_video_views": 10,
+      "likes": 0,
+      "saves": 1,
+      "comments": 0,
+      "post_impressions": 23,
+      "work_id": "2112797042586317221",
+      "source": "https://x.com/cczij1112/status/2112797042586317221/analytics",
+      "url": "https://x.com/cczij1112/status/2112797042586317221",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。准确本人同题94秒分析视频区浏览12/独立10，帖子展示23；原帖赞0/书签1，分析回复0",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "YouTube",
+      "account": "Eli-AI/UCqJaVQRO3FrxD5spt1GG7Iw",
+      "video_views": 2,
+      "likes": 0,
+      "saves": "UNKNOWN",
+      "comments": 0,
+      "work_id": "30L92PtpTdQ",
+      "source": "https://studio.youtube.com/video/30L92PtpTdQ/analytics/tab-overview/period-default",
+      "url": "https://youtube.com/shorts/30L92PtpTdQ",
+      "evidence": "本轮相同本人/作品/原生来源重新读取。本人频道准确作品，自发布以来2观看；public watch亦2次观看/赞0；本视频评论页移除未回复筛选后全部已发布评论明确找不到评论。未读待审列表，收藏计数不提供",
+      "observed_window": "2026-10-21 21:39—21:43 Asia/Shanghai"
+    },
+    {
+      "platform": "视频号",
+      "account": "UNKNOWN_NOT_ACCESSED",
+      "video_views": "UNKNOWN",
+      "likes": "UNKNOWN",
+      "saves": "UNKNOWN",
+      "comments": "UNKNOWN",
+      "evidence": "用户15:10确认已发，既有B002明确安全拒绝，本轮不访问/换通道"
+    },
+    {
+      "platform": "LinkedIn",
+      "account": "ELi Chao /eli-chao-548a7a43b（本轮Messaging身份已核）",
+      "state": "UNPUBLISHED_HELD",
+      "video_views": "UNKNOWN",
+      "likes": "UNKNOWN",
+      "saves": "UNKNOWN",
+      "comments": "UNKNOWN",
+      "evidence": "用户15:10明确领英还没发，do not touch发布；本轮只核私信，不操作发布/草稿"
+    }
+  ],
+  "latest_video_views_partial_sum": 658,
+  "numeric_coverage": 7,
+  "comparison": {
+    "status": "B站由统计中零值更新为数字，排除其窗口新增推断",
+    "six_other_platforms_current": 609,
+    "six_other_platforms_previous": 486,
+    "internal_same_six_delta": 123,
+    "all_seven_delta": "UNKNOWN_NOT_STRICT_WINDOW_BILI_DELAYED_ZERO",
+    "user_display": "仅累计，不展示差分"
+  },
+  "previous_snapshot": "数据基线-20261021-1745.json",
+  "other_platform_metrics": [
+    {
+      "content_id": "ai-funnel-vibe-20261020",
+      "抖音": {
+        "views": 422,
+        "likes": 8,
+        "saves": 0,
+        "comments": 0
+      },
+      "小红书": {
+        "views": 49,
+        "likes": 0,
+        "saves": 0,
+        "comments": 0
+      },
+      "TikTok": {
+        "views": 112,
+        "likes": 0,
+        "saves": "UNKNOWN",
+        "comments": 0
+      },
+      "微博": {
+        "views": 1,
+        "likes": 0,
+        "saves": "UNKNOWN",
+        "comments": 0
+      },
+      "same_four_sum": 584,
+      "coverage": "本轮仅4站；其他站未重采。YT原生列表两条草稿仍非已发",
+      "internal_same_four_delta_since_1745": 20
+    },
+    {
+      "content_id": "ai-contrarian-20261019",
+      "comment_note": "抖音后台4，公开详情截图另见5，保留口径差异，不当新增观众；本人首评及回复已知存在，未展开全线程",
+      "抖音": {
+        "views": 1177,
+        "likes": 26,
+        "comments": 4,
+        "saves": 11
+      },
+      "小红书": {
+        "views": 98,
+        "likes": 1,
+        "comments": 0,
+        "saves": 1
+      },
+      "微博": {
+        "views": 5,
+        "likes": 0,
+        "comments": 3,
+        "saves": "UNKNOWN"
+      },
+      "TikTok": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "internal_same_dy_xhs_wb_sum": 1280,
+      "coverage": "本轮DY/XHS/WB；TK前5条旧视频可见，指南未覆盖，其他站未扩扫",
+      "internal_same_three_delta_since_1745": 2
+    },
+    {
+      "content_id": "doubao-app-rejection-20261016",
+      "抖音": {
+        "views": 8217,
+        "likes": 52,
+        "comments": 50,
+        "saves": 6
+      },
+      "小红书": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "saves": 0
+      },
+      "微博": {
+        "views": 13,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "TikTok": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "internal_same_dy_xhs_wb_sum": 8230,
+      "coverage": "本轮DY/XHS/WB；TK前5条旧视频可见，指南未覆盖，其他站未扩扫",
+      "internal_same_three_delta_since_1745": 14
+    },
+    {
+      "content_id": "qianwen-go-case-20261013",
+      "抖音": {
+        "views": 503,
+        "likes": 8,
+        "comments": 1,
+        "saves": 1
+      },
+      "小红书": {
+        "views": 6,
+        "likes": 0,
+        "comments": 0,
+        "saves": 0
+      },
+      "微博": {
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "TikTok": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "internal_same_dy_xhs_wb_sum": 514,
+      "coverage": "本轮DY/XHS/WB；TK前5条旧视频可见，指南未覆盖，其他站未扩扫",
+      "internal_same_three_delta_since_1745": 0
+    },
+    {
+      "content_id": "eli-brand-intro-20261010",
+      "抖音": {
+        "views": 249,
+        "likes": 3,
+        "comments": 1,
+        "saves": 0
+      },
+      "小红书": {
+        "views": 85,
+        "likes": 1,
+        "comments": 0,
+        "saves": 0
+      },
+      "微博": {
+        "views": 7,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "internal_same_dy_xhs_wb_sum": 341,
+      "coverage": "本轮DY/XHS/WB；TK前5条旧视频可见，指南未覆盖，其他站未扩扫",
+      "internal_same_three_delta_since_1745": 0,
+      "TikTok": {
+        "views": 94,
+        "likes": 2,
+        "comments": 0,
+        "saves": "UNKNOWN",
+        "comparison": "本轮恢复覆盖，基线，不减上轮未核"
+      }
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "抖音": {
+        "views": 789,
+        "likes": 23,
+        "comments": 1,
+        "saves": 9
+      },
+      "小红书": {
+        "views": 376,
+        "likes": 4,
+        "comments": 1,
+        "saves": 1
+      },
+      "微博": {
+        "views": 8,
+        "likes": 0,
+        "comments": 1,
+        "saves": "UNKNOWN"
+      },
+      "internal_same_dy_xhs_wb_sum": 1173,
+      "coverage": "本轮DY/XHS/WB；TK前5条旧视频可见，指南未覆盖，其他站未扩扫",
+      "internal_same_three_delta_since_1745": 0,
+      "TikTok": {
+        "views": 94,
+        "likes": 0,
+        "comments": 0,
+        "saves": "UNKNOWN",
+        "comparison": "本轮恢复覆盖，基线，不减上轮未核"
+      }
+    },
+    {
+      "content_id": "first-video-life-guide-visual-fix-v7",
+      "抖音": {
+        "views": 664,
+        "likes": 10,
+        "comments": 1,
+        "saves": 2
+      },
+      "小红书": {
+        "views": 117,
+        "likes": 1,
+        "comments": 0,
+        "saves": 0
+      },
+      "微博": {
+        "views": 33,
+        "likes": 1,
+        "comments": 0,
+        "saves": "UNKNOWN"
+      },
+      "internal_same_dy_xhs_wb_sum": 814,
+      "coverage": "本轮DY/XHS/WB；TK前5条旧视频可见，指南未覆盖，其他站未扩扫",
+      "internal_same_three_delta_since_1745": 0
+    }
+  ],
+  "other_sources": [
+    "https://creator.douyin.com/creator-micro/content/manage",
+    "https://creator.xiaohongshu.com/new/note-manager",
+    "https://www.tiktok.com/tiktokstudio/content",
+    "https://me.weibo.com/content/video"
+  ],
+  "separate_browse": {
+    "抖音访谈图文预告": 1867,
+    "DeepInfer_X帖子展示": 23
+  },
+  "dm_checks": [
+    {
+      "platform": "抖音",
+      "source": "https://www.douyin.com/video/7698553920687295795 消息>當時的月亮",
+      "sender": "當時的月亮",
+      "incoming": "2026-10-21 16:58 求",
+      "outgoing": "2026-10-21 20:04 Eliaifde 你加我我发你",
+      "direction_evidence": "本轮截图左侧对方头像灰气泡为求；右侧本人头像蓝气泡为回复，与AX时间匹配",
+      "resolution": "REPLIED_BY_USER_NATIVE_VERIFIED",
+      "dedup_key": "douyin:當時的月亮:20261021:求:约1658",
+      "note": "已回复，不冒称资料已送达，不重复催办"
+    },
+    {
+      "platform": "抖音",
+      "sender": "卡西酱",
+      "finding": "列表仍07:45在抖音👗，按此前原生已回复去重",
+      "dedup_key": "douyin:卡西酱:20261021:高性价比指南",
+      "resolution": "REPLIED_BY_USER_PREVIOUS_NATIVE_VERIFIED"
+    },
+    {
+      "platform": "抖音群",
+      "finding": "同13:38申请提示仍在，未重复展开，无当前待审人/人数确认",
+      "dedup_key": "douyin:Eli Ai交流群:20261021:1338:申请提示"
+    },
+    {
+      "platform": "TikTok",
+      "source": "https://www.tiktok.com/business-suite/messages",
+      "finding": "列表仍1请求，原生打开请求页同14:50疑似骚扰/垃圾邀请，未展开/接受/回复；不是本轮新增",
+      "dedup_key": "tiktok:request:20261021:1450:spam-preview",
+      "business_action": "不作为业务待回复"
+    },
+    {
+      "platform": "TikTok",
+      "finding": "Marsexpress仍10/20请求已接受，其他10/9更早；按用户已回复去重",
+      "dedup_key": "tiktok:marsexpress333:20261020:求资料",
+      "resolution": "USER_CONFIRMED_REPLIED"
+    },
+    {
+      "platform": "B站",
+      "source": "https://message.bilibili.com/#/whisper",
+      "finding": "本人432834855，顶部同创作助手小电视贴标提醒1，其他旧通知/旧游戏预览；无新可确认业务询问，未扫无关对话"
+    },
+    {
+      "platform": "微博",
+      "source": "https://api.weibo.com/chat#/chat",
+      "finding": "本人Eli-AI，顶部同14:45系统发布/13:46新闻/07:34服务通知，未见其他近期观众业务预览"
+    },
+    {
+      "platform": "LinkedIn",
+      "source": "https://www.linkedin.com/messaging/",
+      "finding": "本人ELi Chao，Focused旧10/5官方欢迎，Other明确No messages yet"
+    },
+    {
+      "platform": "X",
+      "source": "https://x.com/i/chat",
+      "finding": "普通列表最新18周前本人外发；全部>请求仅私信请求/其它无条目无明确空态，完整性UNKNOWN"
+    },
+    {
+      "platform": "小红书",
+      "finding": "旧设备登录超限不重试，私信未覆盖"
+    },
+    {
+      "platform": "视频号",
+      "finding": "旧B002安全拒绝不访问，私信未覆盖"
+    },
+    {
+      "platform": "YouTube",
+      "finding": "本轮视频全部已发布评论为空；未覆盖待审评论/近期私信请求入口"
+    }
+  ],
+  "business_signal": "當時的月亮20:04本人回复已核，关闭此前待回复；无新的可确认未回复资料/操作/合作信号。TikTok仍旧骚扰请求1，去重",
+  "followers": "抖音本轮截图本人当前粉丝25，具体关注人/严格时间窗/归因UNKNOWN；不把粉丝总量变化映射特定私信或视频。其他平台近期关注未覆盖",
+  "recommendations": [
+    "已回复的當時的月亮、卡西酱和Marsexpress继续去重，不再催同一条",
+    "群13:38申请提示仅在本人手机端确有待审时处理；本轮状态未核，不反复催促"
+  ],
+  "boundaries": "仅只读；未改共享流程状态/登记，未联系Grok或唤醒制作岗位、未轮询、未接受请求/发送/发布/改帖/删资产/安装/改权限；IG/FB排除",
+  "status": "08本轮有限只读复盘完成，PMO收到和验收另记"
+}

@@ -1,0 +1,489 @@
+{
+  "automation_id": "9",
+  "trigger": "USER_REQUEST",
+  "status": "PARTIAL_8_PLATFORM_METRICS",
+  "observed_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+  "contents": [
+    {
+      "content_id": "eli-brand-intro-20261010",
+      "variant": "形象短片",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人creator笔记管理，眼睛图标只记笔记浏览；公开笔记话题及作者首评",
+          "post_browse": 30,
+          "url": "https://www.xiaohongshu.com/explore/6aca21a5000000001301a362"
+        },
+        {
+          "platform": "B站",
+          "video_views": 0,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人稿件管理逐作品播放、点赞、评论；首页已显示本人正片首评。转粉分析仅截至昨日，不当本轮实时增粉。",
+          "url": "https://www.bilibili.com/video/BV1KApg6hEEG/"
+        },
+        {
+          "platform": "国内抖音",
+          "video_views": 2,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人25296649142 creator内容管理作品四项，含明确吸粉量。图文预告1830只记图片浏览。",
+          "url": "https://www.douyin.com/video/7695016865814400297"
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "B002明确安全拒绝，未访问。旧截图520正片/214指南不加入当前合计。"
+        },
+        {
+          "platform": "YouTube",
+          "video_views": 0,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人频道内容列表视频/Shorts逐行；原生标签已回读。新片分析普通reload一次仍报错，点赞/增粉UNKNOWN。",
+          "url": "https://www.youtube.com/shorts/V6fjEeK9k7Q"
+        },
+        {
+          "platform": "LinkedIn",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人三帖分析及正片原生首评；新片未显示Video performance，不把3曝光记视频播放；正片当前feed曝光17，分析先前15。",
+          "post_impressions": 3,
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514664851835854848/"
+        },
+        {
+          "platform": "X",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人新片及两个旧作品精确公开页；查看为帖子查看，不当视频播放；主页连接问题与精确作品可读分别记录。",
+          "post_views": 1,
+          "url": "https://x.com/cczij1112/status/2108903205312905231"
+        },
+        {
+          "platform": "微博",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人7720929036三作品公开页，指南13视频观看；新片/正片未显示视频观看，阅读分别1/17；正片1评论为本人首评。",
+          "post_reads": 1,
+          "url": "https://weibo.com/7720929036/Rm3b55rSw"
+        },
+        {
+          "platform": "TikTok",
+          "video_views": 1,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人Studio作品列表，三作品1/79/138观看，点赞0/0/2后台评论0；新片公开页五话题链接。",
+          "url": "https://www.tiktok.com/@elimakesapps/video/7695017220467952904"
+        }
+      ]
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "访谈正片",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "video_views": "UNKNOWN",
+          "likes": 1,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": 1,
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人creator笔记管理，眼睛图标只记笔记浏览；公开笔记话题及作者首评",
+          "post_browse": 279,
+          "audience_comments": 0,
+          "url": "https://www.xiaohongshu.com/explore/6ac8cbbe0000000013018128"
+        },
+        {
+          "platform": "B站",
+          "video_views": 121,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": 1,
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人稿件管理逐作品播放、点赞、评论；首页已显示本人正片首评。转粉分析仅截至昨日，不当本轮实时增粉。",
+          "url": "https://www.bilibili.com/video/BV1dFp86PEYP/"
+        },
+        {
+          "platform": "国内抖音",
+          "video_views": 770,
+          "likes": 26,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 3,
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人25296649142 creator内容管理作品四项，含明确吸粉量。图文预告1830只记图片浏览。",
+          "comments_backend": 0,
+          "url": "https://www.douyin.com/video/7694630238197665050"
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "B002明确安全拒绝，未访问。旧截图520正片/214指南不加入当前合计。"
+        },
+        {
+          "platform": "YouTube",
+          "video_views": 22,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人频道内容列表视频/Shorts逐行；原生标签已回读。新片分析普通reload一次仍报错，点赞/增粉UNKNOWN。",
+          "url": "https://www.youtube.com/watch?v=GksDGFRpmGI"
+        },
+        {
+          "platform": "LinkedIn",
+          "video_views": 4,
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": 1,
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人三帖分析及正片原生首评；新片未显示Video performance，不把3曝光记视频播放；正片当前feed曝光17，分析先前15。",
+          "post_impressions": 17,
+          "audience_comments": 0,
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514287448282058753/"
+        },
+        {
+          "platform": "X",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人新片及两个旧作品精确公开页；查看为帖子查看，不当视频播放；主页连接问题与精确作品可读分别记录。",
+          "post_views": 61,
+          "url": "https://x.com/cczij1112/status/2108521984112185808"
+        },
+        {
+          "platform": "微博",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 1,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": 1,
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人7720929036三作品公开页，指南13视频观看；新片/正片未显示视频观看，阅读分别1/17；正片1评论为本人首评。",
+          "post_reads": 17,
+          "audience_comments": 0,
+          "url": "https://weibo.com/7720929036/RlTDsgzMz"
+        },
+        {
+          "platform": "TikTok",
+          "video_views": 79,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人Studio作品列表，三作品1/79/138观看，点赞0/0/2后台评论0；新片公开页五话题链接。",
+          "comments_backend": 0,
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694631263205870868"
+        }
+      ]
+    },
+    {
+      "content_id": "first-video-life-guide-visual-fix-v7",
+      "variant": "人生指南",
+      "platforms": [
+        {
+          "platform": "小红书",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人creator笔记管理，眼睛图标只记笔记浏览；公开笔记话题及作者首评",
+          "post_browse": 99,
+          "url": "https://www.xiaohongshu.com/explore/6ac7a0a3000000001b02ddd6"
+        },
+        {
+          "platform": "B站",
+          "video_views": 15,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人稿件管理逐作品播放、点赞、评论；首页已显示本人正片首评。转粉分析仅截至昨日，不当本轮实时增粉。",
+          "url": "https://www.bilibili.com/video/BV1mgH96DEyt/"
+        },
+        {
+          "platform": "国内抖音",
+          "video_views": 654,
+          "likes": 10,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 0,
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人25296649142 creator内容管理作品四项，含明确吸粉量。图文预告1830只记图片浏览。",
+          "comments_backend": 0,
+          "url": "https://www.douyin.com/video/7694290083091926287"
+        },
+        {
+          "platform": "微信视频号",
+          "video_views": "UNKNOWN",
+          "likes": "UNKNOWN",
+          "comments": "UNKNOWN",
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "B002明确安全拒绝，未访问。旧截图520正片/214指南不加入当前合计。"
+        },
+        {
+          "platform": "YouTube",
+          "video_views": 4,
+          "likes": "UNKNOWN",
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人频道内容列表视频/Shorts逐行；原生标签已回读。新片分析普通reload一次仍报错，点赞/增粉UNKNOWN。",
+          "url": "https://www.youtube.com/shorts/Yx4IuJe1eSs"
+        },
+        {
+          "platform": "LinkedIn",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": 1,
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人三帖分析及正片原生首评；新片未显示Video performance，不把3曝光记视频播放；正片当前feed曝光17，分析先前15。",
+          "post_impressions": 27,
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513959413427179522/"
+        },
+        {
+          "platform": "X",
+          "video_views": "UNKNOWN",
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人新片及两个旧作品精确公开页；查看为帖子查看，不当视频播放；主页连接问题与精确作品可读分别记录。",
+          "post_views": 25,
+          "url": "https://x.com/cczij1112/status/2108190823007539236"
+        },
+        {
+          "platform": "微博",
+          "video_views": 13,
+          "likes": 0,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人7720929036三作品公开页，指南13视频观看；新片/正片未显示视频观看，阅读分别1/17；正片1评论为本人首评。",
+          "post_reads": 130,
+          "url": "https://weibo.com/7720929036/RlL0WwIyR"
+        },
+        {
+          "platform": "TikTok",
+          "video_views": 138,
+          "likes": 2,
+          "comments": 0,
+          "author_replies": "UNKNOWN",
+          "author_top_level_comments": "UNKNOWN",
+          "attributed_followers": "UNKNOWN",
+          "statistics_window": "2026-10-10 20:51—20:58 Asia/Shanghai",
+          "source": "本人Studio作品列表，三作品1/79/138观看，点赞0/0/2后台评论0；新片公开页五话题链接。",
+          "comments_backend": 0,
+          "url": "https://www.tiktok.com/@elimakesapps/video/7694304622604717330"
+        }
+      ]
+    },
+    {
+      "content_id": "sun-shao-interview-20261009",
+      "variant": "抖音图文预告",
+      "platforms": [
+        {
+          "platform": "国内抖音",
+          "url": "https://www.douyin.com/note/7694562191479593466",
+          "video_views": "NOT_APPLICABLE_IMAGE_POST",
+          "post_browse": 1830,
+          "likes": 16,
+          "comments": 3,
+          "comments_backend": 3,
+          "author_replies": "UNKNOWN",
+          "attributed_followers": 0,
+          "source": "本人25296649142 creator内容管理作品四项，含明确吸粉量。图文预告1830只记图片浏览。"
+        }
+      ]
+    }
+  ],
+  "tag_validation": [
+    {
+      "platform": "小红书",
+      "verified": 6,
+      "actual": [
+        "ai",
+        "人工智能",
+        "AI工具",
+        "AI实用技巧howto",
+        "Agent",
+        "FDE"
+      ],
+      "proof": "Published links /search_result type=54",
+      "deviation": "原稿AI实用技巧实际挂载为AI实用技巧howto"
+    },
+    {
+      "platform": "B站",
+      "verified": 6,
+      "proof": "Published search links from_source=video_tag"
+    },
+    {
+      "platform": "国内抖音",
+      "verified": 5,
+      "proof": "Published search links source=pc_click_hashtag_feed and matching new video ID"
+    },
+    {
+      "platform": "YouTube",
+      "verified": 6,
+      "proof": "Reopened published edit, native ytcp-chip and remove controls; Save disabled, no edits"
+    },
+    {
+      "platform": "LinkedIn",
+      "verified": 6,
+      "proof": "Published View hashtag links HASH_TAG_FROM_FEED"
+    },
+    {
+      "platform": "X",
+      "verified": 6,
+      "proof": "Published /hashtag/... links"
+    },
+    {
+      "platform": "微博",
+      "verified": 6,
+      "proof": "New post #topic# search links",
+      "old_guide_issue": "#AI工具 is plain text, only other 5 tags are links"
+    },
+    {
+      "platform": "TikTok",
+      "verified": 5,
+      "proof": "Published /tag/... links; human retained five tags"
+    },
+    {
+      "platform": "微信视频号",
+      "verified": "UNKNOWN",
+      "proof": "Existing site-safety refusal; not accessed"
+    }
+  ],
+  "monitor": {
+    "dm_lists_read": "0/9",
+    "new_dm": "UNKNOWN_NOT_REQUESTED_OR_CHECKED_THIS_RUN",
+    "new_comments": "UNKNOWN_NOT_DEDUPED_THIS_RUN"
+  },
+  "external_messages_sent": false,
+  "post_metrics_separate": {
+    "x_post_views": 87,
+    "weibo_reads": 148,
+    "linkedin_impressions": 47,
+    "xiaohongshu_browse": 408,
+    "douyin_teaser_image_browse": 1830
+  },
+  "fresh_lower_bounds": {
+    "intro_video_views": 3,
+    "intro_video_coverage": "4/9",
+    "main_video_views": 996,
+    "main_video_coverage": "5/9",
+    "guide_video_views": 824,
+    "guide_video_coverage": "5/9",
+    "total_video_views": 1823,
+    "total_video_likes": 39,
+    "total_video_comments": 4,
+    "including_teaser_likes": 55,
+    "including_teaser_comments": 7,
+    "attributed_followers": 4,
+    "author_top_level_comments": 4,
+    "author_replies": "UNKNOWN",
+    "platforms_with_some_metrics": "8/9",
+    "unknown_not_zero": true,
+    "not_deduplicated_people": true
+  },
+  "same_coverage_delta_vs_1911": {
+    "main_3_platforms_video_views": 13,
+    "guide_3_platforms_video_views": 0,
+    "intro": "BASELINE",
+    "other_platform_deltas": "UNKNOWN_PREVIOUS_MISSING"
+  },
+  "missing": [
+    "微信视频号全部本轮数据及标签",
+    "YouTube点赞和归因增粉",
+    "X视频播放",
+    "微博新片/正片视频播放",
+    "LinkedIn新片/指南视频播放",
+    "小红书视频播放",
+    "本人对观众回复完整统计"
+  ],
+  "evidence_dir": "数据核查-20261010-2058"
+}

@@ -1,0 +1,10 @@
+- main:
+  - article:
+    - region "全屏观看":
+      - paragraph: 播放此视频时遇到问题。请刷新并重试。
+  - article:
+    - region "全屏观看":
+  - article
+  - complementary:
+    - button [disabled]:
+    - button:

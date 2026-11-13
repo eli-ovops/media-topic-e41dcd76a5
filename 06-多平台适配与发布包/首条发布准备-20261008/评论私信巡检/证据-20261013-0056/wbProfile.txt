@@ -1,0 +1,239 @@
+- navigation:
+  - link "Weibo":
+    - /url: /
+  - link "首页":
+    - /url: /
+    - generic "首页":
+  - link "推荐":
+    - /url: /hot
+    - generic "推荐":
+  - link "视频":
+    - /url: /tv
+    - generic "视频":
+  - link "消息":
+    - /url: /at/weibo
+    - generic "消息":
+      - generic: "6"
+  - link "Eli-AI":
+    - /url: /u/7720929036
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+    - /url: //game.weibo.com/?topnav=1&mod=logo&wvr=6
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "个人主页" [level=2]
+- link " 我的主页":
+  - /url: /u/7720929036
+  - link " 我的主页":
+    - generic: 
+    - generic: 我的主页
+- link " 我的关注":
+  - /url: /u/page/follow/7720929036
+  - link " 我的关注":
+    - generic: 
+    - generic: 我的关注
+- link " 我的粉丝":
+  - /url: /u/page/follow/7720929036?relate=fans
+  - link " 我的粉丝":
+    - generic: 
+    - generic: 我的粉丝
+- link " 我的经常访问":
+  - /url: /u/page/visit/7720929036
+  - link " 我的经常访问":
+    - generic: 
+    - generic: 我的经常访问
+- link " 我的收藏":
+  - /url: /u/favorites?page=1
+  - link " 我的收藏":
+    - generic: 
+    - generic: 我的收藏
+- link " 我的赞":
+  - /url: /u/page/like/7720929036
+  - link " 我的赞":
+    - generic: 
+    - generic: 我的赞
+- link " 创作者中心":
+  - /url: https://me.weibo.com
+  - link " 创作者中心":
+    - generic: 
+    - generic: 创作者中心
+- main:
+  - generic: 
+  - generic: 返回
+  - heading [level=2]
+  - generic: Eli-AI
+  - generic "男":
+  - link "1粉丝":
+    - /url: /u/page/follow/7720929036?relate=fans
+    - generic: 1粉丝
+  - link "28关注":
+    - /url: /u/page/follow/7720929036?relate=
+    - generic: 28关注
+  - generic: 1转评赞
+  - link:
+    - /url: https://api.weibo.com/chat/#/chat?to_uid=7720929036&source_from=
+  - generic: 视频累计播放量27
+  - generic: 
+  - generic: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 · 🛰️：EliAIFDE 备注来意，共同交流
+  - generic: 
+  - generic: IP属地：浙江
+  - generic: 
+  - generic: 
+  - generic: 精选
+  - generic: 微博
+  - generic: 视频
+  - generic: 相册
+  - generic: 全部微博（3）
+  - generic: 
+  - generic: 
+  - textbox "搜索我的微博"
+  - generic: 
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-10 19:31":
+      - /url: https://weibo.com/7720929036/Rm3b55rSw
+    - generic "来自 微博视频号"
+    - generic: "10"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#AI工具#":
+      - /url: //s.weibo.com/weibo?q=%23AI%E5%B7%A5%E5%85%B7%23
+    - link "#AI实用技巧#":
+      - /url: //s.weibo.com/weibo?q=%23AI%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%23
+    - link "#Agent#":
+      - /url: //s.weibo.com/weibo?q=%23Agent%23
+    - link "#FDE#":
+      - /url: //s.weibo.com/weibo?q=%23FDE%23
+    - link "http://t.cn/AXlG9bkoEli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5352545821065235
+      - img "http://t.cn/AXlG9bko"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 00:15
+    - generic: 2次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-9 19:13":
+      - /url: https://weibo.com/7720929036/RlTDsgzMz
+    - generic "来自 微博视频号"
+    - generic: "25"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+    - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#孙宇晨#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%AD%99%E5%AE%87%E6%99%A8%23
+    - link "#邵艾伦#":
+      - /url: //s.weibo.com/weibo?q=%23%E9%82%B5%E8%89%BE%E4%BC%A6%23
+    - link "#孙学#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%A6%23
+    - link "#薄肌理论#":
+      - /url: //s.weibo.com/weibo?q=%23%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA%23
+    - link "http://t.cn/AXlLsXV9Eli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5352164852432942
+      - img "http://t.cn/AXlLsXV9"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 04:32
+    - generic: 4次观看
+    - generic "0,1,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: "1"
+      - button "赞":
+        - text: 赞
+  - generic: 你可能感兴趣的人
+  - generic: 
+  - generic: 换一换
+  - link "欧文各种吹 体育博主  关注":
+    - /url: /u/2787572474
+    - generic: 欧文各种吹
+    - generic: 体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "德里克罗斯Derrick_Rose NBA巨星德里克-罗斯  关注":
+    - /url: /u/2580571483
+    - generic: 德里克罗斯Derrick_Rose
+    - generic: NBA巨星德里克-罗斯
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "江弈辰 微博2025最具影响力情感大V 微博2025正能量网络达人 情感博主  关注":
+    - /url: /u/3191063447
+    - generic: 江弈辰
+    - generic: 微博2025最具影响力情感大V 微博2025正能量网络达人 情感博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+    - /url: https://kefu.weibo.com/?cs_source=2
+  - link "自助服务中心":
+    - /url: https://kefu.weibo.com/selfservice?bottomnav=1&wvr=6
+  - link "常见问题":
+    - /url: https://kefu.weibo.com/allfaq?bottomnav=1&wvr=6
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+    - /url: https://marketing.hd.weibo.com/?fr=C003001_P001
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+    - /url: https://open.weibo.com/?bottomnav=1&wvr=6
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+    - /url: https://service.account.weibo.com/?bottomnav=1&wvr=6
+  - link "舞弊举报":
+    - /url: https://weibo.com/aj/static/report.html?_wv=6
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+    - /url: http://ir.weibo.com/
+  - generic: 客户端下载
+  - link "微博招聘":
+    - /url: https://career.sina.com.cn/?bottomnav=1&wvr=6
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+    - /url: https://privacy.weibo.com
+  - link "微博数据AI大模型开放合作声明":
+    - /url: https://weibo.com/pagemesh/static/weibo-data-ai-cooperation-statement.html
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+    - /url: https://weibo.com/aj/static/business_license.html
+- text: 
+- generic: 
+- text:   

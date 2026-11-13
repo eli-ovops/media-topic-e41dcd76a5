@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-08",
+  "version": "v8-retry",
+  "published_user_report": [
+    "B站",
+    "YouTube",
+    "微博",
+    "国内抖音",
+    "X",
+    "Instagram",
+    "LinkedIn",
+    "小红书"
+  ],
+  "agent_publish_clicks": 0,
+  "remaining": [
+    {
+      "platform": "Facebook",
+      "status": "UNPUBLISHED_POST_ENABLED",
+      "tab_id": "12",
+      "url": "https://www.facebook.com/profile.php?id=61594512757125",
+      "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+      "video_selected": true,
+      "video_preview_observed": true,
+      "actual_body": "GitHub这份《高性价比人生指南》，有需要再翻\n\nGitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n生活遇到问题，不知道先查什么？\n《高性价比人生指南》把租房、工作、技能学习等内容整理成章节。先存目录，再按问题看成本、收益和资料来源。\n想要整理好的文档，评论「指南」。\n\n#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具",
+      "tags": [
+        "GitHub",
+        "高性价比人生指南",
+        "免费资源",
+        "资料分享",
+        "自我提升",
+        "AI工具"
+      ],
+      "audience": "Public - current post only",
+      "account_default_audience_changed": false,
+      "default_checkbox_confirmed_unchecked": true,
+      "post_enabled": true,
+      "draft_saved": false,
+      "cover": "source video first frame; native Edit reel only showed trim/captions/audio descriptions/text transcripts; no custom cover entry observed",
+      "music": "original voice, no added BGM",
+      "continuous_audio_acceptance": "NOT_COMPLETED",
+      "public_url_scan": [],
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v8/Facebook-视频文案Public待点击Post.jpg"
+    },
+    {
+      "platform": "TikTok",
+      "status": "BLOCKED_FEATURE_UNAVAILABLE",
+      "tab_id": "10",
+      "url": "https://www.tiktok.com/tiktokstudio/upload/unavailable",
+      "attempts": "refreshed Studio; known upload URL navigation ERR_ABORTED; actual red upload menu > 视频 displayed 功能不可用; refreshed same error page still unavailable",
+      "new_upload_completed": false,
+      "screenshot": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v8/TikTok-刷新后功能不可用.jpg"
+    },
+    {
+      "platform": "微信视频号",
+      "status": "BLOCKED_SITE_SAFETY",
+      "tab_id": "15",
+      "attempts": "本轮不绕过原明确安全拒绝；沿用LOCAL_BLOCKERS B002 2026-10-08。",
+      "video_uploaded_by_agent": false
+    }
+  ]
+}

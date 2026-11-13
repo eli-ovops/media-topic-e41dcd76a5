@@ -1,0 +1,15 @@
+{
+  "date":"2026-10-20",
+  "owner":"01a11a95-ef09-7da2-9846-c8157050e112",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "artifact":"/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261020-1335.md",
+  "artifact_sha256":"9e40afa39ae7eb91d78924af728d94e2ba850a99b2a57beb0d2549fa33d6f324",
+  "report_send_status":"TOOL_ACCEPTED",
+  "raw_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "automation":{"id":"9","status":"ACTIVE","interval_hours":4,"target_thread_id":"01a11a95-ef09-7da2-9846-c8157050e112","first_scheduled_run_verified":false},
+  "validation":"数据JSON可解析；最新1319、其他11264、合计12583，旧四作品同口径127已重算通过。初次总和断言发现汇总笔误，已修正后复验；平台原数字未修改。",
+  "temporary_files":[],
+  "cleanup":"无清理项"
+}

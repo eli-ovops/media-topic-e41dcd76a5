@@ -1,0 +1,83 @@
+{
+  "status": "DRAFT_SUBMITTED_FOR_PMO_REVIEW",
+  "revision": "v2",
+  "date": "2026-10-08 Asia/Shanghai",
+  "owner": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "created_by_06": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/音乐与标题修订-v2.md",
+      "bytes": 8295,
+      "sha256": "2351f868c87188f7591144cd2442aba92b2e2d8793cc9bd4ad287872ee4626d4",
+      "source": "用户明确纠正后的06草稿修订v2",
+      "purpose": "保留用户/PMO审稿交付物"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案-v2.md",
+      "bytes": 14545,
+      "sha256": "86646fc9dd1e37501a38555018ae76f31f10760a64265006547ad279556b3a9d",
+      "source": "用户明确纠正后的06草稿修订v2",
+      "purpose": "保留用户/PMO审稿交付物"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单-v2.json",
+      "bytes": 27608,
+      "sha256": "ee400dad027554648454ff2050a2dcb649a56e259a8d354c9f3f3ca20971923b",
+      "source": "用户明确纠正后的06草稿修订v2",
+      "purpose": "保留用户/PMO审稿交付物"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/来源核对-v2.md",
+      "bytes": 5556,
+      "sha256": "1bad41a2bd183acc1fdbe58b77241904099b14feb545aa728a189da39664b06a",
+      "source": "用户明确纠正后的06草稿修订v2",
+      "purpose": "保留用户/PMO审稿交付物"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/文件记录-v2.json",
+      "purpose": "本轮保留清单，自身SHA不循环记录"
+    }
+  ],
+  "temporary_local_files": [],
+  "cleanup": "无一次性中间文件或清理项",
+  "temporary_browser_pages": [
+    "https://ads.tiktok.com/creative/creativeCenter/trends",
+    "https://www.douyin.com/hot"
+  ],
+  "browser_lifecycle": "已关闭本轮2个自建后台临时标签，用户原标签未改",
+  "research_budget": {
+    "web_calls": 4,
+    "web_limit": 10,
+    "cua_pages": 2,
+    "cua_limit": 2
+  },
+  "media_changed": false,
+  "shared_registry_changed": false,
+  "new_login": false,
+  "music_download": false,
+  "uploaded": false,
+  "published": false,
+  "validation": {
+    "platform_count": 11,
+    "unique_platform_count": 11,
+    "all_have_title_body_tags_form_cover_music_target": true,
+    "new_douyin_id": "25296649142",
+    "no_old_douyin_id_or_sec_uid_in_v2": true,
+    "original_voice": 100,
+    "bgm_start": 3,
+    "x_title_body_tags_raw_characters": 246,
+    "hot_title_retained": true,
+    "confirmed_current_tracks": 0,
+    "old_draft_hashes_unchanged": true,
+    "formal_stage": "05",
+    "formal_06_released": false,
+    "final_sender": "用户本人"
+  },
+  "remaining": "用户最终视频审片；各站原生曲目/音乐使用范围/版本关联/音量预览及最终文案确认；新抖音身份已核原件，发布当天再核账号；用户本人发送",
+  "routing": {
+    "target_model": "用户默认",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  }
+}

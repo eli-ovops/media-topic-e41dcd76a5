@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-22T09:43:31.383748+08:00",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-22 09:38—09:41 Asia/Shanghai",
+  "status": "ACCEPTED_SOURCE_ATTRIBUTED_WITH_LIMITS",
+  "owner_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+  "owner_tool_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261022-0941.md",
+  "report_sha256": "cd90f2b4c0451e940ded15c56da4dbf0c72447acc8b181fc63902636db7bce0d",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261022-0941.json",
+  "snapshot_sha256": "f6c99cdcfb8e42398013a5fc636956459ffa8cb3bbec6ba3fe5672e0e8bd9709",
+  "pmo_checks": [
+    "Both original hashes match owner report",
+    "Seven cumulative video counters total 902; not unique people",
+    "Prior same-seven snapshot 839; difference 63 is not exact interval occurrence",
+    "X impressions 27 excluded from video sum",
+    "YT backend 17 versus public 18 retained separately; cumulative table uses backend",
+    "Bilibili update time 08:16 retained",
+    "Unknown saves, inbox completeness and follower coverage not replaced with zero",
+    "Previously replied requests deduplicated without implying file delivery"
+  ],
+  "evidence_limit": "Native observations attributed to08 original report and JSON. PMO reviewed originals and arithmetic; did not recollect platform counters or private dialogues.",
+  "business_signal_scope": "No new confirmed unanswered business request in08 accessible covered lists only",
+  "production_publication_cleanup_or_automation_changes": false
+}

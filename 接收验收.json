@@ -1,0 +1,93 @@
+{
+  "version": "CONTENT-FLOW-2026-10-08-v1",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "reviews": [
+    {
+      "stage": "02",
+      "thread_id": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/02-脚本与分镜/接收回执.json",
+      "receipt_sha256": "37d15f86cb419ae54ff59649d67f811bd2f2ec48d4f544bfb5debc3a60360f7c",
+      "basis": "PMO读回执原件；目标/基线/职责/上游/授权/待命及已读材料具体，不把模型UNKNOWN视为已验证",
+      "routing_actual": "UNKNOWN",
+      "business_release": "separate"
+    },
+    {
+      "stage": "04",
+      "thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/接收回执.json",
+      "receipt_sha256": "3d24593ef5e08d4afca3e5368832f250b2ebd27c8d33c9aadc60b935534f5184",
+      "basis": "PMO读回执原件；目标/基线/职责/上游/授权/待命及已读材料具体，不把模型UNKNOWN视为已验证",
+      "routing_actual": "UNKNOWN",
+      "business_release": "separate"
+    },
+    {
+      "stage": "03",
+      "thread_id": "01a11a73-6bcd-7451-975f-95e05c883fa8",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/接收回执.json",
+      "receipt_sha256": "261623711c8e39e1a5b234bb21a6958065ea70d0571d5a115ce4aa204da6449f",
+      "basis": "已读具体目标/素材边界/上游与门禁，历史基线与当前修复区分清楚",
+      "routing_actual": "UNKNOWN",
+      "business_release": "none"
+    },
+    {
+      "stage": "05",
+      "thread_id": "01a11a79-f636-7823-9350-3c5f7526e6c7",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/05-成品质检与审片/接收回执.json",
+      "receipt_sha256": "736d90a842ea5275a110fbb61ed46ca9afdbed4eec81b0cc2e6d44064658f262",
+      "basis": "独立职责、源图与最终MP4多时点验收方法、05/06边界具体；不把技术PASS当视觉通过",
+      "routing_actual": "UNKNOWN",
+      "business_release": "not yet"
+    },
+    {
+      "stage": "06",
+      "thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+      "decision": "PASS_ONBOARDING_RECEIPT",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/接收回执.json",
+      "receipt_sha256": "26f7e539bab9f9934618e219574b6012e12bc739eda355c93181ad18ff59400b",
+      "basis": "已读上游冻结版本/11平台原件差异/发布包与发布授权区别，未执行业务",
+      "routing_actual": "UNKNOWN",
+      "thread_completion": "wait_threads completed/error=null",
+      "business_release": "none"
+    },
+    {
+      "stage": "07",
+      "thread_id": "01a11a88-68d7-7250-93c0-1fb2218c0e3e",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/07-发布执行与回执/接收回执.json",
+      "receipt_sha256": "8c7316bcda592202ea99f6e5c0ce70458bff77841b1be74fed46b315025a1184",
+      "basis": "11平台、具体用户发布批准、防重复及审核/公开层、拒绝不绕过均明确；无平台操作",
+      "routing_actual": "UNKNOWN",
+      "thread_completion": "wait_threads completed/error=null",
+      "business_release": "none"
+    },
+    {
+      "stage": "08",
+      "thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/接收回执.json",
+      "receipt_sha256": "bc44d33b2203d6450d9be863f26a7934ade90a514d7fb6cff4ae2c9b8954bf2a",
+      "basis": "真实数据/分平台/UNKNOWN和制作成本、少量调整、无发布输入即待命均明确",
+      "routing_actual": "UNKNOWN",
+      "thread_completion": "wait_threads completed/error=null",
+      "business_release": "none"
+    },
+    {
+      "stage": "01",
+      "thread_id": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+      "decision": "PASS_ONBOARDING",
+      "receipt": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/接收回执.json",
+      "receipt_sha256": "bad553091ae1ee6605f293dcbf0c46fadc7fd8b5f68522dcea92a88b441fad3f",
+      "basis": "既有研究Owner复用、旧1000任务保留、当前修订与下一条新选题分开、职责/顺序边界明确",
+      "routing_actual": "UNKNOWN",
+      "thread_completion": "wait_threads completed/error=null",
+      "business_release": "none"
+    }
+  ],
+  "status": "ALL_8_ONBOARDING_ACCEPTED",
+  "identity": "7 created + existing research reused; no duplicate Owner",
+  "routing": "actual model/effort/speed UNKNOWN"
+}

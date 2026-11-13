@@ -1,0 +1,110 @@
+{
+  "version": "CODEX-MEDIA-20261020-v1",
+  "at": "2026-10-20T10:02:16.560171+08:00",
+  "result": "PASS_SCOPED_CONFIGURATION_AND_DOCUMENT_CHECKS",
+  "checks": {
+    "json_parse": true,
+    "six_existing_owners_unchanged": true,
+    "03_02_and_07_06_merges_preserved": true,
+    "current_role_versions_match": true,
+    "grok_dependency_removed": true,
+    "global_project_skill_same_file": true,
+    "skill_metadata_and_line_budget": true,
+    "current_entry_paths_exist": true,
+    "retired_package_manifest_files": 9,
+    "media_qa_limits_preserved": true,
+    "publication_channels_pending_preserved": true
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+      "bytes": 29987,
+      "sha256": "85c0eeea3b78d60d4cdd47f31d7f9b3ee00ab8e22a43e8f46d4b8f03612f8cff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/README.md",
+      "bytes": 31282,
+      "sha256": "a1cb757bc7efdca0bf2489b3abafd88ca8cf21ff16f9ddfc1a72a64c73cc5f60"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+      "bytes": 15774,
+      "sha256": "2b6e65dd226493c21406aedead62e17c9baea9a827fded11928ee5c95cf1c0b0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/README.md",
+      "bytes": 3779,
+      "sha256": "a833ce5f096f06ddaeac1b85bd81215cd354132ed68234708af550b9acf650f6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容生产流程.md",
+      "bytes": 21978,
+      "sha256": "dd546e1c21d18d0da71ef2d5e2f78fe01329b223e2fc464565ebf33497b5c9df"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/视频动效风格与验收规范.md",
+      "bytes": 29371,
+      "sha256": "e6f7ef47d9aae1ac7115deee13a7a5b7d2fb7e808230351da8b4df50bfcd032c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json",
+      "bytes": 38783,
+      "sha256": "c1766d6269e0ee632f36df56ae877a804ef755a094ed1767f9417934755c160c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json",
+      "bytes": 258741,
+      "sha256": "7678bd0b09923ed4270cdfbdac8ced844a01def6aee7b5fa9ca6900ee48b4782"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/Grok经验蒸馏-20261020.md",
+      "bytes": 7394,
+      "sha256": "7f4051a7ccb3e5cf8600cef5fdf1490b32eb157da7b255f4664ad2ae0263290c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/历史分工-Grok运营-20261017.md",
+      "bytes": 12080,
+      "sha256": "5f5e61cbd24cc0de325126394dca2fc8ccd5ff4e93493e8c7edbe502ade80d31"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/.agents/skills/eli-media-workflow/SKILL.md",
+      "bytes": 6016,
+      "sha256": "5a67cc271f3bbcff3f3082782e9d96539e7c4d7290cf63324d4b409aab0901a9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/交接包/自媒体运营迁移-Grok-20261015/00-先读我.md",
+      "bytes": 2709,
+      "sha256": "26907d10c663595d1d0db5718ec7cc3339d6b2ba8ab336067f2bc441e4ec1e9e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/交接包/自媒体运营迁移-Grok-20261015/06-发给Grok的提示词.txt",
+      "bytes": 2367,
+      "sha256": "2e7611abc79587471a073fbc358c4f8f089a28f5e831d9b05511e873459e573d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/交接包/自媒体运营迁移-Grok-20261015/文件清单.json",
+      "bytes": 1375,
+      "sha256": "50a68735ef6d8ccfe9c920c6aae8bbaf404246c4cce7b2955657d3f22a075578"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/fred-remotion-output/references/eli-rework-control.md",
+      "bytes": 6661,
+      "sha256": "cb88a260e8c185527a1546f320dd0066683de627ec1b72fef0eb41d991a99cde"
+    }
+  ],
+  "runtime": {
+    "fresh_session_skill_trigger": "NOT_RUN",
+    "new_owner_dispatches": 0,
+    "new_threads_or_agents": 0,
+    "new_platform_posts": 0,
+    "new_automation_changes": 0,
+    "grok_account_subscription_or_scheduler_changes": "NONE_NOT_CLAIMED_STOPPED",
+    "full_grok_account_export_read": false,
+    "media_modified_or_deleted": false
+  },
+  "limitations": [
+    "Distillation covers provided chat and specifically read local records; not all Grok account history.",
+    "Only rules and calling entries have been verified; no new full production run or fresh-session skill invocation is claimed.",
+    "Legacy Grok-side schedules were not inspected or stopped; Codex workflow no longer depends on them."
+  ]
+}

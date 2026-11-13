@@ -1,0 +1,113 @@
+{
+  "status": "DRAFT",
+  "task_type": "USER_REQUESTED_DRAFT_PREPARATION",
+  "date": "2026-10-08 Asia/Shanghai",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "formal_stage": "05",
+  "formal_06_released": false,
+  "publication_authorized": false,
+  "final_sender": "用户本人",
+  "confirmation_required_before_user_publication": true,
+  "stage07_role": "指导与核对用户提供的逐平台回执；不上传、不点击发布、不定时发送、不执行私信",
+  "reference_video": {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+    "sha256_from_original_receipt": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779",
+    "duration_seconds": 59.5,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "human_final_review": "PENDING",
+    "new_bgm_added": false,
+    "measured_lufs": -20.96,
+    "measured_true_peak": -5.04,
+    "measured_lra": 4.30,
+    "measurement_source": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/PMO音量测量.json",
+    "measurement_boundary": "引用PMO raw_loudnorm input字段，未重跑；output字段是null分析，不是现片已改变",
+    "decoded_sample_peak_from_04_receipt": 0.5596057176589966,
+    "peak_dbfs_derived_approx": -5.04
+  },
+  "cover": {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/封面海报-地球online攻略-v6.png",
+    "sha256_from_original_receipt": "57a20f2a54faaf05411c84eec99ab96ec04ae600224bf8415adaa9681e176406",
+    "text": "地球online攻略",
+    "instruction": "本轮不改图。竖屏可选自定义封面时用原PNG，否则优先选视频前0.5秒原海报帧；横向列表先预览能否完整显示书和标题，放不下则待正式06准备独立封面，不裁断标题或覆盖正文。"
+  },
+  "subtitle": {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/data/中英双语字幕-v3.srt",
+    "sha256_from_original_receipt": "e46f3de961a199f11c90e4c6292197b62e7cf53ab2f8d4a1704c3e9b8950a7fd",
+    "default": "保留片内中文上英文下；平台自动字幕先预览，避免与烧录字幕重复。独立字幕上传支持情况逐平台UNKNOWN。"
+  },
+  "hot_title": {
+    "text": "最近爆火的《高性价比人生指南》，原来是这份地球online攻略",
+    "status": "USER_SPECIFIED_PENDING_HEAT_VERIFICATION",
+    "reason": "找到近期二手讨论与增长报道，未核原始时间序列或足够一手互动，累计stars不证明近期热度。",
+    "fallback": "《高性价比人生指南》：免费地球online攻略"
+  },
+  "source_credit": "资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/",
+  "resource_repo": "https://github.com/eternity4719/HowToLiveBetter",
+  "resource_online": "https://eternity4719.github.io/HowToLiveBetter/",
+  "music": {
+    "preferred_direction": "纯音乐、轻电子、探索感，稀疏鼓点/合成器，不抢口播；85至105 BPM是寻找方向，非候选实测值",
+    "candidate": "Machina — Scott Buckley",
+    "track_url": "https://www.scottbuckley.com.au/library/machina/",
+    "licensing_url": "https://www.scottbuckley.com.au/library/licensing/",
+    "license": "CC BY 4.0，原站明示包含商业项目；需署名，YouTube署名必须出现在视频description",
+    "credit_if_actually_used": "Music: Machina by Scott Buckley — CC BY 4.0. https://www.scottbuckley.com.au/library/machina/ | https://creativecommons.org/licenses/by/4.0/ ; excerpted and faded for this video.",
+    "status": "LICENSE_EVIDENCE_CHECKED_AUDIO_NOT_AUDITIONED_OR_DOWNLOADED",
+    "bpm": "UNKNOWN",
+    "usable_cross_platform_inference": "许可不限定单站，配画且署名条件满足时可作为11平台共用候选；不等于任一平台审核、Content ID或导入已通过",
+    "fallback": "候选试听不适合或署名放不下时保留v7原声与原有轻音效，不临时挪用某平台内置音乐到其他站。"
+  },
+  "mix_proposal": {
+    "status": "PROPOSED_NOT_EXECUTED",
+    "voice_editor_start_percent": 100,
+    "bgm_editor_start_percent": 8,
+    "percent_boundary": "只适合相同编辑器/源素材下的起点；非统一声学标准，不以100比8推算实际响度差",
+    "voice_bus_suggested_lufs_i_before_music": -16,
+    "bgm_under_voice_relative_short_term_loudness_db": -20,
+    "bgm_relative_range_db": [-24, -18],
+    "integrated_lufs_target": -16,
+    "integrated_lufs_tolerance": 1,
+    "true_peak_ceiling_dbtp": -1.5,
+    "ducking": {"max_reduction_db": 4, "attack_ms": 30, "hold_ms": 120, "release_ms": 300, "trigger": "由人声活动驱动，threshold根据实际人声音轨调整；默认约-30dBFS起试，单靠噪声不触发"},
+    "timeline": [
+      {"start": 0, "end": 0.25, "action": "首帧音乐从静音淡入，不加重击"},
+      {"start": 0.25, "end": 0.5, "action": "无口播区音乐最多比口播底床抬3dB"},
+      {"start": 0.5, "end": 0.6, "action": "降回口播底床，第一句不被盖住"},
+      {"start": 11.3, "end": 17.8, "action": "指南揭晓仍有口播，不升BGM；若15.9至16.3短空隙，可最多抬2dB并在16.3前收回，保持已有reveal音效"},
+      {"start": 52.3, "end": 57.8, "action": "领取CTA段BGM再降2dB"},
+      {"start": 57.8, "end": 59.5, "action": "BGM淡出至静音，保留最后我发给你的人声，不对人声总线做片尾淡出"}
+    ],
+    "sfx": "不叠加新音效；既有tap/reveal若刺耳再由制作Owner限域降低，默认不得全音轨压低",
+    "acceptance": "若获准混音，由04输出新版本及SHA，再回05核人声清晰、LUFS/true peak、首尾与手机外放/耳机；用户确认最终材料后本人发布，不由我们上传或发送"
+  },
+  "platforms": [
+    {"platform":"小红书","form":"竖屏视频笔记","title":"高性价比人生指南｜免费攻略","body":"租房、换工作、学技能，不知道先查什么？\n这份《高性价比人生指南》，可以按自己的问题翻对应章节。\n我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。\n先存目录，需要时再翻。想要整理好的文档，评论「指南」。\nGitHub搜：eternity4719/HowToLiveBetter。\n资料：eternity4719；本视频为摘录、讲述与字幕整理。CC BY 4.0：https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","实用资料","租房","技能学习"],"resource_method":"正文给精确repo搜索路径；不假定正文外链可点击。评论只作人工需求收集，不自动私信。","cover":"原PNG；预览信息流和主页网格，完整显示地球online攻略"},
+    {"platform":"B站","form":"原创讲述视频投稿，知识类方向待入口实际可选分区确认","title":"《高性价比人生指南》怎么查？59秒看懂这份地球online攻略","body":"租房、换工作、学技能，先从对应章节查起。\n这次分享《高性价比人生指南》的目录、技能章节，以及成本、收益和来源的阅读方法。我的建议：先存目录，有需要再翻。\n在线阅读：https://eternity4719.github.io/HowToLiveBetter/\n原仓库与下载：https://github.com/eternity4719/HowToLiveBetter\n想要整理好的文档，也可以评论「指南」。\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","GitHub","资料分享","技能学习"],"resource_method":"简介放在线阅读和repo；最终发布预览核实际展示，不新增网盘。","cover":"原封面优先；若横向缩略图裁断标题，暂缓封面冻结，正式06另做列表封面"},
+    {"platform":"国内抖音","form":"竖屏视频作品","title":"《高性价比人生指南》：先存目录，有事再查","body":"租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。\n想要整理好的文档，评论「指南」。也可以直接在GitHub搜 eternity4719/HowToLiveBetter。\n资料：eternity4719；本视频为摘录、讲述与字幕整理。CC BY 4.0：https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","实用资料","租房","学技能"],"resource_method":"repo名称可原地搜索；不用待备案个人站，不假报可点击外链。","cover":"选视频开头海报或原PNG，预览标题不被按钮遮挡"},
+    {"platform":"微信视频号","form":"竖屏短视频；受支持发布入口由07另核，本轮不访问助手","title":"《高性价比人生指南》：生活遇事，先查资料","body":"租房遇到问题、准备换工作、想学一门技能，可以先翻翻《高性价比人生指南》。\n先看对应章节，再看成本、收益和原始来源。建议先存目录，需要时再查。\n想要整理好的文档，评论「指南」；也可在GitHub搜 eternity4719/HowToLiveBetter。\n资料：eternity4719；本视频为摘录、讲述与字幕整理。CC BY 4.0：https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","生活资料","技能学习"],"resource_method":"文字给repo，不假定链接可点；未收主页链接不影响保留该平台。","cover":"原PNG或首帧，完整书名主体与地球online攻略标题"},
+    {"platform":"YouTube","form":"竖屏Shorts候选，实际入口及归类待07核","title":"《高性价比人生指南》：免费地球online攻略 | Chinese Life Guide","body":"租房、换工作、学技能，先找对应章节，再看成本、收益和来源。\n这条59秒视频带你认识《高性价比人生指南》。想要整理好的文档，可以评论「指南」；也可直接打开原作者入口。\nChinese narration with bilingual subtitles. This video introduces the Chinese guide, mainly for life in mainland China.\n在线阅读 / Read the Chinese original: https://eternity4719.github.io/HowToLiveBetter/\n原仓库 / Original: https://github.com/eternity4719/HowToLiveBetter\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","ChineseResources","GitHub"],"resource_method":"description保留原链接与repo可搜索字样；Shorts具体链接可点击性待入口核，不承诺点开。","cover":"优先选前0.5秒海报帧；若入口可设置原PNG再用，避免为了封面重剪视频"},
+    {"platform":"LinkedIn","form":"个人账号原生视频帖子","title":"《高性价比人生指南》：先把问题变成查阅路径","body":"换工作、租房、学技能，先查什么资料？\n《高性价比人生指南》把生活问题整理成章节。我在这条短视频里分享一个简单读法：先找对应章节，再看成本、收益和来源。\n对我来说，这类资料的价值，是让查阅有入口。\nChinese video with bilingual subtitles; the original guide focuses mainly on life in mainland China.\n原仓库：https://github.com/eternity4719/HowToLiveBetter\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","KnowledgeSharing","GitHub"],"resource_method":"正文给repo直链，不编FDE交付成果；不擅自同步到职业群组。","cover":"原封面预览；如横向预览不能完整显示，正式06另准备列表封面"},
+    {"platform":"X","form":"单条原生视频帖；标题作为首行，无单独标题字段假设","title":"《高性价比人生指南》：免费地球online攻略","body":"《高性价比人生指南》：租房、换工作、学技能，先查对应章节。\nChinese guide; China-focused. 中英字幕。\n原作eternity4719，摘录/字幕整理，CC BY 4.0：https://creativecommons.org/licenses/by/4.0/\nhttps://github.com/eternity4719/HowToLiveBetter","tags":["高性价比人生指南","GitHub"],"resource_method":"原帖repo直链；不依赖付费长帖。音乐署名若加入后放不下，正式06重排成明确串帖或改用无新增BGM版，不把音乐署名默默省略。","cover":"视频首帧原海报，预览不裁书与标题"},
+    {"platform":"微博","form":"原生视频微博","title":"《高性价比人生指南》里，先看哪一章？","body":"租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。\n这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。\n想要整理好的文档，评论「指南」；原仓库也可以直接看：https://github.com/eternity4719/HowToLiveBetter\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","资料分享","技能学习"],"resource_method":"正文repo链接；话题用微博#话题#形式，预览实际呈现。","cover":"原海报，若入口无自定义封面则用首帧"},
+    {"platform":"TikTok","form":"中文受众竖屏视频帖子","title":"《高性价比人生指南》：这份免费攻略怎么用？","body":"租房、换工作、学技能，先翻《高性价比人生指南》的对应章节。先看成本、收益，再查来源。\nChinese guide, mainly for life in mainland China. 中文口播＋中英字幕。\n想要整理好的文档，评论「指南」。GitHub搜 eternity4719/HowToLiveBetter。\n资料：eternity4719；本视频为摘录、讲述与字幕整理。CC BY 4.0：https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","ChineseResources","GitHub"],"resource_method":"caption给准确repo路径，不假设主页已可挂外链，不操作账号资料。","cover":"选前0.5秒地球online攻略海报，网格预览不裁标题"},
+    {"platform":"Instagram","form":"Reel","title":"《高性价比人生指南》：把生活资料先存好","body":"租房、换工作、学技能，需要时再找资料往往很乱。\n这次分享《高性价比人生指南》：先存目录，遇到问题翻章节，再看成本、收益与来源。\n想要整理好的文档，评论「指南」。原仓库：eternity4719/HowToLiveBetter（GitHub）。\nChinese narration + bilingual subtitles. The Chinese original mainly covers life in mainland China.\n资料：eternity4719；本视频为摘录、讲述与字幕整理。CC BY 4.0：https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","ChineseResources","LearningResources"],"resource_method":"caption repo可搜索；不写link in bio，因为本轮未新增或核资料bio链接；不自动DM。","cover":"原PNG若入口支持；竖屏与主页网格分别预览，不改原视频"},
+    {"platform":"Facebook","form":"Reel或原生竖屏视频，按目标账号实际入口选一个，不双投同站","title":"《高性价比人生指南》：租房、工作、学习的查阅入口","body":"生活遇到问题，不知道先查什么？\n《高性价比人生指南》把租房、工作、技能学习等内容整理成章节。先存目录，再按问题看成本、收益和资料来源。\n想要整理好的文档，评论「指南」；原作者入口也在这里：https://github.com/eternity4719/HowToLiveBetter\nChinese video with bilingual subtitles. The original guide mainly covers life in mainland China.\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/","tags":["高性价比人生指南","ChineseResources","ResourceSharing"],"resource_method":"caption直链及repo字样，实际可点击性待发布入口核；不分享到群组或其他主页。","cover":"原海报/首帧，选择支持的封面设置，不把列表裁切问题写到公开正文"}
+  ],
+  "internal_gaps": [
+    "05用户同版本全片终审未完成，06正式未释放，本草稿不作发布授权",
+    "如加BGM必须由制作Owner另出版本、技术测量与05复验；当前v7没有新增BGM；用户确认后最后一步由用户本人发布",
+    "Machina许可已核但音频未试听、BPM/截取起点/听感UNKNOWN；无下载或付款",
+    "11平台入口、规格限制、封面能力、外链能力、字幕导入与实时账号资格本轮未逐站验证，表内形式均为运营建议",
+    "热点角度保留，最近爆火的一手近期热度证据未核，不作已证事实",
+    "当前视频我发给你的CTA需人工承接，公开入口在正文；本轮不自动评论或发私信",
+    "资料以中文原文和中国生活场景为主；视频英文是译文，未验证其他语言衍生版本，不宣传官方英文资料"
+  ],
+  "routing": {"rule":"ROUTING-2026-09-30-v3","target_model":"用户默认","target_effort":"medium","actual_model":"UNKNOWN","actual_effort":"UNKNOWN","actual_speed":"UNKNOWN"},
+  "rules_read": ["CONTENT-FLOW-2026-10-08-v1","ROUTING-2026-09-30-v3","HANDOFF-2026-10-06-v1","BLOCKERS-2026-09-23-v1","IDEA-GATE-2026-09-30-v1"],
+  "research": {"web_top_level_calls":6,"budget_max_calls":8,"key_sources_max":6,"installation":false,"music_download":false,"paid_calls":false,"platform_login_verification":false},
+  "evidence_boundary": "元数据及SHA来自04/登记原件，未重验成片，草稿文件哈希只标识本次交付不冻结发布媒体。"
+}

@@ -1,0 +1,158 @@
+{
+  "stage": "03",
+  "date": "2026-10-08",
+  "status": "ONBOARDING_SUBMITTED_WAITING_FOR_PMO",
+  "owner_title": "03｜拍摄指导与素材接收",
+  "thread_id": "01a11a73-6bcd-7451-975f-95e05c883fa8",
+  "identity_note": "本环境会话路径标识；读取时共享登记03 thread_id尚为null，由PMO维护，不自行补写。",
+  "goal": "把02已通过的脚本和声画表变成用户可执行的拍摄指导，接收用户明确指定原片并整理缺口；用户本人拍摄。本轮只补读、门禁检查和接收回执。",
+  "read_files": [
+    "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+    "/Volumes/EXTERNAL/自媒体/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/岗位任务单.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/02-脚本与分镜/岗位任务单.md",
+    "/Volumes/EXTERNAL/自媒体/文案-20261007/高性价比人生指南-素材编排.md",
+    "/Volumes/EXTERNAL/自媒体/文案-20261007/高性价比人生指南-参照声画表.md",
+    "/Volumes/EXTERNAL/自媒体/文案-20261007/高性价比人生指南-补录口播.md",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/地球online攻略首帧验收-v6.md",
+    "/Users/USER/.codex/AGENTS.details.md（完整§2/§3/§4）",
+    "/Users/USER/.codex/LOCAL_BLOCKERS.md（入口及查询维护规则，相关索引检索）",
+    "/Volumes/EXTERNAL/自媒体/流程协作/workflow_gate.py（读取1—130行及--help）",
+    "/Users/USER/.codex/memories/MEMORY.md（相关索引48—68行；当前文件优先）"
+  ],
+  "baseline_summary": {
+    "version": "v6",
+    "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-地球online攻略-中英双语-v6.mp4",
+    "reported_sha256": "ed62dd8f8883ea8e5c886ea8b4e51638cef218c7335401b993e888b1bdd5376c",
+    "appearance": "前0.5秒无本人、地球online攻略标题；中文上英文下，正文PIP，结婚照遮盖。",
+    "reported_spec": "59.5秒/1080×1920/30fps/1785帧；原件记录技术解码和静态采样检查。",
+    "current_defects": [
+      "资料截图文字被卡片裁切",
+      "章节标题框选不准确"
+    ],
+    "defect_owner": "04修复、05独立质检；不能推为用户机位或拍摄问题。",
+    "acceptance": "视觉终审未通过；未发布；本轮未打开媒体、未重跑成片验证。"
+  },
+  "input": {
+    "required": "02经PMO通过并冻结SHA的脚本、提词版、逐句声画表及拍摄清单；领取材料需求、用户具体素材范围与本内容任务单。",
+    "current_release": "NONE",
+    "historical_reference": "素材编排优先于旧补录稿/声画表；五段台词已齐，最新收尾为评论一下，我发给你，不补FDE/私信台词。旧声画表不是本流水线02通过证据。"
+  },
+  "output": {
+    "future_deliverables": [
+      "拍摄执行卡：机位/光线/收音/提词/分段及必要20秒试拍方法",
+      "精确原片白名单：绝对路径、用户指定来源、内容ID、用途，释放后核文件与版本",
+      "素材清单：台词与声画表映射、接收状态、缺口及证据层级",
+      "必要转录或补录需求：只补影响当前脚本交付的缺口"
+    ],
+    "this_turn": [
+      "接收回执.json",
+      "接收回执.md"
+    ],
+    "necessary_retake_now": "NONE；未提出新增补录。"
+  },
+  "historical_raw_file_reference": [
+    {
+      "path": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+      "use": "开头",
+      "reported_audio_seconds": 19.7746875,
+      "verified_this_turn": false
+    },
+    {
+      "path": "/Users/USER/Downloads/76c971fb70d60bd7659b450b5e34d41f_raw.mp4",
+      "use": "资料介绍",
+      "reported_audio_seconds": 11.625,
+      "verified_this_turn": false
+    },
+    {
+      "path": "/Users/USER/Downloads/e501701cdbd3b1495d7418788afc05cc_raw.mp4",
+      "use": "技能例子",
+      "reported_audio_seconds": 13.119,
+      "verified_this_turn": false
+    },
+    {
+      "path": "/Users/USER/Downloads/1c0ef867027711154271f3f4b44803db_raw.mp4",
+      "use": "来源与收藏",
+      "reported_audio_seconds": 12.969,
+      "verified_this_turn": false
+    },
+    {
+      "path": "/Users/USER/Downloads/076d5b70542c70c284911e8dac29a7b7_raw.mp4",
+      "use": "领取收尾",
+      "reported_audio_seconds": 9.172,
+      "verified_this_turn": false
+    }
+  ],
+  "raw_scope_note": "上列仅逐文件记录已读素材编排中的历史白名单候选；本轮未stat、读取、转录或处理原片，不能视为当前业务释放。未来仅按PMO具体内容放行和用户指定范围接收，禁止目录通配扩读。",
+  "gate_check": {
+    "command": "python3 流程协作/workflow_gate.py check --content UNASSIGNED --stage 03 --thread 01a11a73-6bcd-7451-975f-95e05c883fa8",
+    "probe_content_note": "UNASSIGNED为拒绝探针，不是登记或创建的业务内容ID。",
+    "allowed": false,
+    "reason": "ACTIVE_CONTENT_MISMATCH_OR_UNASSIGNED",
+    "expected": true,
+    "tool_failure": false,
+    "observed_state": "active_content_id=null; runs={}; 03未释放；自动调度未安装。",
+    "future_conditions": [
+      "真实content_id与active_content_id一致",
+      "03真实Owner登记匹配",
+      "当前stage=03且RELEASED",
+      "01和02经PMO通过，冻结输出仍完整",
+      "本阶段输入路径/SHA与释放一致且有具体任务授权"
+    ]
+  },
+  "next_action": "待命；PMO核回执并维护身份登记。收到02通过、具体内容ID与03正式释放后先重新check，再做拍摄指导和素材接收。当前v6视觉修订不在03开展。",
+  "boundary": [
+    "只写本岗位两份回执；不改共享登记/状态、根文档、其他岗位或工程，不回退他人改动。",
+    "不处理视频、不新增补录、不代拍；不把ASR/采样图称连续完整听看。",
+    "不安装、改环境、下载、私有上传、外发、发布或建自动任务。",
+    "不自行PASS、推进下游、恢复研究或向其他会话发送消息；由PMO通过wait_threads验收。"
+  ],
+  "read_rule_versions": [
+    "CONTENT-FLOW-2026-10-08-v1",
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-06-v1",
+    "BLOCKERS-2026-09-23-v1"
+  ],
+  "target_model_effort": {
+    "model": "用户默认，保持创建工具契约",
+    "thinking": "medium"
+  },
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "unverified": [
+    "02本流水线通过版本与SHA：未存在正式run",
+    "原片当前存在性/哈希/音画/精切点：未读取",
+    "v6媒体当前字节与视觉问题实际截图：本轮未复验，采用根README当前反馈",
+    "用户全片终审/发布/传播效果：未有通过证据",
+    "实际model/effort/speed：无直接本次运行回执"
+  ],
+  "conflicts_and_resolution": [
+    "流程入口旧句本地内部QA通过被根README最新用户视觉反馈限定；当前v6待修而非视觉终审通过。",
+    "素材编排/旧声画表未剪辑为历史准备状态；当前制作进度按根README顶部v6，五段已齐和最新收尾按素材编排。",
+    "共享登记03未创建是读取时过渡快照，不自行修改或宣称身份登记已验收。"
+  ],
+  "evidence": {
+    "gate_raw_stdout": {
+      "allowed": false,
+      "reason": "ACTIVE_CONTENT_MISMATCH_OR_UNASSIGNED"
+    },
+    "baseline_document": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/地球online攻略首帧验收-v6.md",
+    "visual_feedback_source": "/Volumes/EXTERNAL/自媒体/README.md 顶部当前成片视觉问题（2026-10-08）",
+    "material_source": "/Volumes/EXTERNAL/自媒体/文案-20261007/高性价比人生指南-素材编排.md",
+    "verification_owner": "本岗位确认读取与门禁原始回执；PMO验收入职，不自行PASS。"
+  },
+  "file_record": {
+    "created": [
+      "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/接收回执.json",
+      "/Volumes/EXTERNAL/自媒体/流程协作/03-拍摄指导与素材接收/接收回执.md"
+    ],
+    "source": "本轮授权入职补读与门禁检查",
+    "purpose": "PMO实质接收审查",
+    "temporary_files": [],
+    "cleanup": "无一次性中间文件；无清理。"
+  }
+}

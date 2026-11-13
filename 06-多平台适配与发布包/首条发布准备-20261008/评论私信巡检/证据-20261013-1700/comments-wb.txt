@@ -1,0 +1,265 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "首页" [level=2]
+- link " 全部关注":
+
+  - link " 全部关注":
+    - generic: 
+    - generic: 全部关注
+- link " 最新微博":
+
+  - link " 最新微博":
+    - generic: 
+    - generic: 最新微博
+- link " 特别关注":
+
+  - link " 特别关注":
+    - generic: 
+    - generic: 特别关注
+- link " 好友圈":
+
+  - link " 好友圈":
+    - generic: 
+    - generic: 好友圈
+- heading "自定义分组" [level=3]
+- button "管理":
+  - generic: 管理
+- link " 名人明星":
+
+  - link " 名人明星":
+    - generic: 
+    - generic: 名人明星
+- link " 同事":
+
+  - link " 同事":
+    - generic: 
+    - generic: 同事
+- link " 同学":
+
+  - link " 同学":
+    - generic: 
+    - generic: 同学
+- link " 悄悄关注":
+
+  - link " 悄悄关注":
+    - generic: 
+    - generic: 悄悄关注
+- main:
+  - generic: 
+  - generic: 返回
+  - heading [level=2]
+  - generic: Eli-AI
+  - article:
+    - generic: 公开
+    - generic "更多": 
+    - link "Eli-AI":
+
+    - link "Eli-AI":
+
+    - link "GitHub超话":
+
+    - link "26-10-8 21:16":
+
+    - generic "发布于 浙江"
+    - generic "来自 微博网页版"
+    - generic: "163"
+    - generic: 阅读
+    - generic: 推广
+    - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。
+    - text: 租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。
+    - text: 这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。
+    - text: 想要整理好的文档，评论「指南」。
+    - link "#GitHub#":
+
+    - link "#高性价比人生指南#":
+
+    - link "#免费资源#":
+
+    - link "#资料分享#":
+
+    - link "#自我提升#":
+
+    - text: "#AI工具"
+    - link "http://t.cn/AXlwVnGbEli-AI的微博视频":
+
+      - img "http://t.cn/AXlwVnGb"
+      - text: Eli-AI的微博视频
+    - region "视频播放器":
+      - button "播放视频":
+        - text: 
+        - generic: 播放视频
+      - text:      
+      - generic: 个人观点，仅供参考
+    - generic: 00:59
+    - generic: 21次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+      - generic: 
+      - generic: 分享这条博文
+  - textbox "发布你的评论"
+  - generic: 
+  - generic "表情": 
+  - generic "图片": 
+  - checkbox "同时转发"
+  - generic: 同时转发
+  - button "评论" [disabled]:
+    - generic: 评论
+  - generic: 还没有人评论哦~快来抢沙发！
+  - link:
+
+  - generic: Eli-AI
+  - link "28 关注":
+
+    - generic: "28"
+    - generic: 关注
+  - link "1 粉丝":
+
+    - generic: "1"
+    - generic: 粉丝
+  - link "3 微博":
+
+    - generic: "3"
+    - generic: 微博
+  - generic "简介": 
+  - generic: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 · 🛰️：EliAIFDE 备注来意，共同交流
+  - generic "基本信息": 
+  - generic: 男1993-01-01浙江
+  - link "查看个人主页 ":
+
+    - generic: 查看个人主页
+    - generic: 
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 金秀贤未与未成年金赛纶交往 13:05登顶":
+
+    - generic: "1"
+    - generic "金秀贤未与未成年金赛纶交往"
+    - generic: 13:05登顶
+  - link "2 aijing父母不存在失信被执行案件 58633":
+
+    - generic: "2"
+    - generic "aijing父母不存在失信被执行案件"
+    - generic: "58633"
+  - link "3 王嘉尔小鱼海棠同框 64105":
+
+    - generic: "3"
+    - generic "王嘉尔小鱼海棠同框"
+    - generic: "64105"
+  - link "4 吃播女网红去世前多次展示手背上的针眼 165512":
+
+    - generic: "4"
+    - generic "吃播女网红去世前多次展示手背上的针眼"
+    - generic: "165512"
+  - link "5 赵今麦在我们班是神一样的存在 51365":
+
+    - generic: "5"
+    - generic "赵今麦在我们班是神一样的存在"
+    - generic: "51365"
+  - link "6 郭宇欣面相都变了 63971":
+
+    - generic: "6"
+    - generic "郭宇欣面相都变了"
+    - generic: "63971"
+  - link "旗舰耍起攻略":
+
+    - generic "旗舰耍起攻略"
+  - link "7 王一博帽子反戴完全男大来的 63694":
+
+    - generic: "7"
+    - generic "王一博帽子反戴完全男大来的"
+    - generic: "63694"
+  - link "8 懂车帝将依法采取维权措施 71268":
+
+    - generic: "8"
+    - generic "懂车帝将依法采取维权措施"
+    - generic: "71268"
+  - link "9 赵奕欢上恋综崩溃大哭 55865":
+
+    - generic: "9"
+    - generic "赵奕欢上恋综崩溃大哭"
+    - generic: "55865"
+  - link "10 AI女爱豆因怀孕暂停活动 941322":
+
+    - generic: "10"
+    - generic "AI女爱豆因怀孕暂停活动"
+    - generic: "941322"
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

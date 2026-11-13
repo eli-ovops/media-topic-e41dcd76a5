@@ -1,0 +1,167 @@
+- heading "0 notifications" [level=2]
+- generic "Skip navigation menu":
+  - button "Skip to main content":
+    - generic: Skip to main content
+  - button "Skip to sidebar":
+    - generic: Skip to sidebar
+  - button "Skip to primary content":
+    - generic: Skip to primary content
+  - button "Skip to aside":
+    - generic: Skip to aside
+  - button "Close jump menu"
+- banner:
+  - button
+  - status
+  - search:
+    - textbox "Search"
+  - navigation:
+    - list:
+      - button "Home, 1 new notification":
+        - generic: Home
+      - link "Network, 2 new notifications":
+
+        - generic: "2"
+        - generic: Network
+      - link "Jobs, 0 new notifications":
+
+        - generic: Jobs
+      - link "Messaging, 0 new notifications":
+
+        - generic: Messaging
+      - link "Notifications, 1 new notification":
+
+        - generic: "1"
+        - generic: Notifications
+      - button "Me":
+        - figure
+        - generic: Me
+  - navigation:
+    - list:
+      - button "For Business":
+        - generic: For Business
+  - button "Try Premium for ¥0":
+    - paragraph: Try Premium for ¥0
+- main:
+  - complementary "Sidebar":
+    - link:
+
+      - figure
+      - figure
+    - link "ELi Chao AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 Japan":
+
+      - paragraph: ELi Chao
+      - paragraph: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享
+      - paragraph: Japan
+    - link "Experience":
+
+      - paragraph: Experience
+    - navigation:
+      - list:
+        - link "Overview":
+
+          - generic: Overview
+        - link "Content analytics":
+
+          - generic: Content analytics
+        - link "Audience analytics":
+
+          - generic: Audience analytics
+  - region "Primary content":
+    - paragraph: Post analytics
+    - link "Export":
+
+      - generic: Export
+    - heading "Feed post" [level=2]:
+      - generic: Feed post
+    - link "ELi Chao posted this • 3d":
+
+      - paragraph:
+        - strong: ELi Chao
+        - text: posted this • 3d
+    - 'link "把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 View hashtag: #ai View hashtag: #人工智能 View hashtag: #ai工具 View hashtag: #ai實用技巧 View hashtag: #agent View hashtag: #fde"':
+
+      - paragraph:
+        - text: 把AI用起來｜我是Eli
+        - text: 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。
+        - 'link "View hashtag: #ai"':
+
+          - text: "#AI"
+        - 'link "View hashtag: #人工智能"':
+
+          - text: "#人工智能"
+        - 'link "View hashtag: #ai工具"':
+
+          - text: "#AI工具"
+        - 'link "View hashtag: #ai實用技巧"':
+
+          - text: "#AI實用技巧"
+        - 'link "View hashtag: #agent"':
+
+          - text: "#Agent"
+        - 'link "View hashtag: #fde"':
+
+          - text: "#FDE"
+    - paragraph: Discovery
+    - button "Learn more"
+    - paragraph: "47"
+    - paragraph: Impressions
+    - paragraph: Members who post once a week can get up to 4x more profile views. Keep the momentum going by creating another post.
+    - link "Start a post":
+
+      - generic: Start a post
+    - button "Dismiss"
+    - paragraph: Profile activity
+    - button "Learn more"
+    - paragraph: "0"
+    - paragraph: Profile viewers from this post
+    - paragraph: "0"
+    - paragraph: Followers gained from this post
+    - paragraph: Engagement
+    - button "Learn more"
+    - paragraph: "0"
+    - paragraph: Social engagements
+    - paragraph: Reactions
+    - paragraph: "0"
+    - paragraph: Comments
+    - paragraph: "0"
+    - paragraph: Reposts
+    - paragraph: "0"
+    - paragraph: Saves
+    - paragraph: "0"
+    - paragraph: Sends on LinkedIn
+    - paragraph: "0"
+    - paragraph: Top demographics
+    - button "Learn more"
+    - progressbar "In progress"
+    - link "Analytics & tools View all analytics, including Followers":
+
+      - paragraph: Analytics & tools
+      - paragraph: View all analytics, including Followers
+  - complementary "Aside":
+    - link "About":
+
+      - paragraph: About
+    - link "Accessibility":
+
+      - paragraph: Accessibility
+    - link "Help Center":
+
+      - paragraph: Help Center
+    - button "Privacy & Terms":
+      - paragraph: Privacy & Terms
+    - link "Ad Choices":
+
+      - paragraph: Ad Choices
+    - link "Advertising":
+
+      - paragraph: Advertising
+    - button "Business Services":
+      - paragraph: Business Services
+    - link "Get the LinkedIn app":
+
+      - paragraph: Get the LinkedIn app
+    - link "More":
+
+      - paragraph: More
+    - paragraph: LinkedIn Corporation © 2026
+- iframe

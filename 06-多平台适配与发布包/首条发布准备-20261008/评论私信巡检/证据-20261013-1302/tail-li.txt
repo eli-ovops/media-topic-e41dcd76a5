@@ -1,0 +1,20 @@
+- region "Toast message":
+  - heading "0 notifications total" [level=2]
+  - alert
+- status "Loading global navigation menu"
+- complementary "Loading notifications left sidebar":
+  - status "Loading left subnav"
+- main "Loading notifications main content":
+  - status "Loading notification pill list"
+  - status "Loading main notification cards list":
+    - article
+    - article
+    - article
+    - article
+    - article
+    - article
+    - article
+    - article
+- complementary "Loading notifications right sidebar":
+  - status "Loading ad"
+- complementary "AI-powered assistant to get help with your career, jobs etc"

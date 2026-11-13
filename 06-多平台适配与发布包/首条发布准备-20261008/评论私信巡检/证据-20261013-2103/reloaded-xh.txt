@@ -1,0 +1,297 @@
+- banner:
+  - textbox "推出十月最爱新番"
+  - img "搜索"
+- link:
+
+- list:
+  - link "首页":
+
+    - generic: 首页
+  - link "点点 ai":
+
+    - generic: 点点
+    - generic: ai
+  - link "RED":
+
+    - generic: RED
+  - link "直播":
+
+    - generic: 直播
+  - link "发布":
+
+    - generic: 发布
+  - link "通知":
+
+    - generic: 通知
+  - link "消息":
+
+    - generic: 消息
+  - link "我":
+
+    - generic: 我
+  - paragraph:
+    - link "沪ICP备13030189号":
+
+    - text: "|"
+    - link "营业执照":
+
+    - text: "|"
+    - link "2026沪公网安备31010102002533号":
+
+    - text: "|"
+    - link "增值电信业务经营许可证：沪B2-20150021":
+
+    - text: "|"
+    - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+
+    - text: "|"
+    - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+
+    - text: "|"
+    - link "药品网络交易服务第三方平台备案：(沪)网药平台备字[2023]第000007-001号":
+
+    - text: "|"
+    - link "违法不良信息举报电话：4006676810":
+
+    - text: "|"
+    - link "上海市互联网举报中心":
+
+    - text: "|"
+    - link "网上有害信息举报专区":
+
+    - text: "|"
+    - link "自营经营者信息":
+
+    - text: "|"
+    - link "网络文化经营许可证：沪网文[2021]1545-113号":
+
+    - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+  - paragraph: © 2014-2026
+  - paragraph: 行吟信息科技（上海）有限公司
+  - paragraph: 地址：上海市黄浦区马当路388号C座
+  - paragraph: 电话：9501-3888
+- generic "更多":
+  - generic: 更多
+- generic "关于我们":
+  - generic: 关于我们
+- paragraph:
+  - link "沪ICP备13030189号":
+
+  - text: "|"
+  - link "营业执照":
+
+  - text: "|"
+  - link "2026沪公网安备31010102002533号":
+
+  - text: "|"
+  - link "增值电信业务经营许可证：沪B2-20150021":
+
+  - text: "|"
+  - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+
+  - text: "|"
+  - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+
+  - text: "|"
+  - link "药品网络交易服务第三方平台备案：(沪)网药平台备字[2023]第000007-001号":
+
+  - text: "|"
+  - link "违法不良信息举报电话：4006676810":
+
+  - text: "|"
+  - link "上海市互联网举报中心":
+
+  - text: "|"
+  - link "网上有害信息举报专区":
+
+  - text: "|"
+  - link "自营经营者信息":
+
+  - text: "|"
+  - link "网络文化经营许可证：沪网文[2021]1545-113号":
+
+  - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+- paragraph: © 2014-2026
+- paragraph: 行吟信息科技（上海）有限公司
+- paragraph: 地址：上海市黄浦区马当路388号C座
+- paragraph: 电话：9501-3888
+- generic: Eli AI FDE
+- generic: 小红书号：11520431136
+- generic: IP属地：浙江
+- generic: AI｜Agent｜FDE 实用方法 · 真实案例 · 踩坑分享
+- generic: 浙江杭州
+- generic: "22"
+- generic: 关注
+- generic: "13"
+- generic: 粉丝
+- generic: "35"
+- generic: 获赞与收藏
+- generic: 笔记
+- generic: 收藏
+- generic: 点赞
+- generic: 浏览记录
+- link:
+
+- link "把AI用起来｜我是Eli":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "1"
+- link:
+
+- link "没人脉、没资源，普通人怎么抓住AI机会？":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "4"
+- link:
+
+- link "GitHub高性价比人生指南":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "1"
+- link:
+
+- link "我的像素风 App，终于能试玩了🌍":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "1"
+- link:
+
+- link "我的像素风 App，终于能试玩了🌍":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: 赞
+- link:
+
+- link "星露谷画风的pokcket rove app内测开始":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "3"
+- link:
+
+- link "开启第二个app开发":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: 赞
+- link:
+
+- link "太难了！！！":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: 赞
+- link:
+
+- link "记录下app开发者普通的一天":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "2"
+- link:
+
+- link "开发的App加入5名新成员":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "6"
+- link:
+
+- link "终于进入内测阶段了！":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "3"
+- link:
+
+- link "小白0基础开发app的第二天":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "3"
+- link "仅自己可见":
+
+  - text: 仅自己可见
+- link "标签挂载验证2（私密，待删）":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: 赞
+- link "仅自己可见":
+
+  - text: 仅自己可见
+- link "标签挂载验证（私密，待删）":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: 赞
+- link:
+
+- link "有人愿意做第一批测试用户吗":
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- generic: "2"
+- generic: 笔记・3
+- generic: 专辑・0
+- generic: 文件・0
+- generic: 你还没有收藏任何内容哦
+- generic: 你还没有赞过任何内容哦
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe
+- generic: 00:00 / 00:15
+- paragraph: 倍速
+- link:
+
+- link "Eli AI FDE":
+
+  - generic: Eli AI FDE
+- heading "把AI用起来｜我是Eli" [level=1]
+- text: 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。
+- link "#ai":
+
+- link "#人工智能":
+
+- link "#AI工具":
+
+- link "#AI实用技巧howto":
+
+- link "#Agent":
+
+- link "#FDE":
+
+- generic: 猜你想搜
+- generic: 我是eli呀
+- generic: 3天前 浙江
+- generic: 作者声明：含ai生成内容
+- paragraph: 这是一片荒地点击评论
+- paragraph
+- generic: 说点什么...
+- generic: "1"
+- generic: 收藏
+- generic: 评论
+- button "发送" [disabled]
+- button "取消"

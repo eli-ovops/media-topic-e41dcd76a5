@@ -1,0 +1,146 @@
+- banner:
+  - textbox "推出十月最爱新番"
+  - img "搜索"
+- link:
+  - /url: /explore?channel_type=web_engagement_notification_page
+- list:
+  - link "首页":
+    - /url: /explore?channel_id=homefeed_recommend
+    - generic: 首页
+  - link "点点 ai":
+    - /url: /ai_chat?from=sidebar&conversationId=
+    - generic: 点点
+    - generic: ai
+  - link "RED":
+    - /url: /red_video
+    - generic: RED
+  - link "直播":
+    - /url: /livelist?channel_id=&channel_type=web_profile_page
+    - generic: 直播
+  - link "发布":
+    - /url: https://creator.xiaohongshu.com/publish/publish?source=official
+    - generic: 发布
+  - link "通知":
+    - /url: /notification
+    - generic: 通知
+  - link "消息":
+    - /url: /chat?channel_id=&channel_type=web_profile_page
+    - generic: 消息
+  - link "我" [active]:
+    - /url: /user/profile/671897ea000000001d033299
+    - generic: 我
+  - paragraph:
+    - link "沪ICP备13030189号":
+      - /url: //beian.miit.gov.cn/
+    - text: "|"
+    - link "营业执照":
+      - /url: //fe-video-qc.xhscdn.com/fe-platform-file/104101b8323gtfdq87a0690nvj5qg0000000003rivl690
+    - text: "|"
+    - link "2026沪公网安备31010102002533号":
+      - /url: //www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010102002533
+    - text: "|"
+    - link "增值电信业务经营许可证：沪B2-20150021":
+      - /url: //fe-video-qc.xhscdn.com/fe-platform-file/104101b8323fvnu0anu7690nvj5qg0000000003pqm217o
+    - text: "|"
+    - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+      - /url: //fe-video-qc.xhscdn.com/fe-platform/410dce57bc12a6d7e5808060e47644fbe46f68ff.pdf
+    - text: "|"
+    - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+      - /url: //fe-video-qc.xhscdn.com/fe-platform/f37a08cacc088061beb38329c387c32fc48fc6fe.pdf
+    - text: "|"
+    - link "违法不良信息举报电话：4006676810":
+      - /url: //www.shjbzx.cn
+    - text: "|"
+    - link "上海市互联网举报中心":
+      - /url: //www.shjbzx.cn
+    - text: "|"
+    - link "网上有害信息举报专区":
+      - /url: //www.12377.cn
+    - text: "|"
+    - link "自营经营者信息":
+      - /url: //dc.xhscdn.com/06c2adb0-b353-11e9-9d0c-7be9ff8961c1/自营经营者信息公示.pdf
+    - text: "|"
+    - link "网络文化经营许可证：沪网文[2021]1545-113号":
+      - /url: //fe-video-qc.xhscdn.com/fe-platform-file/104101b8323fvnuec7u0690nvj5qg0000000003o78obkg
+    - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+  - paragraph: © 2014-2026
+  - paragraph: 行吟信息科技（上海）有限公司
+  - paragraph: 地址：上海市黄浦区马当路388号C座
+  - paragraph: 电话：9501-3888
+- generic "更多":
+  - generic: 更多
+- generic "关于我们":
+  - generic: 关于我们
+- paragraph:
+  - link "沪ICP备13030189号":
+    - /url: //beian.miit.gov.cn/
+  - text: "|"
+  - link "营业执照":
+    - /url: //fe-video-qc.xhscdn.com/fe-platform-file/104101b8323gtfdq87a0690nvj5qg0000000003rivl690
+  - text: "|"
+  - link "2026沪公网安备31010102002533号":
+    - /url: //www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010102002533
+  - text: "|"
+  - link "增值电信业务经营许可证：沪B2-20150021":
+    - /url: //fe-video-qc.xhscdn.com/fe-platform-file/104101b8323fvnu0anu7690nvj5qg0000000003pqm217o
+  - text: "|"
+  - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+    - /url: //fe-video-qc.xhscdn.com/fe-platform/410dce57bc12a6d7e5808060e47644fbe46f68ff.pdf
+  - text: "|"
+  - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+    - /url: //fe-video-qc.xhscdn.com/fe-platform/f37a08cacc088061beb38329c387c32fc48fc6fe.pdf
+  - text: "|"
+  - link "违法不良信息举报电话：4006676810":
+    - /url: //www.shjbzx.cn
+  - text: "|"
+  - link "上海市互联网举报中心":
+    - /url: //www.shjbzx.cn
+  - text: "|"
+  - link "网上有害信息举报专区":
+    - /url: //www.12377.cn
+  - text: "|"
+  - link "自营经营者信息":
+    - /url: //dc.xhscdn.com/06c2adb0-b353-11e9-9d0c-7be9ff8961c1/自营经营者信息公示.pdf
+  - text: "|"
+  - link "网络文化经营许可证：沪网文[2021]1545-113号":
+    - /url: //fe-video-qc.xhscdn.com/fe-platform-file/104101b8323fvnuec7u0690nvj5qg0000000003o78obkg
+  - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+- paragraph: © 2014-2026
+- paragraph: 行吟信息科技（上海）有限公司
+- paragraph: 地址：上海市黄浦区马当路388号C座
+- paragraph: 电话：9501-3888
+- generic: Eli AI FDE
+- generic: 小红书号：11520431136
+- generic: IP属地：浙江
+- generic: AI｜Agent｜FDE 实用方法 · 真实案例 · 踩坑分享
+- generic: 浙江杭州
+- generic: "22"
+- generic: 关注
+- generic: "13"
+- generic: 粉丝
+- generic: "33"
+- generic: 获赞与收藏
+- generic: 笔记
+- generic: 收藏
+- generic: 点赞
+- generic: 浏览记录
+- generic: 你还没有发布任何内容哦
+- generic: 笔记・3
+- generic: 专辑・0
+- generic: 文件・0
+- generic: 你还没有收藏任何内容哦
+- generic: 你还没有赞过任何内容哦
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe
+- generic: 安全验证
+- generic "关闭":
+- img "滑块验证码背景"
+- img "拼图块"
+- generic: 拖动箭头完成拼图
+- button "拖动滑块":
+- button "换一换":
+  - text: 换一换
+- generic: 问题反馈

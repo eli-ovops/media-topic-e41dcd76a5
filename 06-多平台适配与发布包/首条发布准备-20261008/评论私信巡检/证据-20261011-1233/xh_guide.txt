@@ -1,0 +1,40 @@
+ink "年轻人花钱没有概念有多可怕#徒步#国庆#徒步#装备瀚狐登山杖":
+  - /url: /explore/6ab116b100000000340145ba?xsec_token=REDACTED&xsec_source=pc_feed
+- link "刘大哥":
+  - /url: /user/profile/6a190c640000000002002801?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=REDACTED&xsec_source=
+  - generic: 刘大哥
+- generic: "459"
+- link:
+  - /url: /explore/6ac04308000000001b02ecef?xsec_token=REDACTED&xsec_source=pc_feed
+- link "撕破小红书AI做APP暴富骗局":
+  - /url: /explore/6ac04308000000001b02ecef?xsec_token=REDACTED&xsec_source=pc_feed
+- link "Ray":
+  - /url: /user/profile/5a4a1526e8ac2b4f4727b88c?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=REDACTED&xsec_source=
+  - generic: Ray
+- generic: "9"
+- generic: 00:28 / 00:59
+- paragraph: 倍速
+- paragraph: 1080P 高清
+- link:
+  - /url: /user/profile/671897ea000000001d033299?channel_type=web_note_detail_r10&xsec_token=REDACTED&xsec_source=pc_user
+- link "Eli AI FDE":
+  - /url: /user/profile/671897ea000000001d033299?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=REDACTED&xsec_source=pc_user
+  - generic: Eli AI FDE
+- heading "GitHub高性价比人生指南" [level=1]
+- generic: "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。 租房、换工作、学技能，不知道先查什么？ 这份《高性价比人生指南》，可以按自己的问题翻对应章节。 我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。 先存目录，需要时再翻。想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+- generic: 猜你想搜
+- generic: github人生进阶指南pdf
+- generic: 2天前 浙江
+- paragraph: 这是一片荒地点击评论
+- paragraph
+- generic: 说点什么...
+- generic: "1"
+- generic: 收藏
+- generic: 评论
+- button "发送" [disabled]
+- button "取消"
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe

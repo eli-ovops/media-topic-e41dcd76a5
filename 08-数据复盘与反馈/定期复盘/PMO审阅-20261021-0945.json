@@ -1,0 +1,31 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "at": "2026-10-21T09:47:32.014964+08:00",
+  "decision": "ACCEPT_LIMITED_OWNER_RECORD_DURING_DEEPSEEK_TOPIC_REVIEW",
+  "owner_report_actually_received": true,
+  "report": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261021-0945.md",
+    "sha256": "172619221a54d12faf4894030590e2b2752b96d729b77d50700316b9a61d41f2"
+  },
+  "data": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261021-0945.json",
+    "sha256": "dc179f959e23ef75731653c66693f97415f1ebb94de4a3723c41616374f20f5b"
+  },
+  "sum": 576,
+  "numeric_video_coverage": 7,
+  "review_scope": "报告、原生字段记录、算术与私信去重；PMO未重开各站或重新查看原生截图",
+  "resolved_audience_request": {
+    "key": "douyin:卡西酱:20261021:高性价比指南",
+    "status": "USER_REPLIED_OWNER_NATIVE_FIELD_VERIFIED",
+    "not_claim_file_sent": true
+  },
+  "group_notice": {
+    "key": "douyin:Eli Ai交流群:20261021:0820:入群申请提示",
+    "status": "APPLICATION_NOTICE_SEEN_APPLICANT_AND_CURRENT_PENDING_STATE_UNKNOWN",
+    "action": "请用户查看入群申请提示；是否仍待审UNKNOWN，不代接受"
+  },
+  "tiktok_saves_current": "UNKNOWN_CAPTCHA_BLOCK_NOT_BYPASSED_HISTORICAL_ZERO_NOT_CURRENT",
+  "full_stats_in_report": true,
+  "active_user_task_preserved": "DeepSeek reference/topic judgment remains current primary objective",
+  "new_external_action_or_cleanup": false
+}

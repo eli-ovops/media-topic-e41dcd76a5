@@ -1,0 +1,15 @@
+{
+  "automation_id":"9",
+  "report":"复盘-20261021-0138.md",
+  "snapshot":"数据基线-20261021-0138.json",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool":"mcp__codex_app__send_message_to_thread",
+  "tool_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "send_status":"TOOL_ACCEPTED",
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "verification":"JSON及新片6站447/旧片同三站12454合计通过",
+  "snapshot_sha256":"b6c2a578aa949068db8829310d3542aa1ff5f09410701c0a1b70e10e1f1d6662",
+  "report_sha256":"5d0053f24bb2a1c3b182185a0627d74219ef4938edc8472d8d54fcefface503d",
+  "note":"没有查询PMO是否收到，不轮询。"
+}

@@ -1,0 +1,65 @@
+- complementary:
+  - generic: 消息
+  - textbox "搜索"
+  - text: 可在【设置】-【隐私设置】中修改在线状态，开启后查看互关朋友在线状态。
+  - link "去设置":
+    - /url: "#"
+  - generic: 3️⃣月7️⃣
+  - generic: 昨天 08:39
+  - generic: 好的
+  - generic: 洋大人
+  - generic: 前天
+  - generic: 要完整版吗
+  - generic: Eli
+  - generic: 前天
+  - generic: "[分享用户]"
+  - generic: 千金难买你初心
+  - generic: 前天
+  - generic: 嗨～ 我是郁蛊，聊聊天吧
+  - generic: ￴ ￴￴ ￴￴￴ ︎
+  - generic: 前天
+  - generic: 嗨～ 我是￴ ￴￴ ￴￴￴ ︎，聊聊天吧
+  - generic: 躲我是害羞吗
+  - generic: 前天
+  - generic: 嗨～ 我是躲我是害羞吗，聊聊天吧
+  - generic: 你是恨我还是恨不如我
+  - generic: 周四
+  - generic: 回！
+  - generic: 小鲶鱼
+  - generic: 周四
+  - generic: 嗨～ 我是小鲶鱼，聊聊天吧
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url

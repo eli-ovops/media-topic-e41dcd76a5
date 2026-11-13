@@ -1,0 +1,478 @@
+{
+  "date": "2026-10-08",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "content_id": "first-video-life-guide-visual-fix-v7",
+  "formal_stage": "05",
+  "human_final_review": "PENDING",
+  "publications": 0,
+  "overall_status": "PARTIAL_WITH_PLATFORM_BLOCKERS",
+  "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+  "cover": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/封面海报-地球online攻略-v6.png",
+  "platforms": [
+    {
+      "platform": "小红书",
+      "status": "PARTIAL_NEEDS_HUMAN_MOBILE",
+      "target_account": "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+      "account_verified": true,
+      "tab_id": "4",
+      "url": "https://creator.xiaohongshu.com/publish/publish?from=homepage&target=video&openFilePicker=true",
+      "actual_title": "GitHub高性价比人生指南",
+      "actual_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n租房、换工作、学技能，不知道先查什么？\n这份《高性价比人生指南》，可以按自己的问题翻对应章节。\n我最想分享的是：花多少钱、花多少时间、可能换来什么，以及资料来源，都能一起看。\n先存目录，需要时再翻。想要整理好的文档，评论「指南」。\nGitHub搜：eternity4719/HowToLiveBetter。\n资料：eternity4719；本视频为摘录、讲述与字幕整理。CC BY 4.0：https://creativecommons.org/licenses/by/4.0/",
+      "actual_tags": [
+        "#GitHub",
+        "#高性价比人生指南",
+        "#资料分享",
+        "#AI工具"
+      ],
+      "upload_status": "UPLOADING_0_PERCENT",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "EDITOR_MEDIA_PROCESSING_BLOCKS_MUSIC_CHECK",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/小红书-文案已填媒体处理中.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": null,
+      "blockers": [
+        "视频上传中0%；未处理完成，未设置封面/BGM/音量"
+      ],
+      "remaining_steps": [
+        "视频上传中0%；未处理完成，未设置封面/BGM/音量",
+        "媒体、封面及音乐可操作后补齐并预览验收"
+      ],
+      "account_evidence": "Eli AI FDE / 11520431136",
+      "text_verification": "DOM/AX字段已回读，草稿保存另计"
+    },
+    {
+      "platform": "B站",
+      "status": "PARTIAL_REVIEW_PENDING",
+      "target_account": "https://space.bilibili.com/432834855",
+      "account_verified": true,
+      "tab_id": "5",
+      "url": "https://member.bilibili.com/platform/upload/video/frame?type=draft&draftId=3963450",
+      "actual_title": "GitHub这份《高性价比人生指南》怎么查？59秒看懂",
+      "actual_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n租房、换工作、学技能，先从对应章节查起。\n这次分享《高性价比人生指南》的目录、技能章节，以及成本、收益和来源的阅读方法。我的建议：先存目录，有需要再翻。\n在线阅读：https://eternity4719.github.io/HowToLiveBetter/\n原仓库与下载：https://github.com/eternity4719/HowToLiveBetter\n想要整理好的文档，也可以评论「指南」。\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/",
+      "actual_tags": [
+        "GitHub",
+        "资料分享",
+        "高性价比人生指南",
+        "AI工具"
+      ],
+      "upload_status": "UPLOAD_COMPLETE",
+      "processing_status": "UNKNOWN",
+      "cover_status": "SET_TWO_RATIOS_CORE_TITLE_COMPLETE",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "NO_ENTRY_OBSERVED_IN_UPLOAD_BASIC_AND_EXPANDED_SETTINGS",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-双比例封面标题完整.jpg",
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-非公开草稿已保存.jpg",
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/B站-已保存草稿重新打开.jpg"
+      ],
+      "draft_saved": true,
+      "still_open": true,
+      "final_button": "立即投稿（未点击）",
+      "blockers": [],
+      "remaining_steps": [
+        "最终预览及听音验收",
+        "无网页BGM入口；原声策略待用户验收"
+      ],
+      "account_evidence": "Eli-AI / 432834855；本人视角及编辑控件",
+      "text_verification": "保存后重新打开草稿，正文段落338字、4标签、分区与声明保留；代理textbox残留aaaaaaaa不代表可见正文，见实际编辑区",
+      "category": "知识",
+      "content_declaration": "个人观点，仅供参考"
+    },
+    {
+      "platform": "国内抖音",
+      "status": "BLOCKED_SUPPORTED_BROWSER",
+      "target_account": {
+        "id": "25296649142",
+        "name": "Eli-Ai",
+        "url": "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+        "old_account_allowed": false,
+        "status": "NEW_ACCOUNT_VERIFIED_FROM_OWNER_ORIGINALS_AND_SAVED_SCREENSHOT",
+        "live_login_verified_by_06": false,
+        "profile": "头像/背景可见，简介未显示；不继承旧号资料完成结论"
+      },
+      "account_verified": true,
+      "tab_id": "3",
+      "url": "https://creator.douyin.com/creator-micro/content/upload",
+      "actual_title": null,
+      "actual_body": null,
+      "actual_tags": [],
+      "upload_status": "NOT_UPLOADED",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/国内抖音-当前页面.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": null,
+      "blockers": [
+        "上传组件持续“加载中，请稍候…”，同页一次reload仍未可用"
+      ],
+      "remaining_steps": [
+        "上传组件持续“加载中，请稍候…”，同页一次reload仍未可用",
+        "媒体、封面及音乐可操作后补齐并预览验收"
+      ],
+      "account_evidence": "Eli-Ai / 25296649142"
+    },
+    {
+      "platform": "微信视频号",
+      "status": "BLOCKED_SUPPORTED_BROWSER",
+      "target_account": "既有账号Owner目标，操作前本人核身份",
+      "account_verified": false,
+      "tab_id": null,
+      "url": null,
+      "actual_title": null,
+      "actual_body": null,
+      "actual_tags": [],
+      "upload_status": "NOT_UPLOADED",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [],
+      "draft_saved": false,
+      "still_open": false,
+      "final_button": null,
+      "blockers": [
+        "LOCAL_BLOCKERS B002 2026-10-08：site-safety明确拒绝；未重试/换通道"
+      ],
+      "remaining_steps": [
+        "由本人手动使用视频号助手；本会话未能打开该平台实际页面"
+      ],
+      "requested_url": "https://channels.weixin.qq.com/platform"
+    },
+    {
+      "platform": "YouTube",
+      "status": "PARTIAL_NEEDS_HUMAN_MOBILE",
+      "target_account": "https://www.youtube.com/@EliChao-m9o6r",
+      "account_verified": true,
+      "tab_id": "6",
+      "url": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw",
+      "actual_title": "GitHub《高性价比人生指南》 | Chinese Life Guide",
+      "actual_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n租房、换工作、学技能，先找对应章节，再看成本、收益和来源。\n这条59秒视频带你认识《高性价比人生指南》。想要整理好的文档，可以评论「指南」；也可直接打开原作者入口。\nChinese narration with bilingual subtitles. This video introduces the Chinese guide, mainly for life in mainland China.\n在线阅读 / Read the Chinese original: https://eternity4719.github.io/HowToLiveBetter/\n原仓库 / Original: https://github.com/eternity4719/HowToLiveBetter\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/",
+      "actual_tags": [
+        "#GitHub",
+        "#高性价比人生指南",
+        "#ChineseResources"
+      ],
+      "upload_status": "UPLOAD_COMPLETE_PRIVATE_AUTO_SAVED",
+      "processing_status": "版权检查已完成，未发现问题；1:00播放器可见",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "NO_BGM_OR_MIXING_ENTRY_OBSERVED_IN_UPLOAD_DETAILS_AND_ADVANCED_SETTINGS",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/YouTube-私享草稿.jpg"
+      ],
+      "draft_saved": true,
+      "still_open": true,
+      "final_button": "继续（当前步骤）；未到发送步骤",
+      "blockers": [
+        "自定义缩略图要求验证电话号码；非儿童选项点击后仍aria-checked=false；BGM待手机端"
+      ],
+      "remaining_steps": [
+        "面向儿童必填未确认选中（操作未生效）",
+        "自定义封面需电话验证，未执行验证",
+        "最终预览与听音验收",
+        "上传器未见BGM/混音入口；音频库为独立入口，未添加歌曲"
+      ],
+      "account_evidence": "Eli-AI / @EliChao-m9o6r / UCqJaVQRO3FrxD5spt1GG7Iw",
+      "text_verification": "DOM/AX字段已回读，草稿保存另计",
+      "draft_save_evidence": "已保存为私享视频",
+      "video_link": "https://youtube.com/shorts/Yx4IuJe1eSs",
+      "category": "DIY 和生活百科",
+      "metadata_tags": [
+        "GitHub",
+        "Life Guide",
+        "Chinese Resources"
+      ]
+    },
+    {
+      "platform": "LinkedIn",
+      "status": "BLOCKED_SUPPORTED_BROWSER",
+      "target_account": "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+      "account_verified": true,
+      "tab_id": "7",
+      "url": "https://www.linkedin.com/sharing/compose",
+      "actual_title": null,
+      "actual_body": null,
+      "actual_tags": [],
+      "upload_status": "NOT_UPLOADED",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/LinkedIn-当前页面.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": null,
+      "blockers": [
+        "媒体编辑器Loading按钮持续disabled，Next禁用",
+        "Back后进入首页；文字入口打开空Ad Options弹窗，未形成可填写正文"
+      ],
+      "remaining_steps": [
+        "媒体编辑器Loading按钮持续disabled，Next禁用",
+        "Back后进入首页；文字入口打开空Ad Options弹窗，未形成可填写正文",
+        "媒体、封面及音乐可操作后补齐并预览验收"
+      ],
+      "account_evidence": "ELi Chao / in/eli-chao-548a7a43b"
+    },
+    {
+      "platform": "X",
+      "status": "PARTIAL_NEEDS_HUMAN_MOBILE",
+      "target_account": "https://x.com/cczij1112",
+      "account_verified": true,
+      "tab_id": "8",
+      "url": "https://x.com/compose/post",
+      "actual_title": "GitHub这份《高性价比人生指南》，值得先存",
+      "actual_body": "关注AI工具，也别错过GitHub这份《高性价比人生指南》。\n租房、工作、学技能，按章节查。Chinese guide, China-focused.\n原作eternity4719，摘录/字幕整理，CC BY 4.0：https://creativecommons.org/licenses/by/4.0/\nhttps://github.com/eternity4719/HowToLiveBetter",
+      "actual_tags": [
+        "#GitHub",
+        "#高性价比人生指南"
+      ],
+      "upload_status": "UPLOAD_ERROR",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/X-当前页面.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": "发帖",
+      "blockers": [
+        "视频文件状态“出错了”；未重发/重复上传"
+      ],
+      "remaining_steps": [
+        "修复媒体上传错误、核预览；不得直接发送纯文字"
+      ],
+      "account_evidence": "Eli-AI / @cczij1112",
+      "text_verification": "DOM/AX字段已回读，草稿保存另计"
+    },
+    {
+      "platform": "微博",
+      "status": "PARTIAL_REVIEW_PENDING",
+      "target_account": "https://weibo.com/u/7720929036",
+      "account_verified": true,
+      "tab_id": "14",
+      "url": "https://weibo.com/upload/channel",
+      "actual_title": "《高性价比人生指南》：GitHub上的免费生活资料",
+      "actual_body": "GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。\n租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。\n这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。\n想要整理好的文档，评论「指南」；原仓库也可以直接看：https://github.com/eternity4719/HowToLiveBetter\n资料：eternity4719《高性价比人生指南》（CC BY 4.0）；本视频为摘录、讲述与字幕整理。https://creativecommons.org/licenses/by/4.0/",
+      "actual_tags": [
+        "#GitHub#",
+        "#高性价比人生指南#",
+        "#资料分享#",
+        "#AI工具#"
+      ],
+      "upload_status": "UPLOAD_COMPLETE",
+      "processing_status": "上传完成 77.29MB/77.29MB",
+      "cover_status": "SET_NATIVE_CROP_CORE_TITLE_COMPLETE",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "NO_ENTRY_OBSERVED_IN_FULL_NATIVE_UPLOAD_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/微博-分类声明封面已填待发布.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": "发布（已启用，未点击）",
+      "blockers": [],
+      "remaining_steps": [
+        "最终视频预览及听音验收",
+        "未见保存草稿控件，当前仅编辑页保留",
+        "未见网页BGM或混音入口，原声策略待验收"
+      ],
+      "account_evidence": "Eli-AI / 7720929036；入口本人导航",
+      "text_verification": "DOM/AX字段已回读，草稿保存另计",
+      "category": "知识 - 互联网",
+      "creation_type": "原创",
+      "content_declaration": "个人观点，仅供参考"
+    },
+    {
+      "platform": "TikTok",
+      "status": "BLOCKED_SUPPORTED_BROWSER",
+      "target_account": "https://www.tiktok.com/@elimakesapps",
+      "account_verified": true,
+      "tab_id": "10",
+      "url": "https://www.tiktok.com/tiktokstudio/upload/unavailable",
+      "actual_title": null,
+      "actual_body": null,
+      "actual_tags": [],
+      "upload_status": "NOT_UPLOADED",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/TikTok-当前页面.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": null,
+      "blockers": [
+        "正常上传→视频入口显示“功能不可用”"
+      ],
+      "remaining_steps": [
+        "正常上传→视频入口显示“功能不可用”",
+        "媒体、封面及音乐可操作后补齐并预览验收"
+      ],
+      "account_evidence": "@elimakesapps"
+    },
+    {
+      "platform": "Instagram",
+      "status": "BLOCKED_SUPPORTED_BROWSER",
+      "target_account": "https://www.instagram.com/eliaifde/",
+      "account_verified": false,
+      "tab_id": "11",
+      "url": "about:blank",
+      "actual_title": null,
+      "actual_body": null,
+      "actual_tags": [],
+      "upload_status": "NOT_UPLOADED",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/Instagram-当前页面.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": null,
+      "blockers": [
+        "两次同一URL导航net::ERR_ABORTED，未核到本人账号"
+      ],
+      "remaining_steps": [
+        "用户在保留标签中手动打开Instagram并接续"
+      ],
+      "requested_url": "https://www.instagram.com/"
+    },
+    {
+      "platform": "Facebook",
+      "status": "BLOCKED_SUPPORTED_BROWSER",
+      "target_account": "https://www.facebook.com/profile.php?id=61594512757125",
+      "account_verified": true,
+      "tab_id": "12",
+      "url": "https://www.facebook.com/",
+      "actual_title": null,
+      "actual_body": null,
+      "actual_tags": [],
+      "upload_status": "NOT_UPLOADED",
+      "processing_status": "UNKNOWN",
+      "cover_status": "NOT_SET",
+      "music": {
+        "song": null,
+        "version": null,
+        "trend_evidence": null,
+        "availability": "BLOCKED_BEFORE_USABLE_MEDIA_EDITOR",
+        "original_voice_actual": null,
+        "bgm_actual": null,
+        "coverage": null
+      },
+      "preview_scope": "NONE",
+      "screenshot_paths": [
+        "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/浏览器证据-v3/Facebook-当前页面.jpg"
+      ],
+      "draft_saved": false,
+      "still_open": true,
+      "final_button": null,
+      "blockers": [
+        "Photo/video控件点击及一次native修正未打开编辑器"
+      ],
+      "remaining_steps": [
+        "Photo/video控件点击及一次native修正未打开编辑器",
+        "媒体、封面及音乐可操作后补齐并预览验收"
+      ],
+      "account_evidence": "Eli Chao / 61594512757125"
+    }
+  ],
+  "updated_at": "2026-10-08T12:24:26.772Z"
+}

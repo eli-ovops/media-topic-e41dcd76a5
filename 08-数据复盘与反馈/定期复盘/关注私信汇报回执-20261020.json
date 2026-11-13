@@ -1,0 +1,13 @@
+{
+  "date":"2026-10-20",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "artifact":"/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/关注与私信补核-20261020.md",
+  "report_send_status":"TOOL_ACCEPTED",
+  "raw_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "pending_request":{"platform":"TikTok","sender":"Marsexpress/@marsexpress333","summary":"你好！求资料","time_display":"09:58","date":"UNKNOWN","status":"NOT_ACCEPTED_NOT_REPLIED","new_since_previous_run":"UNKNOWN"},
+  "attributed_followers":{"latest_content_id":"ai-contrarian-20261019","国内抖音":0,"LinkedIn":0,"all_platform_account_delta":"UNKNOWN"},
+  "temporary_files":[],
+  "cleanup":"无清理项"
+}

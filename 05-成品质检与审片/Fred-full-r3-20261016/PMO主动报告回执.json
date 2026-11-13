@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "targetThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool": "send_message_to_thread",
+  "toolSendSucceeded": true,
+  "raw": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmoRead": "UNKNOWN",
+  "pmoAcceptance": "UNKNOWN",
+  "note": "工具返回成功；未轮询PMO，未将发送成功等同于接收或验收。"
+}

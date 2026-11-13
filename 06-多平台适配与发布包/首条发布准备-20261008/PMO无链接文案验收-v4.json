@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-08 Asia/Shanghai",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "owner_turn_id": "01a11b7d-39bf-7cf2-813a-3bba0dad7723",
+  "decision": "PASS_NO_LINK_COPY_REVISION_ONLY_PUBLICATION_READINESS_INCOMPLETE",
+  "scope": "11平台本地公开文案及6实际未公开编辑页去URL，不验收BGM或最终发布",
+  "originals_read": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案-v4.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单-v4.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.json"
+  ],
+  "page_images_viewed": [
+    "B站-无链接草稿保存后回读.jpg",
+    "微博-无链接文案实际编辑页.jpg",
+    "YouTube-无链接私享草稿已保存.jpg",
+    "LinkedIn-恢复编辑器无链接稿.jpg"
+  ],
+  "public_text_scan": {
+    "local_platforms": 11,
+    "actual_final_bodies": 6,
+    "url_or_bare_domain_or_markdown_link_or_repo_path_matches": 0
+  },
+  "actual_results": {
+    "local_no_link_copy": 11,
+    "page_modified": 6,
+    "page_verified": 6,
+    "saved_and_readback": 2,
+    "ready_to_send": 0,
+    "operable_pending": 3,
+    "blocked": 8,
+    "publications": 0
+  },
+  "nonpublic_saved_platforms": [
+    "B站",
+    "YouTube"
+  ],
+  "remaining": [
+    {
+      "platform": "小红书",
+      "category": "阻断",
+      "blocker": "视频持续上传中0%；封面未就绪，发布入口不可用",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "B站",
+      "category": "可操作但尚有待补项",
+      "blocker": null,
+      "todo": [
+        "补齐或明确接受热门BGM差异",
+        "全片预览与听音验收后由用户最后投稿"
+      ]
+    },
+    {
+      "platform": "国内抖音",
+      "category": "阻断",
+      "blocker": "最新加载中＋网络请求错误；没有可操作上传编辑器",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "微信视频号",
+      "category": "阻断",
+      "blocker": "LOCAL_BLOCKERS B002 2026-10-08：site-safety明确拒绝；未重试/换通道",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "YouTube",
+      "category": "可操作但尚有待补项",
+      "blocker": "发送准备仍受观众必填和自定义封面电话验证阻断，未改这两项",
+      "todo": [
+        "完成观众必填",
+        "本人处理封面验证或接受可用封面",
+        "补齐或明确接受热门BGM差异",
+        "全片预览与听音验收"
+      ]
+    },
+    {
+      "platform": "LinkedIn",
+      "category": "阻断",
+      "blocker": "视频尚未上传；旧媒体编辑器Loading阻断未重试，不得发送纯文字替代视频",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "X",
+      "category": "阻断",
+      "blocker": "媒体出错；保存草稿出现正在上传且草稿附件可能丢失警告，Escape取消，未完成保存",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "微博",
+      "category": "可操作但尚有待补项",
+      "blocker": "热门BGM未设置；仅编辑页保留，未确认草稿保存",
+      "todo": [
+        "补齐或明确接受热门BGM差异",
+        "全片预览与听音验收；当前页正文未确认草稿保存"
+      ]
+    },
+    {
+      "platform": "TikTok",
+      "category": "阻断",
+      "blocker": "正常上传→视频入口显示“功能不可用”",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "Instagram",
+      "category": "阻断",
+      "blocker": "原标签已不在库存，当前登录与编辑页UNKNOWN；此前两次导航中断，不重试",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "category": "阻断",
+      "blocker": "最新仍在Eli Chao首页；没有打开媒体编辑器。既有Photo/video无响应失败未重复",
+      "todo": [
+        "解除记录的媒体或入口阻断后使用v4文案接续，勿发送纯文字替代"
+      ]
+    }
+  ],
+  "readiness_limits": [
+    "全部11站热门BGM与混音未设置；原声版本不等于用户要求的完整配乐版",
+    "B站/微博元数据与封面已填，尚待预览/用户是否采用原声版；不伪记全片终审",
+    "YouTube观众必填与自定义封面验证未完成",
+    "X/LinkedIn按钮启用不代表视频可发送；媒体错误/未附片不得误发纯文字",
+    "Instagram原标签已不在最新库存，不能沿用v3保留空白标签的状态",
+    "视频号原安全拒绝保持人工处理，不换通道绕过"
+  ],
+  "pmo_action": "审既有原件/截图，不重跑上传或接管执行者浏览器",
+  "owner_turn_completed": true,
+  "public_publication_or_review_submission": 0,
+  "source_hashes": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/平台文案-v4.md",
+      "sha256": "7f8501c8d7a85d61163bdf614653f41350dc966d1b1339a9a3b3e967ee039c8a",
+      "bytes": 7280
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/发布清单-v4.json",
+      "sha256": "2cc9e9584d18159ac2cd064a50c086b6920cbed7a201691a80dcc543859ca7e9",
+      "bytes": 26399
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.md",
+      "sha256": "ea400718278dcdadf39973ba0d8cc0fed128e86659a07cc84d00807d194137b1",
+      "bytes": 14223
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/无链接文案回执-v4.json",
+      "sha256": "44c526aa505069a949902bc8132e8e4dce33e324d49d365a6efbff6a4d04db63",
+      "bytes": 48531
+    }
+  ]
+}

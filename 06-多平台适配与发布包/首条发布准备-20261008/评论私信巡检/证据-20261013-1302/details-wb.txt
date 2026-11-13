@@ -1,0 +1,268 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "首页" [level=2]
+- link " 全部关注":
+
+  - link " 全部关注":
+    - generic: 
+    - generic: 全部关注
+- link " 最新微博":
+
+  - link " 最新微博":
+    - generic: 
+    - generic: 最新微博
+- link " 特别关注":
+
+  - link " 特别关注":
+    - generic: 
+    - generic: 特别关注
+- link " 好友圈":
+
+  - link " 好友圈":
+    - generic: 
+    - generic: 好友圈
+- heading "自定义分组" [level=3]
+- button "管理":
+  - generic: 管理
+- link " 名人明星":
+
+  - link " 名人明星":
+    - generic: 
+    - generic: 名人明星
+- link " 同事":
+
+  - link " 同事":
+    - generic: 
+    - generic: 同事
+- link " 同学":
+
+  - link " 同学":
+    - generic: 
+    - generic: 同学
+- link " 悄悄关注":
+
+  - link " 悄悄关注":
+    - generic: 
+    - generic: 悄悄关注
+- main:
+  - generic: 
+  - generic: 返回
+  - heading [level=2]
+  - generic: Eli-AI
+  - article:
+    - generic: 公开
+    - generic "更多": 
+    - link "Eli-AI":
+
+    - link "Eli-AI":
+
+    - link "GitHub超话":
+
+    - link "26-10-8 21:16":
+
+    - generic "发布于 浙江"
+    - generic "来自 微博网页版"
+    - generic: "161"
+    - generic: 阅读
+    - generic: 推广
+    - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。
+    - text: 租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。
+    - text: 这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。
+    - text: 想要整理好的文档，评论「指南」。
+    - link "#GitHub#":
+
+    - link "#高性价比人生指南#":
+
+    - link "#免费资源#":
+
+    - link "#资料分享#":
+
+    - link "#自我提升#":
+
+    - text: "#AI工具"
+    - link "http://t.cn/AXlwVnGbEli-AI的微博视频":
+
+      - img "http://t.cn/AXlwVnGb"
+      - text: Eli-AI的微博视频
+    - region "视频播放器":
+      - button "播放视频":
+        - text: 
+        - generic: 播放视频
+      - text:      
+      - generic: 个人观点，仅供参考
+    - generic: 00:59
+    - generic: 21次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+      - generic: 
+      - generic: 分享这条博文
+  - textbox "发布你的评论"
+  - generic: 
+  - generic "表情": 
+  - generic "图片": 
+  - checkbox "同时转发"
+  - generic: 同时转发
+  - button "评论" [disabled]:
+    - generic: 评论
+  - generic: 还没有人评论哦~快来抢沙发！
+  - link:
+
+  - generic: Eli-AI
+  - link "28 关注":
+
+    - generic: "28"
+    - generic: 关注
+  - link "1 粉丝":
+
+    - generic: "1"
+    - generic: 粉丝
+  - link "3 微博":
+
+    - generic: "3"
+    - generic: 微博
+  - generic "简介": 
+  - generic: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 · 🛰️：EliAIFDE 备注来意，共同交流
+  - generic "基本信息": 
+  - generic: 男1993-01-01浙江
+  - link "查看个人主页 ":
+
+    - generic: 查看个人主页
+    - generic: 
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 陈小纭曾被称为迪士尼在逃公主 52430":
+
+    - generic: "1"
+    - generic "陈小纭曾被称为迪士尼在逃公主"
+    - generic: "52430"
+  - link "2 AI女爱豆因怀孕暂停活动 148282":
+
+    - generic: "2"
+    - generic "AI女爱豆因怀孕暂停活动"
+    - generic: "148282"
+  - link "3 谭松韵几乎没有精力社交认识新人 61228":
+
+    - generic: "3"
+    - generic "谭松韵几乎没有精力社交认识新人"
+    - generic: "61228"
+  - link "孙颖莎海尔全球品牌代言人":
+
+    - generic "孙颖莎海尔全球品牌代言人"
+  - link "4 懂车帝测试人回应尊界V800检测报告 82727":
+
+    - generic: "4"
+    - generic "懂车帝测试人回应尊界V800检测报告"
+    - generic: "82727"
+  - link "5 宋茜面试韩国娱乐公司的时候 177321":
+
+    - generic: "5"
+    - generic "宋茜面试韩国娱乐公司的时候"
+    - generic: "177321"
+  - link "6 徐良自曝以为被小三结果自己是小三 124173":
+
+    - generic: "6"
+    - generic "徐良自曝以为被小三结果自己是小三"
+    - generic: "124173"
+  - link "编造玉米地里有死人被处罚":
+
+    - generic "编造玉米地里有死人被处罚"
+  - link "7 陈小纭已经是完全认不出的程度了 00:51登顶":
+
+    - generic: "7"
+    - generic "陈小纭已经是完全认不出的程度了"
+    - generic: 00:51登顶
+  - link "8 买了三个螃蟹吃发了十条朋友圈 61664":
+
+    - generic: "8"
+    - generic "买了三个螃蟹吃发了十条朋友圈"
+    - generic: "61664"
+  - link "9 李善宝疑似出轨 08:18登顶":
+
+    - generic: "9"
+    - generic "李善宝疑似出轨"
+    - generic: 08:18登顶
+  - link "10 身上出现一黄二红三黑要查肝 64550":
+
+    - generic: "10"
+    - generic "身上出现一黄二红三黑要查肝"
+    - generic: "64550"
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

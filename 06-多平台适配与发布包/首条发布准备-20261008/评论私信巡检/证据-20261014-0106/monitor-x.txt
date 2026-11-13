@@ -1,0 +1,11 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner
+- main:
+  - generic "主页时间线":
+    - region "Notifications alt+T"
+- region "Notifications alt+T"

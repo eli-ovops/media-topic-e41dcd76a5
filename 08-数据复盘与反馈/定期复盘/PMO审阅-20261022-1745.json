@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-22T17:46:34.771044+08:00",
+  "content_id": "deepseek-deepinfer-20261021",
+  "observed_window": "2026-10-22 17:38—17:45 Asia/Shanghai",
+  "status": "ACCEPTED_SOURCE_ATTRIBUTED_WITH_LIMITS",
+  "owner_thread_id": "01a11a95-ef09-7da2-9846-c8157050e112",
+  "owner_tool_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261022-1745.md",
+  "report_sha256": "5d2303fa73947a1baec4c9b9d4ef1c7197cc3d1be4d1bfdbc21752de93d7f1f7",
+  "snapshot": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261022-1745.json",
+  "snapshot_sha256": "0bb269e4153e8a9bbc2919015038be2f2f21858b726ba1795c873265cb0e25a3",
+  "pmo_checks": [
+    "Original report and JSON read and SHA recorded",
+    "Seven cumulative video counters total1011; not unique people",
+    "Same-seven previous977 and difference34; no precise interval attribution",
+    "X post impressions30 excluded from video counter sum",
+    "Bilibili update1639 retained",
+    "YT backend25/public22 retained separately; cumulative table uses backend",
+    "Fred full-v2 remains unpublished and excluded from performance attribution",
+    "Unknown saves/inbox coverage/follower recency not filled with0; existing25 followers not called new",
+    "Bilibili recent list recovered; September15 record not called new business request",
+    "Replied requests deduplicated without implying material delivery"
+  ],
+  "evidence_limit": "Metrics/native observations attributed to08 original report and JSON. PMO reviewed originals and arithmetic; did not recollect platform counters or private dialogues.",
+  "business_signal_scope": "No new confirmed unanswered business request in08 accessible covered recent lists only. XHS/WeChat inbox and X request completeness gaps retained.",
+  "production_publication_cleanup_or_automation_changes": false
+}

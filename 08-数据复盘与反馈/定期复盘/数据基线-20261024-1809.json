@@ -1,0 +1,385 @@
+{
+  "automation_id": "9",
+  "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "release_source": "elden-ring-ai-recap-20261023/06-发布准备/发送回执-v1.json",
+  "release_updated": "2026-10-24 01:58:49",
+  "rules": "ELI-MEDIA-AGENTS-20261024-v4 / CODEX-MEDIA-20261024-v3 / ROUTING-2026-10-24-v5 / TOKEN-BUDGET-2026-10-24-v1; actual model/effort UNKNOWN; registry and release verified",
+  "no_new_06_metrics": true,
+  "platforms": [
+    {
+      "platform": "抖音",
+      "account": "Eli-Ai/25296649142",
+      "views": 293,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "work_id": "7699890072421698857",
+      "source": "https://creator.douyin.com/creator-micro/content/manage",
+      "completion": 3.19,
+      "two_second_exit": 31.47,
+      "attributed_followers": 0,
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    },
+    {
+      "platform": "B站",
+      "account": "Eli-AI/432834855",
+      "views": 121,
+      "likes": 3,
+      "saves": 0,
+      "comments": 0,
+      "work_id": "BV1ZEn86PEha",
+      "source": "https://member.bilibili.com/platform/upload-manager/article/data/BV1ZEn86PEha",
+      "updated": "2026-10-24 17:16",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    },
+    {
+      "platform": "TikTok",
+      "account": "@elimakesapps",
+      "views": 87,
+      "likes": 1,
+      "saves": "UNKNOWN",
+      "comments": 0,
+      "work_id": "7699897661360442676",
+      "source": "https://www.tiktok.com/tiktokstudio/content",
+      "privacy": "所有人",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    },
+    {
+      "platform": "微博",
+      "account": "Eli-AI",
+      "views": 0,
+      "likes": 0,
+      "saves": "UNKNOWN",
+      "comments": 1,
+      "url": "https://weibo.com/7720929036/Ro3sI7C63",
+      "source": "https://me.weibo.com/content/video",
+      "comment_direction": "UNKNOWN",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    },
+    {
+      "platform": "X",
+      "account": "Eli-AI/@cczij1112",
+      "views": 16,
+      "likes": 3,
+      "saves": 0,
+      "comments": 2,
+      "work_id": "2113662529859919990",
+      "source": "https://x.com/cczij1112/status/2113662529859919990/analytics",
+      "unique_video_views": 9,
+      "post_impressions": 44,
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai",
+      "comment_note": "原帖2回复合并计数照录；展开可见Jason两条及本人嵌套回复一条，不人为加成3。喜欢3包含本人已喜欢状态。"
+    },
+    {
+      "platform": "YouTube",
+      "account": "UCqJaVQRO3FrxD5spt1GG7Iw",
+      "views": 113,
+      "likes": "UNKNOWN",
+      "saves": "UNKNOWN",
+      "comments": 0,
+      "work_id": "2ZQ6YZ8Yv34",
+      "source": "https://studio.youtube.com/video/2ZQ6YZ8Yv34/analytics/tab-overview/period-default",
+      "comment_coverage": "移除未回复筛选后全部已发布评论明确空；待审未覆盖",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai",
+      "secondary_source": {
+        "source": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos",
+        "views": 112,
+        "note": "Shorts列表滞后于分析页113，展示与比较沿分析页；列表无点赞字段，收藏未核。"
+      }
+    },
+    {
+      "platform": "小红书",
+      "state": "UNPUBLISHED_FROM_RECEIPT",
+      "identity": "NOT_REVERIFIED",
+      "views": "UNKNOWN",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    },
+    {
+      "platform": "LinkedIn",
+      "state": "UNPUBLISHED_VERIFICATION_BLOCK_FROM_RECEIPT",
+      "identity": "NOT_REVERIFIED",
+      "views": "UNKNOWN",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    },
+    {
+      "platform": "视频号",
+      "state": "MANUAL_REQUIRED_SITE_SAFETY_NOT_ACCESSED",
+      "identity": "NOT_REVERIFIED",
+      "views": "UNKNOWN",
+      "observed_window": "2026-10-24 18:05—18:09 Asia/Shanghai"
+    }
+  ],
+  "comparison_internal": {
+    "previous": "数据基线-20261024-1404.json",
+    "same_six_previous": 583,
+    "same_six_current": 630,
+    "snapshot_delta": 47,
+    "note": "同六站同作品同来源口径；不能当精确发生时窗；X收藏首次恢复基线0，不和UNKNOWN相减。"
+  },
+  "comments": {
+    "douyin": {
+      "sender": "不染，",
+      "text": "建模不要用gpt手搓啊，人家大神估计也是用专门的建模模型",
+      "time": "12小时前·江苏",
+      "dedup": "douyin:7699890072421698857:不染:建模",
+      "status": "COUNT_UNCHANGED_TEXT_NOT_REOPENED_THIS_ROUND"
+    },
+    "x": [
+      {
+        "id": "2113671199905702184",
+        "sender": "Jason/@JasonPang0720",
+        "text": "我會先看閃避和受擊的手感。",
+        "status": "UNCHANGED"
+      },
+      {
+        "id": "2113671330419859941",
+        "sender": "Jason/@JasonPang0720",
+        "text": "關注你啦，有興趣就互關～",
+        "status": "UNCHANGED_NO_FOLLOW_ACTION",
+        "follow_verification": "仅本人自述，不证明当前关注列表"
+      },
+      {
+        "id": "2113827781461393709",
+        "sender": "Eli-AI/@cczij1112",
+        "text": "关注你了，jason老兄",
+        "direction": "SELF_REPLY",
+        "time": "7小时前",
+        "discovery": "2026-10-24 18:08",
+        "status": "USER_REPLY_ALREADY_PRESENT"
+      }
+    ],
+    "x_note": "原帖重新核两条Jason观众反馈，首次发现本人7小时前回复“关注你了，jason老兄”，不是本窗口新增。"
+  },
+  "dm": [
+    {
+      "platform": "抖音",
+      "source": "https://www.douyin.com/user/self?from_tab_name=main 消息",
+      "finding": "当前近期列表仍周三當時的月亮、卡西酱及群申请旧提示，无新业务预览；旧本人回复状态沿既有记录，群请求人数未核。"
+    },
+    {
+      "platform": "B站",
+      "source": "https://message.bilibili.com/#/whisper",
+      "finding": "重新展开米粥糊嘞，今天13:56仍仅一条“哈喽UP主您好~”，未见本人回复或具体诉求；上轮首次发现，不算本窗口新增。",
+      "dedup": "bilibili:米粥糊嘞:20261024:1356:哈喽UP主您好"
+    },
+    {
+      "platform": "微博",
+      "source": "https://api.weibo.com/chat#/chat",
+      "finding": "顶部新浪新闻12:38/3链接、服务通知07:29/2链接及旧发布通知，不打开链接，不当观众业务消息。"
+    },
+    {
+      "platform": "TikTok",
+      "source": "https://www.tiktok.com/business-suite/messages",
+      "finding": "普通列表顶部仍Marsexpress10/20接受提示，按用户已回复；请求仍3条13:00/10月22日/10月21日同类垃圾文本，当前昵称未加载，沿历史ID去重，未接受或回复。",
+      "dedup": [
+        "tiktok:nicolejordan1000:20261024:1300:spam",
+        "tiktok:pennyremi1:20261022:spam",
+        "tiktok:dianaweber70:20261021:spam"
+      ]
+    },
+    {
+      "platform": "X",
+      "source": "https://x.com/i/chat",
+      "finding": "普通列表可读，顶部GrokBot系统推广未打开，Sarah为18周前本人外发，未见近期业务入信；请求列表未覆盖。"
+    },
+    {
+      "platform": "YouTube",
+      "finding": "全部已发布评论（移除未回复筛选）明确空；待审/私信未覆盖。"
+    },
+    {
+      "platform": "小红书",
+      "finding": "旧设备登录限制不重试，私信未覆盖"
+    },
+    {
+      "platform": "LinkedIn",
+      "finding": "既有验证重定向未重试，私信未覆盖"
+    },
+    {
+      "platform": "视频号",
+      "finding": "已知site-safety未访问，私信未覆盖"
+    }
+  ],
+  "other_works": {
+    "order": "播放/赞/藏/评",
+    "douyin": {
+      "DeepInfer": [
+        652,
+        7,
+        1,
+        0
+      ],
+      "漏斗": [
+        425,
+        8,
+        0,
+        0
+      ],
+      "反对": [
+        1205,
+        26,
+        11,
+        4
+      ],
+      "豆包": [
+        8522,
+        54,
+        7,
+        50
+      ],
+      "千问": [
+        503,
+        8,
+        1,
+        1
+      ],
+      "介绍": [
+        249,
+        3,
+        0,
+        1
+      ],
+      "访谈": [
+        789,
+        23,
+        9,
+        1
+      ],
+      "指南": [
+        664,
+        10,
+        2,
+        1
+      ]
+    },
+    "weibo": {
+      "DeepInfer": [
+        8,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "漏斗": [
+        14,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "反对": [
+        5,
+        0,
+        "UNKNOWN",
+        3
+      ],
+      "豆包": [
+        13,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "千问": [
+        5,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "介绍": [
+        7,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "访谈": [
+        8,
+        0,
+        "UNKNOWN",
+        1
+      ],
+      "指南": [
+        37,
+        0,
+        "UNKNOWN",
+        0
+      ]
+    },
+    "tiktok": {
+      "DeepInfer": [
+        98,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "漏斗": [
+        115,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "反对": [
+        0,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "豆包": [
+        0,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "千问": [
+        0,
+        0,
+        "UNKNOWN",
+        0
+      ],
+      "介绍": [
+        94,
+        2,
+        "UNKNOWN",
+        0
+      ]
+    },
+    "comment_note": "反对4评含本人首评/回复，不推拆观众数",
+    "coverage": "本轮DY/WB/TK列表与YT部分可见作品，B/X其余旧作品未重采。",
+    "internal_deltas": {
+      "douyin_DeepInfer": 2,
+      "douyin_漏斗": 1,
+      "douyin_反对": 2,
+      "douyin_豆包": 1,
+      "others_observed": 0
+    },
+    "youtube_partial": {
+      "source": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos",
+      "访谈": {
+        "id": "GksDGFRpmGI",
+        "views": 38,
+        "comments": 0
+      },
+      "DeepInfer": {
+        "id": "30L92PtpTdQ",
+        "views": 55,
+        "comments": 0
+      },
+      "反对": {
+        "id": "9H5l13FnFAk",
+        "views": 8,
+        "comments": 1
+      },
+      "豆包": {
+        "id": "XmiorYMSA88",
+        "views": 99,
+        "comments": 0
+      },
+      "note": "仅本轮可见列表，点赞收藏未核；漏斗两项为草稿/屏蔽草稿，不纳入发布。恢复覆盖不与旧站混减。"
+    }
+  },
+  "separate_browse": {
+    "douyin_image_preview": 1867,
+    "X_post": 44
+  },
+  "recommendation": "下一条若继续游戏主题，可用同一场景直接演示闪避和受击手感，依据Jason具体反馈；现有小样本不支持趋势或动效因果判断。",
+  "boundaries": "单IAB串行只读已关闭，不轮询会话/改共享状态登记/唤醒制作/联系Grok/恢复自动化；无评论私信互关接受请求发布改帖删除安装改权限费用，未读Cookie凭据内部存储私有API，IG/FB排除。",
+  "previous_snapshot": "数据基线-20261024-1404.json",
+  "temporary_files": "仅本轮数据基线/复盘/汇报回执均为必要证据保留，无新增可清理中间文件；临时IAB页已关闭。"
+}

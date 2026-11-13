@@ -1,0 +1,47 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-21T05:45:21.679753+08:00",
+  "decision": "ACCEPT_LIMITED_OWNER_NATIVE_FIELD_RECORD",
+  "owner_report_actually_received": true,
+  "report": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261021-0544.md",
+    "sha256": "53690bec662cef2a4913371c35764ace277e54b3ad23b8b0a17a08959f415c0e"
+  },
+  "data": {
+    "path": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/数据基线-20261021-0544.json",
+    "sha256": "5aca2358a09dc3654017708b9fc6f317a09137370fea56298f359f91505fd5ea"
+  },
+  "review": "PMO已读逐平台累计字段及私信请求记录，核播放合计和其他作品同三站算术；不重开平台，不冒充独立浏览器复核。",
+  "latest_video_views_partial_sum": 514,
+  "numeric_video_coverage": 6,
+  "post_metrics_not_video_views": {
+    "X_post_views": 33,
+    "weibo_reads": 15,
+    "linkedin_impressions": 6
+  },
+  "pending_audience_request": {
+    "dedup_key": "douyin:卡西酱:20261021:高性价比指南",
+    "platform": "抖音",
+    "sender": "卡西酱",
+    "request": "您好可以来一份高性价比指南吗？",
+    "status": "PENDING_USER_REPLY_OR_HANDLED_CONFIRMATION",
+    "first_observed": "2026-10-21 05:42 Asia/Shanghai",
+    "received_in_current_window": "UNKNOWN",
+    "public_video_attribution": "UNKNOWN_NOT_ATTRIBUTED_TO_AI_FUNNEL",
+    "user_to_handle_or_confirm_already_handled": true,
+    "no_auto_reply": true
+  },
+  "previous_tiktok_request": "USER_CONFIRMED_REPLIED_NO_REPEAT_REMINDER",
+  "display": "只展示平台｜播放｜点赞｜收藏｜评论累计表，不展示新增或增长列",
+  "limits": [
+    "六站播放合计非全平台总量",
+    "视频号数据和私信未覆盖",
+    "小红书私信登录受限未重复尝试",
+    "其他私信/关注全量覆盖未核",
+    "不凭333播放或跳出率归因动效"
+  ],
+  "production_release_or_external_reply_authorized": false,
+  "disk_cleanup_remains_paused": true,
+  "automation_config_mutated": false
+}

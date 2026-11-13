@@ -1,0 +1,16 @@
+{
+  "automation_id":"9",
+  "report":"复盘-20261021-0544.md",
+  "snapshot":"数据基线-20261021-0544.json",
+  "target_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool":"mcp__codex_app__send_message_to_thread",
+  "tool_result":{"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+  "send_status":"TOOL_ACCEPTED",
+  "pmo_received":"UNKNOWN",
+  "pmo_acceptance":"UNKNOWN",
+  "highlight":"抖音卡西酱求高性价比指南，未见回复，待本人处理/确认；不代回复",
+  "verification":"JSON及新片6站514/旧片同三站12495通过",
+  "snapshot_sha256":"5aca2358a09dc3654017708b9fc6f317a09137370fea56298f359f91505fd5ea",
+  "report_sha256":"53690bec662cef2a4913371c35764ace277e54b3ad23b8b0a17a08959f415c0e",
+  "note":"没有查询PMO是否收到，不轮询。"
+}

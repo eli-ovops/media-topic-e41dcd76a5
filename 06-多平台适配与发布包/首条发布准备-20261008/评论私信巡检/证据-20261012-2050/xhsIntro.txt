@@ -1,0 +1,20 @@
+- heading "把AI用起来｜我是Eli" [level=1]
+- text: 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。
+- link "#ai":
+- link "#人工智能":
+- link "#AI工具":
+- link "#AI实用技巧howto":
+- link "#Agent":
+- link "#FDE":
+- generic: 猜你想搜
+- generic: 我是eli的ai作品介绍
+- generic: 2天前 浙江
+- generic: 作者声明：含ai生成内容
+- paragraph: 这是一片荒地点击评论
+- paragraph
+- generic: 说点什么...
+- generic: "1"
+- generic: 收藏
+- generic: 评论
+- button "发送" [disabled]
+- button "取消"

@@ -1,0 +1,132 @@
+- navigation:
+  - link "Weibo":
+    - /url: /
+  - link "首页":
+    - /url: /
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+    - /url: /hot
+    - generic "推荐":
+  - link "视频":
+    - /url: /tv
+    - generic "视频":
+  - link "消息":
+    - /url: /at/weibo
+    - generic "消息":
+      - generic: "7"
+  - link "Eli-AI":
+    - /url: /u/7720929036
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+    - /url: //game.weibo.com/?topnav=1&mod=logo&wvr=6
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "消息" [level=2]
+- link " @我的":
+  - /url: /at/weibo
+  - link " @我的":
+    - generic: 
+    - generic: "@我的"
+- link " 评论":
+  - /url: /comment/inbox
+  - link " 评论":
+    - generic: 
+    - generic: 评论
+- link " 赞":
+  - /url: /like/inbox
+  - link " 赞":
+    - generic: 
+    - generic: 赞
+- link " 私信 7":
+  - /url: https://api.weibo.com/chat
+  - link " 私信 7":
+    - generic: 
+    - generic: 私信
+    - generic: "7"
+- link " 群通知":
+  - /url: https://api.weibo.com/chat/#/chat?to_uid=-101
+  - link " 群通知":
+    - generic: 
+    - generic: 群通知
+- main:
+  - generic: 收到的评论
+  - generic: 关注人的评论
+  - generic: 发出的评论
+  - generic: 暂无内容
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - link "查看完整热搜榜单 ":
+    - /url: /hot/mine
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - link "创作者中心  数据中心  内容管理  收益中心  私信管理 进入创作者中心 ":
+    - /url: https://me.weibo.com
+    - generic: 创作者中心
+    - link " 数据中心":
+      - /url: https://me.weibo.com/data/overview
+      - generic: 
+      - generic: 数据中心
+    - link " 内容管理":
+      - /url: https://me.weibo.com/content/video
+      - generic: 
+      - generic: 内容管理
+    - link " 收益中心":
+      - /url: https://me.weibo.com/income/overview
+      - generic: 
+      - generic: 收益中心
+    - link " 私信管理":
+      - /url: https://me.weibo.com/fans/autoresponse
+      - generic: 
+      - generic: 私信管理
+    - link "进入创作者中心 ":
+      - /url: https://me.weibo.com
+      - generic: 进入创作者中心
+      - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+    - /url: https://kefu.weibo.com/?cs_source=2
+  - link "自助服务中心":
+    - /url: https://kefu.weibo.com/selfservice?bottomnav=1&wvr=6
+  - link "常见问题":
+    - /url: https://kefu.weibo.com/allfaq?bottomnav=1&wvr=6
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+    - /url: https://marketing.hd.weibo.com/?fr=C003001_P001
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+    - /url: https://open.weibo.com/?bottomnav=1&wvr=6
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+    - /url: https://service.account.weibo.com/?bottomnav=1&wvr=6
+  - link "舞弊举报":
+    - /url: https://weibo.com/aj/static/report.html?_wv=6
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+    - /url: http://ir.weibo.com/
+  - generic: 客户端下载
+  - link "微博招聘":
+    - /url: https://career.sina.com.cn/?bottomnav=1&wvr=6
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+    - /url: https://privacy.weibo.com
+  - link "微博数据AI大模型开放合作声明":
+    - /url: https://weibo.com/pagemesh/static/weibo-data-ai-cooperation-statement.html
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+    - /url: https://weibo.com/aj/static/business_license.html
+- text: 
+- generic: 
+- text:   

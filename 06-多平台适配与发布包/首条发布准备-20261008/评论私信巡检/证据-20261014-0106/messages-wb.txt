@@ -1,0 +1,204 @@
+- navigation:
+  - link "Weibo":
+
+  - link "首页":
+
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+
+    - generic "推荐":
+  - link "视频":
+
+    - generic "视频":
+  - link "消息":
+
+    - generic "消息":
+      - generic: "6"
+  - link "Eli-AI":
+
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "消息" [level=2]
+- link " @我的":
+
+  - link " @我的":
+    - generic: 
+    - generic: "@我的"
+- link " 评论":
+
+  - link " 评论":
+    - generic: 
+    - generic: 评论
+- link " 赞":
+
+  - link " 赞":
+    - generic: 
+    - generic: 赞
+- link " 私信 6":
+
+  - link " 私信 6":
+    - generic: 
+    - generic: 私信
+    - generic: "6"
+- link " 群通知":
+
+  - link " 群通知":
+    - generic: 
+    - generic: 群通知
+- main:
+  - generic: 收到的评论
+  - generic: 关注人的评论
+  - generic: 发出的评论
+  - generic: 暂无内容
+  - generic: 微博热搜
+  - generic: 
+  - generic: 点击刷新
+  - generic: 我的
+  - generic: 热搜
+  - link "1 时代峰峻解释取消中奖资格原因 61659":
+
+    - generic: "1"
+    - generic "时代峰峻解释取消中奖资格原因"
+    - generic: "61659"
+  - link "2 李善宝 咩咩 80325":
+
+    - generic: "2"
+    - generic "李善宝 咩咩"
+    - generic: "80325"
+  - link "3 陈小纭于小彤这段还是很窒息 38295":
+
+    - generic: "3"
+    - generic "陈小纭于小彤这段还是很窒息"
+    - generic: "38295"
+  - link "胡杏儿为一家五口选择奕境X9":
+
+    - generic "胡杏儿为一家五口选择奕境X9"
+  - link "4 红果短剧千万别下载 00:02登顶":
+
+    - generic: "4"
+    - generic "红果短剧千万别下载"
+    - generic: 00:02登顶
+  - link "5 缺钾有5个典型信号 43554":
+
+    - generic: "5"
+    - generic "缺钾有5个典型信号"
+    - generic: "43554"
+  - link "6 肖战演唱会抢票时间 52259":
+
+    - generic: "6"
+    - generic "肖战演唱会抢票时间"
+    - generic: "52259"
+  - link "7 懂车帝 宝马X7 43649":
+
+    - generic: "7"
+    - generic "懂车帝 宝马X7"
+    - generic: "43649"
+  - link "8 真实姓名被9年未联系友人用作昵称 158916":
+
+    - generic: "8"
+    - generic "真实姓名被9年未联系友人用作昵称"
+    - generic: "158916"
+  - link "9 机器狗第一次进哀牢山就拍到冥界之花 15:19登顶":
+
+    - generic: "9"
+    - generic "机器狗第一次进哀牢山就拍到冥界之花"
+    - generic: 15:19登顶
+  - link "10 李善宝咩咩这是在调情吗 87773":
+
+    - generic: "10"
+    - generic "李善宝咩咩这是在调情吗"
+    - generic: "87773"
+  - link "查看完整热搜榜单 ":
+
+    - generic: 查看完整热搜榜单
+    - generic: 
+  - generic: 你可能感兴趣的人
+  - generic: 
+  - generic: 换一换
+  - link "德里克罗斯Derrick_Rose NBA巨星德里克-罗斯  关注":
+
+    - generic: 德里克罗斯Derrick_Rose
+    - generic: NBA巨星德里克-罗斯
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "强哥说事 体育博主  关注":
+
+    - generic: 强哥说事
+    - generic: 体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "创作者中心  数据中心  内容管理  收益中心  私信管理 进入创作者中心 ":
+
+    - generic: 创作者中心
+    - link " 数据中心":
+
+      - generic: 
+      - generic: 数据中心
+    - link " 内容管理":
+
+      - generic: 
+      - generic: 内容管理
+    - link " 收益中心":
+
+      - generic: 
+      - generic: 收益中心
+    - link " 私信管理":
+
+      - generic: 
+      - generic: 私信管理
+    - link "进入创作者中心 ":
+
+      - generic: 进入创作者中心
+      - generic: 
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+
+  - link "自助服务中心":
+
+  - link "常见问题":
+
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+
+  - link "舞弊举报":
+
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+
+  - generic: 客户端下载
+  - link "微博招聘":
+
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+
+  - link "微博数据AI大模型开放合作声明":
+
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+
+- text: 
+- generic: 
+- text:   

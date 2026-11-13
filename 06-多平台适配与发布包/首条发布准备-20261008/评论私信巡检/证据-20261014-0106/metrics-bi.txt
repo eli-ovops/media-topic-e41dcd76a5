@@ -1,0 +1,76 @@
+- banner:
+  - link "首页":
+
+    - generic: 首页
+  - link "番剧":
+
+    - generic: 番剧
+  - link "直播":
+
+    - generic: 直播
+  - link "游戏中心":
+
+    - generic: 游戏中心
+  - link "会员购":
+
+    - generic: 会员购
+  - link "漫画":
+
+    - generic: 漫画
+  - link "赛事":
+
+    - generic: 赛事
+  - link "下载客户端":
+
+    - generic: 下载客户端
+  - textbox "漩涡搬砖人"
+  - link:
+
+  - link "大会员":
+
+    - generic: 大会员
+  - link "3 消息":
+
+    - generic: "3"
+    - generic: 消息
+  - link "14 动态":
+
+    - generic: "14"
+    - generic: 动态
+  - link "收藏":
+
+    - generic: 收藏
+  - link "历史":
+
+    - generic: 历史
+  - link "创作中心":
+
+    - generic: 创作中心
+  - link "投稿":
+
+    - generic: 投稿
+- complementary:
+  - generic: 消息中心
+  - list:
+    - generic: 我的消息
+    - generic: "3"
+    - generic: 回复我的
+    - generic: "@ 我的"
+    - generic: 收到的赞
+    - generic: 系统通知
+  - list:
+    - generic: 消息设置
+- main:
+  - generic: 回复我的
+  - link:
+
+  - link "HeiPift":
+
+  - generic: 回复了我的评论
+  - generic: 回复 @Cczij :感谢
+  - generic: "Eli-AI : 品质没打吧"
+  - generic: 2025年12月28日 14:02
+  - generic: 回复
+  - generic: 点赞
+  - generic: 删除该通知
+  - generic: 主播，为什么我按照你的文档走的，但是我大法师和coc都是100精魂

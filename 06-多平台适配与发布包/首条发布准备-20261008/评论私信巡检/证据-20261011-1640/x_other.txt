@@ -1,0 +1,26 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner
+- main:
+  - generic "主页时间线":
+    - button "返回":
+    - generic: 其它
+    - generic: These message requests may be spam or lower priority.
+    - listbox "其它":
+      - list:
+        - option "user avatar Daniel 19 周 Hello, I am a representative of the @Lucky24Bet team, and we would like to partner with you. We are offering you an ambassador role with a weekly balance top-up starting from $2,000 (withdrawal availa 1252 Followers":
+          - img "user avatar"
+          - generic: Daniel
+          - generic: 19 周
+          - generic: Hello, I am a representative of the @Lucky24Bet team, and we would like to partner with you. We are offering you an ambassador role with a weekly balance top-up starting from $2,000 (withdrawal availa
+          - generic: 1252 Followers
+    - generic: 开始对话
+    - generic: 从现有对话中选择，或者开始新的对话。
+    - button "新聊天":
+      - generic: 新聊天
+    - region "Notifications alt+T"
+- region "Notifications alt+T"

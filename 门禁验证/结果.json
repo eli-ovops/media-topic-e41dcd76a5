@@ -1,0 +1,77 @@
+{
+  "scope": "pure local fixtures; no actual business release/publication/remote calls",
+  "cases": [
+    {
+      "case": "valid sequential release",
+      "expected": "ALLOW",
+      "observed": "ALLOW",
+      "passed": true
+    },
+    {
+      "case": "another content",
+      "expected": "ACTIVE_CONTENT_MISMATCH_OR_UNASSIGNED",
+      "observed": "ACTIVE_CONTENT_MISMATCH_OR_UNASSIGNED",
+      "passed": true
+    },
+    {
+      "case": "skip directly to 03",
+      "expected": "STAGE_OUT_OF_ORDER",
+      "observed": "STAGE_OUT_OF_ORDER",
+      "passed": true
+    },
+    {
+      "case": "wrong owner",
+      "expected": "OWNER_MISMATCH_OR_UNASSIGNED",
+      "observed": "OWNER_MISMATCH_OR_UNASSIGNED",
+      "passed": true
+    },
+    {
+      "case": "waiting is not release",
+      "expected": "STAGE_NOT_RELEASED",
+      "observed": "STAGE_NOT_RELEASED",
+      "passed": true
+    },
+    {
+      "case": "self-submission is not upstream PASS",
+      "expected": "UPSTREAM_NOT_PASSED",
+      "observed": "UPSTREAM_NOT_PASSED",
+      "passed": true
+    },
+    {
+      "case": "changed frozen upstream",
+      "expected": "UPSTREAM_VERSION_CHANGED",
+      "observed": "UPSTREAM_VERSION_CHANGED",
+      "passed": true
+    },
+    {
+      "case": "changed released input",
+      "expected": "RELEASED_INPUT_VERSION_CHANGED",
+      "observed": "RELEASED_INPUT_VERSION_CHANGED",
+      "passed": true
+    },
+    {
+      "case": "publication without human specific authorization",
+      "expected": "SPECIFIC_PUBLICATION_AUTHORIZATION_MISSING",
+      "observed": "SPECIFIC_PUBLICATION_AUTHORIZATION_MISSING",
+      "passed": true
+    },
+    {
+      "case": "publication authorization for another version",
+      "expected": "PUBLICATION_VERSION_NOT_APPROVED",
+      "observed": "PUBLICATION_VERSION_NOT_APPROVED",
+      "passed": true
+    },
+    {
+      "case": "rollback invalidates downstream and clears authorization",
+      "passed": true,
+      "cli_output": "{\"saved\": true, \"active_content\": \"SIMULATION\"}\n"
+    }
+  ],
+  "passed": true,
+  "fixture_files_retained": [
+    "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+    "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/state.fixture.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/registry.fixture.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/review.fixture.json"
+  ]
+}

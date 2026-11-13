@@ -1,0 +1,197 @@
+- link:
+
+- list:
+  - link "首页":
+
+    - generic: 首页
+  - link "点点 ai":
+
+    - generic: 点点
+    - generic: ai
+  - link "RED":
+
+    - generic: RED
+  - link "直播":
+
+    - generic: 直播
+  - link "发布":
+
+    - generic: 发布
+  - link "通知":
+
+    - generic: 通知
+  - link "消息" [active]:
+
+    - generic: 消息
+  - link "我":
+
+    - generic: 我
+  - paragraph:
+    - link "沪ICP备13030189号":
+
+    - text: "|"
+    - link "营业执照":
+
+    - text: "|"
+    - link "2026沪公网安备31010102002533号":
+
+    - text: "|"
+    - link "增值电信业务经营许可证：沪B2-20150021":
+
+    - text: "|"
+    - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+
+    - text: "|"
+    - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+
+    - text: "|"
+    - link "违法不良信息举报电话：4006676810":
+
+    - text: "|"
+    - link "上海市互联网举报中心":
+
+    - text: "|"
+    - link "网上有害信息举报专区":
+
+    - text: "|"
+    - link "自营经营者信息":
+
+    - text: "|"
+    - link "网络文化经营许可证：沪网文[2021]1545-113号":
+
+    - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+  - paragraph: © 2014-2026
+  - paragraph: 行吟信息科技（上海）有限公司
+  - paragraph: 地址：上海市黄浦区马当路388号C座
+  - paragraph: 电话：9501-3888
+- generic "更多":
+  - generic: 更多
+- generic "关于我们":
+  - generic: 关于我们
+- paragraph:
+  - link "沪ICP备13030189号":
+
+  - text: "|"
+  - link "营业执照":
+
+  - text: "|"
+  - link "2026沪公网安备31010102002533号":
+
+  - text: "|"
+  - link "增值电信业务经营许可证：沪B2-20150021":
+
+  - text: "|"
+  - link "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号":
+
+  - text: "|"
+  - link "互联网药品信息服务资格证书：(沪)-经营性-2023-0144":
+
+  - text: "|"
+  - link "违法不良信息举报电话：4006676810":
+
+  - text: "|"
+  - link "上海市互联网举报中心":
+
+  - text: "|"
+  - link "网上有害信息举报专区":
+
+  - text: "|"
+  - link "自营经营者信息":
+
+  - text: "|"
+  - link "网络文化经营许可证：沪网文[2021]1545-113号":
+
+  - text: "| 个性化推荐算法 网信算备310101216601302230019号"
+- paragraph: © 2014-2026
+- paragraph: 行吟信息科技（上海）有限公司
+- paragraph: 地址：上海市黄浦区马当路388号C座
+- paragraph: 电话：9501-3888
+- generic: 消息
+- img "坨坨大王"
+- generic: 坨坨大王
+- generic: 10月10日
+- generic: "[笔记] 格里菲斯｜拼豆"
+- img "安琪安奇"
+- generic: 安琪安奇
+- generic: 9月22日
+- generic: 除了论坛都可以
+- img "用户已注销"
+- generic: 用户已注销
+- generic: 9月22日
+- generic: 好
+- img "锦鲤化身 近我者富"
+- generic: 锦鲤化身 近我者富
+- generic: 9月18日
+- generic: 你好，看到你的像素风App（星露谷画风那个很有意思）。我们是聚合广告平台Adink，服务App开发者：聚合穿山甲、优量汇等...
+- img "小霜蚪"
+- generic: 小霜蚪
+- generic: 9月13日
+- generic: ，
+- img "小宇宙App"
+- generic: 小宇宙App
+- generic: 8月22日
+- generic: 你好，明天8月23日据说还有活动，我想确认一下。确认是有的是吗
+- img "AAAA"
+- generic: AAAA
+- generic: 8月17日
+- generic: 好滴好滴
+- img "Bin"
+- generic: Bin
+- generic: 8月17日
+- generic: https://testflight.apple.com/join/jm2WFHZs
+- img "༺ཌༀཉི乐乐༃ༀད༻"
+- generic: ༺ཌༀཉི乐乐༃ༀད༻
+- generic: 8月16日
+- generic: 没有没有，我这全是小玩意
+- img "晓琳"
+- generic: 晓琳
+- generic: 8月16日
+- generic: 兼容性不行，最低要17.0了。不好意思啊
+- img "Mr Cháng"
+- generic: Mr Cháng
+- generic: 8月16日
+- text: 不好意思
+- img "[笑哭R]"
+- img "草原上的🐷"
+- generic: 草原上的🐷
+- generic: 8月16日
+- generic: 好的呢
+- img "省省来吃饭✨"
+- generic: 省省来吃饭✨
+- generic: 8月16日
+- text: 大佬我现在也在一个人准备开发app。努力学习你们厉害的地方
+- img "[赞R]"
+- img "🐟🐟"
+- generic: 🐟🐟
+- generic: 8月14日
+- generic: 国内监管审查步骤要多很多
+- img "AOBIAO"
+- generic: AOBIAO
+- generic: 7月29日
+- generic: ZhangGaiGai0929
+- img "大妈迪迪孙"
+- generic: 大妈迪迪孙
+- generic: 6月22日
+- generic: "[图片]"
+- img "田导在纽约"
+- generic: 田导在纽约
+- generic: 6月22日
+- generic: 好的，👀主页🆔沟通
+- img "卷伯"
+- generic: 卷伯
+- generic: 6月22日
+- generic: 吧
+- img "欣欣_Michele"
+- generic: 欣欣_Michele
+- generic: 6月22日
+- generic: 可以详细聊聊
+- img "小红薯6AA15B14"
+- generic: 小红薯6AA15B14
+- generic: 6月22日
+- generic: v
+- paragraph: 点击消息开启会话
+- button:
+- generic: 活动
+- button:
+- button:
+- iframe

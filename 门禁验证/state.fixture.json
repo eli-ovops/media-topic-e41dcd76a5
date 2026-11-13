@@ -1,0 +1,180 @@
+{
+  "version": "TEST_FIXTURE",
+  "active_content_id": "SIMULATION",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "runs": {
+    "SIMULATION": {
+      "current_stage": "04",
+      "publication_authorization": null,
+      "stages": {
+        "01": {
+          "status": "PASSED",
+          "inputs": [],
+          "outputs": [
+            {
+              "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+              "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+            }
+          ],
+          "review": null
+        },
+        "02": {
+          "status": "PASSED",
+          "inputs": [
+            {
+              "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+              "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+            }
+          ],
+          "outputs": [
+            {
+              "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+              "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+            }
+          ],
+          "review": null
+        },
+        "03": {
+          "status": "PASSED",
+          "inputs": [],
+          "outputs": [
+            {
+              "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+              "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+            }
+          ],
+          "review": null
+        },
+        "04": {
+          "status": "WAITING",
+          "inputs": [],
+          "outputs": [],
+          "review": null
+        },
+        "05": {
+          "status": "WAITING",
+          "inputs": [],
+          "outputs": [],
+          "review": null
+        },
+        "06": {
+          "status": "WAITING",
+          "inputs": [],
+          "outputs": [],
+          "review": null
+        },
+        "07": {
+          "status": "WAITING",
+          "inputs": [],
+          "outputs": [],
+          "review": null
+        },
+        "08": {
+          "status": "WAITING",
+          "inputs": [],
+          "outputs": [],
+          "review": null
+        }
+      },
+      "history": [
+        {
+          "rollback_stage": "04",
+          "review": {
+            "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/review.fixture.json",
+            "sha256": "b85684c80eb22526915d5e0cb35e150ac2e630efb9253d35dd7ef475ea3806c1"
+          },
+          "previous_stages": {
+            "01": {
+              "status": "PASSED",
+              "inputs": [],
+              "outputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "review": null
+            },
+            "02": {
+              "status": "PASSED",
+              "inputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "outputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "review": null
+            },
+            "03": {
+              "status": "PASSED",
+              "inputs": [],
+              "outputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "review": null
+            },
+            "04": {
+              "status": "PASSED",
+              "inputs": [],
+              "outputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "review": null
+            },
+            "05": {
+              "status": "PASSED",
+              "inputs": [],
+              "outputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "review": null
+            },
+            "06": {
+              "status": "PASSED",
+              "inputs": [],
+              "outputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "review": null
+            },
+            "07": {
+              "status": "RELEASED",
+              "inputs": [
+                {
+                  "path": "/Volumes/EXTERNAL/自媒体/流程协作/门禁验证/fixture-input.txt",
+                  "sha256": "213db5202c8d4ca99171b95ea373fd022d515c157a93d899020d71f075401155"
+                }
+              ],
+              "outputs": [],
+              "review": null
+            },
+            "08": {
+              "status": "WAITING",
+              "inputs": [],
+              "outputs": [],
+              "review": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}
